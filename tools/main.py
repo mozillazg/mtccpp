@@ -130,6 +130,8 @@ def main():
             time.sleep(1)
         save_policy(client, p.PolicyId, options.policies_dir)
 
+    print('saved {} policies'.format(len(policies)))
+
 
 if __name__ == '__main__':
     main()
