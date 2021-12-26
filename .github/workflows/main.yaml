@@ -8,6 +8,8 @@ on:
     - master
 
   workflow_dispatch:
+  schedule:
+    - cron: "02 00 */1 * *"
 
 jobs:
   fetch-and-update:
@@ -37,3 +39,17 @@ jobs:
 
           git status
           git diff
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "mtccpp@noreply"
+          git config --local user.name "mtccpp-github-actions[bot]"
+          git add policies-list.json
+          git add policies/
+          git commit -m "Update detected " || :
+
+      - name: Push changes
+        uses: ad-m/github-push-action@8407731efefc0d8f72af254c74276b7a90be36e1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
