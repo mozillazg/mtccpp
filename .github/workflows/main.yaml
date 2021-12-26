@@ -1,4 +1,4 @@
-name: 'cronjob'
+name: 'fetch-and-update'
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  fetch:
+  fetch-and-update:
     name: 'fetch policies'
     runs-on: ubuntu-latest
     steps:
@@ -29,6 +29,9 @@ jobs:
           cd tools && pip install -r requirements.txt
 
       - name: Fetch policies
+        env:
+          TENCENT_SECRET_ID: ${{ secrets.TENCENT_SECRET_ID }}
+          TENCENT_SECRET_KEY: ${{ secrets.TENCENT_SECRET_KEY }}
         run: |
           python tools/main.py --endpoint cam.na-ashburn.tencentcloudapi.com
 
