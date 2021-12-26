@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "iotcloud:Publish",
+    "iotcloud:ListDevices",
+    "iotcloud:DeleteTopicPolicy"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

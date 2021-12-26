@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-03-04 15:48:14",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"sls:Get*\",\"sls:List*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudSLSReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

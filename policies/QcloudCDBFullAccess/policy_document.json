@@ -1,0 +1,53 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cdb:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "vpc:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cvm:*"
+   ],
+   "effect": "allow",
+   "resource": "qcs::cvm:::sg/*"
+  },
+  {
+   "action": [
+    "cos:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "monitor:*",
+    "cam:ListUsersForGroup",
+    "cam:ListGroups",
+    "cam:GetGroup"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "kms:CreateKey",
+    "kms:GenerateDataKey",
+    "kms:Decrypt",
+    "kms:ListKey"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

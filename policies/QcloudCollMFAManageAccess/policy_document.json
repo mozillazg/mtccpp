@@ -1,0 +1,32 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cam:UpdateSubAccountAttr",
+    "cam:GetSafeAuthFlagColl",
+    "cam:UnbindSubAccountToken",
+    "cam:UnbindSubAccountStoken",
+    "cam:BindToken",
+    "cam:GetMFADeviceColl",
+    "cam:SetSafeAuthFlag",
+    "cam:GetSubAccountBindInfo"
+   ],
+   "condition": {
+    "string_equal": {
+     "cam:user_id": "${uin}"
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cam:GetReceiverInfo",
+    "cam:GetCustomMfaCallback"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

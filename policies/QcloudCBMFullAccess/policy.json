@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-03-28 21:09:46",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cbm:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCBMFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

@@ -1,0 +1,23 @@
+{
+ "statement": [
+  {
+   "action": [
+    "taf:GetRushData",
+    "taf:QueryCallCount",
+    "taf:EnhanceTaDegree",
+    "taf:GetServiceList",
+    "taf:RecognizeCustomizedAudience",
+    "taf:RecognizePreciseTargetAudience",
+    "taf:RecognizeTargetAudience",
+    "taf:DetectAccountActivity",
+    "taf:DetectFraudKOL",
+    "taf:DetectFraudDownloadAndActivity",
+    "taf:DetectFraudExposureAndClick",
+    "taf:DetectFraudFlow"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

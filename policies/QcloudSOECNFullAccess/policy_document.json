@@ -1,0 +1,25 @@
+{
+ "statement": {
+  "action": [
+   "soe:StatisticsCN",
+   "soe:OverviewCN",
+   "soe:DescribeAppCN",
+   "soe:DescribeDeveloperCN",
+   "soe:DescribeBillsCN",
+   "soe:DescribePackagesCN",
+   "soe:DeleteDeveloperCN",
+   "soe:ModifyAppCN",
+   "soe:DeleteAppCN",
+   "soe:CreateAppCN",
+   "soe:CreateDeveloperCN",
+   "soe:ModifyDeveloperCN",
+   "soe:InitOralProcess",
+   "soe:ExtraOralProcess",
+   "soe:TransmitOralProcess",
+   "soe:TransmitOralProcessWithInit"
+  ],
+  "effect": "allow",
+  "resource": "*"
+ },
+ "version": "2.0"
+}

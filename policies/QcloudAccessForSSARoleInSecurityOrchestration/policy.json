@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-12-23 20:23:48",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cvm:AssociateSecurityGroups\",\"cvm:DisassociateSecurityGroups\",\"cvm:CreateSecurityGroup\",\"cvm:DeleteSecurityGroup\",\"cvm:CreateSecurityGroupPolicy\",\"waf:DescribeSpartaProtectionList\",\"waf:UpsertIpAccessControl\",\"waf:DeleteIpAccessControl\",\"waf:DescribeAttackLogCount\",\"waf:DescribeRequestCount\",\"waf:DescribeStatisticTypes\",\"cfw:DeleteAcRule\",\"cfw:CreateAcRules\",\"cfw:DescribeAcLists\",\"cwp:SeparateMalwares\",\"cwp:RecoverMalwares\",\"cwp:TrustMalwares\",\"cwp:UntrustMalwares\",\"waf:UpsertIpAccessControl\",\"waf:DeleteIpAccessControl\",\"waf:DescribeIpAccessControl\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForSSARoleInSecurityOrchestration",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-10-20 09:45:42"
+}

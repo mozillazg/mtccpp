@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "kms:CreateKey",
+    "kms:ListKeyDetail",
+    "kms:GenerateDataKey",
+    "kms:Decrypt",
+    "cls:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

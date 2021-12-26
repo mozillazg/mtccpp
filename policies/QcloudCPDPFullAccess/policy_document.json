@@ -1,0 +1,10 @@
+{
+ "statement": [
+  {
+   "action": "cpdp:*",
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

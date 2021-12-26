@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tms:Describe*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

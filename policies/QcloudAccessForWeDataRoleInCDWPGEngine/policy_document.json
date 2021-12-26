@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cdwpg:DescribeClusters"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

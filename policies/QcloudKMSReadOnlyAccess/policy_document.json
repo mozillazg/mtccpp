@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "kms:List*",
+    "kms:Get*",
+    "kms:Describe*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

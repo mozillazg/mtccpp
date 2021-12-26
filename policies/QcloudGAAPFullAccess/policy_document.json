@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "gaap:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

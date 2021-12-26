@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-04-03 19:42:04",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"ctsdb:DescribeInstancesForIoT\",\"ctsdb:DescribeInstances\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudCTSDBAccessForIOTRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:42:07"
+}

@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:DescribeSecurityGroup*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

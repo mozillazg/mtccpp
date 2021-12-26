@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-12-11 14:21:43",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"dlc:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudDLCFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-09-22 16:37:49"
+}

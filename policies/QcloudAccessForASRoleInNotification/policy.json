@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-11-30 10:17:23",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"resource\":[\"*\"],\"action\":[\"tdmq:PublishCmqMsg\",\"tdmq:SendCmqMsg\",\"tdmq:DescribeCmqSubscriptionDetail\",\"tdmq:DescribeCmqTopics\",\"tdmq:DescribeCmqQueues\"]}]}",
+ "PolicyName": "QcloudAccessForASRoleInNotification",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-11-30 10:17:23"
+}

@@ -1,0 +1,29 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:Describe*",
+    "cvm:Inquiry*"
+   ],
+   "effect": "allow",
+   "resource": [
+    "qcs::cvm:::snapshot/*",
+    "qcs::cvm:::volume/*",
+    "qcs::cvm:::image/*",
+    "qcs::cvm:::eip/*"
+   ]
+  },
+  {
+   "action": [
+    "vpc:Describe*",
+    "vpc:Inquiry*",
+    "vpc:Get*"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

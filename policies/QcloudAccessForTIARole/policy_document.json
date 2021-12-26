@@ -1,0 +1,34 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:searchLog",
+    "ccs:DescribeCluster",
+    "scf:CreateFunction",
+    "scf:ListFunctions",
+    "scf:GetFunction",
+    "scf:DeleteFunction",
+    "cos:AbortMultipartUpload",
+    "cos:CompleteMultipartUpload",
+    "cos:DeleteMultipleObjects",
+    "cos:DeleteObject",
+    "cos:GetBucket",
+    "cos:GetObject",
+    "cos:GetObjectACL",
+    "cos:HeadObject",
+    "cos:HeadBucket",
+    "cos:OptionsObject",
+    "cos:ListParts",
+    "cos:PostObject",
+    "cos:PutBucket",
+    "cos:PutObjectCopy",
+    "cos:PutObjectACL",
+    "cos:UploadPartCopy",
+    "cos:UploadPart"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

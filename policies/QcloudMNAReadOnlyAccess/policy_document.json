@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "mna:Get*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

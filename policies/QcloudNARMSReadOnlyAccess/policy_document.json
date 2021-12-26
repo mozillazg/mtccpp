@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "narms:*"
+   ],
+   "effect": "allow",
+   "resource": "qcs::narms:::normal/read"
+  }
+ ],
+ "version": "2.0"
+}

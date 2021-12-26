@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "smpn:DescribeSmpnMrl",
+    "smpn:DescribeSmpnChp",
+    "smpn:DescribeSmpnMhm",
+    "smpn:DescribeSmpnFnr"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

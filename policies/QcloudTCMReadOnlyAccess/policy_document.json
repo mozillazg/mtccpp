@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcm:List*",
+    "tcm:Describe*",
+    "tcm:ForwardRequestRead"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

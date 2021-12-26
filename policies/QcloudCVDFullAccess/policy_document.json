@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvd:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

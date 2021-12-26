@@ -1,0 +1,35 @@
+{
+ "statement": [
+  {
+   "action": [
+    "waf:WafGet*",
+    "waf:WAFGetUserInfo",
+    "waf:WafDownloadAlerts",
+    "waf:WafPackagePrice",
+    "waf:WafAreaBanGetAreas",
+    "waf:WafFreqGetRuleList",
+    "waf:WafAntiFakeGetUrl",
+    "waf:WafInterface",
+    "waf:WafClsOverview",
+    "waf:QueryFlows",
+    "waf:WafDownloadRecords",
+    "waf:WafDownloadlogs",
+    "waf:WafSearchLogs",
+    "waf:WafDNSdetectGet*",
+    "waf:BotGet*",
+    "waf:Get*",
+    "waf:Search*",
+    "waf:BotV2Get*",
+    "wss:CertGetList",
+    "waf:Describe*",
+    "tag:DescribeResourceTagsByResourceIds",
+    "ssl:DescribeCertificates",
+    "clb:DescribeLoadBalancers",
+    "clb:DescribeListeners"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

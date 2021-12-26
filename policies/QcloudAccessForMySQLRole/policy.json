@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-11-15 11:51:24",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"kms:CreateKey\",\"kms:GenerateDataKey\",\"kms:Decrypt\",\"kms:ListKey\",\"kms:ListKeyDetail\",\"kms:ListKeys\",\"kms:BindCloudResource\",\"kms:UnbindCloudResource\"],\"resource\":[\"*\"]}]}",
+ "PolicyName": "QcloudAccessForMySQLRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

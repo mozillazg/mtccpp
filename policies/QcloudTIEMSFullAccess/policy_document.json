@@ -1,0 +1,21 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tiems:*",
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies",
+    "monitor:GetMonitorData",
+    "monitor:DescribeBasicAlarmList",
+    "monitor:DescribeBaseMetrics",
+    "monitor:DescribeSortObjectList",
+    "monitor:DescribePolicyConditionList",
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeSubnetEx"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

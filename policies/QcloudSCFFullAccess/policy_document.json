@@ -1,0 +1,41 @@
+{
+ "statement": [
+  {
+   "action": [
+    "scf:*",
+    "tag:*",
+    "cam:DescribeRoleList",
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies",
+    "apigw:DescribeServicesStatus",
+    "apigw:DescribeService",
+    "apigw:DescribeApisStatus",
+    "cmqtopic:ListTopicDetail",
+    "cmqqueue:ListQueueDetail",
+    "cmqtopic:GetSubscriptionAttributes",
+    "cmqtopic:GetTopicAttributes",
+    "cos:GetService",
+    "cos:HeadBucket",
+    "cos:HeadObject",
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeSubnetEx",
+    "cls:getTopic",
+    "cls:getLogset",
+    "cls:listLogset",
+    "cls:listTopic",
+    "ckafka:List*",
+    "ckafka:Describe*",
+    "ckafka:ListInstance",
+    "monitor:GetMonitorData",
+    "monitor:DescribeBasicAlarmList",
+    "monitor:DescribeBaseMetrics",
+    "monitor:DescribeSortObjectList",
+    "monitor:DescribePolicyConditionList",
+    "cdb:DescribeDBInstances"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

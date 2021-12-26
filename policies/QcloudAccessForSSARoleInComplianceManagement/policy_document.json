@@ -1,0 +1,43 @@
+{
+ "statement": [
+  {
+   "action": [
+    "wss:CertGetList",
+    "cdb:DescribeDBInstances",
+    "cdb:DescribeDBSecurityGroups",
+    "cdb:DescribeBackups",
+    "mariadb:DescribeDBInstances",
+    "mariadb:DescribeDBLogFiles",
+    "cvm:DescribeInstances",
+    "cvm:DescribeSecurityGroups",
+    "cvm:DescribeSecurityGroupPolicys",
+    "cvm:DescribeCbsStorages",
+    "cvm:DescribeCbsAssociatedAsp",
+    "redis:DescribeInstances",
+    "redis:DescribeInstanceSecurityGroup",
+    "redis:DescribeInstanceBackups",
+    "clb:DescribeTargetHealth",
+    "clb:DescribeClassicalLBListeners",
+    "clb:DescribeClassicalLBHealthStatus",
+    "clb:DescribeLoadBalancers",
+    "clb:DescribeListeners",
+    "cos:GetService",
+    "cos:GetBucketReplication",
+    "cos:GetBucketVersioning",
+    "cos:GetBucketACL",
+    "cos:GetBucketPolicy",
+    "cos:GetBucketLogging",
+    "cos:GetBucketReferer",
+    "cos:GetBucketEncryption",
+    "vpc:DescribeAddressTemplateGroups",
+    "vpc:DescribeAddressTemplates",
+    "mongodb:DescribeDBInstances",
+    "mongodb:DescribeDBBackups",
+    "tcr:DescribeRepositoryOwnerPersonal"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

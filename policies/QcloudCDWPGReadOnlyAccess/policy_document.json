@@ -1,0 +1,28 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cdwpg:Describe*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "vpc:Describe*",
+    "vpc:Inquiry*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "monitor:Get*",
+    "monitor:Describe*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

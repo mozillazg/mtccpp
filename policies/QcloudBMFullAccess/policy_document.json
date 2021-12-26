@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "bm:*",
+    "bmeip:*",
+    "bmlb:*",
+    "bmvpc:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

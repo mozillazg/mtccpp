@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-05-30 10:30:47",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"ckafka:ListInstance\",\"ckafka:ListTopic\",\"ckafka:AddRoute\",\"ckafka:ListRoute\",\"ckafka:DeleteRoute\",\"cos:GetService\",\"cos:GetBucket\",\"cos:GetObject\",\"cos:HeadBucket\",\"cos:HeadObject\",\"cos:OptionsObject\",\"cos:PutObject\",\"cos:PutObjectCopy\",\"cos:DeleteObject\",\"cos:InitiateMultipartUpload\",\"cos:ListMultipartUploads\",\"cos:ListParts\",\"cos:UploadPart\",\"cos:CompleteMultipartUpload\",\"cos:AbortMultipartUpload\",\"cos:GetService\",\"cdwpg:CreateVpcLink\",\"cdwpg:DescribeVpcLinks\",\"cdwpg:DeleteVpcLink\",\"cdwpg:DescribeClusters\",\"cdwpg:DescribeClusterStatus\",\"vpc:DescribeRouteTable\",\"vpc:DescribeVpcEx\",\"vpc:DescribeSubnetEx\",\"vpc:DescribeNetworkAcl\",\"vpc:ModifyNetworkAclEntry\",\"vpc:DescribeNetworkAcl\",\"cvm:DescribeSecurityGroupPolicys\",\"cvm:CreateSecurityGroupPolicy\",\"cvm:CreateSecurityGroup\",\"cvm:DeleteSecurityGroup\",\"cls:listTopic\",\"cls:getTopic\",\"cls:createTopic\",\"cls:modifyTopic\",\"cls:listLogset\",\"cls:getLogset\",\"cls:createLogset\",\"cls:modifyLogset\",\"cls:listMachineGroup\",\"cls:getMachineGroup\",\"cls:createMachineGroup\",\"cls:modifyMachineGroup\",\"cls:deleteMachineGroup\",\"cls:getMachineStatus\",\"cls:pushLog\",\"cls:searchLog\",\"cls:downloadLog\",\"cls:getCursor\",\"cls:getIndex\",\"cls:modifyIndex\",\"cls:agentHeartBeat\",\"cls:getConfig\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForOceanusRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-12-13 09:57:43"
+}

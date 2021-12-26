@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "eiam:Describe*",
+    "eiam:List*",
+    "eiam:Load*",
+    "eiam:Query*",
+    "eiam:Check*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

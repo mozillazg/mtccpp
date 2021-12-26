@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-09-11 17:17:15",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"name\\/cam:ListPolicies\",\"name\\/cam:AttachRolePolicy\",\"name\\/cam:CreateRole\",\"name\\/cam:DeleteRole\",\"name\\/cam:DetachRolePolicy\",\"name\\/cam:GetRole\",\"name\\/cam:DescribeRoleList\",\"name\\/cam:UpdateAssumeRolePolicy\",\"name\\/cam:UpdateRoleDescription\",\"name\\/cam:UpdateRoleConsoleLogin\",\"name\\/cam:ListAttachedRolePolicies\",\"name\\/cam:PassRole\",\"name\\/cam:LogoutRoleSessions\",\"name\\/cam:UpdatePolicy\",\"name\\/cam:AttachRolePolicies\"],\"resource\":[\"*\"]}]}",
+ "PolicyName": "QcloudCamRoleFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

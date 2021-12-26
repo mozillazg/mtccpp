@@ -1,0 +1,9 @@
+{
+ "AddTime": "2017-10-23 14:28:30",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"httpdns:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudHTTPDNSFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

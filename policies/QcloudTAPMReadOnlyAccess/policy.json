@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-01-26 12:23:22",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tapm:Describe*\",\"tapm:Check*\",\"tapm:Validate*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudTAPMReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-01-26 12:23:22"
+}

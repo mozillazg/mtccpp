@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "afc:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

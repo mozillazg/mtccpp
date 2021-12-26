@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-02-01 17:54:48",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvm:DescribeInstances\",\"monitor:GetMonitorData\",\"cvm:InquiryPriceResetInstancesType\",\"cvm:InquiryPriceRunInstances\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCVMAccessForICMRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:42:07"
+}

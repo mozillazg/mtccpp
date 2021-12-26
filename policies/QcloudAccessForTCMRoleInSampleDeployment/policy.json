@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-09-22 15:08:41",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"resource\":[\"*\"],\"action\":[\"name\\/vpc:CreateSubnet\",\"name\\/vpc:CreateVpc\",\"name\\/vpc:DeleteVpc\",\"name\\/vpc:DescribeVpcEx\",\"name\\/vpc:DescribeSubnetEx\",\"name\\/vpc:CreateCcn\",\"name\\/vpc:DescribeCcns\",\"name\\/vpc:AttachCcnInstances\",\"name\\/vpc:DeleteCcn\",\"name\\/vpc:DescribeCcnAttachedInstances\",\"name\\/tke:DeleteClusterEndpoint\",\"name\\/tke:CreateCluster\",\"name\\/tke:DescribeClusters\",\"name\\/tke:DeleteCluster\",\"name\\/tke:CreateClusterEndpointVip\",\"name\\/tke:DescribeClusterEndpointVipStatus\",\"name\\/tke:DeleteClusterEndpointVip\",\"name\\/cvm:DescribeSecurityGroups\",\"name\\/cvm:ModifySecurityGroupPolicys\",\"name\\/cvm:DescribeImages\",\"name\\/cvm:RunInstances\",\"name\\/cvm:DescribeInstances\",\"name\\/cvm:DeleteSecurityGroup\",\"name\\/cvm:CreateSecurityGroup\"]},{\"effect\":\"allow\",\"resource\":[\"qcs::cvm:::*\"],\"action\":[\"finance:*\"]}]}",
+ "PolicyName": "QcloudAccessForTCMRoleInSampleDeployment",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

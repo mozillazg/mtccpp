@@ -1,0 +1,19 @@
+{
+ "statement": {
+  "action": [
+   "hcm:AdminAuthority",
+   "hcm:Authority",
+   "hcm:Statistics",
+   "hcm:Overview",
+   "hcm:DescribeApp",
+   "hcm:DescribeDeveloper",
+   "hcm:DescribeBills",
+   "hcm:DescribePackages",
+   "hcm:DescribeTask",
+   "hcm:Evaluation"
+  ],
+  "effect": "allow",
+  "resource": "*"
+ },
+ "version": "2.0"
+}

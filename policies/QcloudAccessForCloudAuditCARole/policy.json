@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-05-06 11:25:55",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cmqqueue:CreateQueue\",\"cmqqueue:ListQueue\",\"cmqqueue:SendMessage\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForCloudAuditCARole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

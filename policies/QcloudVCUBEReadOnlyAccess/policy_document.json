@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "vcube:DescribePackage",
+    "vcube:DescribeVcubeApplicationAndLicense",
+    "vcube:DescribeTrialFeature"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

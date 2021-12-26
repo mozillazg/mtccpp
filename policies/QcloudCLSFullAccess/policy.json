@@ -1,0 +1,9 @@
+{
+ "AddTime": "2017-10-24 21:26:18",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cls:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"effect\":\"allow\",\"action\":[\"monitor:Get*\",\"monitor:Describe*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\",\"cam:ListAttachedRolePolicies\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudCLSFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-04-12 20:11:09"
+}

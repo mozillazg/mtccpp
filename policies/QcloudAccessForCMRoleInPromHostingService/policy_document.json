@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tke:DescribeClusters",
+    "tke:DescribeClusterSecurity",
+    "tke:DescribeClusterEndpointStatus"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

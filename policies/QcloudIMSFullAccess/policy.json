@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-02-01 22:01:11",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"ims:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudIMSFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-02-01 22:07:16"
+}

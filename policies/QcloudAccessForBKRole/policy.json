@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-04-26 18:28:52",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvm:DescribeInstances\",\"cvm:ResetInstance\",\"cvm:RebootInstances\",\"cdb:DescribeDBInstances\",\"vpc:DescribeVpcEx\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessForBKRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

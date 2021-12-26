@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-10-09 12:09:17",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cos:PutBucket*\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudCOSBucketConfigWrite",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

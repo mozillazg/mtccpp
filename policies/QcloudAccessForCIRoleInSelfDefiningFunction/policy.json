@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-07-28 15:55:54",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"scf:GetFunctionEventInvokeConfig\",\"scf:InvokeFunction\",\"scf:UpdateFunctionEventInvokeConfig\",\"scf:CopyFunction\",\"scf:GetAccount\",\"scf:GetAccountSettings\",\"scf:GetAlias\",\"scf:GetAsyncEventOverview\",\"scf:GetDebuggingInfo\",\"scf:GetDemoAddress\",\"scf:GetDemoDetail\",\"scf:GetFunction\",\"scf:GetFunctionAddress\",\"scf:GetFunctionEventInvokeConfig\",\"scf:GetFunctionLogs\",\"scf:GetFunctionSAM\",\"scf:GetFunctionUsageTriggerCount\",\"scf:GetLayerVersion\",\"scf:GetProvisionedConcurrencyConfig\",\"scf:GetReservedConcurrencyConfig\",\"scf:ListAliases\",\"scf:ListAsyncEvents\",\"scf:ListFunctionTestModels\",\"scf:ListFunctions\",\"scf:ListNamespaces\",\"scf:ListVersion\",\"scf:ListVersionByFunction\",\"scf:TerminateAsyncEvent\",\"cls:searchLog\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessForCIRoleInSelfDefiningFunction",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

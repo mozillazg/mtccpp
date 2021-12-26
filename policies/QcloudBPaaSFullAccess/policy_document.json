@@ -1,0 +1,23 @@
+{
+ "statement": [
+  {
+   "action": [
+    "bpaas:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies",
+    "cam:GetUser",
+    "cam:ListSubAccounts",
+    "cam:ListGroups"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

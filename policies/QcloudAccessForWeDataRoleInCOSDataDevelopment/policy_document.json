@@ -1,0 +1,37 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cos:GetService",
+    "cos:GetBucket",
+    "cos:ListMultipartUploads",
+    "cos:HeadObject",
+    "cos:OptionsObject",
+    "cos:ListParts",
+    "cos:DeleteObject",
+    "cos:PostObject",
+    "cos:InitiateMultipartUpload",
+    "cos:UploadPart",
+    "cos:UploadPartCopy",
+    "cos:CompleteMultipartUpload",
+    "cos:AbortMultipartUpload",
+    "cos:AppendObject",
+    "cos:HeadBucket",
+    "cos:GetObject",
+    "cos:GetObjectACL",
+    "cos:GetObjectTagging",
+    "cos:GetObjectVersionAcl",
+    "cos:PutObject",
+    "cos:PutObjectACL",
+    "cos:PutObjectCopy",
+    "cos:PutObjectTagging",
+    "cos:PutObjectVersionAcl"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

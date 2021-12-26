@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cmqqueue:CreateQueue",
+    "cmqqueue:ListQueue",
+    "cmqqueue:SendMessage"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

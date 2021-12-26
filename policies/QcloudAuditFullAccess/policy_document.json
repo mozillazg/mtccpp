@@ -1,0 +1,29 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cloudaudit:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies",
+    "cam:ListSubAccounts",
+    "cam:DescribeRoleList",
+    "cam:DescribeSubAccounts",
+    "cls:CreateLogset",
+    "cls:CreateTopic",
+    "cls:DescribeLogsets",
+    "cls:DescribeTopics",
+    "cos:PutBucket",
+    "cos:GetService"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

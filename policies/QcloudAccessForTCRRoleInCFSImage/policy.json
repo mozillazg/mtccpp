@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-01-20 16:12:41",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cfs:DescribeCfsFileSystemClients\",\"cfs:DescribeCfsFileSystems\",\"cfs:CreateCfsFileSystem\",\"cfs:AddMountTarget\",\"cfs:DeleteMountTarget\",\"cfs:DeleteCfsFileSystem\",\"cfs:DescribeMountTargets\"],\"resource\":[\"*\"]}]}",
+ "PolicyName": "QcloudAccessForTCRRoleInCFSImage",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

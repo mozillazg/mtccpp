@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cdb:DescribeDBInstances",
+    "cdb:DescribeTables",
+    "cdb:DescribeDatabases",
+    "cdb:DescribeDBRoutes"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

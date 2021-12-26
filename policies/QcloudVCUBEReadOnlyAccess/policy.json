@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-08-04 18:35:47",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"vcube:DescribePackage\",\"vcube:DescribeVcubeApplicationAndLicense\",\"vcube:DescribeTrialFeature\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudVCUBEReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-04 18:35:47"
+}

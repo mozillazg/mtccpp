@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-08-13 10:53:49",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tdid:Get*\",\"tdid:Check*\",\"tdid:Down*\",\"tdid:Query*\",\"tdid:Verify*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudTDIDReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-13 10:53:49"
+}

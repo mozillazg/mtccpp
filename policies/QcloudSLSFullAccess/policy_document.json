@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "sls:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,38 @@
+{
+ "statement": [
+  {
+   "action": [
+    "vpc:DescribeSubnetEx",
+    "cls:CreateLogset",
+    "cls:DescribeLogsets",
+    "cls:CreateTopic",
+    "cls:ModifyTopic",
+    "cls:DescribeTopics",
+    "cls:CreateMachineGroup",
+    "cls:DescribeMachineGroups",
+    "cls:DescribeMachines",
+    "cls:ModifyMachineGroup",
+    "cls:DescribeIndex",
+    "cls:ModifyIndex",
+    "cls:CreateIndex",
+    "cls:CreateConfig",
+    "cls:DescribeMachineGroupConfigs",
+    "cls:ModifyConfig",
+    "cls:DescribeConfigs",
+    "cls:DescribeConfigMachineGroups",
+    "cls:ApplyConfigToMachineGroup",
+    "cls:DeleteConfig",
+    "cls:DeleteMachineGroup",
+    "cls:DescribeAgentConfigs",
+    "cls:pushLog",
+    "cls:agentHeartBeat",
+    "cls:getConfig"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

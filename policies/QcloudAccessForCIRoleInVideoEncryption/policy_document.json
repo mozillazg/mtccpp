@@ -1,0 +1,20 @@
+{
+ "statement": [
+  {
+   "action": [
+    "kms:Decrypt",
+    "kms:Encrypt",
+    "kms:GenerateDataKey",
+    "kms:CreateKey",
+    "kms:BindCloudResource",
+    "kms:UnbindCloudResource",
+    "kms:ListKeyDetail"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

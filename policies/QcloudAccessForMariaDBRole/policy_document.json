@@ -1,0 +1,23 @@
+{
+ "statement": [
+  {
+   "action": [
+    "kms:GetKeyRotationStatus",
+    "kms:ReEncrypt",
+    "kms:Decrypt",
+    "kms:CreateKey",
+    "kms:DescribeKey",
+    "kms:EnableKeyRotation",
+    "kms:GenerateDataKey",
+    "kms:Encrypt",
+    "kms:UpdateAlias",
+    "kms:EnableKey",
+    "kms:ListKeyDetail",
+    "kms:DisableKey"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

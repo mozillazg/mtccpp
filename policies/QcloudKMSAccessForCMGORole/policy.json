@@ -1,0 +1,9 @@
+{
+ "AddTime": "2017-11-29 15:55:35",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"kms:CreateKey\",\"kms:GenerateDataKey\",\"kms:Decrypt\",\"kms:ListKey\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudKMSAccessForCMGORole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:42:07"
+}

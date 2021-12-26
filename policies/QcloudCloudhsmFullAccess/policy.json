@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-02-20 10:24:08",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cloudhsm:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"effect\":\"allow\",\"action\":\"monitor:*\",\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudCloudhsmFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

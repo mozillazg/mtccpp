@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cam:AddConsoleUser",
+    "cam:AddUser",
+    "cam:GetUser",
+    "cam:UpdateUser",
+    "cam:ListUsers",
+    "cam:DeleteUser"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

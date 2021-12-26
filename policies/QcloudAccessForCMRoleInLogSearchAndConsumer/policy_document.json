@@ -1,0 +1,27 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:listLogset",
+    "cls:listTopic",
+    "cls:getTopic",
+    "cls:getIndex",
+    "cls:searchLog",
+    "cls:createConsumerGroup",
+    "cls:consumerGroupHeartBeat",
+    "cls:deleteConsumerGroup",
+    "cls:getConsumerGroupCursor",
+    "cls:listConsumerGroup",
+    "cls:modifyConsumerGroup",
+    "cls:modifyConsumerGroupCursor",
+    "cls:downloadLog",
+    "cls:getCursor",
+    "cls:pullLogs",
+    "cls:listPartitions"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

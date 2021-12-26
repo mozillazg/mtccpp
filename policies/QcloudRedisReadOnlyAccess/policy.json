@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-04-19 15:48:17",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"redis:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"redis:Get*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"redis:Inquiry*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"effect\":\"allow\",\"action\":[\"monitor:Describe*\",\"monitor:Get*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudRedisReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

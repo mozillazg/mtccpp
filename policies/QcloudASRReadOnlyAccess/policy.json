@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-08-29 16:17:57",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"asr:Describe*\",\"asr:Get*\",\"asr:Download*\",\"asr:FlashRecognition\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudASRReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-12-30 20:03:12"
+}

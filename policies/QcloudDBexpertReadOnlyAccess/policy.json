@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-09-23 17:43:25",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"dbexpert:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudDBexpertReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-09-23 17:43:25"
+}

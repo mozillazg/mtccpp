@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "vod:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": "cos:*",
+   "effect": "allow",
+   "resource": "qcs::cos::uid/10022853:*"
+  }
+ ],
+ "version": "2.0"
+}

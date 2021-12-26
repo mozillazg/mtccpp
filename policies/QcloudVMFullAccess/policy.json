@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-01-25 11:43:48",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"vm:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudVMFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-01-25 11:43:48"
+}

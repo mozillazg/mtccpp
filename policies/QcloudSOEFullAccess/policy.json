@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-05-19 10:48:59",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"soe:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudSOEFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-05-19 10:48:59"
+}

@@ -1,0 +1,30 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvd:DescribeDepartments",
+    "cvd:DescribeImages",
+    "cvd:DescribeInstanceRegionDistribution",
+    "cvd:DescribeInstances",
+    "cvd:DescribeInstancesBindStatus",
+    "cvd:DescribeInstancesStatus",
+    "cvd:DescribeLoginURL",
+    "cvd:DescribePolicyDetail",
+    "cvd:DescribeUsers",
+    "cvd:DescribeUsersDetail",
+    "cvd:DescribeUserResource",
+    "cvd:DescribeFetchMsg",
+    "cvd:DescribeLoginMsg",
+    "cvd:DescribeSnapshots",
+    "cvd:DescribeOverview",
+    "cvd:CheckForUpdate",
+    "cvd:DescribeInvocations",
+    "cvd:DescribeInvocationDetail",
+    "cvd:DescribeSessions"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

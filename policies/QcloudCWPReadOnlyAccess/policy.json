@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-01-28 20:32:55",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cwp:Describe*\",\"cwp:Export*\",\"cwp:Check*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCWPReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-04 14:49:44"
+}

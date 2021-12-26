@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "dasb:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

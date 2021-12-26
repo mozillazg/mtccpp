@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-07-29 19:34:07",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"iotexplorer:Describe*\",\"iotexplorer:Get*\",\"iotexplorer:SearchStudioProduct\",\"iotexplorer:SubscribeDebugOnlineLog\",\"iotexplorer:ListEventHistory\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudIotExplorerReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

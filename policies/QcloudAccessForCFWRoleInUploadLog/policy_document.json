@@ -1,0 +1,28 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cos:GetService",
+    "cos:PutBucket",
+    "cos:GetBucket",
+    "cos:HeadBucket",
+    "cos:DeleteBucket",
+    "cos:PutObject",
+    "cos:PutObjectCopy",
+    "cos:HeadObject",
+    "cos:DeleteObject",
+    "cos:DeleteMultipleObjects",
+    "cos:InitiateMultipartUpload",
+    "cos:UploadPart",
+    "cos:UploadPartCopy",
+    "cos:CompleteMultipartUpload",
+    "cos:AbortMultipartUpload",
+    "cos:ListMultipartUploads",
+    "cos:ListParts"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

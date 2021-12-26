@@ -1,0 +1,22 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:DescribeInstances",
+    "cvm:DescribeImages",
+    "cvm:CreateImage",
+    "cvm:DeleteImages",
+    "cvm:ResetInstance",
+    "cvm:StopInstances",
+    "cvm:StartInstances",
+    "cvm:ModifyImageSharePermission",
+    "cvm:DescribeImageSharePermission",
+    "cvm:CreateSnapshot",
+    "cvm:RunInstances"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

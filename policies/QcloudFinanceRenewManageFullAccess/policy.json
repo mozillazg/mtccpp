@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-08-10 16:31:34",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"finance:QueryPreResourceCntManager\",\"finance:QueryPreResourcesByCondManager\",\"finance:SetRenewFlagManager\",\"finance:ModifyRenewNoticeSetting\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudFinanceRenewManageFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-10 16:31:34"
+}

@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-09-27 16:32:21",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"resource\":[\"*\"],\"action\":[\"kms:CreateKey\",\"kms:Decrypt\",\"kms:Encrypt\",\"kms:GenerateDataKey\",\"kms:ListKeyDetail\",\"kms:BindCloudResource\",\"kms:UnbindCloudResource\"]}]}",
+ "PolicyName": "QcloudKMSAccessForCASBRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-03-23 19:25:45"
+}

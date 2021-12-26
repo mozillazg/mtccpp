@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cam:UpdateSubAccountAttr",
+    "cam:SetSafeAuthFlag",
+    "cam:UnbindToken",
+    "cam:BindToken"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

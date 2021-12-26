@@ -1,0 +1,27 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:RunInstances",
+    "cvm:TerminateInstances",
+    "cvm:StopInstances",
+    "cvm:Describe*",
+    "cvm:Inquiry*",
+    "clb:*",
+    "monitor:*",
+    "vpc:Describe*",
+    "cmqtopic:GetTopicAttributes",
+    "cmqtopic:PublishMessage",
+    "cmqtopic:BatchPublishMessage",
+    "cmqtopic:ListTopic",
+    "cmqqueue:GetQueueAttributes",
+    "cmqqueue:SendMessage",
+    "cmqqueue:BatchSendMessage",
+    "cmqqueue:ListQueue"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

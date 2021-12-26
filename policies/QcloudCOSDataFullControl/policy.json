@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-10-09 11:58:10",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cos:GetService\",\"cos:GetBucket\",\"cos:ListMultipartUploads\",\"cos:GetObject*\",\"cos:HeadObject\",\"cos:GetBucketObjectVersions\",\"cos:OptionsObject\",\"cos:ListParts\",\"cos:DeleteObject\",\"cos:PostObject\",\"cos:PostObjectRestore\",\"cos:PutObject*\",\"cos:InitiateMultipartUpload\",\"cos:UploadPart\",\"cos:UploadPartCopy\",\"cos:CompleteMultipartUpload\",\"cos:AbortMultipartUpload\",\"cos:DeleteMultipleObjects\",\"cos:AppendObject\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudCOSDataFullControl",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-10-26 11:06:34"
+}

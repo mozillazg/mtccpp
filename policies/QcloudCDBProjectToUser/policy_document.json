@@ -1,0 +1,40 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cdb:BalanceRoGroupLoad",
+    "cdb:CancelBatchOperation",
+    "cdb:CreateBatchJobFiles",
+    "cdb:CreateDBInstance",
+    "cdb:CreateDBInstanceHour",
+    "cdb:CreateMonitorTemplate",
+    "cdb:CreateParamTemplate",
+    "cdb:DeleteBatchJobFiles",
+    "cdb:DeleteMonitorTemplate",
+    "cdb:DeleteParamTemplate",
+    "cdb:DescribeBatchJobFileContent",
+    "cdb:DescribeBatchJobFiles",
+    "cdb:DescribeBatchJobInfo",
+    "cdb:DescribeProjectSecurityGroups",
+    "cdb:DescribeDefaultParams",
+    "cdb:DescribeMonitorTemplate",
+    "cdb:DescribeParamTemplateInfo",
+    "cdb:DescribeParamTemplates",
+    "cdb:DescribeRequestResult",
+    "cdb:DescribeRoGroupInfo",
+    "cdb:DescribeRoMinScale",
+    "cdb:DescribeTasks",
+    "cdb:DescribeUploadedFiles",
+    "cdb:ModifyMonitorTemplate",
+    "cdb:ModifyParamTemplate",
+    "cdb:ModifyRoGroupInfo",
+    "cdb:ModifyRoGroupVipVport",
+    "cdb:StopDBImportJob",
+    "cdb:UploadSqlFiles"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

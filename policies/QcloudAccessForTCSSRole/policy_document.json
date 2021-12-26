@@ -1,0 +1,24 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcr:DescribeInstances",
+    "tcr:DescribeInstanceStatus",
+    "tcr:DescribeNamespaces",
+    "tcr:DescribeRepositories",
+    "tcr:DescribeRepositoryOwnerPersonal",
+    "tcr:CreateInstanceToken",
+    "tke:DescribeClusters",
+    "tke:DescribeClusterInstances",
+    "cvm:DescribeInstances",
+    "tcr:PullRepositoryPersonal",
+    "tcr:PullRepository"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

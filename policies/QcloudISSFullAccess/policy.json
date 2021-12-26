@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-12-08 16:45:43",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"iss:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudISSFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-12-08 16:45:43"
+}

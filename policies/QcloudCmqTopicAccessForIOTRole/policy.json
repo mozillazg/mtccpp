@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-03-02 17:51:26",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cmqtopic:CreateTopic\",\"cmqtopic:SetTopicAttributes\",\"cmqtopic:ListTopic\",\"cmqtopic:DeleteTopic\",\"cmqtopic:PublishMessage\",\"cmqtopic:BatchPublishMessage\",\"cmqtopic:GetTopicAttributes\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudCmqTopicAccessForIOTRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:42:07"
+}

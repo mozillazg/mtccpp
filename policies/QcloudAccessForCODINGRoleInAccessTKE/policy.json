@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-12-27 16:44:33",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"ccs:DescribeCluster\",\"ccs:DescribeClusterSecurityInfo\",\"ccs:CreateClusterEndpoint\",\"ccs:CreateClusterEndpointVip\",\"ccs:ModifyClusterEndpointSP\",\"ccs:DescribeClusterEndpointVipStatus\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessForCODINGRoleInAccessTKE",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

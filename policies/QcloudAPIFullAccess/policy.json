@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-11-16 15:33:50",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"api:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAPIFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-11-16 15:33:50"
+}

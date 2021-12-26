@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "iotcloud:Get*",
+    "iotcloud:List*",
+    "iotcloud:Describe*",
+    "iotcloud:Search*",
+    "iotcloud:Check*",
+    "iotcloud:UserEnterIoTHub"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

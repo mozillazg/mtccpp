@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "eis:List*",
+    "eis:Describe*",
+    "eis:Check*",
+    "eis:SearchLog",
+    "eis:PullLog",
+    "eis:TestConnection",
+    "eis:Get*",
+    "eis:DownloadMessage"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

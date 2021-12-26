@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:*",
+    "tcb:*",
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeSubnetEx"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "sqlserver:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

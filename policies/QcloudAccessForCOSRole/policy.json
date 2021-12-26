@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-06-25 10:24:22",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"kms:CreateKey\",\"kms:ListKeyDetail\",\"kms:GenerateDataKey\",\"kms:Decrypt\",\"cls:*\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForCOSRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

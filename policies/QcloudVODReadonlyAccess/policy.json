@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-07-16 20:34:24",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"vod:Describe*\",\"vod:GetTaskInfo\",\"vod:GetVideoInfo\",\"vod:ReadOldAction\",\"vod:SearchMedia\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudVODReadonlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

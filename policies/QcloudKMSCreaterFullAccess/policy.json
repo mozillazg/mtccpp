@@ -1,0 +1,9 @@
+{
+ "AddTime": "2017-06-23 15:54:35",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"kms:*\",\"resource\":\"qcs::kms:::key\\/creatorUin\\/${uin}\\/*\"},{\"effect\":\"allow\",\"action\":[\"kms:DescribeWhiteBoxServiceStatus\",\"kms:GetRegions\",\"kms:ListAlgorithms\",\"kms:GetServiceStatus\",\"kms:CreateKey\",\"kms:CreateWhiteBoxKey\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudKMSCreaterFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

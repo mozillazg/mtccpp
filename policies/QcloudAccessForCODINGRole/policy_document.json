@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cam:ListUsersForPolicy",
+    "cam:ListPolicies",
+    "cam:CheckUserPolicyAttachment",
+    "cam:PassRole",
+    "cam:ListAttachedRolePolicies",
+    "cam:DescribeRoleList"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

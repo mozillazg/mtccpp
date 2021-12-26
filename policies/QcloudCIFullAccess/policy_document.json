@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ci:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": "cam:PassRole",
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

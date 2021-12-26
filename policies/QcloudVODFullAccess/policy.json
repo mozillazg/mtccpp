@@ -1,0 +1,9 @@
+{
+ "AddTime": "2017-06-06 12:39:11",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"vod:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":\"cos:*\",\"resource\":\"qcs::cos::uid\\/10022853:*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudVODFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "wav:Query*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

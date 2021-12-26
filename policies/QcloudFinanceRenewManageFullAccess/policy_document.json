@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "finance:QueryPreResourceCntManager",
+    "finance:QueryPreResourcesByCondManager",
+    "finance:SetRenewFlagManager",
+    "finance:ModifyRenewNoticeSetting"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,13 @@
+{
+ "statement": [
+  {
+   "action": [
+    "finance:QueryPreResourceCntManager",
+    "finance:QueryPreResourcesByCondManager"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

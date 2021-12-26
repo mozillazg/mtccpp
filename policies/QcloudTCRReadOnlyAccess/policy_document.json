@@ -1,0 +1,22 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcr:Describe*",
+    "tcr:PullRepository*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cam:GetRole"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

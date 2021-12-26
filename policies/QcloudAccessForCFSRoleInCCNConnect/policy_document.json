@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "vpc:AcceptAttachCcnInstances",
+    "vpc:DescribeCcnAttachedInstances"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "asr:Describe*",
+    "asr:Get*",
+    "asr:Download*",
+    "asr:FlashRecognition"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

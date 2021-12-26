@@ -1,0 +1,61 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cos:GetObject",
+    "cos:ListParts",
+    "cos:ListMultipartUploads",
+    "cos:PutObject",
+    "cos:InitiateMultipartUpload",
+    "cos:UploadPart",
+    "cos:CompleteMultipartUpload",
+    "cos:AbortMultipartUpload",
+    "cos:DeleteObject",
+    "scf:ListFunctions",
+    "scf:GetFunctionLogs",
+    "scf:GetFunction",
+    "scf:ListVersionByFunction",
+    "scf:GetReservedConcurrencyConfig",
+    "scf:GetProvisionedConcurrencyConfig",
+    "scf:GetFunctionEventInvokeConfig",
+    "scf:ListNamespaces",
+    "scf:GetLayerVersion",
+    "scf:InvokeFunction",
+    "scf:UpdateFunctionConfiguration",
+    "scf:UpdateFunctionCode",
+    "scf:DeleteFunction",
+    "scf:CreateFunction",
+    "scf:PutTotalConcurrencyConfig",
+    "scf:PutReservedConcurrencyConfig",
+    "scf:PutProvisionedConcurrencyConfig",
+    "scf:DeleteReservedConcurrencyConfig",
+    "scf:DeleteProvisionedConcurrencyConfig",
+    "scf:UpdateFunctionEventInvokeConfig",
+    "scf:DeleteTrigger",
+    "scf:SetTrigger",
+    "scf:UpdateNamespace",
+    "scf:DeleteNamespace",
+    "scf:CreateNamespace",
+    "scf:PublishLayerVersion",
+    "scf:DeleteLayerVersion",
+    "scf:ListLayers",
+    "scf:ListLayerVersions",
+    "cos:OptionsObject",
+    "cos:HeadObject",
+    "cos:PutObjectCopy",
+    "cos:PostObject",
+    "cos:UploadPartCopy",
+    "cos:InitiateMultipartUpload",
+    "cos:CompleteMultipartUpload",
+    "cos:AbortMultipartUpload",
+    "cos:ListMultipartUploads",
+    "cos:ListParts"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,51 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:get*",
+    "cls:list*",
+    "cls:Describe*",
+    "cls:GetHistogram",
+    "cls:GetFastAnalysis",
+    "cls:GetChart",
+    "cls:ListChart",
+    "cls:ListDashboard",
+    "cls:GetDashboard",
+    "cls:searchLog",
+    "cls:downloadLog",
+    "cls:pullLogs",
+    "cls:GetAccount",
+    "cls:GetResource",
+    "cls:ListAlarm",
+    "cls:GetAlarm",
+    "cls:GetAlarmLog",
+    "cls:GetDeliverFunction",
+    "cls:ShowContext",
+    "cls:GetLog",
+    "cls:DescribeAsyncSearchResult",
+    "cls:DescribeAsyncSearchTasks",
+    "cls:CreateExport",
+    "cls:DeleteExport",
+    "cls:CreateAsyncSearchTask",
+    "cls:DeleteAsyncSearchTask",
+    "cls:CreateAsyncContextTask",
+    "cls:DeleteAsyncContextTask"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "monitor:Get*",
+    "monitor:Describe*",
+    "cam:ListUsersForGroup",
+    "cam:ListGroups",
+    "cam:GetGroup",
+    "cam:ListAttachedRolePolicies"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

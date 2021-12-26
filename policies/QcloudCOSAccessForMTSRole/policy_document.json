@@ -1,0 +1,25 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cos:Get*",
+    "cos:ListMultipartUploads",
+    "cos:ListParts",
+    "cos:AbortMultipartUpload",
+    "cos:AppendObject",
+    "cos:CompleteMultipartUpload",
+    "cos:HeadObject",
+    "cos:OptionsObject",
+    "cos:InitiateMultipartUpload",
+    "cos:PostObject",
+    "cos:PutBucketLifecycle",
+    "cos:PutObject",
+    "cos:PutObjectTagging",
+    "cos:UploadPart"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

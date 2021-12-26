@@ -1,0 +1,36 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:DescribeInstances",
+    "tag:*",
+    "clb:*",
+    "cvm:*Cbs*",
+    "cls:pushLog",
+    "cls:searchLog",
+    "cls:listLogset",
+    "cls:getLogset",
+    "cls:listTopic",
+    "cls:getTopic",
+    "cls:agentHeartBeat",
+    "cls:getConfig",
+    "ccs:DescribeCluster",
+    "ccs:DescribeClusterInstances",
+    "vpc:DescribeSubnet",
+    "vpc:DescribeSubnetEx",
+    "vpc:DescribeCcnAttachedInstances",
+    "cvm:AllocateAddresses",
+    "cvm:DescribeAddresses",
+    "vpc:DescribeNetworkInterfaces",
+    "cvm:AssociateAddress",
+    "cvm:DisassociateAddress",
+    "cvm:ReleaseAddresses",
+    "ssl:DescribeCertificateDetail",
+    "ssl:UploadCertificate"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

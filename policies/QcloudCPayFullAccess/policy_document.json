@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cpay:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

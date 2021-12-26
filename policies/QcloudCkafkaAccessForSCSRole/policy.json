@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-09-03 11:29:08",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"ckafka:ListRoute\",\"ckafka:AddRoute\",\"ckafka:DeleteRoute\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCkafkaAccessForSCSRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2018-09-03 11:55:57"
+}

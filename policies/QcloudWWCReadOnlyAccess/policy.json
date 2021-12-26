@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-10-12 16:20:14",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"wwc:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cvm:Describe*\",\"cvm:Inquiry*\",\"vpc:Describe*\",\"vpc:Inquiry*\",\"vpc:Get*\",\"clb:Describe*\",\"cdb:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"effect\":\"allow\",\"action\":[\"monitor:Describe*\",\"monitor:Get*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudWWCReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

@@ -1,0 +1,22 @@
+{
+ "statement": [
+  {
+   "action": "kms:*",
+   "effect": "allow",
+   "resource": "qcs::kms:::key/creatorUin/${uin}/*"
+  },
+  {
+   "action": [
+    "kms:DescribeWhiteBoxServiceStatus",
+    "kms:GetRegions",
+    "kms:ListAlgorithms",
+    "kms:GetServiceStatus",
+    "kms:CreateKey",
+    "kms:CreateWhiteBoxKey"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

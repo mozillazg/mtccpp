@@ -1,0 +1,26 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:DescribeInstances",
+    "tag:GetResourcesByTags",
+    "tag:ModifyResourceTags",
+    "tag:GetResourceTagsByResourceIds",
+    "vpc:DescribeSubnet",
+    "vpc:CreateNetworkInterface",
+    "vpc:DescribeNetworkInterfaces",
+    "vpc:AttachNetworkInterface",
+    "vpc:DetachNetworkInterface",
+    "vpc:DeleteNetworkInterface",
+    "vpc:AssignPrivateIpAddresses",
+    "vpc:UnassignPrivateIpAddresses",
+    "vpc:MigratePrivateIpAddress",
+    "vpc:DescribeSubnetEx",
+    "vpc:DescribeVpcEx"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

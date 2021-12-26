@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-09-16 19:41:53",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"wss:CertGetList\",\"cdb:DescribeDBInstances\",\"cdb:DescribeDBSecurityGroups\",\"cdb:DescribeBackups\",\"mariadb:DescribeDBInstances\",\"mariadb:DescribeDBLogFiles\",\"cvm:DescribeInstances\",\"cvm:DescribeSecurityGroups\",\"cvm:DescribeSecurityGroupPolicys\",\"cvm:DescribeCbsStorages\",\"cvm:DescribeCbsAssociatedAsp\",\"redis:DescribeInstances\",\"redis:DescribeInstanceSecurityGroup\",\"redis:DescribeInstanceBackups\",\"clb:DescribeTargetHealth\",\"clb:DescribeClassicalLBListeners\",\"clb:DescribeClassicalLBHealthStatus\",\"clb:DescribeLoadBalancers\",\"clb:DescribeListeners\",\"cos:GetService\",\"cos:GetBucketReplication\",\"cos:GetBucketVersioning\",\"cos:GetBucketACL\",\"cos:GetBucketPolicy\",\"cos:GetBucketLogging\",\"cos:GetBucketReferer\",\"cos:GetBucketEncryption\",\"vpc:DescribeAddressTemplateGroups\",\"vpc:DescribeAddressTemplates\",\"mongodb:DescribeDBInstances\",\"mongodb:DescribeDBBackups\",\"tcr:DescribeRepositoryOwnerPersonal\",\"vpc:DescribeVpcEx\",\"vpc:DescribeSubnetEx\",\"vpc:DescribeVpnGw\",\"vpc:DescribeNatGateways\",\"cwp:DescribeMachineInfo\",\"cwp:DescribeMachines\",\"cam:DescribeSafeAuthFlagColl\",\"cam:DescribeSubAccounts\",\"cam:ListCollaborators\",\"cam:ListGroupsForUser\",\"cam:ListUsers\",\"cdb:DescribeAccounts\",\"cdb:DescribeDBInstances\",\"mariadb:DescribeAccounts\",\"mariadb:DescribeDBInstances\",\"mariadb:DescribeDBSecurityGroups\",\"postgres:DescribeDBInstances\",\"vpc:DescribeSecurityGroupReferences\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForSSARoleInCSPM",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-12-02 11:49:28"
+}

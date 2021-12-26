@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "iai:Analyze*",
+    "iai:CheckSimilarPerson",
+    "iai:Compare*",
+    "iai:Detect*",
+    "iai:Get*",
+    "iai:EstimateCheckSimilarPersonCostTime",
+    "iai:Search*",
+    "iai:Verify*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ccs:DescribeCluster",
+    "ccs:DescribeClusterSecurityInfo",
+    "ccs:CreateClusterEndpoint",
+    "ccs:CreateClusterEndpointVip",
+    "ccs:ModifyClusterEndpointSP",
+    "ccs:DescribeClusterEndpointVipStatus"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

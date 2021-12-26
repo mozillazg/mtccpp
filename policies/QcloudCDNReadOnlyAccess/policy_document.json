@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cdn:Describe*",
+    "cdn:Get*",
+    "cdn:List*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

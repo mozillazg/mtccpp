@@ -1,0 +1,23 @@
+{
+ "statement": [
+  {
+   "action": [
+    "iotcloud:CreateProduct",
+    "iotcloud:DeleteProduct",
+    "iotcloud:CreateDevice",
+    "iotcloud:CreateMultiDevice",
+    "iotcloud:DeleteDevice",
+    "iotcloud:GetDeviceShadow",
+    "iotcloud:UpdateDeviceShadow",
+    "iotcloud:ListDevices",
+    "iotcloud:GetMultiDevices",
+    "iotcloud:GetCreateMultiDevTask",
+    "iotcloud:ListProducts",
+    "iotcloud:Publish"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

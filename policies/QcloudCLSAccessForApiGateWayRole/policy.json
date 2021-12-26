@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-08-22 18:53:00",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cls:pushLog\",\"cls:getCursor\",\"cls:downloadLog\",\"cls:getTopic\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCLSAccessForApiGateWayRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2018-08-22 18:57:45"
+}

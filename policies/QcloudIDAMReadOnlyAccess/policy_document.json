@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "idam:Describe*",
+    "idam:List*",
+    "idam:Load*",
+    "idam:Query*",
+    "idam:Check*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

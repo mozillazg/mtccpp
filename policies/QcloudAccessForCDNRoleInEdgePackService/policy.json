@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-11-16 11:43:38",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"resource\":[\"*\"],\"action\":[\"name\\/cos:PutObject\",\"name\\/cos:GetObject\",\"name\\/cos:InitiateMultipartUpload\",\"name\\/cos:UploadPart\",\"name\\/cos:ListParts\",\"name\\/cos:CompleteMultipartUpload\",\"name\\/cos:AbortMultipartUpload\",\"name\\/cos:ListMultipartUploads\",\"name\\/cos:DeleteObject\"]}]}",
+ "PolicyName": "QcloudAccessForCDNRoleInEdgePackService",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

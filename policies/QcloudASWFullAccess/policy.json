@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-11-16 15:51:24",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"asw:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudASWFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-11-16 15:51:24"
+}

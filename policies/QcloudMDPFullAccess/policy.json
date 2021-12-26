@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-07-01 17:03:59",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"mdp:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudMDPFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-05-27 16:08:03"
+}

@@ -1,0 +1,20 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tiw:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

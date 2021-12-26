@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeSubnetEx",
+    "vpc:AcceptVpcPeeringConnection",
+    "vpc:CreateRoute"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

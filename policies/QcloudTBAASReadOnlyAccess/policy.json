@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-09-15 17:03:40",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tbaas:Get*\",\"tbaas:Check*\",\"tbaas:Download*\",\"tbaas:Describe*\",\"tbaas:PreFeeGetModifyPrice\",\"tbaas:PreFeeGetPrice\",\"tbaas:TrustsqlPreFeeGetModifyPrice\",\"tbaas:TrustsqlPreFeeGetPrice\",\"tbaas:BcosPreFeeGetModifyPrice\",\"tbaas:BcosPreFeeGetPrice\",\"tbaas:BlockByNumberHandler\",\"tbaas:Query\",\"tbaas:AsynCheckChaincodeDev\",\"tbaas:ExportChaincodeDev\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudTBAASReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-06-22 17:12:07"
+}

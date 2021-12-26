@@ -1,0 +1,9 @@
+{
+ "AddTime": "2016-06-02 19:40:09",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"*\",\"resource\":\"*\"}]}",
+ "PolicyName": "AdministratorAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2018-08-13 17:54:58"
+}

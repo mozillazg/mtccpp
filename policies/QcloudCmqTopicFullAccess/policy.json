@@ -1,0 +1,9 @@
+{
+ "AddTime": "2017-06-08 17:17:02",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"cmqtopic:*\",\"resource\":\"*\"},{\"effect\":\"allow\",\"action\":\"monitor:*\",\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudCmqTopicFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

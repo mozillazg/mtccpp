@@ -1,0 +1,32 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cos:GetService",
+    "cos:GetBucket",
+    "cos:HeadBucket",
+    "cos:InitiateMultipartUpload",
+    "cos:ListMultipartUploads",
+    "cos:AbortMultipartUpload",
+    "cos:ListParts",
+    "cos:UploadPart",
+    "cos:CompleteMultipartUpload",
+    "cos:PutObject",
+    "cos:GetObject",
+    "cos:HeadObject",
+    "cos:DeleteObject",
+    "cos:AppendObject",
+    "cos:PutObjectACL",
+    "cos:PutLiveChannel",
+    "cos:ListLiveChannels",
+    "cos:DeleteLiveChannel",
+    "cos:GetLiveChannel",
+    "cos:PostVodPlayList",
+    "cos:GetVodPlayList"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

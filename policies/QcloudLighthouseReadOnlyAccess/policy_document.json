@@ -1,0 +1,13 @@
+{
+ "statement": [
+  {
+   "action": [
+    "lighthouse:Describe*",
+    "lighthouse:InquirePrice*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

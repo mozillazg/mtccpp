@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cfs:CreateCfsFileSystem",
+    "cfs:DescribeCfsFileSystems",
+    "cfs:DescribeMountTargets",
+    "cfs:DeleteCfsFileSystem",
+    "cfs:DeleteMountTarget"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

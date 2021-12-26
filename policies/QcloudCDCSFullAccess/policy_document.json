@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cdcs:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

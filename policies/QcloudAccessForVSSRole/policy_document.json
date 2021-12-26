@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "name/cvm:DescribeInstances"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

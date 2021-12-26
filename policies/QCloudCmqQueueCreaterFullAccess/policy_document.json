@@ -1,0 +1,10 @@
+{
+ "statement": [
+  {
+   "action": "cmqqueue:*",
+   "effect": "allow",
+   "resource": "qcs::cmqqueue:::queueName/uin/${uin}/*"
+  }
+ ],
+ "version": "2.0"
+}

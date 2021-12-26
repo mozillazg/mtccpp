@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-11-01 11:48:13",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tiems:*\",\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"monitor:GetMonitorData\",\"monitor:DescribeBasicAlarmList\",\"monitor:DescribeBaseMetrics\",\"monitor:DescribeSortObjectList\",\"monitor:DescribePolicyConditionList\",\"vpc:DescribeVpcEx\",\"vpc:DescribeSubnetEx\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudTIEMSFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

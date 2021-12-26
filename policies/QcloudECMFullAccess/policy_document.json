@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ecm:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "vpc:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

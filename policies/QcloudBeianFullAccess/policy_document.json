@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "beian:*",
+    "cvm:Describe*",
+    "cvm:Inquiry*",
+    "clb:Describe*",
+    "bm:Describe*",
+    "bm:Get*",
+    "bmlb:Describe*",
+    "bmlb:Get*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

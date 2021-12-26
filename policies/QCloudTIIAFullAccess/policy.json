@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-06-18 16:29:58",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tiia:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QCloudTIIAFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

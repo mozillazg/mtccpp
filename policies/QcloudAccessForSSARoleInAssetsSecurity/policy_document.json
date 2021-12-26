@@ -1,0 +1,34 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:DescribeInstances",
+    "cvm:DescribeCbsStorages",
+    "clb:DescribeLoadBalancers",
+    "cdb:DescribeDBInstances",
+    "mariadb:DescribeDBInstances",
+    "redis:DescribeInstances",
+    "cos:GetService",
+    "wss:CertGetList",
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeSubnetEx",
+    "vpc:DescribeVpnGw",
+    "vpc:DescribeNatGateways",
+    "tcr:DescribeRepositoryOwnerPersonal",
+    "mongodb:DescribeDBInstances",
+    "cwp:DescribeMachineInfo",
+    "cwp:DescribeMachines",
+    "cwp:DescribeBashEvents",
+    "cwp:DescribeBruteAttackList",
+    "cwp:DescribeHostLoginList",
+    "cwp:DescribeMalWareList",
+    "cwp:DescribePrivilegeEvents",
+    "cwp:DescribeReverseShellEvents",
+    "cwp:DescribeRiskDnsList"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

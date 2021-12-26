@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "name/cvm:DescribeImages",
+    "name/cvm:DescribeImageSharePermission",
+    "name/cvm:ModifyImageSharePermission"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

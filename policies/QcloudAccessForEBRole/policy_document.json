@@ -1,0 +1,32 @@
+{
+ "statement": [
+  {
+   "action": [
+    "apigw:CreateApi",
+    "apigw:DeleteApi",
+    "apigw:DescribeService",
+    "apigw:ReleaseService",
+    "scf:GetFunction",
+    "scf:BindTrigger",
+    "scf:UnbindTrigger",
+    "scf:InvokeFunction",
+    "tdmq:DescribeTopics",
+    "tdmq:CreateEnvironmentRole",
+    "tdmq:ModifyEnvironmentRole",
+    "tdmq:DescribeSubscriptions",
+    "tdmq:DescribeRoles",
+    "tdmq:CreateRole",
+    "apigw:UnReleaseService",
+    "ckafka:DescribeTopicAttributes",
+    "ckafka:DescribeRoute",
+    "ckafka:CreateRoute",
+    "ckafka:ModifyGroupOffsets",
+    "tdmq:DescribeEnvironmentRoles",
+    "cls:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

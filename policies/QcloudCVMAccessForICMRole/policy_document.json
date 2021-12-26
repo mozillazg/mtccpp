@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:DescribeInstances",
+    "monitor:GetMonitorData",
+    "cvm:InquiryPriceResetInstancesType",
+    "cvm:InquiryPriceRunInstances"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

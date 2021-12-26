@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "apigw:*",
+    "monitor:DescribeDashboardMetricData",
+    "monitor:DescribeAlarmHistories",
+    "monitor:DescribeBasicAlarmList",
+    "monitor:DescribeBaseMetricsForConsoleFontEnd",
+    "monitor:GetMonitorData"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

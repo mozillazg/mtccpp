@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ckafka:ListRoute",
+    "ckafka:AddRoute",
+    "ckafka:DeleteRoute",
+    "ckafka:DescribeInstanceAttributes"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

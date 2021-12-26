@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-06-23 10:31:52",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"tcet:*\",\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudTCETFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-06-23 10:31:52"
+}

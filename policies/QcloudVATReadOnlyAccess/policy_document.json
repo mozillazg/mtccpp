@@ -1,0 +1,13 @@
+{
+ "statement": [
+  {
+   "action": [
+    "vat:Describe*",
+    "vat:CheckBusinessNameList"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

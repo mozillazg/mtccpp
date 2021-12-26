@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-10-30 16:42:24",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cdwch:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCDWCHFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-10-30 16:42:25"
+}

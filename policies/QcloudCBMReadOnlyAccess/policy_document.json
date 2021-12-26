@@ -1,0 +1,21 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cbm:previewProductDetail",
+    "cbm:agentInfo",
+    "cbm:viewDeals",
+    "cbm:rebateInfo",
+    "cbm:businessDetail",
+    "cbm:inviteClient",
+    "cbm:viewClients",
+    "cbm:authorize",
+    "cbm:viewMessage",
+    "cbm:viewMenu"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-06-03 17:22:45",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cr:Describe*\",\"cr:AccountCheckCode\",\"cr:AccountCosToken\",\"cr:AccountSendCode\",\"cr:AccountStatus\",\"cr:AcquireAccountLocation\",\"cr:DownloadReport\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudFCRReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-10-15 17:15:15",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvm:DescribeInstances\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCVMAccessForTDMRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2018-10-15 17:15:15"
+}

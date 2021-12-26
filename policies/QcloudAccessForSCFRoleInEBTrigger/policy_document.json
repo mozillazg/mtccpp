@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "eb:DeleteTarget"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-12-24 14:51:02",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"kms:CreateKey\",\"kms:GenerateDataKey\",\"kms:Encrypt\",\"kms:Decrypt\",\"kms:ListKeyDetail\",\"kms:BindCloudResource\",\"kms:UnbindCloudResource\",\"cdb:CreateAccounts\",\"cdb:DescribeAccounts\",\"cdb:DescribeAccountPrivileges\",\"cdb:ModifyAccountPrivileges\",\"cdb:DeleteAccounts\",\"cdb:DescribeAsyncRequestInfo\",\"cdb:DescribeSupportedPrivileges\",\"cdb:ModifyAccountPassword\",\"cvm:CreateKeyPair\",\"cvm:DeleteKeyPairs\",\"cvm:DescribeKeyPairs\",\"cvm:ModifyKeyPairAttribute\",\"dcdb:CreateAccount\",\"dcdb:DescribeAccounts\",\"dcdb:DescribeAccountPrivileges\",\"dcdb:GrantAccountPrivileges\",\"dcdb:DeleteAccount\",\"dcdb:DescribeFlow\",\"dcdb:ResetAccountPassword\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForSSMRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-12 09:02:14"
+}

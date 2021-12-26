@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "toc:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

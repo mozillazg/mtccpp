@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cos:PutObject",
+    "cos:GetObject",
+    "cos:DeleteObject",
+    "cos:ListParts",
+    "cos:UploadPart"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

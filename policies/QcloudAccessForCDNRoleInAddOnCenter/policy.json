@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-04-20 15:45:11",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cos:GetObject\",\"cos:ListParts\",\"cos:ListMultipartUploads\",\"cos:PutObject\",\"cos:InitiateMultipartUpload\",\"cos:UploadPart\",\"cos:CompleteMultipartUpload\",\"cos:AbortMultipartUpload\",\"cos:DeleteObject\",\"scf:ListFunctions\",\"scf:GetFunctionLogs\",\"scf:GetFunction\",\"scf:ListVersionByFunction\",\"scf:GetReservedConcurrencyConfig\",\"scf:GetProvisionedConcurrencyConfig\",\"scf:GetFunctionEventInvokeConfig\",\"scf:ListNamespaces\",\"scf:GetLayerVersion\",\"scf:InvokeFunction\",\"scf:UpdateFunctionConfiguration\",\"scf:UpdateFunctionCode\",\"scf:DeleteFunction\",\"scf:CreateFunction\",\"scf:PutTotalConcurrencyConfig\",\"scf:PutReservedConcurrencyConfig\",\"scf:PutProvisionedConcurrencyConfig\",\"scf:DeleteReservedConcurrencyConfig\",\"scf:DeleteProvisionedConcurrencyConfig\",\"scf:UpdateFunctionEventInvokeConfig\",\"scf:DeleteTrigger\",\"scf:SetTrigger\",\"scf:UpdateNamespace\",\"scf:DeleteNamespace\",\"scf:CreateNamespace\",\"scf:PublishLayerVersion\",\"scf:DeleteLayerVersion\",\"scf:ListLayers\",\"scf:ListLayerVersions\",\"cos:OptionsObject\",\"cos:HeadObject\",\"cos:PutObjectCopy\",\"cos:PostObject\",\"cos:UploadPartCopy\",\"cos:InitiateMultipartUpload\",\"cos:CompleteMultipartUpload\",\"cos:AbortMultipartUpload\",\"cos:ListMultipartUploads\",\"cos:ListParts\"],\"resource\":[\"*\"]}]}",
+ "PolicyName": "QcloudAccessForCDNRoleInAddOnCenter",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

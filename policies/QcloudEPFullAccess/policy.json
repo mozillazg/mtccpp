@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-02-02 18:47:28",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"ep:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudEPFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-02-02 18:47:28"
+}

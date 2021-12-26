@@ -1,0 +1,25 @@
+{
+ "statement": [
+  {
+   "action": [
+    "bpaas:ApproveBpaas",
+    "bpaas:GetApproveList",
+    "bpaas:GetApproveDetail",
+    "bpaas:GetApplicationDetail"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies",
+    "cam:ListSubAccounts",
+    "cam:ListGroups"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,10 @@
+{
+ "statement": [
+  {
+   "action": "fc:*",
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

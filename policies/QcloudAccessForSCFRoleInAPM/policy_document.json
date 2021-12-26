@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "apm:DescribeApmAgent",
+    "apm:DescribeApmRegions",
+    "apm:DescribeApmInstances"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

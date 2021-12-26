@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-10-27 17:21:24",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"subcontract:Query*\",\"subcontract:Get*\",\"subcontract:Export*\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudSubcontractReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-10-27 17:21:39"
+}

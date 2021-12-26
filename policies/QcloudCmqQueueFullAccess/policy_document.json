@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": "cmqqueue:*",
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": "monitor:*",
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

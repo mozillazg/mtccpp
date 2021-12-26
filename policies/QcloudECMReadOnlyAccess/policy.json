@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-11-13 17:45:32",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"ecm:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"vpc:Describe*\",\"vpc:Inquiry*\",\"vpc:Get*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudECMReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

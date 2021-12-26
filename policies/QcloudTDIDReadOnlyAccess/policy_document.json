@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tdid:Get*",
+    "tdid:Check*",
+    "tdid:Down*",
+    "tdid:Query*",
+    "tdid:Verify*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

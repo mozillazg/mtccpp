@@ -1,0 +1,22 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tke:DescribeClusterSecurity",
+    "ssl:DescribeCertificateDetail",
+    "cls:getLogset",
+    "cls:getTopic",
+    "cls:createLogset",
+    "cls:createTopic",
+    "cls:modifyIndex",
+    "cls:listLogset",
+    "cls:listTopic"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

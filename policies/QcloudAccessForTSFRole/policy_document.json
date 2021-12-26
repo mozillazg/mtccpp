@@ -1,0 +1,40 @@
+{
+ "statement": {
+  "action": [
+   "ccr:*",
+   "ccs:*",
+   "cvm:Describe*",
+   "cvm:ResetInstance",
+   "vpc:DescribeVpcEx",
+   "vpc:DescribeSubnetEx",
+   "vpc:DescribeSubnet",
+   "apigw:CreateService",
+   "apigw:CreateApi",
+   "apigw:ReleaseService",
+   "apigw:UnReleaseService",
+   "apigw:DescribeService",
+   "apigw:DescribeApisStatus",
+   "apigw:DeleteApi",
+   "apigw:DeleteService",
+   "monitor:DescribeStatisticData",
+   "tsw:DescribeToken",
+   "tsw:DescribeGeneralSpanDetail",
+   "tsw:DescribeGeneralSpanList",
+   "tsw:DescribeGeneralSingleValueAggregationMetrics",
+   "tsw:DescribeGeneralMultiValueAggregationMetrics",
+   "tsw:DescribeGeneralMultiValueTimestampMetrics",
+   "tsw:DescribeGeneralSingleValueTimestampMetrics",
+   "tsw:DescribeGeneralStatisticalSortedMetrics",
+   "tsw:DescribeGeneralTopology",
+   "apm:DescribePAASMetricLineData",
+   "apm:DescribePAASTagValues",
+   "apm:DescribePAASGeneralSpanList",
+   "apm:DescribePAASTopology",
+   "apm:CreatePAASInstance",
+   "apm:DeletePAASInstance"
+  ],
+  "effect": "allow",
+  "resource": "*"
+ },
+ "version": "2.0"
+}

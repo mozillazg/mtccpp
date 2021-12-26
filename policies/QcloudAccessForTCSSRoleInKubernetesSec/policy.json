@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-11-08 17:13:36",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"tke:DescribeClusters\",\"tke:DescribeClusterInstances\",\"cvm:DescribeInstances\",\"tke:DescribeClusterSecurity\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForTCSSRoleInKubernetesSec",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-11-08 17:13:36"
+}

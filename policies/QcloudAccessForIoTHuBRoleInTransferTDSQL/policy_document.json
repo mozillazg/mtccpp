@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "dcdb:DescribeDCDBInstances",
+    "dcdb:DescribeDatabases",
+    "dcdb:DescribeDatabaseTable"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tione:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

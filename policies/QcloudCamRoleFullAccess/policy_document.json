@@ -1,0 +1,28 @@
+{
+ "statement": [
+  {
+   "action": [
+    "name/cam:ListPolicies",
+    "name/cam:AttachRolePolicy",
+    "name/cam:CreateRole",
+    "name/cam:DeleteRole",
+    "name/cam:DetachRolePolicy",
+    "name/cam:GetRole",
+    "name/cam:DescribeRoleList",
+    "name/cam:UpdateAssumeRolePolicy",
+    "name/cam:UpdateRoleDescription",
+    "name/cam:UpdateRoleConsoleLogin",
+    "name/cam:ListAttachedRolePolicies",
+    "name/cam:PassRole",
+    "name/cam:LogoutRoleSessions",
+    "name/cam:UpdatePolicy",
+    "name/cam:AttachRolePolicies"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

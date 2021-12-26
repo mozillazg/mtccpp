@@ -1,0 +1,30 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:GetAccount",
+    "cls:GetLog",
+    "cls:downloadLog",
+    "cls:pushLog",
+    "cls:searchLog",
+    "cls:createLogset",
+    "cls:deleteLogset",
+    "cls:getLogset",
+    "cls:listLogset",
+    "cls:modifyLogset",
+    "cls:createTopic",
+    "cls:deleteTopic",
+    "cls:getTopic",
+    "cls:listTopic",
+    "cls:modifyTopic",
+    "cls:getIndex",
+    "cls:modifyIndex"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

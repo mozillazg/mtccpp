@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "partners:DescribeClientListForWeChat",
+    "partners:UnbindClientForWeChat",
+    "partners:ModifyAgentSourceFromToWeChat",
+    "partners:RelateClientForWeChat",
+    "partners:DescribePartnersForWeChat"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

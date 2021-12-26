@@ -1,0 +1,10 @@
+{
+ "statement": [
+  {
+   "action": "tesa:*",
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,21 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cos:*",
+    "scf:*",
+    "monitor:*",
+    "cls:*",
+    "sts:GetCdnToken",
+    "tcb:*",
+    "ssl:DescribeCertificateDetail",
+    "ssl:DescribeCertificates"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

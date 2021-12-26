@@ -1,0 +1,10 @@
+{
+ "statement": [
+  {
+   "action": "essbasic:*",
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

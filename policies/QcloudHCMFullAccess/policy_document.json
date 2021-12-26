@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "hcm:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

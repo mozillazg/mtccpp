@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-11-08 11:02:57",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"pts:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudPTSFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-11-08 11:02:57"
+}

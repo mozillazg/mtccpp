@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-10-09 16:17:58",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"smpn:DescribeSmpnMrl\",\"smpn:DescribeSmpnChp\",\"smpn:DescribeSmpnMhm\",\"smpn:DescribeSmpnFnr\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudSMPNReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

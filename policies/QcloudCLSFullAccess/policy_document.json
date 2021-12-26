@@ -1,0 +1,24 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "monitor:Get*",
+    "monitor:Describe*",
+    "cam:ListUsersForGroup",
+    "cam:ListGroups",
+    "cam:GetGroup",
+    "cam:ListAttachedRolePolicies"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

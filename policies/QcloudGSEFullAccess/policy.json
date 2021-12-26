@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-05-13 10:58:40",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"gse:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudGSEFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-04-20 10:21:59"
+}

@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-08-17 18:18:03",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvm:DescribeInstances\",\"cvm:AllocateAddresses\",\"cvm:DisassociateAddress\",\"cvm:AssociateAddress\",\"cvm:DescribeAddresses\",\"cvm:DescribeAddressQuota\",\"cvm:DisassociateAddress\",\"bmeip:DescribeEipBm\",\"bm:DescribeDevice\",\"bmlb:DescribeBmLoadBalancers\",\"clb:DescribeLoadBalancerListeners\",\"clb:DescribeLoadBalancers\",\"clb:DescribeLoadBalancerBackends\",\"bmlb:DescribeBmForwardListenerInfo\",\"clb:DescribeForwardLBListeners\",\"vpc:DescribeVpcEx\",\"vpc:DescribeNatGateway\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessForAegisRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

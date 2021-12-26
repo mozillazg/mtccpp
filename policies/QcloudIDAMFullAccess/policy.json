@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-03-25 20:01:24",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"idam:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudIDAMFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-03-25 20:01:24"
+}

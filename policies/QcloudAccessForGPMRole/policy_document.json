@@ -1,0 +1,43 @@
+{
+ "statement": [
+  {
+   "action": [
+    "name/gse:DescribeFleetRelatedResources",
+    "name/gse:SearchGameServerSessions",
+    "name/gse:DescribeInstances",
+    "name/gse:DescribeGameServerSessionQueues",
+    "name/gse:UpdateGameServerSession",
+    "name/gse:UpdateGameServerSessionQueue",
+    "name/gse:DescribeFleetStatisticDetails",
+    "name/gse:DescribeFleetStatisticFlows",
+    "name/gse:StopGameServerSessionPlacement",
+    "name/gse:DescribeGameServerSessionPlacement",
+    "name/gse:StartGameServerSessionPlacement",
+    "name/gse:StartMatchPlacement",
+    "name/gse:DescribePlayerSessions",
+    "name/gse:DescribeInstancesExtend",
+    "name/gse:SetMatchPlacementResultReceiver",
+    "name/cls:pushLog",
+    "name/cls:searchLog",
+    "name/cls:listLogset",
+    "name/cls:getLogset",
+    "name/cls:listTopic",
+    "name/cls:getTopic",
+    "name/cls:createTopic",
+    "name/cls:modifyTopic",
+    "name/cls:deleteTopic",
+    "name/cls:createLogset",
+    "name/cls:modifyLogset",
+    "name/cls:deleteLogset",
+    "name/cls:downloadLog",
+    "name/cls:getIndex",
+    "name/cls:modifyIndex"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

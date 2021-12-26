@@ -1,0 +1,18 @@
+{
+ "statement": [
+  {
+   "action": [
+    "emr:Describe*",
+    "emr:Inquiry*",
+    "emr:Check*",
+    "emr:List*",
+    "emr:Describle*",
+    "emr:Inquire*",
+    "emr:Synchronize*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

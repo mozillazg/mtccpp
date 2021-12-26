@@ -1,0 +1,25 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cfw:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cvm:DescribeInstances",
+    "cvm:DescribeInstancesStatus",
+    "cvm:DescribeAddresses",
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeNatGateways",
+    "vpc:DescribeVpnGw",
+    "clb:DescribeLoadBalancers"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

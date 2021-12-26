@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-06-27 20:05:41",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cls:pushLog\",\"cls:searchLog\",\"cls:listLogset\",\"cls:getLogset\",\"cls:listTopic\",\"cls:getTopic\",\"cls:createTopic\",\"cls:modifyTopic\",\"cls:deleteTopic\",\"cls:createLogset\",\"cls:modifyLogset\",\"cls:deleteLogset\",\"cls:downloadLog\",\"cls:getIndex\",\"cls:modifyIndex\",\"cls:CreateChart\",\"cls:ModifyChart\",\"cls:GetChart\",\"cls:DeleteChart\",\"cls:ListChart\",\"cls:CreateDashboard\",\"cls:ModifyDashboard\",\"cls:GetDashboard\",\"cls:DeleteDashboard\",\"cls:ListDashboard\",\"cls:getCursor\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForCLBRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

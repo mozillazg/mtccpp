@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cam:CreateProjectKey",
+    "cam:QueryProjectKey",
+    "cam:DisableProjectKey",
+    "cam:EnableProjectKey",
+    "cam:DeleteProjectKey",
+    "cam:GetSecretProjectId",
+    "cam:GetProjectKey",
+    "cam:QueryProjectKeyList"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

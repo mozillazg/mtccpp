@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:*"
+   ],
+   "effect": "allow",
+   "resource": "qcs::vpc:::*"
+  }
+ ],
+ "version": "2.0"
+}

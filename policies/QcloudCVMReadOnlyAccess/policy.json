@@ -1,0 +1,9 @@
+{
+ "AddTime": "2017-06-19 16:05:54",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvm:Describe*\",\"cvm:Inquiry*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"vpc:Describe*\",\"vpc:Inquiry*\",\"vpc:Get*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"clb:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cloudaudit:LookUpEvents\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"effect\":\"allow\",\"action\":[\"monitor:Describe*\",\"monitor:Get*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudCVMReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

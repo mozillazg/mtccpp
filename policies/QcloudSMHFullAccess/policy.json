@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-11-29 16:44:35",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"smh:*\",\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudSMHFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-11-29 16:44:35"
+}

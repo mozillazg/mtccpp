@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-03-07 11:40:44",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"waf:WafGet*\",\"waf:WAFGetUserInfo\",\"waf:WafDownloadAlerts\",\"waf:WafPackagePrice\",\"waf:WafAreaBanGetAreas\",\"waf:WafFreqGetRuleList\",\"waf:WafAntiFakeGetUrl\",\"waf:WafInterface\",\"waf:WafClsOverview\",\"waf:QueryFlows\",\"waf:WafDownloadRecords\",\"waf:WafDownloadlogs\",\"waf:WafSearchLogs\",\"waf:WafDNSdetectGet*\",\"waf:BotGet*\",\"waf:Get*\",\"waf:Search*\",\"waf:BotV2Get*\",\"wss:CertGetList\",\"waf:Describe*\",\"tag:DescribeResourceTagsByResourceIds\",\"ssl:DescribeCertificates\",\"clb:DescribeLoadBalancers\",\"clb:DescribeListeners\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudWAFReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-01-13 16:58:47"
+}

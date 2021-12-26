@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-04-15 11:03:43",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cls:*\",\"tcb:*\",\"vpc:DescribeVpcEx\",\"vpc:DescribeSubnetEx\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForMgobeRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

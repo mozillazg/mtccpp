@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cms:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

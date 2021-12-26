@@ -1,0 +1,46 @@
+{
+ "statement": [
+  {
+   "action": [
+    "name/vpc:CreateSubnet",
+    "name/vpc:CreateVpc",
+    "name/vpc:DeleteVpc",
+    "name/vpc:DescribeVpcEx",
+    "name/vpc:DescribeSubnetEx",
+    "name/vpc:CreateCcn",
+    "name/vpc:DescribeCcns",
+    "name/vpc:AttachCcnInstances",
+    "name/vpc:DeleteCcn",
+    "name/vpc:DescribeCcnAttachedInstances",
+    "name/tke:DeleteClusterEndpoint",
+    "name/tke:CreateCluster",
+    "name/tke:DescribeClusters",
+    "name/tke:DeleteCluster",
+    "name/tke:CreateClusterEndpointVip",
+    "name/tke:DescribeClusterEndpointVipStatus",
+    "name/tke:DeleteClusterEndpointVip",
+    "name/cvm:DescribeSecurityGroups",
+    "name/cvm:ModifySecurityGroupPolicys",
+    "name/cvm:DescribeImages",
+    "name/cvm:RunInstances",
+    "name/cvm:DescribeInstances",
+    "name/cvm:DeleteSecurityGroup",
+    "name/cvm:CreateSecurityGroup"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  },
+  {
+   "action": [
+    "finance:*"
+   ],
+   "effect": "allow",
+   "resource": [
+    "qcs::cvm:::*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "mmps:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

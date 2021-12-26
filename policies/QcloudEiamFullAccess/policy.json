@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-04-26 16:18:47",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"eiam:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudEiamFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-04-26 16:18:47"
+}

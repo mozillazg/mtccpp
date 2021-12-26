@@ -1,0 +1,28 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:DescribeInstances",
+    "cvm:AllocateAddresses",
+    "cvm:DisassociateAddress",
+    "cvm:AssociateAddress",
+    "cvm:DescribeAddresses",
+    "cvm:DescribeAddressQuota",
+    "cvm:DisassociateAddress",
+    "bmeip:DescribeEipBm",
+    "bm:DescribeDevice",
+    "bmlb:DescribeBmLoadBalancers",
+    "clb:DescribeLoadBalancerListeners",
+    "clb:DescribeLoadBalancers",
+    "clb:DescribeLoadBalancerBackends",
+    "bmlb:DescribeBmForwardListenerInfo",
+    "clb:DescribeForwardLBListeners",
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeNatGateway"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-01-26 20:50:49",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tms:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudTMSFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-01-26 20:50:49"
+}

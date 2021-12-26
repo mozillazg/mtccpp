@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-07-21 14:40:15",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"gse:Get*\",\"gse:Describe*\",\"gse:List*\",\"gse:Resolve*\",\"gse:Search*\",\"gse:Check*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudGSEReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-04-20 10:21:50"
+}

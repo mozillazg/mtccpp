@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcr:DescribeRepositories",
+    "tcr:PullRepository",
+    "tcr:CreateInstanceToken"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

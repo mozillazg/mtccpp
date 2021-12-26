@@ -1,0 +1,75 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cos:GetService",
+    "cos:GetBucket",
+    "cos:ListMultipartUploads",
+    "cos:GetObject*",
+    "cos:HeadObject",
+    "cos:OptionsObject",
+    "cos:ListParts",
+    "cos:DeleteObject",
+    "cos:PostObject",
+    "cos:PutObject*",
+    "cos:InitiateMultipartUpload",
+    "cos:UploadPart",
+    "cos:UploadPartCopy",
+    "cos:CompleteMultipartUpload",
+    "cos:AbortMultipartUpload",
+    "cos:AppendObject",
+    "cos:PutBucket"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "vpc:DescribeSubnet",
+    "vpc:DescribeSubnetEx",
+    "vpc:DescribeVpcEx"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "ccr:pull"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cls:listLogset",
+    "cls:listTopic",
+    "cls:getTopic",
+    "cls:searchLog",
+    "cls:downloadLog",
+    "cls:createLogset",
+    "cls:createTopic",
+    "cls:pushLog",
+    "cls:deleteTopic",
+    "cls:modifyIndex",
+    "cls:modifyLogset"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "monitor:GetMonitorData"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cfs:DescribeMountTargets"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

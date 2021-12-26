@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tml:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

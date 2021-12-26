@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-01-23 10:19:45",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"batch:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cvm:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"vpc:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cmqtopic:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cmqqueue:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cos:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cls:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"monitor:*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudFullAccessForBatchRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:42:07"
+}

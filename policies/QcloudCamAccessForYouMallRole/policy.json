@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-09-26 21:24:39",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cam:AddConsoleUser\",\"cam:GetUser\",\"cam:UpdateUser\",\"cam:DeleteUser\",\"cam:ListUsers\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCamAccessForYouMallRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2018-09-26 21:24:39"
+}

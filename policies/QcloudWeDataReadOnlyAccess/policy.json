@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-12-29 14:42:31",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"wedata:Describe*\",\"wedata:List*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudWeDataReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-12-29 14:42:31"
+}

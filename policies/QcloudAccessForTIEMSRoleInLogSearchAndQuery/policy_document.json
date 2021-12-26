@@ -1,0 +1,27 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:listTopic",
+    "cls:getTopic",
+    "cls:createTopic",
+    "cls:modifyTopic",
+    "cls:deleteTopic",
+    "cls:listLogset",
+    "cls:getLogset",
+    "cls:modifyLogset",
+    "cls:deleteLogset",
+    "cls:pushLog",
+    "cls:searchLog",
+    "cls:downloadLog",
+    "cls:getCursor",
+    "cls:getIndex",
+    "cls:modifyIndex",
+    "cls:createLogset"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

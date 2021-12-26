@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "subcontract:Query*",
+    "subcontract:Get*",
+    "subcontract:Export*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

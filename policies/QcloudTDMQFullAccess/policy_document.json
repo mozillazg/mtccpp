@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tdmq:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

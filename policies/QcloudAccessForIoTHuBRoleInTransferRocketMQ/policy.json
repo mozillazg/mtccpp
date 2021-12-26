@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-12-23 15:38:33",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tdmq:DescribeRoles\",\"tdmq:DescribeRocketMQCluster\",\"tdmq:DescribeRocketMQClusters\",\"tdmq:DescribeRocketMQNamespaces\",\"tdmq:DescribeRocketMQTopics\",\"tdmq:DescribeEnvironmentRoles\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessForIoTHuBRoleInTransferRocketMQ",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-12-23 15:38:33"
+}

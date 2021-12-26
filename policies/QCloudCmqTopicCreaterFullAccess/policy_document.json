@@ -1,0 +1,10 @@
+{
+ "statement": [
+  {
+   "action": "cmqtopic:*",
+   "effect": "allow",
+   "resource": "qcs::cmqtopic:::topicName/uin/${uin}/*"
+  }
+ ],
+ "version": "2.0"
+}

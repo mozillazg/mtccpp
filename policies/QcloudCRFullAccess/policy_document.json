@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "crr:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

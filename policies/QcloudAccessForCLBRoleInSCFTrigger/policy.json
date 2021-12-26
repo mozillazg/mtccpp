@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-01-21 10:27:33",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"scf:GetFunction\",\"scf:GetAccount\",\"scf:UnbindTrigger\",\"scf:BindTrigger\",\"scf:ListAliases\",\"scf:ListVersionByFunction\"],\"resource\":[\"*\"]}]}",
+ "PolicyName": "QcloudAccessForCLBRoleInSCFTrigger",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

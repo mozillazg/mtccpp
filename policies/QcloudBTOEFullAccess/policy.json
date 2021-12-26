@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-04-22 16:39:02",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"btoe:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudBTOEFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-04-22 16:39:02"
+}

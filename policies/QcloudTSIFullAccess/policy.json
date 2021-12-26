@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-04-07 14:54:17",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"tsi:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudTSIFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-04-07 14:54:17"
+}

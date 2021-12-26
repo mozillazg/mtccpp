@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cam:Get*",
+    "cam:List*",
+    "cam:Describe*",
+    "cam:Query*",
+    "cam:LookupRecentlyLogin",
+    "cloudaudit:LookUpEvents"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

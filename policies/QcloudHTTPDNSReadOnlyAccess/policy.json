@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-05-08 11:30:59",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"httpdns:Describe*\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudHTTPDNSReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

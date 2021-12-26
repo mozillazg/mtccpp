@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cdcs:Get*",
+    "cdcs:List*",
+    "cdcs:Check*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

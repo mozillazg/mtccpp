@@ -1,0 +1,28 @@
+{
+ "statement": [
+  {
+   "action": [
+    "bpaas:ApplyBpaas",
+    "bpaas:RecallApplication",
+    "bpaas:GetApplicationList",
+    "bpaas:GetApplicationDetail",
+    "bpaas:GetBpaasNodeDetail",
+    "bpaas:GetBpaasNodeList"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies",
+    "cam:GetUser",
+    "cam:ListSubAccounts",
+    "cam:ListGroups"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

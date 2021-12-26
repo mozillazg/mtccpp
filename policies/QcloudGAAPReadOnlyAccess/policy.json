@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-04-12 16:46:37",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"gaap:Describe*\",\"gaap:Check*\",\"gaap:Get*\",\"gaap:Inquiry*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudGAAPReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "monitor:*",
+    "cam:ListUsersForGroup",
+    "cam:ListGroups",
+    "cam:GetGroup",
+    "cam:MonitorGetProject"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

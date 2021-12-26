@@ -1,0 +1,22 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tsf:Describe*",
+    "tsf:Get*",
+    "tsf:List*",
+    "tsf:Search*",
+    "tsf:Download*",
+    "tsf:Find*",
+    "tsf:RunMsApi",
+    "tsf:InitializeApm",
+    "tsf:ImageUserIsExists",
+    "tsf:ImageGetRepositoryList",
+    "tsf:DscribeTasks"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

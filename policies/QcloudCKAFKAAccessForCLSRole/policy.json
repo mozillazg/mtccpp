@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-04-28 18:26:24",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"ckafka:ListRoute\",\"ckafka:AddRoute\",\"ckafka:DeleteRoute\",\"ckafka:DescribeInstanceAttributes\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCKAFKAAccessForCLSRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-01-14 10:15:55"
+}

@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "name/cam:CreateSAMLProvider",
+    "name/cam:DeleteSAMLProvider",
+    "name/cam:GetSAMLProvider",
+    "name/cam:ListSAMLProviders",
+    "name/cam:UpdateSAMLProvider",
+    "name/cam:ListIdentityProvider"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

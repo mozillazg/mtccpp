@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ssm:Get*",
+    "ssm:Describe*",
+    "ssm:List*"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

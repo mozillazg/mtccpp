@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "gaap:Describe*",
+    "gaap:Check*",
+    "gaap:Get*",
+    "gaap:Inquiry*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,18 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tdmq:PublishCmqMsg",
+    "tdmq:SendCmqMsg",
+    "tdmq:DescribeCmqSubscriptionDetail",
+    "tdmq:DescribeCmqTopics",
+    "tdmq:DescribeCmqQueues"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

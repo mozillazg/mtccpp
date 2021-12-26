@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ame:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

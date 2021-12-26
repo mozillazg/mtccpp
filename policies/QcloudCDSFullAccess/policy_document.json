@@ -1,0 +1,10 @@
+{
+ "statement": [
+  {
+   "action": "cds:*",
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

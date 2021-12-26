@@ -1,0 +1,29 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cam:ListUsers",
+    "cam:ListCollaborators",
+    "cam:DescribeRoleList",
+    "cdb:DescribeDBInstances",
+    "cdb:DescribeDatabases",
+    "ckafka:DescribeInstances",
+    "ckafka:DescribeTopic",
+    "cos:GetService",
+    "cos:GetBucket",
+    "cvm:DescribeInstances",
+    "emr:DescribeInstances",
+    "emr:DescribeInstancesList",
+    "redis:DescribeInstances",
+    "vpc:DescribeVpcEx",
+    "es:DescribeInstances",
+    "oceanus:DescribeClusters"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

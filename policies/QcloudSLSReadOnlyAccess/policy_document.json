@@ -1,0 +1,13 @@
+{
+ "statement": [
+  {
+   "action": [
+    "sls:Get*",
+    "sls:List*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

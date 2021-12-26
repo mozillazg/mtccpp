@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-01-21 11:16:37",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"rce:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudRCEFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-01-21 11:16:37"
+}

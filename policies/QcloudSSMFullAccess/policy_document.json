@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ssm:*"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

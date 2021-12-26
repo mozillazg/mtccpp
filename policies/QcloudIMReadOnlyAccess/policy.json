@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-07-30 15:42:25",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"im:Describe*\",\"im:CheckIfIMNewUser\",\"im:UpdateNewUserStep\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudIMReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

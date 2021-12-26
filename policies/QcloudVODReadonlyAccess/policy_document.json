@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "vod:Describe*",
+    "vod:GetTaskInfo",
+    "vod:GetVideoInfo",
+    "vod:ReadOldAction",
+    "vod:SearchMedia"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

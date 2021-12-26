@@ -1,0 +1,10 @@
+{
+ "statement": [
+  {
+   "action": "ep:*",
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tts:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

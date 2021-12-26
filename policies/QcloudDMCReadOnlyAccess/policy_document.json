@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "dmc:Describe*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

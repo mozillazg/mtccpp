@@ -1,0 +1,34 @@
+{
+ "statement": [
+  {
+   "action": [
+    "as:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cvm:*",
+    "vpc:*",
+    "clb:*",
+    "cmqtopic:*",
+    "cmqqueue:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "monitor:*",
+    "cam:ListUsersForGroup",
+    "cam:ListGroups",
+    "cam:GetRole",
+    "cam:GetGroup"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

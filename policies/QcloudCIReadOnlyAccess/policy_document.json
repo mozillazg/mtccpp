@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ci:GenerateMediaInfo",
+    "ci:Describe*",
+    "ci:SearchImage"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

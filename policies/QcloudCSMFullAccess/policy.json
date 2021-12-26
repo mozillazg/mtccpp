@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-10-14 21:07:51",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"csm:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCSMFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-10-14 21:07:51"
+}

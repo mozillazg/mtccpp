@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-08-10 16:11:55",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvm:DescribeInstanceInternetBandwidthConfigs\",\"cvm:RunInstances\",\"cvm:InquiryPriceRunInstances\",\"cvm:DescribeInstanceVncUrl\",\"cvm:DescribeInstances\",\"cvm:DescribeImages\",\"cvm:StartInstances\",\"cvm:DescribeInstancesStatus\",\"cvm:StopInstances\",\"cvm:RebootInstances\",\"cvm:ResetInstance\",\"cvm:CreateSecurityGroup\",\"cvm:CreateSecurityGroupPolicy\",\"cvm:DeleteSecurityGroup\",\"cvm:ModifyInstancesAttribute\",\"cvm:AssociateSecurityGroups\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"effect\":\"allow\",\"action\":\"finance:*\",\"resource\":\"qcs::cvm:::*\"}]}",
+ "PolicyName": "QcloudAccessForBAASRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

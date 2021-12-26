@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-12-10 15:05:02",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"cpdp:Get*\",\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudCPDPReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:37:49"
+}

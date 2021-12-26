@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "monitor:DescribeMidDimensionValueList",
+    "monitor:DescribeStatisticData",
+    "monitor:GetMonitorData"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

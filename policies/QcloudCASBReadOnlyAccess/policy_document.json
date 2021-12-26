@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "casb:Inquire*",
+    "casb:Get*",
+    "casb:Describe*",
+    "casb:Preview*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

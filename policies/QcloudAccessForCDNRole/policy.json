@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-04-19 10:55:31",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cls:pushLog\",\"cls:searchLog\",\"cls:listLogset\",\"cls:getLogset\",\"cls:listTopic\",\"cls:getTopic\",\"cls:createTopic\",\"cls:modifyTopic\",\"cls:deleteTopic\",\"cls:createLogset\",\"cls:modifyLogset\",\"cls:deleteLogset\",\"cls:downloadLog\",\"cls:getIndex\",\"cls:modifyIndex\",\"cls:CreateIndex\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForCDNRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-10-26 10:44:05"
+}

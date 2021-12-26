@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-03-21 19:41:49",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cvm:RunInstances\",\"cvm:TerminateInstances\",\"cvm:StopInstances\",\"cvm:Describe*\",\"cvm:Inquiry*\",\"clb:*\",\"monitor:*\",\"vpc:Describe*\",\"cmqtopic:GetTopicAttributes\",\"cmqtopic:PublishMessage\",\"cmqtopic:BatchPublishMessage\",\"cmqtopic:ListTopic\",\"cmqqueue:GetQueueAttributes\",\"cmqqueue:SendMessage\",\"cmqqueue:BatchSendMessage\",\"cmqqueue:ListQueue\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForASRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

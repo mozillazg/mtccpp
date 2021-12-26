@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "vod:DeleteVodFile",
+    "vod:RunProcedure",
+    "vod:GetTaskInfo",
+    "vod:ConvertVodFile",
+    "vod:GetVideoInfo"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

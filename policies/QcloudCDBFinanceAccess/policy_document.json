@@ -1,0 +1,10 @@
+{
+ "statement": [
+  {
+   "action": "finance:*",
+   "effect": "allow",
+   "resource": "qcs::cdb:::*"
+  }
+ ],
+ "version": "2.0"
+}

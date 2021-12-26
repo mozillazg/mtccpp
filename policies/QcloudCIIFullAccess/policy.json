@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-01-18 14:46:44",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"cii:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCIIFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-01-18 14:46:44"
+}

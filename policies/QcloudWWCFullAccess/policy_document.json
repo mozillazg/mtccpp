@@ -1,0 +1,22 @@
+{
+ "statement": [
+  {
+   "action": [
+    "wwc:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cvm:*",
+    "vpc:*",
+    "clb:*",
+    "cdb:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "iotmarket:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

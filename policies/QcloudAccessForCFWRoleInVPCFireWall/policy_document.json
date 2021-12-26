@@ -1,0 +1,40 @@
+{
+ "statement": [
+  {
+   "action": [
+    "vpc:DescribeRouteTable",
+    "vpc:ModifyRoute",
+    "vpc:DeleteRoute",
+    "vpc:CreateRoute",
+    "vpc:DescribeVpcPeeringConnections",
+    "vpc:DescribeCcnAttachedInstances",
+    "vpc:DescribeCcns",
+    "vpc:DescribeSubnet",
+    "vpc:DescribeSubnetEx",
+    "vpc:CreateSubnet",
+    "vpc:DeleteSubnet",
+    "vpc:DeleteRouteTable",
+    "vpc:ReplaceRouteTableAssociation",
+    "vpc:CreateRouteTable",
+    "cvm:ModifyAddressesBandwidth",
+    "cvm:AllocateAddresses",
+    "cvm:ReleaseAddresses",
+    "cvm:DescribeAddresses",
+    "cvm:ResetInstancesInternetMaxBandwidth",
+    "cvm:DescribeInstanceInternetBandwidthConfigs",
+    "vpc:HaVipAssociateAddressIp",
+    "vpc:HaVipDisassociateAddressIp",
+    "vpc:ModifyVpcAttribute",
+    "vpc:DescribeAssistantCidr",
+    "vpc:CreateAssistantCidr",
+    "vpc:DeleteAssistantCidr",
+    "vpc:ModifyNatGatewayDestinationIpPortTranslationNatRule",
+    "vpc:CreateNatGatewayDestinationIpPortTranslationNatRule",
+    "vpc:DeleteNatGatewayDestinationIpPortTranslationNatRule"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

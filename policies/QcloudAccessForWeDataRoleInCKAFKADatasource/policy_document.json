@@ -1,0 +1,29 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ckafka:CreateRoute",
+    "ckafka:DeleteRoute",
+    "ckafka:DescribeACL",
+    "ckafka:DescribeAppInfo",
+    "ckafka:DescribeConsumerGroup",
+    "ckafka:DescribeGroup",
+    "ckafka:DescribeGroupInfo",
+    "ckafka:DescribeGroupOffsets",
+    "ckafka:DescribeInstanceAttributes",
+    "ckafka:DescribeInstances",
+    "ckafka:DescribeInstancesDetail",
+    "ckafka:DescribeRoute",
+    "ckafka:DescribeTopic",
+    "ckafka:DescribeTopicAttributes",
+    "ckafka:DescribeTopicDetail",
+    "ckafka:DescribeUser"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,36 @@
+{
+ "statement": [
+  {
+   "action": [
+    "wwc:Describe*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cvm:Describe*",
+    "cvm:Inquiry*",
+    "vpc:Describe*",
+    "vpc:Inquiry*",
+    "vpc:Get*",
+    "clb:Describe*",
+    "cdb:Describe*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "monitor:Describe*",
+    "monitor:Get*",
+    "cam:ListUsersForGroup",
+    "cam:ListGroups",
+    "cam:GetGroup"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

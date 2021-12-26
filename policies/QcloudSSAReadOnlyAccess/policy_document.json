@@ -1,0 +1,43 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ssa:SaServiceMng",
+    "ssa:SaUserBehaviorReport",
+    "ssa:SaDivulgeDataQuery*",
+    "ssa:SaDivulgeOverviewQuery",
+    "ssa:SaDivulgeProductConfigQuery",
+    "ssa:SaDivulgeProductQuery",
+    "ssa:SaDivulgeScanRuleQuery",
+    "ssa:SaDivulgeScanWhiteQuery",
+    "ssa:SaEventPrv*",
+    "ssa:SaEventPub",
+    "ssa:SaEventType",
+    "ssa:SaIntelligenceYdVulScanSlaQuery",
+    "ssa:SaOverview*",
+    "ssa:SaScreen*",
+    "ssa:SaSecVulIntelligenceSendMsgReadConfig",
+    "ssa:SaSecWeeklyReadConfig",
+    "ssa:SaSecWeeklyRiskType",
+    "ssa:SaSecWeeklyTitle",
+    "ssa:SaUserLogoRead",
+    "ssa:SaVulType",
+    "ssa:SaOverview*",
+    "ssa:SaVulList",
+    "ssa:SaVulMng",
+    "ssa:SaVulIntelligenceList",
+    "ssa:SaVulIntelligenceParticularst",
+    "ssa:Describe*",
+    "ssa:Check*",
+    "ssa:Get*",
+    "ssa:ReportVisit",
+    "ssa:CreateSourceStatistic",
+    "ssa:Screen*",
+    "ssa:SaIntelligenceAddYdVulScanTaskNew"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

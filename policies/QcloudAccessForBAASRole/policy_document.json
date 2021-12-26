@@ -1,0 +1,32 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:DescribeInstanceInternetBandwidthConfigs",
+    "cvm:RunInstances",
+    "cvm:InquiryPriceRunInstances",
+    "cvm:DescribeInstanceVncUrl",
+    "cvm:DescribeInstances",
+    "cvm:DescribeImages",
+    "cvm:StartInstances",
+    "cvm:DescribeInstancesStatus",
+    "cvm:StopInstances",
+    "cvm:RebootInstances",
+    "cvm:ResetInstance",
+    "cvm:CreateSecurityGroup",
+    "cvm:CreateSecurityGroupPolicy",
+    "cvm:DeleteSecurityGroup",
+    "cvm:ModifyInstancesAttribute",
+    "cvm:AssociateSecurityGroups"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": "finance:*",
+   "effect": "allow",
+   "resource": "qcs::cvm:::*"
+  }
+ ],
+ "version": "2.0"
+}

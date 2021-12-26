@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-03-20 16:14:26",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cdb:DescribeDBInstances\",\"cdb:DescribeTables\",\"cdb:DescribeDatabases\",\"cdb:DescribeDBRoutes\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudCDBAccessForIOTRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:42:07"
+}

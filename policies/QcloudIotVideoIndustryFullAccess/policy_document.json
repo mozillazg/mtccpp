@@ -1,0 +1,10 @@
+{
+ "statement": [
+  {
+   "action": "iotvideoindustry:*",
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

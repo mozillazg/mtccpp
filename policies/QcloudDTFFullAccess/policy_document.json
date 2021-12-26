@@ -1,0 +1,28 @@
+{
+ "statement": [
+  {
+   "action": [
+    "dtf:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeSubnetEx",
+    "vpc:DescribeSubnet"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "monitor:GetMonitorData"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

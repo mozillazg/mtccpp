@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "gse:Get*",
+    "gse:Describe*",
+    "gse:List*",
+    "gse:Resolve*",
+    "gse:Search*",
+    "gse:Check*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "scf:GetFunction",
+    "scf:GetAccount",
+    "scf:UnbindTrigger",
+    "scf:BindTrigger",
+    "scf:ListAliases",
+    "scf:ListVersionByFunction"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

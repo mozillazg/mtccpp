@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cme:Describe*",
+    "cme:List*",
+    "cme:Search*",
+    "cme:FlattenListMedia"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

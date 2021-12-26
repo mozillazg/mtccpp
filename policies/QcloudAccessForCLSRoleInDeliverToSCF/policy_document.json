@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "scf:UnbindTrigger",
+    "scf:BindTrigger",
+    "scf:ListVersionByFunction",
+    "scf:ListAliases"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

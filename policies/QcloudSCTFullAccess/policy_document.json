@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "sct:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

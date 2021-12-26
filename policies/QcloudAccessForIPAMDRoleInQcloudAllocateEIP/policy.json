@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-04-07 15:34:58",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvm:ModifyAddressesBandwidth\",\"cvm:AllocateAddresses\",\"cvm:AssociateAddress\",\"cvm:DescribeAddressQuota\",\"cvm:DescribeAddresses\",\"cvm:DisassociateAddress\",\"cvm:ModifyAddressAttribute\",\"cvm:ReleaseAddresses\",\"cvm:TransformAddress\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessForIPAMDRoleInQcloudAllocateEIP",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-08-09 10:48:46"
+}

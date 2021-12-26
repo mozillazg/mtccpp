@@ -1,0 +1,22 @@
+{
+ "statement": [
+  {
+   "action": [
+    "message:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "name/cam:ListSubAccounts",
+    "name/cam:GetAllSubUser"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

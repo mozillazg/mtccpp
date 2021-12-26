@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cas:Describe*",
+    "cas:List*",
+    "cas:Get*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

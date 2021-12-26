@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-01-29 15:23:10",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cos:PutObject\",\"cos:GetObject\",\"cos:DeleteObject\",\"cos:ListParts\",\"cos:UploadPart\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCOSAccessForCkafkaRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2020-09-29 11:42:07"
+}

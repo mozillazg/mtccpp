@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-09-16 17:29:31",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cvm:DescribeInstances\",\"cvm:DescribeCbsStorages\",\"clb:DescribeLoadBalancers\",\"cdb:DescribeDBInstances\",\"mariadb:DescribeDBInstances\",\"redis:DescribeInstances\",\"cos:GetService\",\"wss:CertGetList\",\"vpc:DescribeVpcEx\",\"vpc:DescribeSubnetEx\",\"vpc:DescribeVpnGw\",\"vpc:DescribeNatGateways\",\"tcr:DescribeRepositoryOwnerPersonal\",\"mongodb:DescribeDBInstances\",\"cwp:DescribeMachineInfo\",\"cwp:DescribeMachines\",\"cwp:DescribeBashEvents\",\"cwp:DescribeBruteAttackList\",\"cwp:DescribeHostLoginList\",\"cwp:DescribeMalWareList\",\"cwp:DescribePrivilegeEvents\",\"cwp:DescribeReverseShellEvents\",\"cwp:DescribeRiskDnsList\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForSSARoleInAssetsSecurity",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-10-20 09:46:16"
+}

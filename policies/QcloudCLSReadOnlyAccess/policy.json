@@ -1,0 +1,9 @@
+{
+ "AddTime": "2019-10-21 17:32:33",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cls:get*\",\"cls:list*\",\"cls:Describe*\",\"cls:GetHistogram\",\"cls:GetFastAnalysis\",\"cls:GetChart\",\"cls:ListChart\",\"cls:ListDashboard\",\"cls:GetDashboard\",\"cls:searchLog\",\"cls:downloadLog\",\"cls:pullLogs\",\"cls:GetAccount\",\"cls:GetResource\",\"cls:ListAlarm\",\"cls:GetAlarm\",\"cls:GetAlarmLog\",\"cls:GetDeliverFunction\",\"cls:ShowContext\",\"cls:GetLog\",\"cls:DescribeAsyncSearchResult\",\"cls:DescribeAsyncSearchTasks\",\"cls:CreateExport\",\"cls:DeleteExport\",\"cls:CreateAsyncSearchTask\",\"cls:DeleteAsyncSearchTask\",\"cls:CreateAsyncContextTask\",\"cls:DeleteAsyncContextTask\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"effect\":\"allow\",\"action\":[\"monitor:Get*\",\"monitor:Describe*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\",\"cam:ListAttachedRolePolicies\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudCLSReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-07-05 11:07:31"
+}

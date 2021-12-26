@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-11-16 14:56:47",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"oac:Describe*\",\"oac:CheckCamAuthentication\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudOACReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-03-31 11:33:44"
+}

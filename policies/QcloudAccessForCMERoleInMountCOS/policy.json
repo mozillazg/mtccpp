@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-12-13 14:45:21",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"resource\":[\"*\"],\"action\":[\"cos:GetService\",\"cos:AbortMultipartUpload\",\"cos:AppendObject\",\"cos:CompleteMultipartUpload\",\"cos:GetBucket\",\"cos:GetBucketObjectVersions\",\"cos:GetBucketTagging\",\"cos:GetObject\",\"cos:GetObjectTagging\",\"cos:HeadBucket\",\"cos:HeadObject\",\"cos:InitiateMultipartUpload\",\"cos:ListMultipartUploads\",\"cos:ListParts\",\"cos:OptionsObject\",\"cos:PutObject\",\"cos:PutObjectCopy\",\"cos:UploadPart\",\"cos:UploadPartCopy\"]}]}",
+ "PolicyName": "QcloudAccessForCMERoleInMountCOS",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-12-13 14:45:21"
+}

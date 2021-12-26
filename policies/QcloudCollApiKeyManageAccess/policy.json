@@ -1,0 +1,9 @@
+{
+ "AddTime": "2020-02-17 20:40:09",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cam:QueryKeyBySecretId\",\"cloudaudit:LookUpEvents\",\"cam:*CollApiKey\",\"cam:GetReceiverInfo\",\"cam:GetSecurityLastUsed\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCollApiKeyManageAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-11-08 15:24:35"
+}

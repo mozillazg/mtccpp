@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "iotexplorer:Describe*",
+    "iotexplorer:Get*",
+    "iotexplorer:SearchStudioProduct",
+    "iotexplorer:SubscribeDebugOnlineLog",
+    "iotexplorer:ListEventHistory"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

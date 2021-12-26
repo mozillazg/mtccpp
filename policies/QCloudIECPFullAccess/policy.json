@@ -1,0 +1,9 @@
+{
+ "AddTime": "2021-11-24 15:17:07",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"iecp:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QCloudIECPFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2021-11-24 15:20:11"
+}
