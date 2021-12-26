@@ -126,8 +126,8 @@ def main():
     n = 0
     for p in policies:
         n += 1
-        if n % 40 == 0:
-            time.sleep(1)
+        if n % 20 == 0:
+            time.sleep(0.5)
         save_policy(client, p.PolicyId, options.policies_dir)
 
     print('saved {} policies'.format(len(policies)))
