@@ -2157,7 +2157,7 @@
   "PolicyName": "QcloudAccessForTIONERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2021-08-09 10:48:46"
+  "UpdateTime": "2022-01-04 10:38:34"
  },
  {
   "AddTime": "2019-02-18 10:24:09",
@@ -4197,7 +4197,7 @@
   "PolicyName": "QcloudAccessForTIONERoleInCodeRepository",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2021-08-09 10:48:46"
+  "UpdateTime": "2022-01-04 10:38:21"
  },
  {
   "AddTime": "2020-03-12 17:00:57",
@@ -4521,7 +4521,7 @@
   "PolicyName": "QcloudTIONEFullAccess",
   "ServiceType": "tione",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2022-01-04 10:37:14"
  },
  {
   "AddTime": "2020-05-13 15:10:09",
@@ -4533,7 +4533,7 @@
   "PolicyName": "QcloudTIONEReadOnlyAccess",
   "ServiceType": "tione",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2022-01-04 10:36:17"
  },
  {
   "AddTime": "2020-05-14 11:53:25",
@@ -4545,7 +4545,7 @@
   "PolicyName": "QcloudCMEFullAccess",
   "ServiceType": "cme",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2022-01-04 10:14:20"
  },
  {
   "AddTime": "2020-05-14 12:29:47",
@@ -4557,7 +4557,7 @@
   "PolicyName": "QcloudCMEReadOnlyAccess",
   "ServiceType": "cme",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2022-01-04 10:13:55"
  },
  {
   "AddTime": "2020-05-14 17:20:49",
@@ -7989,7 +7989,7 @@
   "PolicyName": "QcloudAccessForCMERoleInMountCOS",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2021-12-13 14:45:21"
+  "UpdateTime": "2022-01-04 10:39:25"
  },
  {
   "AddTime": "2021-12-16 21:56:38",
@@ -8026,5 +8026,29 @@
   "ServiceType": "cooperator",
   "Type": 2,
   "UpdateTime": "2021-12-23 15:38:33"
+ },
+ {
+  "AddTime": "2022-01-04 15:05:18",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 109477634,
+  "PolicyName": "QcloudAccessForCASBRoleInDatabaseAssets",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2022-01-04 15:05:18"
+ },
+ {
+  "AddTime": "2022-01-04 17:55:51",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 109492601,
+  "PolicyName": "QcloudAccessForAPIRoleInCOS",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2022-01-04 17:55:51"
  }
 ]

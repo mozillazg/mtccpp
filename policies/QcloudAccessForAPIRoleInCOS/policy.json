@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-01-04 17:55:51",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cos:GetService\",\"cos:GetBucket\",\"cos:GetBucketObjectVersions\",\"cos:PutObject\",\"cos:PutObjectCopy\",\"cos:PostObject\",\"cos:AppendObject\",\"cos:GetObject\",\"cos:HeadObject\",\"cos:DeleteObject\",\"cos:OptionsObject\",\"cos:PostObjectRestore\",\"cos:InitiateMultipartUpload\",\"cos:UploadPart\",\"cos:UploadPartCopy\",\"cos:CompleteMultipartUpload\",\"cos:AbortMultipartUpload\",\"cos:ListMultipartUploads\",\"cos:ListParts\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessForAPIRoleInCOS",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-01-04 17:55:51"
+}

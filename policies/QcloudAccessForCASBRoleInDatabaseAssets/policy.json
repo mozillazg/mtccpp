@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-01-04 15:05:18",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cvm:DescribeInstances\",\"clb:DescribeLoadBalancers\",\"cdb:DescribeDBInstances\",\"cdb:DescribeRoGroups\",\"cdb:DescribeAccountPrivileges\",\"cdb:DescribeAccounts\",\"mariadb:DescribeDBInstances\",\"mariadb:DescribeDcnDetail\",\"mariadb:DescribeAccountPrivileges\",\"mariadb:DescribeAccounts\",\"dcdb:DescribeDCDBInstances\",\"dcdb:DescribeDcnDetail\",\"dcdb:DescribeAccountPrivileges\",\"dcdb:DescribeAccounts\",\"postgres:DescribeDBInstances\",\"postgres:DescribeAccounts\",\"cynosdb:DescribeInstances\",\"cynosdb:DescribeInstanceDetail\",\"cynosdb:DescribeAccounts\",\"cynosdb:DescribeClusterInstanceGrps\",\"cynosdb:DescribeClusters\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForCASBRoleInDatabaseAssets",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-01-04 15:05:18"
+}
