@@ -22,7 +22,9 @@
     "ckafka:CreateRoute",
     "ckafka:ModifyGroupOffsets",
     "tdmq:DescribeEnvironmentRoles",
-    "cls:*"
+    "cls:*",
+    "ckafka:ModifyGroupOffsets",
+    "ckafka:DeleteGroup"
    ],
    "effect": "allow",
    "resource": "*"
