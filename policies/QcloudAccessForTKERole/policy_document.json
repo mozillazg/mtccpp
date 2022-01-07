@@ -26,7 +26,11 @@
     "cvm:DisassociateAddress",
     "cvm:ReleaseAddresses",
     "ssl:DescribeCertificateDetail",
-    "ssl:UploadCertificate"
+    "ssl:UploadCertificate",
+    "cvm:DescribeSnapshots",
+    "cvm:CreateSnapshot",
+    "cvm:DeleteSnapshot",
+    "cvm:BindAutoSnapshotPolicy"
    ],
    "effect": "allow",
    "resource": "*"

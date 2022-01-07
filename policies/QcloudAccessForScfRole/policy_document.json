@@ -17,7 +17,11 @@
     "ckafka:Describe*",
     "ckafka:AddRoute",
     "ckafka:CreateRoute",
-    "eb:*"
+    "eb:*",
+    "ckafka:DescribeTopicAttributes",
+    "ckafka:ModifyGroupOffsets",
+    "ckafka:DeleteGroup",
+    "monitor:GetMonitorData"
    ],
    "effect": "allow",
    "resource": "*"

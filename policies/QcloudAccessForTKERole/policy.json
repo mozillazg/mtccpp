@@ -1,9 +1,9 @@
 {
  "AddTime": "2018-12-10 16:21:53",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvm:DescribeInstances\",\"tag:*\",\"clb:*\",\"cvm:*Cbs*\",\"cls:pushLog\",\"cls:searchLog\",\"cls:listLogset\",\"cls:getLogset\",\"cls:listTopic\",\"cls:getTopic\",\"cls:agentHeartBeat\",\"cls:getConfig\",\"ccs:DescribeCluster\",\"ccs:DescribeClusterInstances\",\"vpc:DescribeSubnet\",\"vpc:DescribeSubnetEx\",\"vpc:DescribeCcnAttachedInstances\",\"cvm:AllocateAddresses\",\"cvm:DescribeAddresses\",\"vpc:DescribeNetworkInterfaces\",\"cvm:AssociateAddress\",\"cvm:DisassociateAddress\",\"cvm:ReleaseAddresses\",\"ssl:DescribeCertificateDetail\",\"ssl:UploadCertificate\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvm:DescribeInstances\",\"tag:*\",\"clb:*\",\"cvm:*Cbs*\",\"cls:pushLog\",\"cls:searchLog\",\"cls:listLogset\",\"cls:getLogset\",\"cls:listTopic\",\"cls:getTopic\",\"cls:agentHeartBeat\",\"cls:getConfig\",\"ccs:DescribeCluster\",\"ccs:DescribeClusterInstances\",\"vpc:DescribeSubnet\",\"vpc:DescribeSubnetEx\",\"vpc:DescribeCcnAttachedInstances\",\"cvm:AllocateAddresses\",\"cvm:DescribeAddresses\",\"vpc:DescribeNetworkInterfaces\",\"cvm:AssociateAddress\",\"cvm:DisassociateAddress\",\"cvm:ReleaseAddresses\",\"ssl:DescribeCertificateDetail\",\"ssl:UploadCertificate\",\"cvm:DescribeSnapshots\",\"cvm:CreateSnapshot\",\"cvm:DeleteSnapshot\",\"cvm:BindAutoSnapshotPolicy\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
  "PolicyName": "QcloudAccessForTKERole",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2021-09-28 09:55:40"
+ "UpdateTime": "2022-01-06 09:59:51"
 }
