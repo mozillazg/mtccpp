@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-01-04 14:55:32",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"dbs:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudDBSFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-01-04 14:55:32"
+}
