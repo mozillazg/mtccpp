@@ -10,7 +10,21 @@
     "cls:createTopic",
     "cls:modifyIndex",
     "cls:listLogset",
-    "cls:listTopic"
+    "cls:listTopic",
+    "apm:CreateApmInstance",
+    "apm:DescribeApmInstances",
+    "apm:DescribeApmAgent",
+    "tke:DescribeClusters",
+    "tke:DescribeClusterSecurity",
+    "tag:DescribeTags",
+    "tag:DescribeTagValues",
+    "tag:DescribeResourceTags",
+    "tag:DescribeResourcesByTags",
+    "tag:DescribeResourceTagsByTagKeys",
+    "tag:DescribeResourceTagsByResourceIds",
+    "tag:TagResources",
+    "tag:UnTagResources",
+    "tag:ModifyResourcesTagValue"
    ],
    "effect": "allow",
    "resource": [
