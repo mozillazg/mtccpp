@@ -133,7 +133,8 @@
     "vpc:DeleteVpc",
     "tat:RunCommand",
     "dnspod:DescribeDomainList",
-    "dnspod:DescribeRecordList"
+    "dnspod:DescribeRecordList",
+    "vpc:DescribeVpnConnections"
    ],
    "effect": "allow",
    "resource": "*"
