@@ -1,0 +1,41 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tione:Check*",
+    "tione:Describe*",
+    "tione:CreateBillingResourceGroup",
+    "tione:ModifyBillingResourceGroup",
+    "tione:DescribeBillingResourceGroups",
+    "tione:DeleteBillingResourceGroup",
+    "tione:DeleteBillingResourceInstance",
+    "tione:DeliverBillingResource",
+    "tione:SetRenewBillingResourceFlag",
+    "tione:DestroyBillingResource",
+    "tione:DescribeBillingSpecs",
+    "tione:CreateBillingResourceInstance",
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies",
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeSubnetEx",
+    "cls:DescribeLogsets",
+    "cls:DescribeTopics",
+    "tcr:DescribeInstances",
+    "tcr:DescribeNamespaces",
+    "tcr:DescribeRepositories",
+    "monitor:GetMonitorData",
+    "cos:GetService",
+    "cos:GetObject",
+    "cos:GetBucket",
+    "cos:HeadObject",
+    "cos:OptionsObject",
+    "tag:DescribeTagKeys",
+    "tag:DescribeTagValues",
+    "finance:trade"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

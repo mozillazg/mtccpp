@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-01-12 19:37:04",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tione:*\",\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"vpc:DescribeVpcEx\",\"vpc:DescribeSubnetEx\",\"cls:DescribeLogsets\",\"cls:DescribeTopics\",\"tcr:DescribeInstances\",\"tcr:DescribeNamespaces\",\"tcr:DescribeRepositories\",\"monitor:GetMonitorData\",\"cos:GetService\",\"cos:GetObject\",\"cos:GetBucket\",\"cos:HeadObject\",\"cos:OptionsObject\",\"tag:DescribeTagKeys\",\"tag:DescribeTagValues\",\"tag:AttachResourcesTag\",\"tag:DetachResourcesTag\",\"finance:trade\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudTIONEFullAccessContainMultiservice",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-01-13 14:46:26"
+}
