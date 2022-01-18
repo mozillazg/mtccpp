@@ -5268,18 +5268,6 @@
   "UpdateTime": "2021-08-09 10:48:46"
  },
  {
-  "AddTime": "2020-09-23 21:26:18",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 53514082,
-  "PolicyName": "QcloudTCEXFullAccess",
-  "ServiceType": "tcex",
-  "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
- },
- {
   "AddTime": "2020-09-24 15:57:00",
   "CreateMode": 2,
   "Deactived": 0,
@@ -5676,30 +5664,6 @@
   "UpdateTime": "2021-08-09 10:48:46"
  },
  {
-  "AddTime": "2020-11-16 17:42:39",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 58893593,
-  "PolicyName": "QcloudGPMFullAccess",
-  "ServiceType": "gpm",
-  "Type": 2,
-  "UpdateTime": "2020-11-16 17:42:39"
- },
- {
-  "AddTime": "2020-11-16 17:43:11",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 58893619,
-  "PolicyName": "QcloudGPMReadOnlyAccess",
-  "ServiceType": "gpm",
-  "Type": 2,
-  "UpdateTime": "2020-11-16 17:43:11"
- },
- {
   "AddTime": "2020-11-18 15:19:33",
   "CreateMode": 2,
   "Deactived": 0,
@@ -5938,30 +5902,6 @@
   "ServiceType": "dc",
   "Type": 2,
   "UpdateTime": "2020-12-28 18:01:29"
- },
- {
-  "AddTime": "2020-12-28 20:25:32",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 63160310,
-  "PolicyName": "QcloudTSWReadOnlyAccess",
-  "ServiceType": "tsw",
-  "Type": 2,
-  "UpdateTime": "2020-12-28 20:25:32"
- },
- {
-  "AddTime": "2020-12-28 20:25:36",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 63160319,
-  "PolicyName": "QcloudTSWFullAccess",
-  "ServiceType": "tsw",
-  "Type": 2,
-  "UpdateTime": "2020-12-28 20:25:36"
  },
  {
   "AddTime": "2020-12-29 14:41:54",
