@@ -18,29 +18,11 @@
     "cos:CompleteMultipartUpload",
     "cos:AbortMultipartUpload",
     "cos:AppendObject",
-    "cos:PutBucket"
-   ],
-   "effect": "allow",
-   "resource": "*"
-  },
-  {
-   "action": [
+    "cos:PutBucket",
     "vpc:DescribeSubnet",
     "vpc:DescribeSubnetEx",
-    "vpc:DescribeVpcEx"
-   ],
-   "effect": "allow",
-   "resource": "*"
-  },
-  {
-   "action": [
-    "ccr:pull"
-   ],
-   "effect": "allow",
-   "resource": "*"
-  },
-  {
-   "action": [
+    "vpc:DescribeVpcEx",
+    "ccr:pull",
     "cls:listLogset",
     "cls:listTopic",
     "cls:getTopic",
@@ -51,21 +33,23 @@
     "cls:pushLog",
     "cls:deleteTopic",
     "cls:modifyIndex",
-    "cls:modifyLogset"
-   ],
-   "effect": "allow",
-   "resource": "*"
-  },
-  {
-   "action": [
-    "monitor:GetMonitorData"
-   ],
-   "effect": "allow",
-   "resource": "*"
-  },
-  {
-   "action": [
-    "cfs:DescribeMountTargets"
+    "cls:modifyLogset",
+    "monitor:GetMonitorData",
+    "cfs:DescribeMountTargets",
+    "cos:PutObjectCopy",
+    "cos:GetObjectACL",
+    "cos:DeleteMultipleObjects",
+    "cos:PutObjectACL",
+    "cls:SearchLog",
+    "cls:UploadLog",
+    "cls:CreateIndex",
+    "cls:ModifyIndex",
+    "cls:DescribeIndex",
+    "cls:DescribeTopics",
+    "tcr:CreateInstanceToken",
+    "tcr:DescribeInstanceToken",
+    "tcr:DeleteInstanceToken",
+    "cam:GetRole"
    ],
    "effect": "allow",
    "resource": "*"

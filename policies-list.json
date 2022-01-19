@@ -2157,7 +2157,7 @@
   "PolicyName": "QcloudAccessForTIONERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-01-04 10:38:34"
+  "UpdateTime": "2022-01-18 19:00:21"
  },
  {
   "AddTime": "2019-02-18 10:24:09",
@@ -8062,5 +8062,17 @@
   "ServiceType": "tione",
   "Type": 2,
   "UpdateTime": "2022-01-13 14:46:26"
+ },
+ {
+  "AddTime": "2022-01-18 17:36:12",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 110994932,
+  "PolicyName": "QcloudAccessForSSARoleInLogDeliver",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2022-01-18 17:36:12"
  }
 ]
