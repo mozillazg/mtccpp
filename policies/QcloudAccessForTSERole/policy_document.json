@@ -9,7 +9,9 @@
     "vpc:CreateVpcEndPoint",
     "vpc:DeleteVpcEndPoint",
     "clb:SetSecurityGroupForLoadbalancers",
-    "cvm:CreateSecurityGroup"
+    "cvm:CreateSecurityGroup",
+    "tke:DescribeClusters",
+    "tke:DescribeClusterSecurity"
    ],
    "effect": "allow",
    "resource": [

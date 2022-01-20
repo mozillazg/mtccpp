@@ -51,7 +51,9 @@
     "mariadb:DescribeDBInstances",
     "mariadb:DescribeDBSecurityGroups",
     "postgres:DescribeDBInstances",
-    "vpc:DescribeSecurityGroupReferences"
+    "vpc:DescribeSecurityGroupReferences",
+    "cam:ListAttachedUserPolicies",
+    "cam:GenerateSafetyAnalysisReport"
    ],
    "effect": "allow",
    "resource": "*"
