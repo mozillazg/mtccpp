@@ -1,9 +1,9 @@
 {
  "AddTime": "2021-05-17 16:08:12",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"apigw:CreateApi\",\"apigw:DeleteApi\",\"apigw:DescribeService\",\"apigw:ReleaseService\",\"scf:GetFunction\",\"scf:BindTrigger\",\"scf:UnbindTrigger\",\"scf:InvokeFunction\",\"tdmq:DescribeTopics\",\"tdmq:CreateEnvironmentRole\",\"tdmq:ModifyEnvironmentRole\",\"tdmq:DescribeSubscriptions\",\"tdmq:DescribeRoles\",\"tdmq:CreateRole\",\"apigw:UnReleaseService\",\"ckafka:DescribeTopicAttributes\",\"ckafka:DescribeRoute\",\"ckafka:CreateRoute\",\"ckafka:ModifyGroupOffsets\",\"tdmq:DescribeEnvironmentRoles\",\"cls:*\",\"ckafka:ModifyGroupOffsets\",\"ckafka:DeleteGroup\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"apigw:CreateApi\",\"apigw:DeleteApi\",\"apigw:DescribeService\",\"apigw:ReleaseService\",\"scf:GetFunction\",\"scf:BindTrigger\",\"scf:UnbindTrigger\",\"scf:InvokeFunction\",\"tdmq:DescribeTopics\",\"tdmq:CreateEnvironmentRole\",\"tdmq:ModifyEnvironmentRole\",\"tdmq:DescribeSubscriptions\",\"tdmq:DescribeRoles\",\"tdmq:CreateRole\",\"apigw:UnReleaseService\",\"ckafka:DescribeTopicAttributes\",\"ckafka:DescribeRoute\",\"ckafka:CreateRoute\",\"ckafka:ModifyGroupOffsets\",\"tdmq:DescribeEnvironmentRoles\",\"cls:*\",\"ckafka:ModifyGroupOffsets\",\"ckafka:DeleteGroup\",\"tdmq:DescribeEnvironmentAttributes\",\"ckafka:DescribeInstanceAttributes\"],\"resource\":\"*\"}]}",
  "PolicyName": "QcloudAccessForEBRole",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2022-01-05 10:27:16"
+ "UpdateTime": "2022-01-24 09:33:38"
 }

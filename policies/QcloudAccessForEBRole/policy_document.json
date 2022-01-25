@@ -24,7 +24,9 @@
     "tdmq:DescribeEnvironmentRoles",
     "cls:*",
     "ckafka:ModifyGroupOffsets",
-    "ckafka:DeleteGroup"
+    "ckafka:DeleteGroup",
+    "tdmq:DescribeEnvironmentAttributes",
+    "ckafka:DescribeInstanceAttributes"
    ],
    "effect": "allow",
    "resource": "*"
