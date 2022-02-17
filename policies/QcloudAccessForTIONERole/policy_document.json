@@ -49,7 +49,9 @@
     "tcr:CreateInstanceToken",
     "tcr:DescribeInstanceToken",
     "tcr:DeleteInstanceToken",
-    "cam:GetRole"
+    "cam:GetRole",
+    "tcr:PullRepository",
+    "tcr:PullRepositoryPersonal"
    ],
    "effect": "allow",
    "resource": "*"
