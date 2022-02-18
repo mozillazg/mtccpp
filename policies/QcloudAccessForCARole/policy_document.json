@@ -20,7 +20,8 @@
     "cos:CompleteMultipartUpload",
     "cos:AbortMultipartUpload",
     "cos:ListMultipartUploads",
-    "cls:pushLog"
+    "cls:pushLog",
+    "eb:PutCloudEvents"
    ],
    "effect": "allow",
    "resource": "*"

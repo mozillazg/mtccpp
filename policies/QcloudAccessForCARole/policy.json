@@ -1,9 +1,9 @@
 {
  "AddTime": "2019-05-06 11:29:35",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cmqqueue:CreateQueue\",\"cmqqueue:ListQueue\",\"cmqqueue:SendMessage\",\"cos:PutBucket\",\"cos:PutObject\",\"cos:GetService\",\"kms:GetServiceStatus\",\"kms:CreateKey\",\"kms:ListKeyDetail\",\"cos:ListParts\",\"cos:PostObject\",\"cos:PutObject*\",\"cos:InitiateMultipartUpload\",\"cos:UploadPart\",\"cos:UploadPartCopy\",\"cos:CompleteMultipartUpload\",\"cos:AbortMultipartUpload\",\"cos:ListMultipartUploads\",\"cls:pushLog\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cmqqueue:CreateQueue\",\"cmqqueue:ListQueue\",\"cmqqueue:SendMessage\",\"cos:PutBucket\",\"cos:PutObject\",\"cos:GetService\",\"kms:GetServiceStatus\",\"kms:CreateKey\",\"kms:ListKeyDetail\",\"cos:ListParts\",\"cos:PostObject\",\"cos:PutObject*\",\"cos:InitiateMultipartUpload\",\"cos:UploadPart\",\"cos:UploadPartCopy\",\"cos:CompleteMultipartUpload\",\"cos:AbortMultipartUpload\",\"cos:ListMultipartUploads\",\"cls:pushLog\",\"eb:PutCloudEvents\"],\"resource\":\"*\"}]}",
  "PolicyName": "QcloudAccessForCARole",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2021-08-09 10:48:46"
+ "UpdateTime": "2022-02-17 17:14:26"
 }
