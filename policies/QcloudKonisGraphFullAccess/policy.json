@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-02-15 15:38:13",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"konisgraph:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudKonisGraphFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-02-15 15:38:13"
+}
