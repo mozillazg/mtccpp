@@ -8218,5 +8218,17 @@
   "ServiceType": "mrp",
   "Type": 2,
   "UpdateTime": "2022-02-24 15:33:46"
+ },
+ {
+  "AddTime": "2022-02-28 10:26:37",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 115021114,
+  "PolicyName": "QcloudCCPFullAccess",
+  "ServiceType": "ccp",
+  "Type": 2,
+  "UpdateTime": "2022-02-28 10:26:37"
  }
 ]
