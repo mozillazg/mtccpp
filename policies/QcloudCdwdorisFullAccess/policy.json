@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-03-01 15:13:18",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cdwdoris:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudCdwdorisFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-03-01 15:13:18"
+}
