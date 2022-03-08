@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cos:GetService",
+    "cos:HeadObject",
+    "cos:PostObject",
+    "cos:PutObject",
+    "cos:GetObject"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

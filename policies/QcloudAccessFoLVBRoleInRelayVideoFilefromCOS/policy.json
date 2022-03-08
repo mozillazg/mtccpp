@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-03-07 11:01:01",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cos:GetService\",\"cos:HeadObject\",\"cos:GetObject\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessFoLVBRoleInRelayVideoFilefromCOS",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-03-07 11:01:01"
+}
