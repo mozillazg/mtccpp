@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cloudaudit:LookupEvents"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

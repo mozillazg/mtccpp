@@ -21,7 +21,7 @@
   "PolicyName": "QCloudResourceFullAccess",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2021-08-09 15:45:04"
+  "UpdateTime": "2022-03-08 11:24:17"
  },
  {
   "AddTime": "2016-06-02 19:40:37",
@@ -8278,5 +8278,17 @@
   "ServiceType": "cooperator",
   "Type": 2,
   "UpdateTime": "2022-03-07 11:01:01"
+ },
+ {
+  "AddTime": "2022-03-08 21:43:15",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 116046078,
+  "PolicyName": "QcloudAccessForCAM_QCSRole",
+  "ServiceType": "cam",
+  "Type": 2,
+  "UpdateTime": "2022-03-08 21:43:15"
  }
 ]
