@@ -1,0 +1,21 @@
+{
+ "statement": [
+  {
+   "action": [
+    "chdfs:DescribeMountPoint",
+    "chdfs:DescribeAccessGroups",
+    "chdfs:DescribeAccessRules",
+    "chdfs:ModifyFileSystem",
+    "chdfs:CreateAccessGroup",
+    "chdfs:CreateAccessRules",
+    "chdfs:AssociateAccessGroups",
+    "chdfs:DisassociateAccessGroups",
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeAssistantCidr"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
