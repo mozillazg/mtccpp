@@ -1089,7 +1089,7 @@
   "PolicyName": "QcloudWAFFullAccess",
   "ServiceType": "waf",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2022-03-14 14:43:36"
  },
  {
   "AddTime": "2018-03-02 17:51:26",
@@ -1125,7 +1125,7 @@
   "PolicyName": "QcloudWAFReadOnlyAccess",
   "ServiceType": "waf",
   "Type": 2,
-  "UpdateTime": "2021-01-13 16:58:47"
+  "UpdateTime": "2022-03-14 14:42:55"
  },
  {
   "AddTime": "2018-03-13 11:06:35",
