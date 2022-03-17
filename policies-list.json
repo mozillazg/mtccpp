@@ -7956,6 +7956,30 @@
   "UpdateTime": "2021-12-20 10:32:28"
  },
  {
+  "AddTime": "2021-12-21 14:26:17",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 108118581,
+  "PolicyName": "QcloudIGTMReadOnlyAccess",
+  "ServiceType": "igtm",
+  "Type": 2,
+  "UpdateTime": "2021-12-21 14:26:17"
+ },
+ {
+  "AddTime": "2021-12-21 14:27:23",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 108118736,
+  "PolicyName": "QcloudIGTMFullAccess",
+  "ServiceType": "igtm",
+  "Type": 2,
+  "UpdateTime": "2021-12-21 14:27:23"
+ },
+ {
   "AddTime": "2021-12-23 15:38:33",
   "CreateMode": 2,
   "Deactived": 0,
