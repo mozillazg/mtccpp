@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-03-21 10:38:17",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cls:UploadLog\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessForCMRoleInUploadLog",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-03-21 10:38:17"
+}
