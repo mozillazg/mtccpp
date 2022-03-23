@@ -109,7 +109,9 @@
     "name/ecm:DescribeSecurityGroupAssociationStatistics",
     "name/ecm:DeleteSecurityGroupPolicies",
     "name/ecm:DeleteSecurityGroup",
-    "name/ecm:CreateSecurityGroupPolicies"
+    "name/ecm:CreateSecurityGroupPolicies",
+    "ecm:DescribeModuleDetail",
+    "ecm:DescribePackingQuotaGroup"
    ],
    "effect": "allow",
    "resource": [
