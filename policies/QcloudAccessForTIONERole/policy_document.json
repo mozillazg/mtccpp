@@ -51,7 +51,8 @@
     "tcr:DeleteInstanceToken",
     "cam:GetRole",
     "tcr:PullRepository",
-    "tcr:PullRepositoryPersonal"
+    "tcr:PullRepositoryPersonal",
+    "emr:DescribeClusterNodes"
    ],
    "effect": "allow",
    "resource": "*"

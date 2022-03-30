@@ -22,7 +22,10 @@
     "tag:DescribeTagValues",
     "tag:AttachResourcesTag",
     "tag:DetachResourcesTag",
-    "finance:trade"
+    "finance:trade",
+    "cfs:DescribeCfsFileSystems",
+    "emr:DescribeInstances",
+    "cvm:DescribeAddresses"
    ],
    "effect": "allow",
    "resource": "*"

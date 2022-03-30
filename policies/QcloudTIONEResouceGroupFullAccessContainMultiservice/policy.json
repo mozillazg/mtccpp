@@ -1,9 +1,9 @@
 {
  "AddTime": "2022-01-12 19:30:54",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tione:Check*\",\"tione:Describe*\",\"tione:CreateBillingResourceGroup\",\"tione:ModifyBillingResourceGroup\",\"tione:DescribeBillingResourceGroups\",\"tione:DeleteBillingResourceGroup\",\"tione:DeleteBillingResourceInstance\",\"tione:DeliverBillingResource\",\"tione:SetRenewBillingResourceFlag\",\"tione:DestroyBillingResource\",\"tione:DescribeBillingSpecs\",\"tione:CreateBillingResourceInstance\",\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"vpc:DescribeVpcEx\",\"vpc:DescribeSubnetEx\",\"cls:DescribeLogsets\",\"cls:DescribeTopics\",\"tcr:DescribeInstances\",\"tcr:DescribeNamespaces\",\"tcr:DescribeRepositories\",\"monitor:GetMonitorData\",\"cos:GetService\",\"cos:GetObject\",\"cos:GetBucket\",\"cos:HeadObject\",\"cos:OptionsObject\",\"tag:DescribeTagKeys\",\"tag:DescribeTagValues\",\"finance:trade\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tione:Check*\",\"tione:Describe*\",\"tione:CreateBillingResourceGroup\",\"tione:ModifyBillingResourceGroup\",\"tione:DescribeBillingResourceGroups\",\"tione:DeleteBillingResourceGroup\",\"tione:DeleteBillingResourceInstance\",\"tione:DeliverBillingResource\",\"tione:SetRenewBillingResourceFlag\",\"tione:DestroyBillingResource\",\"tione:DescribeBillingSpecs\",\"tione:CreateBillingResourceInstance\",\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"vpc:DescribeVpcEx\",\"vpc:DescribeSubnetEx\",\"cls:DescribeLogsets\",\"cls:DescribeTopics\",\"tcr:DescribeInstances\",\"tcr:DescribeNamespaces\",\"tcr:DescribeRepositories\",\"monitor:GetMonitorData\",\"cos:GetService\",\"cos:GetObject\",\"cos:GetBucket\",\"cos:HeadObject\",\"cos:OptionsObject\",\"tag:DescribeTagKeys\",\"tag:DescribeTagValues\",\"finance:trade\",\"cfs:DescribeCfsFileSystems\",\"emr:DescribeInstances\",\"cvm:DescribeAddresses\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
  "PolicyName": "QcloudTIONEResouceGroupFullAccessContainMultiservice",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2022-01-13 14:47:10"
+ "UpdateTime": "2022-03-29 10:31:15"
 }

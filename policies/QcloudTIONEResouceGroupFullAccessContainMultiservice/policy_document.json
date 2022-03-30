@@ -31,7 +31,10 @@
     "cos:OptionsObject",
     "tag:DescribeTagKeys",
     "tag:DescribeTagValues",
-    "finance:trade"
+    "finance:trade",
+    "cfs:DescribeCfsFileSystems",
+    "emr:DescribeInstances",
+    "cvm:DescribeAddresses"
    ],
    "effect": "allow",
    "resource": "*"

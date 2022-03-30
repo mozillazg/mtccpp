@@ -20,7 +20,10 @@
     "cos:HeadObject",
     "cos:OptionsObject",
     "tag:DescribeTagKeys",
-    "tag:DescribeTagValues"
+    "tag:DescribeTagValues",
+    "cfs:DescribeCfsFileSystems",
+    "emr:DescribeInstances",
+    "cvm:DescribeAddresses"
    ],
    "effect": "allow",
    "resource": "*"

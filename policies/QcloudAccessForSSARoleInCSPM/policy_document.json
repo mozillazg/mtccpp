@@ -53,7 +53,10 @@
     "postgres:DescribeDBInstances",
     "vpc:DescribeSecurityGroupReferences",
     "cam:ListAttachedUserPolicies",
-    "cam:GenerateSafetyAnalysisReport"
+    "cam:GenerateSafetyAnalysisReport",
+    "cwp:DescribeAssetPortInfoList",
+    "es:DescribeInstances",
+    "cfw:DescribeIPStatusList"
    ],
    "effect": "allow",
    "resource": "*"
