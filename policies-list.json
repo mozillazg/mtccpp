@@ -4569,7 +4569,7 @@
   "PolicyName": "QcloudAccessForWeDataRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2021-11-17 10:09:25"
+  "UpdateTime": "2022-03-30 14:13:58"
  },
  {
   "AddTime": "2020-06-01 10:38:07",
@@ -7413,7 +7413,7 @@
   "PolicyName": "QcloudWeDataExternalAccess",
   "ServiceType": "wedata",
   "Type": 2,
-  "UpdateTime": "2021-11-16 10:29:48"
+  "UpdateTime": "2022-03-30 14:17:30"
  },
  {
   "AddTime": "2021-09-01 15:43:59",
@@ -8362,5 +8362,17 @@
   "ServiceType": "cooperator",
   "Type": 2,
   "UpdateTime": "2022-03-21 10:38:17"
+ },
+ {
+  "AddTime": "2022-03-30 20:10:25",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 118419908,
+  "PolicyName": "QcloudAccessForCAM_QCSRole",
+  "ServiceType": "cam",
+  "Type": 2,
+  "UpdateTime": "2022-03-30 20:10:25"
  }
 ]

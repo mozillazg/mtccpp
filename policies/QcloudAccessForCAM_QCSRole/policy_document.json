@@ -2,7 +2,7 @@
  "statement": [
   {
    "action": [
-    "cloudaudit:LookupEvents"
+    "cam:CreateRole"
    ],
    "effect": "allow",
    "resource": "*"

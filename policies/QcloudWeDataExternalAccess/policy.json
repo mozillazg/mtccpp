@@ -1,9 +1,9 @@
 {
  "AddTime": "2021-09-01 14:51:15",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"resource\":[\"*\"],\"action\":[\"cam:ListUsers\",\"cam:ListCollaborators\",\"cam:DescribeRoleList\",\"cdb:DescribeDBInstances\",\"cdb:DescribeDatabases\",\"ckafka:DescribeInstances\",\"ckafka:DescribeTopic\",\"cos:GetService\",\"cos:GetBucket\",\"cvm:DescribeInstances\",\"emr:DescribeInstances\",\"emr:DescribeInstancesList\",\"redis:DescribeInstances\",\"vpc:DescribeVpcEx\",\"es:DescribeInstances\",\"oceanus:DescribeClusters\"]}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"resource\":[\"*\"],\"action\":[\"cam:ListUsers\",\"cam:ListCollaborators\",\"cam:DescribeRoleList\",\"cdb:DescribeDBInstances\",\"cdb:DescribeDatabases\",\"ckafka:DescribeInstances\",\"ckafka:DescribeTopic\",\"cos:GetService\",\"cos:GetBucket\",\"cvm:DescribeInstances\",\"emr:DescribeInstances\",\"emr:DescribeInstancesList\",\"redis:DescribeInstances\",\"vpc:DescribeVpcEx\",\"es:DescribeInstances\",\"oceanus:DescribeClusters\",\"vpc:DescribeSubnetEx\",\"dlc:DescribeDataEngine\",\"dlc:DescribeDataEngines\",\"oceanus:DescribeJobRunningLog\"]}]}",
  "PolicyName": "QcloudWeDataExternalAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2021-11-16 10:29:48"
+ "UpdateTime": "2022-03-30 14:17:30"
 }

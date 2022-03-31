@@ -17,7 +17,11 @@
     "redis:DescribeInstances",
     "vpc:DescribeVpcEx",
     "es:DescribeInstances",
-    "oceanus:DescribeClusters"
+    "oceanus:DescribeClusters",
+    "vpc:DescribeSubnetEx",
+    "dlc:DescribeDataEngine",
+    "dlc:DescribeDataEngines",
+    "oceanus:DescribeJobRunningLog"
    ],
    "effect": "allow",
    "resource": [
