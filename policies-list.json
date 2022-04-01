@@ -8362,17 +8362,5 @@
   "ServiceType": "cooperator",
   "Type": 2,
   "UpdateTime": "2022-03-21 10:38:17"
- },
- {
-  "AddTime": "2022-03-30 20:10:25",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 118419908,
-  "PolicyName": "QcloudAccessForCAM_QCSRole",
-  "ServiceType": "cam",
-  "Type": 2,
-  "UpdateTime": "2022-03-30 20:10:25"
  }
 ]
