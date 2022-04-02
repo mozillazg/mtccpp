@@ -26,7 +26,8 @@
     "ckafka:ModifyGroupOffsets",
     "ckafka:DeleteGroup",
     "tdmq:DescribeEnvironmentAttributes",
-    "ckafka:DescribeInstanceAttributes"
+    "ckafka:DescribeInstanceAttributes",
+    "dts:DescribeSubscribes"
    ],
    "effect": "allow",
    "resource": "*"
