@@ -11,7 +11,11 @@
     "clb:SetSecurityGroupForLoadbalancers",
     "cvm:CreateSecurityGroup",
     "tke:DescribeClusters",
-    "tke:DescribeClusterSecurity"
+    "tke:DescribeClusterSecurity",
+    "tag:DescribeResourceTagsByResourceIds",
+    "tag:DescribeResourcesByTags",
+    "tag:DescribeTagKeys",
+    "tag:DescribeTagValues"
    ],
    "effect": "allow",
    "resource": [
