@@ -7,8 +7,10 @@
     "iai:Compare*",
     "iai:Detect*",
     "iai:Get*",
+    "iai:ConsoleGet*",
     "iai:EstimateCheckSimilarPersonCostTime",
     "iai:Search*",
+    "iai:ConsoleSearch*",
     "iai:Verify*"
    ],
    "effect": "allow",

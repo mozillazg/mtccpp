@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-04-11 15:49:37",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cls:DescribeTopics\",\"cls:DescribeIndex\",\"cls:UploadLog\",\"cls:DescribeLogsets\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForTCSSRoleInCls",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-04-11 15:49:37"
+}

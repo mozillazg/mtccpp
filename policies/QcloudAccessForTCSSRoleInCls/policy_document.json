@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:DescribeTopics",
+    "cls:DescribeIndex",
+    "cls:UploadLog",
+    "cls:DescribeLogsets"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
