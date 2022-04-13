@@ -8013,7 +8013,7 @@
   "PolicyName": "QcloudAccessForCASBRoleInDatabaseAssets",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-01-04 15:05:18"
+  "UpdateTime": "2022-04-12 15:15:16"
  },
  {
   "AddTime": "2022-01-04 17:55:51",
@@ -8350,6 +8350,30 @@
   "ServiceType": "cooperator",
   "Type": 2,
   "UpdateTime": "2022-03-21 10:38:17"
+ },
+ {
+  "AddTime": "2022-03-22 17:52:17",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 117539844,
+  "PolicyName": "QcloudKeeWiDBFullAccess",
+  "ServiceType": "keewidb",
+  "Type": 2,
+  "UpdateTime": "2022-03-22 17:52:17"
+ },
+ {
+  "AddTime": "2022-03-22 17:52:17",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 117539849,
+  "PolicyName": "QcloudKeeWiDBReadOnlyaccess",
+  "ServiceType": "keewidb",
+  "Type": 2,
+  "UpdateTime": "2022-03-22 17:52:17"
  },
  {
   "AddTime": "2022-04-01 16:04:26",
