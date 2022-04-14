@@ -4557,7 +4557,7 @@
   "PolicyName": "QcloudAccessForWeDataRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-03-30 14:13:58"
+  "UpdateTime": "2022-04-13 15:21:02"
  },
  {
   "AddTime": "2020-06-01 10:38:07",
@@ -8398,6 +8398,30 @@
   "ServiceType": "car",
   "Type": 2,
   "UpdateTime": "2022-04-01 16:04:26"
+ },
+ {
+  "AddTime": "2022-04-11 10:38:29",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 119800615,
+  "PolicyName": "QcloudCEtcdFullAccess",
+  "ServiceType": "cetcd",
+  "Type": 2,
+  "UpdateTime": "2022-04-11 10:38:29"
+ },
+ {
+  "AddTime": "2022-04-11 10:38:30",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 119800617,
+  "PolicyName": "QcloudCEtcdReadOnlyaccess",
+  "ServiceType": "cetcd",
+  "Type": 2,
+  "UpdateTime": "2022-04-11 10:38:30"
  },
  {
   "AddTime": "2022-04-11 15:48:20",

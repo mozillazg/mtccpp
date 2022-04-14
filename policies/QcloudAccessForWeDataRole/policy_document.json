@@ -129,7 +129,8 @@
     "emr:DescribeClusterServiceInfo",
     "emr:DescribeServiceRoleInstanceDeployableNodes",
     "emr:DescribeServiceNodeInfos",
-    "emr:DescribeServiceGroups"
+    "emr:DescribeServiceGroups",
+    "vpc:DescribeSubnetEx"
    ],
    "effect": "allow",
    "resource": [
