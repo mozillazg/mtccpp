@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-04-18 10:29:02",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"resource\":[\"*\"],\"action\":[\"cfs:DescribeCfsFileSystems\",\"cfs:DescribeMountTargets\"]}]}",
+ "PolicyName": "QcloudAccessForSCFRoleInCFSReadOnly",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-04-18 10:29:02"
+}
