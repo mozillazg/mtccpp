@@ -56,7 +56,11 @@
     "cam:GenerateSafetyAnalysisReport",
     "cwp:DescribeAssetPortInfoList",
     "es:DescribeInstances",
-    "cfw:DescribeIPStatusList"
+    "cfw:DescribeIPStatusList",
+    "redis:DescribeDBSecurityGroups",
+    "clb:DescribeLoadBalancerListByCertId",
+    "postgres:DescribeDBBackups",
+    "cam:ListGroups"
    ],
    "effect": "allow",
    "resource": "*"
