@@ -1,9 +1,9 @@
 {
  "AddTime": "2020-09-22 15:06:28",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"resource\":[\"*\"],\"action\":[\"tke:DescribeClusterSecurity\",\"ssl:DescribeCertificateDetail\",\"cls:getLogset\",\"cls:getTopic\",\"cls:createLogset\",\"cls:createTopic\",\"cls:modifyIndex\",\"cls:listLogset\",\"cls:listTopic\",\"apm:CreateApmInstance\",\"apm:DescribeApmInstances\",\"apm:DescribeApmAgent\",\"tke:DescribeClusters\",\"tke:DescribeClusterSecurity\",\"tag:DescribeTags\",\"tag:DescribeTagValues\",\"tag:DescribeResourceTags\",\"tag:DescribeResourcesByTags\",\"tag:DescribeResourceTagsByTagKeys\",\"tag:DescribeResourceTagsByResourceIds\",\"tag:TagResources\",\"tag:UnTagResources\",\"tag:ModifyResourcesTagValue\"]}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"resource\":[\"*\"],\"action\":[\"tke:DescribeClusterSecurity\",\"ssl:DescribeCertificateDetail\",\"cls:getLogset\",\"cls:getTopic\",\"cls:createLogset\",\"cls:createTopic\",\"cls:modifyIndex\",\"cls:listLogset\",\"cls:listTopic\",\"apm:CreateApmInstance\",\"apm:DescribeApmInstances\",\"apm:DescribeApmAgent\",\"tke:DescribeClusters\",\"tke:DescribeClusterSecurity\",\"tag:DescribeTags\",\"tag:DescribeTagValues\",\"tag:DescribeResourceTags\",\"tag:DescribeResourcesByTags\",\"tag:DescribeResourceTagsByTagKeys\",\"tag:DescribeResourceTagsByResourceIds\",\"tag:TagResources\",\"tag:UnTagResources\",\"tag:ModifyResourcesTagValue\",\"monitor:DeleteGrafanaInstance\",\"monitor:DestroyPrometheusInstance\",\"monitor:TerminatePrometheusInstances\",\"monitor:UpgradeGrafanaDashboard\",\"monitor:DescribeGrafanaInstances\",\"monitor:DescribePrometheusInstances\",\"monitor:ModifyPrometheusInstanceAttributes\",\"monitor:CreateGrafanaInstance\",\"monitor:CreatePrometheusMultiTenantInstancePostPayMode\"]}]}",
  "PolicyName": "QcloudAccessForTCMRole",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2022-01-11 10:42:36"
+ "UpdateTime": "2022-04-21 16:01:48"
 }

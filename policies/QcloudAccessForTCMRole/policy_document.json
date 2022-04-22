@@ -24,7 +24,16 @@
     "tag:DescribeResourceTagsByResourceIds",
     "tag:TagResources",
     "tag:UnTagResources",
-    "tag:ModifyResourcesTagValue"
+    "tag:ModifyResourcesTagValue",
+    "monitor:DeleteGrafanaInstance",
+    "monitor:DestroyPrometheusInstance",
+    "monitor:TerminatePrometheusInstances",
+    "monitor:UpgradeGrafanaDashboard",
+    "monitor:DescribeGrafanaInstances",
+    "monitor:DescribePrometheusInstances",
+    "monitor:ModifyPrometheusInstanceAttributes",
+    "monitor:CreateGrafanaInstance",
+    "monitor:CreatePrometheusMultiTenantInstancePostPayMode"
    ],
    "effect": "allow",
    "resource": [
