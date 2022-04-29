@@ -31,7 +31,8 @@
    "apm:DescribePAASGeneralSpanList",
    "apm:DescribePAASTopology",
    "apm:CreatePAASInstance",
-   "apm:DeletePAASInstance"
+   "apm:DeletePAASInstance",
+   "apm:DescribeMetricRecords"
   ],
   "effect": "allow",
   "resource": "*"
