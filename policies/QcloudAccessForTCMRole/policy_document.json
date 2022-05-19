@@ -33,7 +33,9 @@
     "monitor:DescribePrometheusInstances",
     "monitor:ModifyPrometheusInstanceAttributes",
     "monitor:CreateGrafanaInstance",
-    "monitor:CreatePrometheusMultiTenantInstancePostPayMode"
+    "monitor:CreatePrometheusMultiTenantInstancePostPayMode",
+    "tke:InstallLogAgent",
+    "tke:UninstallLogAgent"
    ],
    "effect": "allow",
    "resource": [
