@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-05-30 19:04:25",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cos:GetService\",\"cos:GetBucket\",\"cos:GetBucketObjectVersions\",\"cos:GetObject\",\"cos:HeadObject\",\"cos:OptionsObject\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessForTSERoleInAccessCOS",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-05-30 19:04:25"
+}

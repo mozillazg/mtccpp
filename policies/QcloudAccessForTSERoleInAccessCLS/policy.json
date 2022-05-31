@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-05-30 19:05:46",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cls:CreateLogset\",\"cls:DescribeLogsets\",\"cls:CreateTopic\",\"cls:ModifyTopic\",\"cls:DescribeTopics\",\"cls:CreateMachineGroup\",\"cls:DescribeMachineGroups\",\"cls:DescribeMachines\",\"cls:ModifyMachineGroup\",\"cls:DescribeIndex\",\"cls:ModifyIndex\",\"cls:CreateIndex\",\"cls:CreateConfig\",\"cls:DescribeMachineGroupConfigs\",\"cls:ModifyConfig\",\"cls:DescribeConfigs\",\"cls:DescribeConfigMachineGroups\",\"cls:ApplyConfigToMachineGroup\",\"cls:DeleteConfig\",\"cls:DeleteMachineGroup\",\"cls:DescribeAgentConfigs\",\"cls:pushLog\",\"cls:agentHeartBeat\",\"cls:getConfig\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessForTSERoleInAccessCLS",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-05-30 19:05:46"
+}

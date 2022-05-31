@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cos:GetService",
+    "cos:GetBucket",
+    "cos:GetBucketObjectVersions",
+    "cos:GetObject",
+    "cos:HeadObject",
+    "cos:OptionsObject"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

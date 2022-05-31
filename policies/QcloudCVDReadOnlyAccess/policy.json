@@ -1,9 +1,9 @@
 {
  "AddTime": "2021-04-20 10:12:43",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvd:DescribeDepartments\",\"cvd:DescribeImages\",\"cvd:DescribeInstanceRegionDistribution\",\"cvd:DescribeInstances\",\"cvd:DescribeInstancesBindStatus\",\"cvd:DescribeInstancesStatus\",\"cvd:DescribeLoginURL\",\"cvd:DescribePolicyDetail\",\"cvd:DescribeUsers\",\"cvd:DescribeUsersDetail\",\"cvd:DescribeUserResource\",\"cvd:DescribeFetchMsg\",\"cvd:DescribeLoginMsg\",\"cvd:DescribeSnapshots\",\"cvd:DescribeOverview\",\"cvd:CheckForUpdate\",\"cvd:DescribeInvocations\",\"cvd:DescribeInvocationDetail\",\"cvd:DescribeSessions\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvd:DescribeDepartments\",\"cvd:DescribeImages\",\"cvd:DescribeInstanceRegionDistribution\",\"cvd:DescribeInstances\",\"cvd:DescribeInstancesBindStatus\",\"cvd:DescribeInstancesStatus\",\"cvd:DescribeLoginURL\",\"cvd:DescribePolicyDetail\",\"cvd:DescribeUsers\",\"cvd:DescribeUsersDetail\",\"cvd:DescribeUserResource\",\"cvd:DescribeFetchMsg\",\"cvd:DescribeLoginMsg\",\"cvd:DescribeSnapshots\",\"cvd:DescribeOverview\",\"cvd:CheckForUpdate\",\"cvd:DescribeInvocations\",\"cvd:DescribeInvocationDetail\",\"cvd:DescribeSessions\",\"cvd:DescribeScreenshotTasks\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
  "PolicyName": "QcloudCVDReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2021-12-20 17:20:42"
+ "UpdateTime": "2022-05-30 11:34:06"
 }

@@ -20,7 +20,8 @@
     "cvd:CheckForUpdate",
     "cvd:DescribeInvocations",
     "cvd:DescribeInvocationDetail",
-    "cvd:DescribeSessions"
+    "cvd:DescribeSessions",
+    "cvd:DescribeScreenshotTasks"
    ],
    "effect": "allow",
    "resource": "*"
