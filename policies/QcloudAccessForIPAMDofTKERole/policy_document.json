@@ -16,7 +16,15 @@
     "vpc:UnassignPrivateIpAddresses",
     "vpc:MigratePrivateIpAddress",
     "vpc:DescribeSubnetEx",
-    "vpc:DescribeVpcEx"
+    "vpc:DescribeVpcEx",
+    "cvm:AssociateNetworkInterfaceSecurityGroups",
+    "cvm:DisassociateNetworkInterfaceSecurityGroups",
+    "tag:GetTags",
+    "tag:DeleteTags",
+    "tag:CreateTags",
+    "tag:TagResources",
+    "tag:UnTagResources",
+    "tag:UnTagResources"
    ],
    "effect": "allow",
    "resource": "*"
