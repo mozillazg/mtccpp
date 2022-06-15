@@ -134,7 +134,8 @@
     "tat:RunCommand",
     "dnspod:DescribeDomainList",
     "dnspod:DescribeRecordList",
-    "vpc:DescribeVpnConnections"
+    "vpc:DescribeVpnConnections",
+    "lighthouse:DescribeInstances"
    ],
    "effect": "allow",
    "resource": "*"
