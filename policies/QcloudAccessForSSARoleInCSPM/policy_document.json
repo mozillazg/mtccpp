@@ -60,7 +60,13 @@
     "redis:DescribeDBSecurityGroups",
     "clb:DescribeLoadBalancerListByCertId",
     "postgres:DescribeDBBackups",
-    "cam:ListGroups"
+    "cam:ListGroups",
+    "cdb:DescribeAccountPrivileges",
+    "cdb:DescribeAuditConfig",
+    "redis:DescribeInstanceParams",
+    "mariadb:DescribeAccountPrivileges",
+    "dcdb:DescribeDCDBInstances",
+    "ckafka:DescribeACL"
    ],
    "effect": "allow",
    "resource": "*"

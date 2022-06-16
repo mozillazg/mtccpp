@@ -32,7 +32,9 @@
     "cos:GetBucketReplication",
     "cos:PutBucketReplication",
     "cos:GetBucketVersioning",
-    "cos:PutBucketVersioning"
+    "cos:PutBucketVersioning",
+    "cos:PutBucketTagging",
+    "monitor:GetMonitorData"
    ],
    "effect": "allow",
    "resource": "*"
