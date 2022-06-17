@@ -182,7 +182,12 @@
     "vpc:DeleteRoute",
     "vpc:DescribeRouteTable",
     "vpc:EnableRoutes",
-    "vpc:ModifyRouteTableAttribute"
+    "vpc:ModifyRouteTableAttribute",
+    "tcr:CreateInstanceToken",
+    "tcr:DescribeInstances",
+    "tcr:DescribeInstanceToken",
+    "tcr:PullRepository",
+    "tcr:DescribeInternalEndpoints"
    ],
    "effect": "allow",
    "resource": "*"

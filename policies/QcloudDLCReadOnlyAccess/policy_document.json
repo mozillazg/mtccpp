@@ -2,7 +2,13 @@
  "statement": [
   {
    "action": [
-    "dlc:Describe*"
+    "dlc:Describe*",
+    "dlc:List*",
+    "dlc:Check*",
+    "dlc:Inquire*",
+    "dlc:Get*",
+    "dlc:Validate*",
+    "dlc:Query*"
    ],
    "effect": "allow",
    "resource": "*"

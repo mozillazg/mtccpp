@@ -1,9 +1,9 @@
 {
  "AddTime": "2021-06-17 11:55:15",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"dlc:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"dlc:Describe*\",\"dlc:List*\",\"dlc:Check*\",\"dlc:Inquire*\",\"dlc:Get*\",\"dlc:Validate*\",\"dlc:Query*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
  "PolicyName": "QcloudDLCReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2021-09-22 16:38:15"
+ "UpdateTime": "2022-06-16 21:15:31"
 }
