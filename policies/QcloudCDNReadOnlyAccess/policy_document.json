@@ -4,7 +4,8 @@
    "action": [
     "cdn:Describe*",
     "cdn:Get*",
-    "cdn:List*"
+    "cdn:List*",
+    "cdn:Check*"
    ],
    "effect": "allow",
    "resource": "*"
