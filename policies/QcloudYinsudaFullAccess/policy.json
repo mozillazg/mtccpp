@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-06-21 20:07:14",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"yinsuda:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudYinsudaFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-06-21 20:07:14"
+}
