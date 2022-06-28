@@ -1,0 +1,23 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cdb:CreateAccounts",
+    "cdb:ModifyAccountPrivileges",
+    "cdb:DeleteAccounts",
+    "cdb:DescribeAsyncRequestInfo",
+    "mariadb:CreateAccount",
+    "mariadb:DeleteAccount",
+    "mariadb:GrantAccountPrivileges",
+    "dcdb:CreateAccount",
+    "dcdb:DeleteAccount",
+    "dcdb:GrantAccountPrivileges",
+    "postgres:DescribeDBInstances",
+    "cynosdb:DescribeClusters"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

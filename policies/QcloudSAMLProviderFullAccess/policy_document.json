@@ -2,12 +2,13 @@
  "statement": [
   {
    "action": [
-    "name/cam:CreateSAMLProvider",
-    "name/cam:DeleteSAMLProvider",
-    "name/cam:GetSAMLProvider",
-    "name/cam:ListSAMLProviders",
-    "name/cam:UpdateSAMLProvider",
-    "name/cam:ListIdentityProvider"
+    "cam:CreateSAMLProvider",
+    "cam:DeleteSAMLProvider",
+    "cam:GetSAMLProvider",
+    "cam:ListSAMLProviders",
+    "cam:UpdateSAMLProvider",
+    "cam:ListIdentityProvider",
+    "cam:UpdateOIDCConfig"
    ],
    "effect": "allow",
    "resource": [

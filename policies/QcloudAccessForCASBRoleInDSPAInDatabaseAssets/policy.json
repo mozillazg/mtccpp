@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-06-27 11:06:52",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cdb:CreateAccounts\",\"cdb:ModifyAccountPrivileges\",\"cdb:DeleteAccounts\",\"cdb:DescribeAsyncRequestInfo\",\"mariadb:CreateAccount\",\"mariadb:DeleteAccount\",\"mariadb:GrantAccountPrivileges\",\"dcdb:CreateAccount\",\"dcdb:DeleteAccount\",\"dcdb:GrantAccountPrivileges\",\"postgres:DescribeDBInstances\",\"cynosdb:DescribeClusters\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessForCASBRoleInDSPAInDatabaseAssets",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-06-27 11:06:52"
+}
