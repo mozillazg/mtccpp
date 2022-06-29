@@ -2556,30 +2556,6 @@
   "UpdateTime": "2021-12-13 09:57:43"
  },
  {
-  "AddTime": "2019-06-03 17:08:58",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 20742104,
-  "PolicyName": "QcloudFCRFullAccess",
-  "ServiceType": "cr",
-  "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
- },
- {
-  "AddTime": "2019-06-03 17:22:45",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 20742951,
-  "PolicyName": "QcloudFCRReadOnlyAccess",
-  "ServiceType": "cr",
-  "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
- },
- {
   "AddTime": "2019-06-18 16:29:58",
   "CreateMode": 2,
   "Deactived": 0,
@@ -8325,7 +8301,7 @@
   "PolicyName": "QcloudCOSMetaAccMgmt",
   "ServiceType": "cos",
   "Type": 2,
-  "UpdateTime": "2022-03-09 22:57:41"
+  "UpdateTime": "2022-06-28 20:52:20"
  },
  {
   "AddTime": "2022-03-15 15:44:02",

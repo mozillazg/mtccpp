@@ -3,15 +3,19 @@
   {
    "action": [
     "chdfs:DescribeMountPoint",
+    "chdfs:DescribeFileSystem",
     "chdfs:DescribeAccessGroups",
     "chdfs:DescribeAccessRules",
     "chdfs:ModifyFileSystem",
+    "chdfs:ModifyAccessRules",
     "chdfs:CreateAccessGroup",
     "chdfs:CreateAccessRules",
     "chdfs:AssociateAccessGroups",
     "chdfs:DisassociateAccessGroups",
+    "chdfs:DeleteAccessGroup",
+    "vpc:DescribeAssistantCidr",
     "vpc:DescribeVpcEx",
-    "vpc:DescribeAssistantCidr"
+    "chdfs:DeleteAccessRules"
    ],
    "effect": "allow",
    "resource": "*"
