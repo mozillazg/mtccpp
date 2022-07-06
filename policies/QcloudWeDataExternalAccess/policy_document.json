@@ -21,7 +21,9 @@
     "vpc:DescribeSubnetEx",
     "dlc:DescribeDataEngine",
     "dlc:DescribeDataEngines",
-    "oceanus:DescribeJobRunningLog"
+    "oceanus:DescribeJobRunningLog",
+    "dlc:DescribeSparkAppJobs",
+    "dlc:DescribeSparkAppJob"
    ],
    "effect": "allow",
    "resource": [

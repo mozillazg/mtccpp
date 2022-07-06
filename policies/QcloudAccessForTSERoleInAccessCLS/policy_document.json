@@ -25,7 +25,8 @@
     "cls:DescribeAgentConfigs",
     "cls:pushLog",
     "cls:agentHeartBeat",
-    "cls:getConfig"
+    "cls:getConfig",
+    "cls:DeleteTopic"
    ],
    "effect": "allow",
    "resource": "*"

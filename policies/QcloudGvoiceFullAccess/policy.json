@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-05-10 11:31:02",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"gvoice:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudGvoiceFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-05-10 11:31:02"
+}
