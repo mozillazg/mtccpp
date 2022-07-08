@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-06-20 10:02:04",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"vsl:*\"],\"resource\":\"*\",\"effect\":\"allow\",\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}}}]}",
+ "PolicyName": "QcloudVSLReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-06-20 10:02:04"
+}
