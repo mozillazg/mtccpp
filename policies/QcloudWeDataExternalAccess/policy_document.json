@@ -23,7 +23,8 @@
     "dlc:DescribeDataEngines",
     "oceanus:DescribeJobRunningLog",
     "dlc:DescribeSparkAppJobs",
-    "dlc:DescribeSparkAppJob"
+    "dlc:DescribeSparkAppJob",
+    "mongodb:DescribeDBInstances"
    ],
    "effect": "allow",
    "resource": [
