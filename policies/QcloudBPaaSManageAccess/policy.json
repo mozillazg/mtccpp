@@ -1,9 +1,9 @@
 {
  "AddTime": "2018-12-20 15:45:37",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"bpaas:CreateBpaasNode\",\"bpaas:EditBpaasNode\",\"bpaas:DelBpaasNode\",\"bpaas:GetBpaasNodeList\",\"bpaas:GetBpaasNodeDetail\",\"bpaas:GetScfList\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"cam:GetUser\",\"cam:ListSubAccounts\",\"cam:ListGroups\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"bpaas:CreateBpaasNode\",\"bpaas:EditBpaasNode\",\"bpaas:DelBpaasNode\",\"bpaas:GetBpaasNodeList\",\"bpaas:GetBpaasNodeDetail\",\"bpaas:GetScfList\",\"bpaas:CreateBpaasTemplate\",\"bpaas:EditBpaasTemplate\",\"bpaas:DeleteBpaasTemplate\",\"bpaas:UpdateBpaasTemplateStatus\",\"bpaas:GetBpaasTemplateList\",\"bpaas:GetBpaasTemplateDetail\",\"bpaas:GetScfFunctionList\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"cam:GetUser\",\"cam:ListSubAccounts\",\"cam:ListGroups\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
  "PolicyName": "QcloudBPaaSManageAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2020-09-29 11:37:49"
+ "UpdateTime": "2022-07-14 17:30:15"
 }

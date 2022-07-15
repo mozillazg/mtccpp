@@ -7,7 +7,14 @@
     "bpaas:DelBpaasNode",
     "bpaas:GetBpaasNodeList",
     "bpaas:GetBpaasNodeDetail",
-    "bpaas:GetScfList"
+    "bpaas:GetScfList",
+    "bpaas:CreateBpaasTemplate",
+    "bpaas:EditBpaasTemplate",
+    "bpaas:DeleteBpaasTemplate",
+    "bpaas:UpdateBpaasTemplateStatus",
+    "bpaas:GetBpaasTemplateList",
+    "bpaas:GetBpaasTemplateDetail",
+    "bpaas:GetScfFunctionList"
    ],
    "effect": "allow",
    "resource": "*"

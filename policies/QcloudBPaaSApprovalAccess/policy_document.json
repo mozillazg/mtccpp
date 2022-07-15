@@ -5,7 +5,11 @@
     "bpaas:ApproveBpaas",
     "bpaas:GetApproveList",
     "bpaas:GetApproveDetail",
-    "bpaas:GetApplicationDetail"
+    "bpaas:GetApplicationDetail",
+    "bpaas:ApproveBpaasApplication",
+    "bpaas:GetBpaasApproveList",
+    "bpaas:GetBpaasApproveDetail",
+    "bpaas:GetBpaasApplicationDetail"
    ],
    "effect": "allow",
    "resource": "*"

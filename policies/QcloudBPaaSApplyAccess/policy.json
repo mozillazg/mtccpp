@@ -1,9 +1,9 @@
 {
  "AddTime": "2018-12-20 15:47:19",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"bpaas:ApplyBpaas\",\"bpaas:RecallApplication\",\"bpaas:GetApplicationList\",\"bpaas:GetApplicationDetail\",\"bpaas:GetBpaasNodeDetail\",\"bpaas:GetBpaasNodeList\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"cam:GetUser\",\"cam:ListSubAccounts\",\"cam:ListGroups\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"bpaas:ApplyBpaas\",\"bpaas:RecallApplication\",\"bpaas:GetApplicationList\",\"bpaas:GetApplicationDetail\",\"bpaas:GetBpaasNodeDetail\",\"bpaas:GetBpaasNodeList\",\"bpaas:CreateBpaasApplication\",\"bpaas:RevokeBpaasApplication\",\"bpaas:GetBpaasApplicationList\",\"bpaas:GetBpaasApplicationDetail\",\"bpaas:GetBpaasTemplateDetailForReApply\",\"bpaas:GetBpaasTemplateDetail\",\"bpaas:GetValidBpaasTemplateList\",\"bpaas:GetSharedBpaasTemplateList\",\"bpaas:InvokeScf\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"cam:GetUser\",\"cam:ListSubAccounts\",\"cam:ListGroups\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
  "PolicyName": "QcloudBPaaSApplyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2020-09-29 11:37:49"
+ "UpdateTime": "2022-07-14 17:28:21"
 }

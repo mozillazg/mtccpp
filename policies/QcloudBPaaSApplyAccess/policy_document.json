@@ -7,7 +7,16 @@
     "bpaas:GetApplicationList",
     "bpaas:GetApplicationDetail",
     "bpaas:GetBpaasNodeDetail",
-    "bpaas:GetBpaasNodeList"
+    "bpaas:GetBpaasNodeList",
+    "bpaas:CreateBpaasApplication",
+    "bpaas:RevokeBpaasApplication",
+    "bpaas:GetBpaasApplicationList",
+    "bpaas:GetBpaasApplicationDetail",
+    "bpaas:GetBpaasTemplateDetailForReApply",
+    "bpaas:GetBpaasTemplateDetail",
+    "bpaas:GetValidBpaasTemplateList",
+    "bpaas:GetSharedBpaasTemplateList",
+    "bpaas:InvokeScf"
    ],
    "effect": "allow",
    "resource": "*"
