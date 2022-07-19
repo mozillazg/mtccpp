@@ -1,0 +1,9 @@
+{
+ "AddTime": "2018-09-11 18:10:13",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cam:CreateSAMLProvider\",\"cam:DeleteSAMLProvider\",\"cam:GetSAMLProvider\",\"cam:ListSAMLProviders\",\"cam:UpdateSAMLProvider\",\"cam:ListIdentityProvider\",\"cam:UpdateOIDCConfig\",\"cam:DescribeOIDCConfig\",\"cam:UpdateOIDCConfig\",\"cam:CreateOIDCConfig\",\"cam:DeleteOIDCConfig\",\"cam:DescribeUserOIDCConfig\",\"cam:CreateUserOIDCConfig\",\"cam:UpdateUserOIDCConfig\",\"cam:DisableUserSSO\"],\"resource\":[\"*\"]}]}",
+ "PolicyName": "QcloudProviderFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-07-18 16:46:18"
+}

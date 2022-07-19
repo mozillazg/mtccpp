@@ -1758,10 +1758,10 @@
   "DeactivedDetail": [],
   "IsServiceLinkedPolicy": 0,
   "PolicyId": 4770327,
-  "PolicyName": "QcloudSAMLProviderFullAccess",
+  "PolicyName": "QcloudProviderFullAccess",
   "ServiceType": "cam",
   "Type": 2,
-  "UpdateTime": "2022-06-27 16:02:06"
+  "UpdateTime": "2022-07-18 16:46:18"
  },
  {
   "AddTime": "2018-09-12 20:15:54",
@@ -6837,7 +6837,7 @@
   "PolicyName": "QcloudCIAMFullAccess",
   "ServiceType": "ciam",
   "Type": 2,
-  "UpdateTime": "2021-06-03 11:23:57"
+  "UpdateTime": "2022-07-18 15:23:25"
  },
  {
   "AddTime": "2021-06-03 11:31:36",
@@ -6849,7 +6849,7 @@
   "PolicyName": "QcloudCIAMReadOnlyAccess",
   "ServiceType": "ciam",
   "Type": 2,
-  "UpdateTime": "2021-06-03 11:31:36"
+  "UpdateTime": "2022-07-18 15:22:58"
  },
  {
   "AddTime": "2021-06-15 10:05:35",

@@ -1,0 +1,28 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cam:CreateSAMLProvider",
+    "cam:DeleteSAMLProvider",
+    "cam:GetSAMLProvider",
+    "cam:ListSAMLProviders",
+    "cam:UpdateSAMLProvider",
+    "cam:ListIdentityProvider",
+    "cam:UpdateOIDCConfig",
+    "cam:DescribeOIDCConfig",
+    "cam:UpdateOIDCConfig",
+    "cam:CreateOIDCConfig",
+    "cam:DeleteOIDCConfig",
+    "cam:DescribeUserOIDCConfig",
+    "cam:CreateUserOIDCConfig",
+    "cam:UpdateUserOIDCConfig",
+    "cam:DisableUserSSO"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}
