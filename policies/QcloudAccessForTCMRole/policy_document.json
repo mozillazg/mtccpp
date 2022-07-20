@@ -15,7 +15,6 @@
     "apm:DescribeApmInstances",
     "apm:DescribeApmAgent",
     "tke:DescribeClusters",
-    "tke:DescribeClusterSecurity",
     "tag:DescribeTags",
     "tag:DescribeTagValues",
     "tag:DescribeResourceTags",
@@ -35,7 +34,17 @@
     "monitor:CreateGrafanaInstance",
     "monitor:CreatePrometheusMultiTenantInstancePostPayMode",
     "tke:InstallLogAgent",
-    "tke:UninstallLogAgent"
+    "tke:UninstallLogAgent",
+    "tdcc:AcquireClusterAdminRole",
+    "tdcc:DescribeExternalClusterSpec",
+    "tdcc:DescribeExternalClusters",
+    "tdcc:DescribeHubClusterCredential",
+    "tdcc:InstallLogAgent",
+    "tdcc:UninstallLogAgent",
+    "tdcc:DescribeLogSwitches",
+    "apm:TerminateApmInstance",
+    "cls:DeleteLogset",
+    "cls:DeleteTopic"
    ],
    "effect": "allow",
    "resource": [
