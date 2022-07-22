@@ -21,7 +21,11 @@
     "cvd:DescribeInvocations",
     "cvd:DescribeInvocationDetail",
     "cvd:DescribeSessions",
-    "cvd:DescribeScreenshotTasks"
+    "cvd:DescribeScreenshotTasks",
+    "cvd:DescribeInstanceFetchMsg",
+    "cvd:DescribeInstanceLoginMsg",
+    "cvd:QueryADAccounts",
+    "cvd:QueryByADAccounts"
    ],
    "effect": "allow",
    "resource": "*"
