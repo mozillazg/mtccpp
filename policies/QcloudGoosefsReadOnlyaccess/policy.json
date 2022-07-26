@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-05-31 14:57:24",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"goosefs:*\"],\"resource\":\"*\",\"effect\":\"allow\",\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}}}]}",
+ "PolicyName": "QcloudGoosefsReadOnlyaccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-05-31 14:57:24"
+}
