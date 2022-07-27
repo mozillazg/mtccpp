@@ -52,7 +52,8 @@
     "cam:GetRole",
     "tcr:PullRepository",
     "tcr:PullRepositoryPersonal",
-    "emr:DescribeClusterNodes"
+    "emr:DescribeClusterNodes",
+    "emr:DescribeServiceConfs"
    ],
    "effect": "allow",
    "resource": "*"

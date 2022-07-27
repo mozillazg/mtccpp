@@ -6,6 +6,7 @@
     "finance:DescribeConsolidatedBillDownloadUrl",
     "finance:DownloadCustomizedResourceSummary",
     "finance:DescribeResourceBill*",
+    "finance:DescribeDosage*",
     "finance:DownloadCustomizedDetail"
    ],
    "effect": "allow",

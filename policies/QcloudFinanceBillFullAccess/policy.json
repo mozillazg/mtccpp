@@ -1,9 +1,9 @@
 {
  "AddTime": "2021-08-10 11:15:14",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"finance:DescribeBill*\",\"finance:UpdateBill*\",\"finance:DescribeConsolidatedBillDownloadUrl\",\"finance:DownloadCustomizedResourceSummary\",\"finance:DescribeResourceBill*\",\"finance:DownloadCustomizedDetail\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"finance:DescribeBill*\",\"finance:UpdateBill*\",\"finance:DescribeConsolidatedBillDownloadUrl\",\"finance:DownloadCustomizedResourceSummary\",\"finance:DescribeResourceBill*\",\"finance:DescribeDosage*\",\"finance:DownloadCustomizedDetail\"],\"resource\":\"*\"}]}",
  "PolicyName": "QcloudFinanceBillFullAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2021-12-13 10:23:19"
+ "UpdateTime": "2022-07-26 15:21:16"
 }
