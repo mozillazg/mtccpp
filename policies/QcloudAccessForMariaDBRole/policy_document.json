@@ -13,7 +13,9 @@
     "kms:UpdateAlias",
     "kms:EnableKey",
     "kms:ListKeyDetail",
-    "kms:DisableKey"
+    "kms:DisableKey",
+    "kms:ListKey",
+    "kms:GetServiceStatus"
    ],
    "effect": "allow",
    "resource": "*"
