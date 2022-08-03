@@ -30,7 +30,16 @@
     "cvm:DescribeSnapshots",
     "cvm:CreateSnapshot",
     "cvm:DeleteSnapshot",
-    "cvm:BindAutoSnapshotPolicy"
+    "cvm:BindAutoSnapshotPolicy",
+    "cvm:CreateSecurityGroupPolicy",
+    "cvm:DeleteSecurityGroupPolicy",
+    "cvm:DescribeSecurityGroupPolicys",
+    "vpc:DetachNetworkInterface",
+    "vpc:DeleteNetworkInterface",
+    "monitor:DescribeStatisticData",
+    "vpc:DescribeBandwidthPackages",
+    "cam:ListMaskedSubAccounts",
+    "cam:GetUserBasicInfo"
    ],
    "effect": "allow",
    "resource": "*"
