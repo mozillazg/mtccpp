@@ -8638,5 +8638,17 @@
   "ServiceType": "advisor",
   "Type": 2,
   "UpdateTime": "2022-07-06 14:55:57"
+ },
+ {
+  "AddTime": "2022-08-15 11:27:30",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 135022990,
+  "PolicyName": "QcloudAccessForCWPRoleInCkafkaLogDelivery",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2022-08-15 17:08:42"
  }
 ]
