@@ -187,7 +187,8 @@
     "tcr:DescribeInstances",
     "tcr:DescribeInstanceToken",
     "tcr:PullRepository",
-    "tcr:DescribeInternalEndpoints"
+    "tcr:DescribeInternalEndpoints",
+    "tcr:DescribeExternalEndpointStatus"
    ],
    "effect": "allow",
    "resource": "*"
