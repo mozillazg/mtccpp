@@ -1,9 +1,9 @@
 {
  "AddTime": "2018-09-11 17:17:15",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"name\\/cam:ListPolicies\",\"name\\/cam:AttachRolePolicy\",\"name\\/cam:CreateRole\",\"name\\/cam:DeleteRole\",\"name\\/cam:DetachRolePolicy\",\"name\\/cam:GetRole\",\"name\\/cam:DescribeRoleList\",\"name\\/cam:UpdateAssumeRolePolicy\",\"name\\/cam:UpdateRoleDescription\",\"name\\/cam:UpdateRoleConsoleLogin\",\"name\\/cam:ListAttachedRolePolicies\",\"name\\/cam:PassRole\",\"name\\/cam:LogoutRoleSessions\",\"name\\/cam:UpdatePolicy\",\"name\\/cam:AttachRolePolicies\"],\"resource\":[\"*\"]}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cam:ListPolicies\",\"cam:AttachRolePolicy\",\"cam:CreateRole\",\"cam:DeleteRole\",\"cam:DetachRolePolicy\",\"cam:GetRole\",\"cam:DescribeRoleList\",\"cam:UpdateAssumeRolePolicy\",\"cam:UpdateRoleDescription\",\"cam:UpdateRoleConsoleLogin\",\"cam:ListAttachedRolePolicies\",\"cam:PassRole\",\"cam:LogoutRoleSessions\",\"cam:UpdatePolicy\",\"cam:AttachRolePolicies\",\"cam:CreateServiceLinkedRole\",\"cam:DescribeServiceLinkedRole\",\"cam:DeleteServiceLinkedRole\",\"cam:GetServiceLinkedRoleDeletionStatus\"],\"resource\":[\"*\"]}]}",
  "PolicyName": "QcloudCamRoleFullAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2020-09-29 11:37:49"
+ "UpdateTime": "2022-08-22 11:11:58"
 }
