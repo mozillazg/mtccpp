@@ -3,7 +3,8 @@
   {
    "action": [
     "gme:Describe*",
-    "gme:Download*"
+    "gme:Download*",
+    "gme:Check*"
    ],
    "effect": "allow",
    "resource": "*"
