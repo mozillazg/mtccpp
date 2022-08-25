@@ -22,7 +22,8 @@
     "cos:DeleteLiveChannel",
     "cos:GetLiveChannel",
     "cos:PostVodPlayList",
-    "cos:GetVodPlayList"
+    "cos:GetVodPlayList",
+    "cam:ListUsers"
    ],
    "effect": "allow",
    "resource": "*"
