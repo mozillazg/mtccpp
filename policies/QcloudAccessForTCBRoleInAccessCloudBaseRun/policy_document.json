@@ -188,7 +188,8 @@
     "tcr:DescribeInstanceToken",
     "tcr:PullRepository",
     "tcr:DescribeInternalEndpoints",
-    "tcr:DescribeExternalEndpointStatus"
+    "tcr:DescribeExternalEndpointStatus",
+    "tag:CreateTags"
    ],
    "effect": "allow",
    "resource": "*"

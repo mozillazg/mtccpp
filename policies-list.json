@@ -4353,7 +4353,7 @@
   "PolicyName": "QcloudAccessForTCBRoleInAccessCloudBaseRun",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-08-17 09:43:35"
+  "UpdateTime": "2022-08-29 10:44:47"
  },
  {
   "AddTime": "2020-04-27 15:09:48",
@@ -8650,5 +8650,53 @@
   "ServiceType": "cooperator",
   "Type": 2,
   "UpdateTime": "2022-08-15 17:08:42"
+ },
+ {
+  "AddTime": "2022-08-29 10:30:39",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 136715896,
+  "PolicyName": "QcloudAccessForDSGCRoleInKMS",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2022-08-29 10:30:39"
+ },
+ {
+  "AddTime": "2022-08-29 10:33:36",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 136716196,
+  "PolicyName": "QcloudAccessForDSGCRoleInSensitiveDataDiscovery",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2022-08-29 10:33:36"
+ },
+ {
+  "AddTime": "2022-08-29 10:34:34",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 136716329,
+  "PolicyName": "QcloudAccessForDSGCRoleInDatabaseAssets",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2022-08-29 10:34:34"
+ },
+ {
+  "AddTime": "2022-08-29 10:34:59",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 136716377,
+  "PolicyName": "QcloudAccessForDSGCRoleInCASBInDatabaseAssets",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2022-08-29 10:34:59"
  }
 ]
