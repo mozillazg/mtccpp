@@ -1,0 +1,25 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tdmq:DescribeCmqQueueDetail",
+    "tdmq:DescribeCmqTopicDetail",
+    "tdmq:CreateCmqQueue",
+    "tdmq:CreateCmqSubscribe",
+    "tdmq:CreateCmqTopic",
+    "tdmq:ModifyCmqQueueAttribute",
+    "tdmq:ModifyCmqSubscriptionAttribute",
+    "tdmq:ModifyCmqTopicAttribute",
+    "tdmq:PublishCmqMsg",
+    "tdmq:SendCmqMsg",
+    "tdmq:DescribeCmqDeadLetterSourceQueues",
+    "tdmq:DescribeCmqQueues",
+    "tdmq:DescribeCmqSubscriptionDetail",
+    "tdmq:DescribeCmqTopics"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -23,7 +23,8 @@
     "cynosdb:DescribeAccounts",
     "cynosdb:DescribeClusterInstanceGrps",
     "cynosdb:DescribeClusters",
-    "postgres:DescribeReadOnlyGroups"
+    "postgres:DescribeReadOnlyGroups",
+    "mongodb:DescribeDBInstances"
    ],
    "effect": "allow",
    "resource": "*"
