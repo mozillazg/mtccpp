@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-08-31 16:10:14",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cam:ListAttachedRolePolicies\",\"cam:GetPolicy\"],\"resource\":[\"*\"]}]}",
+ "PolicyName": "QcloudCamRolePolicyAccessForWorkorderRole",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-08-31 16:10:14"
+}

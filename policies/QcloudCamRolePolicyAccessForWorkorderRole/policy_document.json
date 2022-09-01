@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cam:ListAttachedRolePolicies",
+    "cam:GetPolicy"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}
