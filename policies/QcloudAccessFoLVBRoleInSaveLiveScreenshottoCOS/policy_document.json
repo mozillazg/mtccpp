@@ -6,7 +6,8 @@
     "cos:HeadObject",
     "cos:PostObject",
     "cos:PutObject",
-    "cos:GetObject"
+    "cos:GetObject",
+    "cos:HeadBucket"
    ],
    "effect": "allow",
    "resource": "*"

@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-09-05 15:00:02",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"market:*\"],\"resource\":\"*\",\"effect\":\"allow\",\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}}}]}",
+ "PolicyName": "QcloudMarketReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-09-05 15:00:02"
+}
