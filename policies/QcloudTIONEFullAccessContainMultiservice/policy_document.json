@@ -25,7 +25,8 @@
     "finance:trade",
     "cfs:DescribeCfsFileSystems",
     "emr:DescribeInstances",
-    "cvm:DescribeAddresses"
+    "cvm:DescribeAddresses",
+    "emr:DescribeInstancesList"
    ],
    "effect": "allow",
    "resource": "*"
