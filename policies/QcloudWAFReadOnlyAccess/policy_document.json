@@ -25,7 +25,8 @@
     "tag:DescribeResourceTagsByResourceIds",
     "ssl:DescribeCertificates",
     "clb:DescribeLoadBalancers",
-    "clb:DescribeListeners"
+    "clb:DescribeListeners",
+    "waf:Query*"
    ],
    "effect": "allow",
    "resource": "*"

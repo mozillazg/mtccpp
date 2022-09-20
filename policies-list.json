@@ -1113,7 +1113,7 @@
   "PolicyName": "QcloudWAFReadOnlyAccess",
   "ServiceType": "waf",
   "Type": 2,
-  "UpdateTime": "2022-03-14 14:42:55"
+  "UpdateTime": "2022-09-19 11:00:58"
  },
  {
   "AddTime": "2018-03-13 11:06:35",
@@ -4750,30 +4750,6 @@
   "ServiceType": "mdp",
   "Type": 2,
   "UpdateTime": "2021-05-27 16:07:50"
- },
- {
-  "AddTime": "2020-07-02 11:36:10",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 42509570,
-  "PolicyName": "QcloudDTFFullAccess",
-  "ServiceType": "dtf",
-  "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
- },
- {
-  "AddTime": "2020-07-02 11:39:19",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 42509826,
-  "PolicyName": "QcloudDTFReadOnlyAccess",
-  "ServiceType": "dtf",
-  "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
  },
  {
   "AddTime": "2020-07-06 11:29:29",
