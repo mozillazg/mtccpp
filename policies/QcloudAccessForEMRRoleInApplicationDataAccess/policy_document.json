@@ -18,7 +18,9 @@
     "cos:CompleteMultipartUpload",
     "cos:AbortMultipartUpload",
     "cos:AppendObject",
-    "cos:HeadBucket"
+    "cos:HeadBucket",
+    "cos:RenameObject",
+    "cos:TruncateObject"
    ],
    "effect": "allow",
    "resource": "*"
