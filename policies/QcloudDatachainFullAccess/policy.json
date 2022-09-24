@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-05-10 10:26:16",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"datachain:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudDatachainFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-05-10 10:26:16"
+}
