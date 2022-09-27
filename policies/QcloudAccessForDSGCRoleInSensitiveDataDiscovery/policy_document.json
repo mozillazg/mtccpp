@@ -6,7 +6,9 @@
     "cos:GetObject",
     "cos:HeadBucket",
     "cos:HeadObject",
-    "cos:GetService"
+    "cos:GetService",
+    "cos:GetBucketACL",
+    "cos:GetObjectACL"
    ],
    "effect": "allow",
    "resource": "*"
