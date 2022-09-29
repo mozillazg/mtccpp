@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-09-28 17:35:59",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"lowcode:*\"],\"resource\":\"*\",\"effect\":\"allow\",\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}}}]}",
+ "PolicyName": "QcloudLowcodeReadOnlyaccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-09-28 17:35:59"
+}
