@@ -46,6 +46,7 @@
     "oceanus:ModifyFolder",
     "oceanus:DeleteFolders",
     "oceanus:CreateTableConfig",
+    "oceanus:CreateWorkSpace",
     "monitor:BindingPolicyObject",
     "monitor:DescribeBaseMetrics",
     "monitor:DescribeBasicAlarmList",

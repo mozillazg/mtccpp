@@ -3312,18 +3312,6 @@
   "UpdateTime": "2022-06-14 16:18:59"
  },
  {
-  "AddTime": "2019-10-25 14:30:11",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 27551614,
-  "PolicyName": "QcloudLPWAFullAccess",
-  "ServiceType": "lpwa",
-  "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
- },
- {
   "AddTime": "2019-10-28 16:16:55",
   "CreateMode": 2,
   "Deactived": 0,
@@ -4509,7 +4497,7 @@
   "PolicyName": "QcloudAccessForWeDataRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-04-13 15:21:02"
+  "UpdateTime": "2022-10-10 09:26:09"
  },
  {
   "AddTime": "2020-06-01 10:38:07",
