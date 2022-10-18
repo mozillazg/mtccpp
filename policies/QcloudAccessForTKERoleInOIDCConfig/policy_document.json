@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cam:CreateOIDCConfig",
+    "cam:DescribeOIDCConfig",
+    "cam:DeleteOIDCConfig"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

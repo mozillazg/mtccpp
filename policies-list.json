@@ -8830,5 +8830,41 @@
   "ServiceType": "lowcode",
   "Type": 2,
   "UpdateTime": "2022-09-28 17:35:59"
+ },
+ {
+  "AddTime": "2022-10-12 14:59:27",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 141898602,
+  "PolicyName": "QcloudIntlpartnersmgtFullAccess",
+  "ServiceType": "intlpartnersmgt",
+  "Type": 2,
+  "UpdateTime": "2022-10-12 14:59:27"
+ },
+ {
+  "AddTime": "2022-10-12 14:59:27",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 141898603,
+  "PolicyName": "QcloudIntlpartnersmgtReadOnlyaccess",
+  "ServiceType": "intlpartnersmgt",
+  "Type": 2,
+  "UpdateTime": "2022-10-12 14:59:27"
+ },
+ {
+  "AddTime": "2022-10-17 11:16:03",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 142089923,
+  "PolicyName": "QcloudAccessForTKERoleInOIDCConfig",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2022-10-17 11:16:03"
  }
 ]

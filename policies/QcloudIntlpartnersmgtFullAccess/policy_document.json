@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "intlpartnersmgt:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
