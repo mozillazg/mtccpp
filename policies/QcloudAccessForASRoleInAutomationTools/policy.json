@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-10-24 11:04:17",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tat:InvokeCommand\",\"tat:RunCommand\",\"tat:DescribeCommands\",\"tat:DescribeAutomationAgentStatus\",\"tat:DescribeInvocationTasks\",\"tat:DescribeInvocations\",\"tat:PreviewReplacedCommandContent\",\"tat:DescribeInstancesFeatureStatus\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessForASRoleInAutomationTools",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-10-24 11:04:17"
+}

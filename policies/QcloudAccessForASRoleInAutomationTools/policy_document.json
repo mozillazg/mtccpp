@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tat:InvokeCommand",
+    "tat:RunCommand",
+    "tat:DescribeCommands",
+    "tat:DescribeAutomationAgentStatus",
+    "tat:DescribeInvocationTasks",
+    "tat:DescribeInvocations",
+    "tat:PreviewReplacedCommandContent",
+    "tat:DescribeInstancesFeatureStatus"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
