@@ -8649,7 +8649,7 @@
   "PolicyName": "QcloudAccessForCWPRoleInCkafkaLogDelivery",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-08-15 17:08:42"
+  "UpdateTime": "2022-10-25 10:58:57"
  },
  {
   "AddTime": "2022-08-29 10:30:39",
@@ -8842,6 +8842,30 @@
   "ServiceType": "intlpartnersmgt",
   "Type": 2,
   "UpdateTime": "2022-10-12 14:59:27"
+ },
+ {
+  "AddTime": "2022-10-17 11:15:53",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 142089917,
+  "PolicyName": "QcloudIOAFullAccess",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2022-10-17 11:15:53"
+ },
+ {
+  "AddTime": "2022-10-17 11:15:54",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 142089918,
+  "PolicyName": "QcloudIOAReadOnlyAccess",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2022-10-17 11:15:54"
  },
  {
   "AddTime": "2022-10-17 11:16:03",
