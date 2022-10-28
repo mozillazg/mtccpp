@@ -135,7 +135,8 @@
     "dnspod:DescribeDomainList",
     "dnspod:DescribeRecordList",
     "vpc:DescribeVpnConnections",
-    "lighthouse:DescribeInstances"
+    "lighthouse:DescribeInstances",
+    "vpc:CreateAddressTemplateGroup"
    ],
    "effect": "allow",
    "resource": "*"

@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "anicloud:*"
+   ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

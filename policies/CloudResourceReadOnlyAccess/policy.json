@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-10-27 11:23:03",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"*\",\"resource\":\"*\",\"condition\":{\"numeric_equal\":{\"qcs:except_cam_finance\":1,\"qcs:read_only_action\":1}}}]}",
+ "PolicyName": "CloudResourceReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-10-27 11:23:03"
+}
