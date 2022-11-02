@@ -3204,30 +3204,6 @@
   "UpdateTime": "2020-09-29 11:37:49"
  },
  {
-  "AddTime": "2019-10-11 20:07:43",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 26806127,
-  "PolicyName": "QcloudMGOBEFullAccess",
-  "ServiceType": "mgobe",
-  "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
- },
- {
-  "AddTime": "2019-10-11 20:09:33",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 26806182,
-  "PolicyName": "QcloudMGOBEReadOnlyAccess",
-  "ServiceType": "mgobe",
-  "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
- },
- {
   "AddTime": "2019-10-12 16:19:47",
   "CreateMode": 2,
   "Deactived": 0,
@@ -4416,18 +4392,6 @@
   "UpdateTime": "2020-09-29 11:37:49"
  },
  {
-  "AddTime": "2020-05-13 10:58:40",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 35339651,
-  "PolicyName": "QcloudGSEFullAccess",
-  "ServiceType": "gse",
-  "Type": 2,
-  "UpdateTime": "2021-04-20 10:21:59"
- },
- {
   "AddTime": "2020-05-13 15:08:31",
   "CreateMode": 2,
   "Deactived": 0,
@@ -4882,18 +4846,6 @@
   "ServiceType": "domain",
   "Type": 2,
   "UpdateTime": "2020-09-29 11:37:49"
- },
- {
-  "AddTime": "2020-07-21 14:40:15",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 45522160,
-  "PolicyName": "QcloudGSEReadOnlyAccess",
-  "ServiceType": "gse",
-  "Type": 2,
-  "UpdateTime": "2021-04-20 10:21:50"
  },
  {
   "AddTime": "2020-07-24 17:15:45",
@@ -8949,6 +8901,6 @@
   "PolicyName": "CloudResourceReadOnlyAccess",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-10-28 10:05:39"
+  "UpdateTime": "2022-11-01 10:51:07"
  }
 ]
