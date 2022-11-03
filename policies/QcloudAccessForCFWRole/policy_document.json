@@ -136,7 +136,10 @@
     "dnspod:DescribeRecordList",
     "vpc:DescribeVpnConnections",
     "lighthouse:DescribeInstances",
-    "vpc:CreateAddressTemplateGroup"
+    "vpc:CreateAddressTemplateGroup",
+    "vpc:ModifyAddressTemplateGroupAttribute",
+    "vpc:CreateAddressGroup",
+    "vpc:ModifyAddressGroupAttribute"
    ],
    "effect": "allow",
    "resource": "*"
