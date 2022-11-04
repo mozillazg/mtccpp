@@ -7272,18 +7272,6 @@
   "UpdateTime": "2021-09-01 15:44:39"
  },
  {
-  "AddTime": "2021-09-06 17:46:16",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 93600646,
-  "PolicyName": "QcloudAccessForTSERoleInBindingKubernetes",
-  "ServiceType": "cooperator",
-  "Type": 2,
-  "UpdateTime": "2021-09-06 17:46:16"
- },
- {
   "AddTime": "2021-09-13 16:41:30",
   "CreateMode": 2,
   "Deactived": 0,
@@ -8400,30 +8388,6 @@
   "UpdateTime": "2022-05-18 15:54:33"
  },
  {
-  "AddTime": "2022-05-30 19:04:25",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 125917450,
-  "PolicyName": "QcloudAccessForTSERoleInAccessCOS",
-  "ServiceType": "cooperator",
-  "Type": 2,
-  "UpdateTime": "2022-05-30 19:04:25"
- },
- {
-  "AddTime": "2022-05-30 19:05:46",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 125917583,
-  "PolicyName": "QcloudAccessForTSERoleInAccessCLS",
-  "ServiceType": "cooperator",
-  "Type": 2,
-  "UpdateTime": "2022-07-05 10:59:25"
- },
- {
   "AddTime": "2022-05-31 14:44:10",
   "CreateMode": 2,
   "Deactived": 0,
@@ -8902,5 +8866,17 @@
   "ServiceType": "cooperator",
   "Type": 2,
   "UpdateTime": "2022-11-01 10:51:07"
+ },
+ {
+  "AddTime": "2022-11-03 10:30:09",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 142987324,
+  "PolicyName": "QcloudAccessForBpaasRoleInGetFunction",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2022-11-03 10:30:09"
  }
 ]
