@@ -2,9 +2,7 @@
  "statement": [
   {
    "action": [
-    "scf:ListFunctions",
-    "scf:Invoke",
-    "scf:GetFunction"
+    "config:*"
    ],
    "effect": "allow",
    "resource": "*"

@@ -2,10 +2,13 @@
  "statement": [
   {
    "action": [
-    "scf:ListFunctions",
-    "scf:Invoke",
-    "scf:GetFunction"
+    "config:*"
    ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
    "effect": "allow",
    "resource": "*"
   }

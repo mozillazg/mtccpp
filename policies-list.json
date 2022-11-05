@@ -1989,7 +1989,7 @@
   "PolicyName": "QcloudSCFAccessForBPaaSRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2019-08-13 20:31:16"
+  "UpdateTime": "2022-11-04 15:39:56"
  },
  {
   "AddTime": "2018-11-28 20:34:17",
@@ -8868,15 +8868,27 @@
   "UpdateTime": "2022-11-01 10:51:07"
  },
  {
-  "AddTime": "2022-11-03 10:30:09",
+  "AddTime": "2022-11-01 16:43:19",
   "CreateMode": 2,
   "Deactived": 0,
   "DeactivedDetail": [],
   "IsServiceLinkedPolicy": 0,
-  "PolicyId": 142987324,
-  "PolicyName": "QcloudAccessForBpaasRoleInGetFunction",
-  "ServiceType": "cooperator",
+  "PolicyId": 142880164,
+  "PolicyName": "QcloudConfigFullAccess",
+  "ServiceType": "config",
   "Type": 2,
-  "UpdateTime": "2022-11-03 10:30:09"
+  "UpdateTime": "2022-11-01 16:43:19"
+ },
+ {
+  "AddTime": "2022-11-01 16:43:20",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 142880167,
+  "PolicyName": "QcloudConfigReadOnlyAccess",
+  "ServiceType": "config",
+  "Type": 2,
+  "UpdateTime": "2022-11-01 16:43:20"
  }
 ]
