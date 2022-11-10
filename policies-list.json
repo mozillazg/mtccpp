@@ -6096,18 +6096,6 @@
   "UpdateTime": "2021-02-01 22:08:02"
  },
  {
-  "AddTime": "2021-02-02 18:47:28",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 66812411,
-  "PolicyName": "QcloudEPFullAccess",
-  "ServiceType": "ep",
-  "Type": 2,
-  "UpdateTime": "2021-02-02 18:47:28"
- },
- {
   "AddTime": "2021-02-02 19:14:12",
   "CreateMode": 2,
   "Deactived": 0,
@@ -8890,5 +8878,41 @@
   "ServiceType": "config",
   "Type": 2,
   "UpdateTime": "2022-11-01 16:43:20"
+ },
+ {
+  "AddTime": "2022-11-09 17:17:40",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 143470684,
+  "PolicyName": "QcloudAccessForSRTEST_QCSLinkedRoleInayutest",
+  "ServiceType": "cam",
+  "Type": 2,
+  "UpdateTime": "2022-11-09 17:17:40"
+ },
+ {
+  "AddTime": "2022-11-09 17:22:17",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 143470978,
+  "PolicyName": "QcloudAccessForCAM_QCSLinkedRoleInsiruitest",
+  "ServiceType": "cam",
+  "Type": 2,
+  "UpdateTime": "2022-11-09 17:22:17"
+ },
+ {
+  "AddTime": "2022-11-09 17:25:31",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 143471190,
+  "PolicyName": "QcloudAccessForCAM_QCSLinkedRoleInsirui",
+  "ServiceType": "cam",
+  "Type": 2,
+  "UpdateTime": "2022-11-09 17:25:31"
  }
 ]

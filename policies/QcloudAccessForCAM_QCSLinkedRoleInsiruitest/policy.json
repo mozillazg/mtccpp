@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-11-09 17:22:17",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cam:*\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForCAM_QCSLinkedRoleInsiruitest",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-11-09 17:22:17"
+}
