@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ab:CreateIntention"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
