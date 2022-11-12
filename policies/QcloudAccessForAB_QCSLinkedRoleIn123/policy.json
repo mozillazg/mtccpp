@@ -1,0 +1,9 @@
+{
+ "AddTime": "2022-11-11 11:20:58",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cam:*\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForAB_QCSLinkedRoleIn123",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2022-11-11 11:20:58"
+}
