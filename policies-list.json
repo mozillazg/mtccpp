@@ -8938,5 +8938,17 @@
   "ServiceType": "ab",
   "Type": 2,
   "UpdateTime": "2022-11-11 11:20:58"
+ },
+ {
+  "AddTime": "2022-11-15 17:56:35",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 143887392,
+  "PolicyName": "QcloudAccessForCAM_QCSLinkedRoleIntest",
+  "ServiceType": "cam",
+  "Type": 2,
+  "UpdateTime": "2022-11-15 17:56:35"
  }
 ]
