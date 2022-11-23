@@ -5,7 +5,8 @@
     "finance:QueryPreResourceCntManager",
     "finance:QueryPreResourcesByCondManager",
     "finance:SetRenewFlagManager",
-    "finance:ModifyRenewNoticeSetting"
+    "finance:ModifyRenewNoticeSetting",
+    "finance:SetAutoRenewTimeManager"
    ],
    "effect": "allow",
    "resource": "*"

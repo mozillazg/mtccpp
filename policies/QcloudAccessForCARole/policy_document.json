@@ -21,7 +21,10 @@
     "cos:AbortMultipartUpload",
     "cos:ListMultipartUploads",
     "cls:pushLog",
-    "eb:PutCloudEvents"
+    "eb:PutCloudEvents",
+    "cls:DescribeTopics",
+    "organization:DescribeOrganization",
+    "cos:HeadBucket"
    ],
    "effect": "allow",
    "resource": "*"
