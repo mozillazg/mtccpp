@@ -68,7 +68,9 @@
     "vpc:DescribeSubnetEx*",
     "monitor:DescribeAlarmHistories",
     "monitor:DescribeMonitorTypes",
-    "vpc:DescribeVpcEx"
+    "vpc:DescribeVpcEx",
+    "cvm:ResizeCbsStorage",
+    "cvm:DescribeInstancesCbsNum"
    ],
    "effect": "allow",
    "resource": "*"
