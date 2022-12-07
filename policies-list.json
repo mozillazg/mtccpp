@@ -2997,7 +2997,7 @@
   "PolicyName": "QcloudAccessForSSARoleInCSPM",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-06-15 17:43:36"
+  "UpdateTime": "2022-12-06 15:36:13"
  },
  {
   "AddTime": "2019-09-16 19:46:25",
@@ -5974,30 +5974,6 @@
   "ServiceType": "vm",
   "Type": 2,
   "UpdateTime": "2021-01-25 11:45:40"
- },
- {
-  "AddTime": "2021-01-26 12:22:33",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 66002295,
-  "PolicyName": "QcloudTAPMFullAccess",
-  "ServiceType": "tapm",
-  "Type": 2,
-  "UpdateTime": "2021-01-26 12:22:33"
- },
- {
-  "AddTime": "2021-01-26 12:23:22",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 66002331,
-  "PolicyName": "QcloudTAPMReadOnlyAccess",
-  "ServiceType": "tapm",
-  "Type": 2,
-  "UpdateTime": "2021-01-26 12:23:22"
  },
  {
   "AddTime": "2021-01-26 20:50:49",
