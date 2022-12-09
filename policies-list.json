@@ -3285,7 +3285,7 @@
   "PolicyName": "QcloudAccessForCFWRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-11-17 10:07:35"
+  "UpdateTime": "2022-12-08 10:09:11"
  },
  {
   "AddTime": "2019-10-28 16:16:55",
@@ -8818,6 +8818,30 @@
   "ServiceType": "as",
   "Type": 2,
   "UpdateTime": "2022-10-24 11:04:17"
+ },
+ {
+  "AddTime": "2022-10-25 11:47:04",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 142483558,
+  "PolicyName": "QcloudCAMPFullAccess",
+  "ServiceType": "camp",
+  "Type": 2,
+  "UpdateTime": "2022-10-25 11:47:04"
+ },
+ {
+  "AddTime": "2022-10-25 11:47:05",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 142483560,
+  "PolicyName": "QcloudCAMPReadOnlyaccess",
+  "ServiceType": "camp",
+  "Type": 2,
+  "UpdateTime": "2022-10-25 11:47:05"
  },
  {
   "AddTime": "2022-10-27 11:23:03",
