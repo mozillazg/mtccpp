@@ -2,7 +2,9 @@
  "statement": [
   {
    "action": [
-    "dsgc:Describe*"
+    "dsgc:Describe*",
+    "dsgc:List*",
+    "dsgc:Get*"
    ],
    "effect": "allow",
    "resource": "*"

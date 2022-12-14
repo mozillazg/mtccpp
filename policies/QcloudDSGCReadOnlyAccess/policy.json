@@ -1,9 +1,9 @@
 {
  "AddTime": "2019-07-29 15:43:40",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"dsgc:Describe*\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"dsgc:Describe*\",\"dsgc:List*\",\"dsgc:Get*\"],\"resource\":\"*\"}]}",
  "PolicyName": "QcloudDSGCReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2021-06-03 10:45:38"
+ "UpdateTime": "2022-12-13 10:47:31"
 }
