@@ -8974,5 +8974,53 @@
   "ServiceType": "message",
   "Type": 2,
   "UpdateTime": "2022-12-02 11:20:18"
+ },
+ {
+  "AddTime": "2022-12-15 10:46:19",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 146009261,
+  "PolicyName": "QcloudHASIMFullAccess",
+  "ServiceType": "hasim",
+  "Type": 2,
+  "UpdateTime": "2022-12-15 10:46:19"
+ },
+ {
+  "AddTime": "2022-12-15 10:46:20",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 146009263,
+  "PolicyName": "QcloudHASIMReadOnlyaccess",
+  "ServiceType": "hasim",
+  "Type": 2,
+  "UpdateTime": "2022-12-15 10:46:20"
+ },
+ {
+  "AddTime": "2022-12-15 17:48:41",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 146035073,
+  "PolicyName": "QcloudGASFullAccess",
+  "ServiceType": "gas",
+  "Type": 2,
+  "UpdateTime": "2022-12-15 17:48:41"
+ },
+ {
+  "AddTime": "2022-12-15 17:48:41",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 146035075,
+  "PolicyName": "QcloudGASReadOnlyaccess",
+  "ServiceType": "gas",
+  "Type": 2,
+  "UpdateTime": "2022-12-15 17:48:41"
  }
 ]
