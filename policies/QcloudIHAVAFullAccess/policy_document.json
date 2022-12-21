@@ -2,14 +2,7 @@
  "statement": [
   {
    "action": [
-    "ssa:*"
-   ],
-   "effect": "allow",
-   "resource": "*"
-  },
-  {
-   "action": [
-    "csip:*"
+    "ihava:*"
    ],
    "effect": "allow",
    "resource": "*"

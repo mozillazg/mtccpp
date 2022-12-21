@@ -40,7 +40,15 @@
     "cls:pushLog",
     "cls:agentHeartBeat",
     "cls:getConfig",
-    "cls:DeleteTopic"
+    "cls:DeleteTopic",
+    "monitor:DescribePrometheusInstances",
+    "monitor:UpgradeGrafanaDashboard",
+    "cls:SearchLog",
+    "tag:TagResources",
+    "monitor:DescribePrometheusInstances",
+    "monitor:UpgradeGrafanaDashboard",
+    "cls:SearchLog",
+    "tag:TagResources"
    ],
    "effect": "allow",
    "resource": [

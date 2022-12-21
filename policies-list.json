@@ -2757,7 +2757,7 @@
   "PolicyName": "QcloudSSAFullAccess",
   "ServiceType": "ssa",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2022-12-20 11:08:52"
  },
  {
   "AddTime": "2019-08-06 10:42:58",
@@ -3033,7 +3033,7 @@
   "PolicyName": "QcloudVSSFullAccess",
   "ServiceType": "vss",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2022-12-20 11:07:15"
  },
  {
   "AddTime": "2019-09-17 15:32:05",
@@ -3249,7 +3249,7 @@
   "PolicyName": "QcloudCFWFullAccess",
   "ServiceType": "cfw",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2022-12-20 11:11:55"
  },
  {
   "AddTime": "2019-10-22 11:29:41",
@@ -5877,7 +5877,7 @@
   "PolicyName": "QcloudAccessForTSERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-10-13 11:16:33"
+  "UpdateTime": "2022-12-20 18:47:35"
  },
  {
   "AddTime": "2021-01-18 14:46:44",
@@ -7509,7 +7509,7 @@
   "PolicyName": "QcloudPTSFullAccess",
   "ServiceType": "pts",
   "Type": 2,
-  "UpdateTime": "2021-11-08 11:02:57"
+  "UpdateTime": "2022-12-20 16:25:35"
  },
  {
   "AddTime": "2021-11-08 11:03:22",
@@ -7521,7 +7521,7 @@
   "PolicyName": "QcloudPTSReadOnlyAccess",
   "ServiceType": "pts",
   "Type": 2,
-  "UpdateTime": "2021-11-08 11:03:22"
+  "UpdateTime": "2022-12-20 16:25:26"
  },
  {
   "AddTime": "2021-11-08 17:13:36",
@@ -9022,5 +9022,29 @@
   "ServiceType": "gas",
   "Type": 2,
   "UpdateTime": "2022-12-15 17:48:41"
+ },
+ {
+  "AddTime": "2022-12-20 10:22:58",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 146611228,
+  "PolicyName": "QcloudIHAVAFullAccess",
+  "ServiceType": "ihava",
+  "Type": 2,
+  "UpdateTime": "2022-12-20 10:22:58"
+ },
+ {
+  "AddTime": "2022-12-20 10:25:33",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 146611452,
+  "PolicyName": "QcloudIHAVAReadOnlyaccess",
+  "ServiceType": "ihava",
+  "Type": 2,
+  "UpdateTime": "2022-12-20 10:25:33"
  }
 ]
