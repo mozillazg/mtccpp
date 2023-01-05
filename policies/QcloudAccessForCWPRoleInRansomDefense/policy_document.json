@@ -1,0 +1,21 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:ApplySnapshot",
+    "cvm:DescribeCbsStorages",
+    "cvm:DescribeDiskAssociatedSnapshots",
+    "cvm:DescribeSnapshots",
+    "cvm:RebootInstances",
+    "cvm:StartInstances",
+    "cvm:StopInstances",
+    "cvm:CreateSnapshot",
+    "cvm:ModifySnapshotAttribute",
+    "cvm:DeleteSnapshots"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

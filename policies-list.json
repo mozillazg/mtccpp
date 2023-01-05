@@ -9070,5 +9070,17 @@
   "ServiceType": "tbs",
   "Type": 2,
   "UpdateTime": "2022-12-20 10:43:35"
+ },
+ {
+  "AddTime": "2023-01-04 09:55:40",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 148331290,
+  "PolicyName": "QcloudAccessForCWPRoleInRansomDefense",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2023-01-04 09:55:40"
  }
 ]

@@ -1,0 +1,9 @@
+{
+ "AddTime": "2023-01-04 09:55:40",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cvm:ApplySnapshot\",\"cvm:DescribeCbsStorages\",\"cvm:DescribeDiskAssociatedSnapshots\",\"cvm:DescribeSnapshots\",\"cvm:RebootInstances\",\"cvm:StartInstances\",\"cvm:StopInstances\",\"cvm:CreateSnapshot\",\"cvm:ModifySnapshotAttribute\",\"cvm:DeleteSnapshots\"],\"resource\":\"*\"}]}",
+ "PolicyName": "QcloudAccessForCWPRoleInRansomDefense",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2023-01-04 09:55:40"
+}
