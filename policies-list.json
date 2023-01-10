@@ -6240,30 +6240,6 @@
   "UpdateTime": "2021-03-31 11:06:02"
  },
  {
-  "AddTime": "2021-03-31 14:47:39",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 73148623,
-  "PolicyName": "QcloudAPCASFullAccess",
-  "ServiceType": "apcas",
-  "Type": 2,
-  "UpdateTime": "2021-03-31 14:47:39"
- },
- {
-  "AddTime": "2021-03-31 14:48:19",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 73148689,
-  "PolicyName": "QcloudAPCASReadOnlyAccess",
-  "ServiceType": "apcas",
-  "Type": 2,
-  "UpdateTime": "2021-03-31 14:48:19"
- },
- {
   "AddTime": "2021-03-31 21:43:30",
   "CreateMode": 2,
   "Deactived": 0,
@@ -9106,5 +9082,29 @@
   "ServiceType": "cooperator",
   "Type": 2,
   "UpdateTime": "2023-01-04 09:55:40"
+ },
+ {
+  "AddTime": "2023-01-09 11:21:48",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 148944551,
+  "PolicyName": "QcloudTCEDFullAccess",
+  "ServiceType": "tced",
+  "Type": 2,
+  "UpdateTime": "2023-01-09 11:21:48"
+ },
+ {
+  "AddTime": "2023-01-09 11:21:49",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 148944552,
+  "PolicyName": "QcloudTCEDReadOnlyaccess",
+  "ServiceType": "tced",
+  "Type": 2,
+  "UpdateTime": "2023-01-09 11:21:49"
  }
 ]
