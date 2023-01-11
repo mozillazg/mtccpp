@@ -17,7 +17,10 @@
     "cmqqueue:GetQueueAttributes",
     "cmqqueue:SendMessage",
     "cmqqueue:BatchSendMessage",
-    "cmqqueue:ListQueue"
+    "cmqqueue:ListQueue",
+    "cvm:StartInstances",
+    "cvm:ResetInstance",
+    "finance:trade"
    ],
    "effect": "allow",
    "resource": "*"

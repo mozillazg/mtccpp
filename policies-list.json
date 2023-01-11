@@ -2241,7 +2241,7 @@
   "PolicyName": "QcloudAccessForASRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2021-08-09 10:48:46"
+  "UpdateTime": "2023-01-10 14:05:29"
  },
  {
   "AddTime": "2019-04-11 17:08:55",
@@ -9106,5 +9106,17 @@
   "ServiceType": "tced",
   "Type": 2,
   "UpdateTime": "2023-01-09 11:21:49"
+ },
+ {
+  "AddTime": "2023-01-10 16:08:06",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 149112116,
+  "PolicyName": "QcloudAccessForSCFRoleInSCFOnKubernetes",
+  "ServiceType": "scf",
+  "Type": 2,
+  "UpdateTime": "2023-01-10 16:08:06"
  }
 ]
