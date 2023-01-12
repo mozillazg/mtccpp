@@ -48,7 +48,8 @@
     "monitor:DescribePrometheusInstances",
     "monitor:UpgradeGrafanaDashboard",
     "cls:SearchLog",
-    "tag:TagResources"
+    "tag:TagResources",
+    "tag:DetachResourcesTag"
    ],
    "effect": "allow",
    "resource": [
