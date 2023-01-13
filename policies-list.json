@@ -9072,6 +9072,30 @@
   "UpdateTime": "2022-12-20 10:43:35"
  },
  {
+  "AddTime": "2022-12-28 10:09:46",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 147556055,
+  "PolicyName": "QcloudTBCCFullAccess",
+  "ServiceType": "tbcc",
+  "Type": 2,
+  "UpdateTime": "2022-12-28 10:09:46"
+ },
+ {
+  "AddTime": "2022-12-28 10:09:47",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 147556058,
+  "PolicyName": "QcloudTBCCReadOnlyaccess",
+  "ServiceType": "tbcc",
+  "Type": 2,
+  "UpdateTime": "2022-12-28 10:09:47"
+ },
+ {
   "AddTime": "2023-01-04 09:55:40",
   "CreateMode": 2,
   "Deactived": 0,
