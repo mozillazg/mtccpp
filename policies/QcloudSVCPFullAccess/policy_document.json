@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "svcp:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
