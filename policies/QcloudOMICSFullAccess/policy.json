@@ -1,0 +1,9 @@
+{
+ "AddTime": "2023-02-02 11:32:39",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"omics:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudOMICSFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2023-02-02 11:32:39"
+}
