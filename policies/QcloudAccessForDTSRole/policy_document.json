@@ -7,7 +7,13 @@
     "ckafka:AddRoute",
     "ckafka:DeleteRoute",
     "ckafka:ListInstance",
-    "ckafka:DescribeInstanceAttributes"
+    "ckafka:DescribeInstanceAttributes",
+    "ckafka:CreateRoute",
+    "ckafka:DescribeRoute",
+    "ckafka:DescribeInstancesDetail",
+    "ckafka:DescribeTopic",
+    "ckafka:DescribeTopicAttributes",
+    "vpc:DescribeCcnAttachedInstances"
    ],
    "effect": "allow",
    "resource": "*"
