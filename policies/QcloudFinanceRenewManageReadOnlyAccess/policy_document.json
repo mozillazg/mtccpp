@@ -3,7 +3,13 @@
   {
    "action": [
     "finance:QueryPreResourceCntManager",
-    "finance:QueryPreResourcesByCondManager"
+    "finance:QueryPreResourcesByCondManager",
+    "finance:QueryPreResourceDetails",
+    "finance:QueryPreResourceCntByProducts",
+    "finance:QueryLatestExpireResourcesManager",
+    "finance:QueryResourcesForRenewParam",
+    "finance:QueryCbsResourcesByCvmInstanceIdsManager",
+    "finance:AsynchDownloadPreResourceByCond"
    ],
    "effect": "allow",
    "resource": "*"

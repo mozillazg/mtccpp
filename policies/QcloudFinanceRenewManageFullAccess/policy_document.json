@@ -4,6 +4,12 @@
    "action": [
     "finance:QueryPreResourceCntManager",
     "finance:QueryPreResourcesByCondManager",
+    "finance:QueryPreResourceDetails",
+    "finance:QueryPreResourceCntByProducts",
+    "finance:QueryLatestExpireResourcesManager",
+    "finance:QueryResourcesForRenewParam",
+    "finance:QueryCbsResourcesByCvmInstanceIdsManager",
+    "finance:AsynchDownloadPreResourceByCond",
     "finance:SetRenewFlagManager",
     "finance:ModifyRenewNoticeSetting",
     "finance:SetAutoRenewTimeManager"

@@ -1,9 +1,9 @@
 {
  "AddTime": "2021-08-10 16:32:46",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"finance:QueryPreResourceCntManager\",\"finance:QueryPreResourcesByCondManager\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"finance:QueryPreResourceCntManager\",\"finance:QueryPreResourcesByCondManager\",\"finance:QueryPreResourceDetails\",\"finance:QueryPreResourceCntByProducts\",\"finance:QueryLatestExpireResourcesManager\",\"finance:QueryResourcesForRenewParam\",\"finance:QueryCbsResourcesByCvmInstanceIdsManager\",\"finance:AsynchDownloadPreResourceByCond\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
  "PolicyName": "QcloudFinanceRenewManageReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2021-08-10 16:32:46"
+ "UpdateTime": "2023-02-14 17:14:38"
 }
