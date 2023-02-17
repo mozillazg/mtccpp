@@ -59,7 +59,9 @@
     "cls:getIndex",
     "cls:modifyIndex",
     "cls:agentHeartBeat",
-    "cls:getConfig"
+    "cls:getConfig",
+    "monitor:DescribeAlarmHistories",
+    "monitor:DescribeAlarmPolicies"
    ],
    "effect": "allow",
    "resource": "*"

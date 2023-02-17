@@ -57,7 +57,9 @@
     "cos:HeadBucket",
     "cos:GetSymlink",
     "cos:PutSymlink",
-    "cos:RenameObject"
+    "cos:RenameObject",
+    "tcr:PushRepository",
+    "tcr:PushRepositoryPersonal"
    ],
    "effect": "allow",
    "resource": "*"

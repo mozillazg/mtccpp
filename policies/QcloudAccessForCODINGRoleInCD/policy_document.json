@@ -26,7 +26,9 @@
     "cls:SearchLog",
     "cls:DescribeLogHistogram",
     "cls:DescribeLogFastAnalysis",
-    "cls:DescribeLogContext"
+    "cls:DescribeLogContext",
+    "monitor:DescribeStatisticData",
+    "tke:DescribeClusters"
    ],
    "effect": "allow",
    "resource": [
