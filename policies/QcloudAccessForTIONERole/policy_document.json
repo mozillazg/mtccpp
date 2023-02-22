@@ -59,7 +59,9 @@
     "cos:PutSymlink",
     "cos:RenameObject",
     "tcr:PushRepository",
-    "tcr:PushRepositoryPersonal"
+    "tcr:PushRepositoryPersonal",
+    "tcr:CreateNamespace",
+    "tcr:CreateRepository"
    ],
    "effect": "allow",
    "resource": "*"

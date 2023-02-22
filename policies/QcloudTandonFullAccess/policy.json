@@ -1,0 +1,9 @@
+{
+ "AddTime": "2023-02-13 10:15:35",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tandon:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudTandonFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2023-02-13 10:15:35"
+}
