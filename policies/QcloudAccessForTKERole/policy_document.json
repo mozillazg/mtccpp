@@ -78,7 +78,8 @@
     "cvm:DescribeImages",
     "cvm:AssociateSecurityGroups",
     "cvm:ModifyInstancesAttribute",
-    "cvm:ResetInstance"
+    "cvm:ResetInstance",
+    "monitor:GetMonitorData"
    ],
    "effect": "allow",
    "resource": "*"
