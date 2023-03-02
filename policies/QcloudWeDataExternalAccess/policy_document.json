@@ -4,6 +4,7 @@
    "action": [
     "cam:ListUsers",
     "cam:ListCollaborators",
+    "cam:PassRole",
     "cam:DescribeRoleList",
     "cdb:DescribeDBInstances",
     "cdb:DescribeDatabases",
