@@ -23,7 +23,9 @@
     "tag:DescribeTagValues",
     "cfs:DescribeCfsFileSystems",
     "emr:DescribeInstances",
-    "cvm:DescribeAddresses"
+    "emr:DescribeInstancesList",
+    "cvm:DescribeAddresses",
+    "tag:GetResources"
    ],
    "effect": "allow",
    "resource": "*"

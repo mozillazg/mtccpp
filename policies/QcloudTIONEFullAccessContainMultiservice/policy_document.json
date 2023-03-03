@@ -22,6 +22,7 @@
     "tag:DescribeTagValues",
     "tag:AttachResourcesTag",
     "tag:DetachResourcesTag",
+    "tag:GetResources",
     "finance:trade",
     "cfs:DescribeCfsFileSystems",
     "emr:DescribeInstances",
