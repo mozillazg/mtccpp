@@ -1,0 +1,9 @@
+{
+ "AddTime": "2023-03-08 11:23:52",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cdn:PurgeUrlsCache\",\"cdn:DescribeDomainsConfig\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyName": "QcloudAccessForCIRoleInCDN",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2023-03-08 11:23:52"
+}
