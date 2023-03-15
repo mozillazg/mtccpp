@@ -189,6 +189,8 @@
     "tcr:PullRepository",
     "tcr:DescribeInternalEndpoints",
     "tcr:DescribeExternalEndpointStatus",
+    "tcr:PullRepositoryPersonal",
+    "tcr:PushRepositoryPersonal",
     "tag:CreateTags"
    ],
    "effect": "allow",
