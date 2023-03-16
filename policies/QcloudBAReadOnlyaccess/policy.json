@@ -1,0 +1,9 @@
+{
+ "AddTime": "2023-02-22 12:51:24",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"ba:*\"],\"resource\":\"*\",\"effect\":\"allow\",\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}}}]}",
+ "PolicyName": "QcloudBAReadOnlyaccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2023-02-22 12:51:24"
+}
