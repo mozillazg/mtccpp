@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:DescribeTopics",
+    "cls:CreateIndex",
+    "cls:CreateLogset",
+    "cls:CreateTopic",
+    "cls:pushLog",
+    "cls:DescribeLogsets"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

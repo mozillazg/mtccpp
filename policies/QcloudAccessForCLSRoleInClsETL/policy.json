@@ -1,0 +1,9 @@
+{
+ "AddTime": "2023-03-20 16:00:56",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cls:DescribeTopics\",\"cls:CreateIndex\",\"cls:CreateLogset\",\"cls:CreateTopic\",\"cls:pushLog\",\"cls:DescribeLogsets\"],\"resource\":[\"*\"]}]}",
+ "PolicyName": "QcloudAccessForCLSRoleInClsETL",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2023-03-20 16:00:56"
+}
