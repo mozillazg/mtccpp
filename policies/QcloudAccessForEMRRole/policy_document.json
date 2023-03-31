@@ -69,6 +69,8 @@
     "monitor:DescribeAlarmHistories",
     "monitor:DescribeMonitorTypes",
     "vpc:DescribeVpcEx",
+    "vpc:DescribeCcnAttachedInstances",
+    "tag:GetTagValues",
     "cvm:ResizeCbsStorage",
     "cvm:DescribeInstancesCbsNum"
    ],

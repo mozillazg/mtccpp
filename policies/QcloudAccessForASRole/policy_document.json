@@ -20,7 +20,9 @@
     "cmqqueue:ListQueue",
     "cvm:StartInstances",
     "cvm:ResetInstance",
-    "finance:trade"
+    "finance:trade",
+    "cam:PassRole",
+    "kms:BindCloudResource"
    ],
    "effect": "allow",
    "resource": "*"
