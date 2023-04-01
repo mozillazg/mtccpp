@@ -3,12 +3,24 @@
   {
    "action": [
     "finance:DescribeBill*",
+    "finance:VerifyBill*",
     "finance:UpdateBill*",
     "finance:DescribeConsolidatedBillDownloadUrl",
     "finance:DownloadCustomizedResourceSummary",
     "finance:DescribeResourceBill*",
     "finance:DescribeDosage*",
-    "finance:DownloadCustomizedDetail"
+    "finance:DownloadCustomizedDetail",
+    "finance:DescribeAllocat*",
+    "finance:DescribeGather*",
+    "finance:ModifyAllocation*",
+    "finance:DeleteAllocation*",
+    "finance:DragAllocation*",
+    "finance:ReplicateAllocation*",
+    "finance:CreateGather*",
+    "finance:ModifyGather*",
+    "finance:DeleteGather*",
+    "finance:DescribeConsumption*",
+    "finance:DescribeCost*"
    ],
    "effect": "allow",
    "resource": "*"
