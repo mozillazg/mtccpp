@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "finance:DescribeBudget*",
+    "finance:DescribeBillTagsByMonth",
+    "finance:DescribeBillResourceTag*",
+    "finance:DescribeConsumptionWhiteUserStatus"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
