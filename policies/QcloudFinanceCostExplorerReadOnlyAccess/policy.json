@@ -1,9 +1,9 @@
 {
  "AddTime": "2023-04-04 11:08:28",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"finance:DescribeBudget*\",\"finance:DescribeBillTagsByMonth\",\"finance:DescribeBillResourceTag*\",\"finance:DescribeConsumptionWhiteUserStatus\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"finance:DescribeCostExplorer*\",\"finance:DescribeCostReport*\",\"finance:DescribeBillTagsByMonth\",\"finance:DescribeBillResourceTag*\",\"finance:DescribeConsumptionWhiteUserStatus\"],\"resource\":\"*\"}]}",
  "PolicyName": "QcloudFinanceCostExplorerReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2023-04-04 11:08:28"
+ "UpdateTime": "2023-04-07 10:43:52"
 }

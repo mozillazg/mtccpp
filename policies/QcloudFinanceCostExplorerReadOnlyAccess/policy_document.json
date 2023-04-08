@@ -2,7 +2,8 @@
  "statement": [
   {
    "action": [
-    "finance:DescribeBudget*",
+    "finance:DescribeCostExplorer*",
+    "finance:DescribeCostReport*",
     "finance:DescribeBillTagsByMonth",
     "finance:DescribeBillResourceTag*",
     "finance:DescribeConsumptionWhiteUserStatus"
