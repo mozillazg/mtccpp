@@ -7,10 +7,16 @@
     "finance:DownloadCustomizedResourceSummary",
     "finance:DescribeResourceBill*",
     "finance:DescribeDosage*",
-    "finance:DownloadCustomizedDetail"
+    "finance:DownloadCustomizedDetail",
+    "finance:DescribeAllocat*",
+    "finance:DescribeGather*",
+    "finance:DescribeCost*",
+    "finance:DescribeConsumption*"
    ],
    "effect": "allow",
-   "resource": "*"
+   "resource": [
+    "*"
+   ]
   }
  ],
  "version": "2.0"
