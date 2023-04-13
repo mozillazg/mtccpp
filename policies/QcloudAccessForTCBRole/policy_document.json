@@ -9,7 +9,8 @@
     "sts:GetCdnToken",
     "tcb:*",
     "ssl:DescribeCertificateDetail",
-    "ssl:DescribeCertificates"
+    "ssl:DescribeCertificates",
+    "ssl:CheckCertificateChain"
    ],
    "effect": "allow",
    "resource": [

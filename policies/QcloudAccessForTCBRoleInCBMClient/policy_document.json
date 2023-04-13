@@ -6,7 +6,8 @@
     "partners:UnbindClientForWeChat",
     "partners:ModifyAgentSourceFromToWeChat",
     "partners:RelateClientForWeChat",
-    "partners:DescribePartnersForWeChat"
+    "partners:DescribePartnersForWeChat",
+    "ssl:CheckCertificateChain"
    ],
    "effect": "allow",
    "resource": "*"

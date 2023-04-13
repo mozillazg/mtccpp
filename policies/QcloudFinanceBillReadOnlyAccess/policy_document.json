@@ -14,9 +14,7 @@
     "finance:DescribeConsumption*"
    ],
    "effect": "allow",
-   "resource": [
-    "*"
-   ]
+   "resource": "*"
   }
  ],
  "version": "2.0"

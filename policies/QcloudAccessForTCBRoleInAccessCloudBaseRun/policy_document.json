@@ -191,7 +191,8 @@
     "tcr:DescribeExternalEndpointStatus",
     "tcr:PullRepositoryPersonal",
     "tcr:PushRepositoryPersonal",
-    "tag:CreateTags"
+    "tag:CreateTags",
+    "ssl:CheckCertificateChain"
    ],
    "effect": "allow",
    "resource": "*"
