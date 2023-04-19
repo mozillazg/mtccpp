@@ -187,7 +187,8 @@
     "vpc:DescribeRouteReceivingPolicies",
     "vpc:DetachCcnInstances",
     "vpc:EnableCcnRoutes",
-    "cdc:DescribeDedicatedClusters"
+    "cdc:DescribeDedicatedClusters",
+    "cos:GetObject"
    ],
    "effect": "allow",
    "resource": "*"

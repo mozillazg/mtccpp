@@ -50,7 +50,18 @@
     "cls:SearchLog",
     "tag:TagResources",
     "tag:DetachResourcesTag",
-    "scf:InvokeFunction"
+    "scf:InvokeFunction",
+    "tat:CreateCommand",
+    "tat:DeleteCommand",
+    "tat:DescribeCommands",
+    "tat:ModifyCommand",
+    "cvm:DescribeInstances",
+    "as:DescribeAutoScalingGroups",
+    "as:DescribeLifecycleHooks",
+    "as:DescribeAutoScalingInstances",
+    "as:ModifyLifecycleHook",
+    "as:DeleteLifecycleHook",
+    "as:CreateLifecycleHook"
    ],
    "effect": "allow",
    "resource": [

@@ -72,7 +72,14 @@
     "vpc:DescribeCcnAttachedInstances",
     "tag:GetTagValues",
     "cvm:ResizeCbsStorage",
-    "cvm:DescribeInstancesCbsNum"
+    "cvm:DescribeInstancesCbsNum",
+    "cvm:DescribeDisasterRecoverGroups",
+    "cvm:DescribeImageSharePermission",
+    "cvm:ModifyImageSharePermission",
+    "cvm:DescribeInstancesReturnable",
+    "cvm:ModifyInstancesChargeType",
+    "cvm:RenewInstances",
+    "cvm:ResetInstancesType"
    ],
    "effect": "allow",
    "resource": "*"
