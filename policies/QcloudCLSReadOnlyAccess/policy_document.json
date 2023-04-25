@@ -29,7 +29,13 @@
     "cls:get*",
     "cls:list*",
     "cls:Check*",
-    "cls:Describe*"
+    "cls:Describe*",
+    "cls:Query*",
+    "cls:GetMetricLabelValues",
+    "cls:GetMetricSeries",
+    "cls:MetricsQuery*",
+    "cls:MetricsLabel*",
+    "cls:MetricsSeries*"
    ],
    "effect": "allow",
    "resource": [

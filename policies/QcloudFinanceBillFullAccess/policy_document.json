@@ -20,7 +20,7 @@
     "finance:ModifyGather*",
     "finance:DeleteGather*",
     "finance:DescribeConsumption*",
-    "finance:DescribeCost*"
+    "finance:CreateAllocation*"
    ],
    "effect": "allow",
    "resource": "*"
