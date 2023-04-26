@@ -79,7 +79,8 @@
     "cvm:AssociateSecurityGroups",
     "cvm:ModifyInstancesAttribute",
     "cvm:ResetInstance",
-    "monitor:GetMonitorData"
+    "monitor:GetMonitorData",
+    "cvm:RunInstances"
    ],
    "effect": "allow",
    "resource": "*"
