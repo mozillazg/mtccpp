@@ -1,0 +1,23 @@
+{
+ "statement": [
+  {
+   "action": [
+    "finance:QcostSetInvoiceOpenRegular",
+    "finance:QcostSetUinPostInfo",
+    "finance:QcostOpenUinInvoice",
+    "finance:QcostUndoInvoice",
+    "finance:DescribeInvoice",
+    "finance:QcostSetUinInvoiceInfoNew",
+    "finance:ModifyInvoice",
+    "finance:CreateMarketInvoice",
+    "finance:UpdateMarketInvoiceByUser",
+    "finance:DescribeMarketInvoice*",
+    "finance:DescribeMarket*",
+    "finance:QcostSetInvoice*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
