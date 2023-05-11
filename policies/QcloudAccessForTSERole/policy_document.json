@@ -61,7 +61,10 @@
     "as:DescribeAutoScalingInstances",
     "as:ModifyLifecycleHook",
     "as:DeleteLifecycleHook",
-    "as:CreateLifecycleHook"
+    "as:CreateLifecycleHook",
+    "cvm:DescribeSecurityGroups",
+    "vpc:ModifyVpcEndPointAttribute",
+    "vpc:DisassociateVpcEndPointSecurityGroups"
    ],
    "effect": "allow",
    "resource": [
