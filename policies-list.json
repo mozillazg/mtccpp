@@ -3705,7 +3705,7 @@
   "PolicyName": "QcloudAccessForSSMRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2021-08-12 09:02:14"
+  "UpdateTime": "2023-05-11 14:35:18"
  },
  {
   "AddTime": "2019-12-24 19:02:39",
@@ -9514,5 +9514,17 @@
   "ServiceType": "finance",
   "Type": 2,
   "UpdateTime": "2023-04-27 17:23:07"
+ },
+ {
+  "AddTime": "2023-05-10 10:34:26",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 160960870,
+  "PolicyName": "QcloudAccessForCLSRoleInTemplate",
+  "ServiceType": "cls",
+  "Type": 2,
+  "UpdateTime": "2023-05-10 10:34:26"
  }
 ]

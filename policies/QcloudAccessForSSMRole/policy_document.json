@@ -27,7 +27,12 @@
     "dcdb:GrantAccountPrivileges",
     "dcdb:DeleteAccount",
     "dcdb:DescribeFlow",
-    "dcdb:ResetAccountPassword"
+    "dcdb:ResetAccountPassword",
+    "redis:CreateInstanceAccount",
+    "redis:DeleteInstanceAccount",
+    "redis:ModifyInstanceAccount",
+    "redis:DescribeInstanceAccount",
+    "redis:DescribeTaskInfo"
    ],
    "effect": "allow",
    "resource": "*"

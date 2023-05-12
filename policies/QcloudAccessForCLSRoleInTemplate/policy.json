@@ -1,0 +1,9 @@
+{
+ "AddTime": "2023-05-10 10:34:26",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cls:DescribeShippers\",\"cls:CreateShipper\",\"cls:ModifyShipper\",\"cls:modifyConsumer\",\"cls:getConsumer\",\"cls:DescribeConsumer\",\"cls:CreateIndex\",\"cls:ModifyIndex\",\"cls:DescribeIndex\",\"cls:DescribeIndexs\",\"cls:DescribeLogsets\",\"cls:DescribeTopics\",\"cls:CreateConfig\",\"cls:DescribeConfigs\",\"cls:ModifyConfig\",\"cls:CreateConfigExtra\",\"cls:ModifyConfigExtra\",\"cls:DescribeMachineGroups\",\"cls:ApplyConfigToMachineGroup\"],\"resource\":[\"*\"]}]}",
+ "PolicyName": "QcloudAccessForCLSRoleInTemplate",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2023-05-10 10:34:26"
+}

@@ -1,0 +1,32 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:DescribeShippers",
+    "cls:CreateShipper",
+    "cls:ModifyShipper",
+    "cls:modifyConsumer",
+    "cls:getConsumer",
+    "cls:DescribeConsumer",
+    "cls:CreateIndex",
+    "cls:ModifyIndex",
+    "cls:DescribeIndex",
+    "cls:DescribeIndexs",
+    "cls:DescribeLogsets",
+    "cls:DescribeTopics",
+    "cls:CreateConfig",
+    "cls:DescribeConfigs",
+    "cls:ModifyConfig",
+    "cls:CreateConfigExtra",
+    "cls:ModifyConfigExtra",
+    "cls:DescribeMachineGroups",
+    "cls:ApplyConfigToMachineGroup"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}
