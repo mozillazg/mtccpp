@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-04-20 10:13:23",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvd:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cvd:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCVDFullAccess",
  "PresetAlias": "",
  "Type": 2,

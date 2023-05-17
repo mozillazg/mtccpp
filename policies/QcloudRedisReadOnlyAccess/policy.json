@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-04-19 15:48:17",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"redis:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"redis:Get*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"redis:Inquiry*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"effect\":\"allow\",\"action\":[\"monitor:Describe*\",\"monitor:Get*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"redis:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"redis:Get*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"redis:Inquiry*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"monitor:Describe*\",\"monitor:Get*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudRedisReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

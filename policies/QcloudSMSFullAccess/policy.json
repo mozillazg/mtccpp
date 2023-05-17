@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-07-20 16:28:12",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"sms:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"sms:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudSMSFullAccess",
  "PresetAlias": "",
  "Type": 2,

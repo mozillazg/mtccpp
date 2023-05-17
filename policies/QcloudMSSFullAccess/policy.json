@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-10-28 10:53:26",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"mss:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"mss:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudMSSFullAccess",
  "PresetAlias": "",
  "Type": 2,

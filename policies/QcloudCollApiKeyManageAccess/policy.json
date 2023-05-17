@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-02-17 20:40:09",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cam:QueryKeyBySecretId\",\"cloudaudit:LookUpEvents\",\"cam:*CollApiKey\",\"cam:GetReceiverInfo\",\"cam:GetSecurityLastUsed\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cam:QueryKeyBySecretId\",\"cloudaudit:LookUpEvents\",\"cam:*CollApiKey\",\"cam:GetReceiverInfo\",\"cam:GetSecurityLastUsed\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCollApiKeyManageAccess",
  "PresetAlias": "",
  "Type": 2,

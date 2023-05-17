@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-03-08 10:26:03",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"resource\":[\"*\"],\"action\":[\"tcr:DescribeInstances\",\"tcr:DescribeInstanceStatus\",\"tcr:DescribeNamespaces\",\"tcr:DescribeRepositories\",\"tcr:DescribeRepositoryOwnerPersonal\",\"tcr:CreateInstanceToken\",\"tke:DescribeClusters\",\"tke:DescribeClusterInstances\",\"cvm:DescribeInstances\",\"tcr:PullRepositoryPersonal\",\"tcr:PullRepository\"]}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tcr:DescribeInstances\",\"tcr:DescribeInstanceStatus\",\"tcr:DescribeNamespaces\",\"tcr:DescribeRepositories\",\"tcr:DescribeRepositoryOwnerPersonal\",\"tcr:CreateInstanceToken\",\"tke:DescribeClusters\",\"tke:DescribeClusterInstances\",\"cvm:DescribeInstances\",\"tcr:PullRepositoryPersonal\",\"tcr:PullRepository\"],\"effect\":\"allow\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForTCSSRole",
  "PresetAlias": "",
  "Type": 2,

@@ -1,7 +1,7 @@
 {
  "AddTime": "2022-01-06 17:17:36",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"finance:*\",\"resource\":[\"qcs::cdb:::*\",\"qcs::emr:::*\",\"qcs::cvm:::*\"]}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"finance:*\",\"effect\":\"allow\",\"resource\":[\"qcs::cdb:::*\",\"qcs::emr:::*\",\"qcs::cvm:::*\"]}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudEMRPurchaseAccess",
  "PresetAlias": "",
  "Type": 2,

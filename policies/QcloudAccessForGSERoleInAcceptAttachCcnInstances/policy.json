@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-06-17 19:03:19",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"vpc:DescribeCcnAttachedInstances\",\"vpc:AcceptAttachCcnInstances\"],\"resource\":[\"*\"]}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"vpc:DescribeCcnAttachedInstances\",\"vpc:AcceptAttachCcnInstances\"],\"effect\":\"allow\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForGSERoleInAcceptAttachCcnInstances",
  "PresetAlias": "",
  "Type": 2,

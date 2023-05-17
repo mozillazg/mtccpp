@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-11-03 16:43:51",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"scf:*\",\"cls:CreateLogset\",\"cls:pushLog\",\"cls:ModifyTopic\",\"cls:ModifyMachineGroup\",\"cls:getConfig\",\"cls:DescribeTopics\",\"cls:DescribeMachines\",\"cls:DescribeMachineGroups\",\"cls:DescribeLogsets\",\"cls:DescribeConfigMachineGroups\",\"cls:DescribeAgentConfigs\",\"cls:DeleteTopic\",\"cls:deleteTopic\",\"cls:DeleteMachineGroup\",\"cls:DeleteConfigFromMachineGroup\",\"cls:DeleteConfig\",\"cls:CreateTopic\",\"cls:CreateMachineGroup\",\"cls:ApplyConfigToMachineGroup\",\"cls:agentHeartBeat\",\"cls:ModifyIndex\",\"cls:ModifyConfig\",\"cls:DescribeMachineGroupConfigs\",\"cls:DescribeIndex\",\"cls:DescribeConfigs\",\"cls:CreateIndex\",\"cls:CreateConfig\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"scf:*\",\"cls:CreateLogset\",\"cls:pushLog\",\"cls:ModifyTopic\",\"cls:ModifyMachineGroup\",\"cls:getConfig\",\"cls:DescribeTopics\",\"cls:DescribeMachines\",\"cls:DescribeMachineGroups\",\"cls:DescribeLogsets\",\"cls:DescribeConfigMachineGroups\",\"cls:DescribeAgentConfigs\",\"cls:DeleteTopic\",\"cls:deleteTopic\",\"cls:DeleteMachineGroup\",\"cls:DeleteConfigFromMachineGroup\",\"cls:DeleteConfig\",\"cls:CreateTopic\",\"cls:CreateMachineGroup\",\"cls:ApplyConfigToMachineGroup\",\"cls:agentHeartBeat\",\"cls:ModifyIndex\",\"cls:ModifyConfig\",\"cls:DescribeMachineGroupConfigs\",\"cls:DescribeIndex\",\"cls:DescribeConfigs\",\"cls:CreateIndex\",\"cls:CreateConfig\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForAPIGatewayRoleInSCFTrigger",
  "PresetAlias": "",
  "Type": 2,

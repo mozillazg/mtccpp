@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-05-09 14:49:18",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tke:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cvm:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"vpc:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"clb:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"monitor:*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\",\"cam:GetRole\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tke:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cvm:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"vpc:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"clb:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"monitor:*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\",\"cam:GetRole\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTKEFullAccess",
  "PresetAlias": "",
  "Type": 2,

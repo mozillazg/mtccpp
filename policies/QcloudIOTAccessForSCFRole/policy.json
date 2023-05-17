@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-05-15 19:29:02",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"iotcloud:Publish\",\"iotcloud:ListDevices\",\"iotcloud:DeleteTopicPolicy\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"iotcloud:Publish\",\"iotcloud:ListDevices\",\"iotcloud:DeleteTopicPolicy\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudIOTAccessForSCFRole",
  "PresetAlias": "",
  "Type": 2,

@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-05-09 14:52:22",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tke:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tke:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTKEInnerFullAccess",
  "PresetAlias": "",
  "Type": 2,

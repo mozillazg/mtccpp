@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-01-23 10:10:37",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"batch:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"batch:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudBatchReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

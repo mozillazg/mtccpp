@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-09-25 16:57:14",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":{\"effect\":\"allow\",\"action\":[\"hcm:AdminAuthority\",\"hcm:Authority\",\"hcm:Statistics\",\"hcm:Overview\",\"hcm:DescribeApp\",\"hcm:DescribeDeveloper\",\"hcm:DescribeBills\",\"hcm:DescribePackages\",\"hcm:DescribeTask\",\"hcm:Evaluation\"],\"resource\":\"*\"}}",
+ "PolicyDocument": "{\"statement\":{\"action\":[\"hcm:AdminAuthority\",\"hcm:Authority\",\"hcm:Statistics\",\"hcm:Overview\",\"hcm:DescribeApp\",\"hcm:DescribeDeveloper\",\"hcm:DescribeBills\",\"hcm:DescribePackages\",\"hcm:DescribeTask\",\"hcm:Evaluation\"],\"effect\":\"allow\",\"resource\":\"*\"},\"version\":\"2.0\"}",
  "PolicyName": "QcloudHCMReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

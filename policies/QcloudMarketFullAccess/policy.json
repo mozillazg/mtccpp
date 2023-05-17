@@ -1,7 +1,7 @@
 {
  "AddTime": "2022-09-05 14:59:11",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"market:*\",\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"market:*\",\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudMarketFullAccess",
  "PresetAlias": "",
  "Type": 2,

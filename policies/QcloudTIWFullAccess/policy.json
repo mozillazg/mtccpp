@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-10-28 16:16:55",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tiw:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cam:GetRole\",\"cam:ListAttachedRolePolicies\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tiw:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cam:GetRole\",\"cam:ListAttachedRolePolicies\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTIWFullAccess",
  "PresetAlias": "",
  "Type": 2,

@@ -1,7 +1,7 @@
 {
  "AddTime": "2017-06-06 11:45:49",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"consoleilvb:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"consoleilvb:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudILVBFullAccess",
  "PresetAlias": "",
  "Type": 2,

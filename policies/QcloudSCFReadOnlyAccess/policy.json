@@ -1,7 +1,7 @@
 {
  "AddTime": "2017-10-24 16:01:40",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"scf:Get*\",\"scf:List*\",\"ckafka:List*\",\"ckafka:Describe*\",\"monitor:GetMonitorData\",\"monitor:DescribeBasicAlarmList\",\"monitor:DescribeBaseMetrics\",\"monitor:DescribeSortObjectList\",\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"vpc:DescribeVpcEx\",\"vpc:DescribeSubnetEx\",\"cls:getLogset\",\"cls:getTopic\",\"cls:listTopic\",\"apigw:DescribeService\",\"cmqtopic:GetTopicAttributes\",\"cmqtopic:GetSubscriptionAttributes\",\"cos:HeadBucket\",\"cos:GetService\",\"cos:GetObject\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"scf:Get*\",\"scf:List*\",\"ckafka:List*\",\"ckafka:Describe*\",\"monitor:GetMonitorData\",\"monitor:DescribeBasicAlarmList\",\"monitor:DescribeBaseMetrics\",\"monitor:DescribeSortObjectList\",\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"vpc:DescribeVpcEx\",\"vpc:DescribeSubnetEx\",\"cls:getLogset\",\"cls:getTopic\",\"cls:listTopic\",\"apigw:DescribeService\",\"cmqtopic:GetTopicAttributes\",\"cmqtopic:GetSubscriptionAttributes\",\"cos:HeadBucket\",\"cos:GetService\",\"cos:GetObject\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudSCFReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

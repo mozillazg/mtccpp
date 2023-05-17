@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-06-17 09:35:37",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"wav:Query*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"wav:Query*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudWAVReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-03-13 20:57:10",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"live:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"live:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudLIVEReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

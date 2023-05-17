@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-09-11 18:10:13",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cam:CreateSAMLProvider\",\"cam:DeleteSAMLProvider\",\"cam:GetSAMLProvider\",\"cam:ListSAMLProviders\",\"cam:UpdateSAMLProvider\",\"cam:ListIdentityProvider\",\"cam:UpdateOIDCConfig\",\"cam:DescribeOIDCConfig\",\"cam:UpdateOIDCConfig\",\"cam:CreateOIDCConfig\",\"cam:DeleteOIDCConfig\",\"cam:DescribeUserOIDCConfig\",\"cam:CreateUserOIDCConfig\",\"cam:UpdateUserOIDCConfig\",\"cam:DisableUserSSO\"],\"resource\":[\"*\"]}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cam:CreateSAMLProvider\",\"cam:DeleteSAMLProvider\",\"cam:GetSAMLProvider\",\"cam:ListSAMLProviders\",\"cam:UpdateSAMLProvider\",\"cam:ListIdentityProvider\",\"cam:UpdateOIDCConfig\",\"cam:DescribeOIDCConfig\",\"cam:UpdateOIDCConfig\",\"cam:CreateOIDCConfig\",\"cam:DeleteOIDCConfig\",\"cam:DescribeUserOIDCConfig\",\"cam:CreateUserOIDCConfig\",\"cam:UpdateUserOIDCConfig\",\"cam:DisableUserSSO\"],\"effect\":\"allow\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudProviderFullAccess",
  "PresetAlias": "",
  "Type": 2,

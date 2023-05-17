@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-02-17 20:44:11",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cam:UpdateCollPassword\",\"cam:GetReceiverInfo\",\"cam:GetPasswordRules\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cam:UpdateCollPassword\",\"cam:GetReceiverInfo\",\"cam:GetPasswordRules\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCollPasswordManageAccess",
  "PresetAlias": "",
  "Type": 2,

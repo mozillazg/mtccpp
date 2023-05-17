@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-10-26 10:58:21",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cos:GetService\",\"cos:GetBucket\",\"cos:ListMultipartUploads\",\"cos:GetObject*\",\"cos:HeadObject\",\"cos:OptionsObject\",\"cos:ListParts\",\"cos:DeleteObject\",\"cos:PostObject\",\"cos:PutObject*\",\"cos:InitiateMultipartUpload\",\"cos:UploadPart\",\"cos:UploadPartCopy\",\"cos:CompleteMultipartUpload\",\"cos:AbortMultipartUpload\",\"cos:AppendObject\",\"cos:HeadBucket\",\"cos:RenameObject\",\"cos:TruncateObject\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cos:GetService\",\"cos:GetBucket\",\"cos:ListMultipartUploads\",\"cos:GetObject*\",\"cos:HeadObject\",\"cos:OptionsObject\",\"cos:ListParts\",\"cos:DeleteObject\",\"cos:PostObject\",\"cos:PutObject*\",\"cos:InitiateMultipartUpload\",\"cos:UploadPart\",\"cos:UploadPartCopy\",\"cos:CompleteMultipartUpload\",\"cos:AbortMultipartUpload\",\"cos:AppendObject\",\"cos:HeadBucket\",\"cos:RenameObject\",\"cos:TruncateObject\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForEMRRoleInApplicationDataAccess",
  "PresetAlias": "",
  "Type": 2,

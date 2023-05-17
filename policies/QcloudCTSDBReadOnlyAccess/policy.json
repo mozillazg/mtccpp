@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-03-05 20:38:30",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"ctsdb:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"monitor:DescribeBaseMetrics\",\"monitor:GetMonitorData\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ctsdb:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"monitor:DescribeBaseMetrics\",\"monitor:GetMonitorData\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCTSDBReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

@@ -1,7 +1,7 @@
 {
  "AddTime": "2022-12-20 10:25:33",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"ihava:*\"],\"resource\":\"*\",\"effect\":\"allow\",\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}}}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ihava:*\"],\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudIHAVAReadOnlyaccess",
  "PresetAlias": "",
  "Type": 2,

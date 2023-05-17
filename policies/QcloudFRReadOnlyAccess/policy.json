@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-09-02 14:57:52",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"iai:Analyze*\",\"iai:CheckSimilarPerson\",\"iai:Compare*\",\"iai:Detect*\",\"iai:Get*\",\"iai:ConsoleGet*\",\"iai:EstimateCheckSimilarPersonCostTime\",\"iai:Search*\",\"iai:ConsoleSearch*\",\"iai:Verify*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"iai:Analyze*\",\"iai:CheckSimilarPerson\",\"iai:Compare*\",\"iai:Detect*\",\"iai:Get*\",\"iai:ConsoleGet*\",\"iai:EstimateCheckSimilarPersonCostTime\",\"iai:Search*\",\"iai:ConsoleSearch*\",\"iai:Verify*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudFRReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

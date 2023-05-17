@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-09-26 15:22:51",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"resource\":[\"*\"],\"action\":[\"vpc:DescribeSubnetEx\",\"cls:CreateLogset\",\"cls:DescribeLogsets\",\"cls:CreateTopic\",\"cls:ModifyTopic\",\"cls:DescribeTopics\",\"cls:CreateMachineGroup\",\"cls:DescribeMachineGroups\",\"cls:DescribeMachines\",\"cls:ModifyMachineGroup\",\"cls:DescribeIndex\",\"cls:ModifyIndex\",\"cls:CreateIndex\",\"cls:CreateConfig\",\"cls:DescribeMachineGroupConfigs\",\"cls:ModifyConfig\",\"cls:DescribeConfigs\",\"cls:DescribeConfigMachineGroups\",\"cls:ApplyConfigToMachineGroup\",\"cls:DeleteConfig\",\"cls:DeleteMachineGroup\",\"cls:DescribeAgentConfigs\",\"cls:pushLog\",\"cls:agentHeartBeat\",\"cls:getConfig\"]}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"vpc:DescribeSubnetEx\",\"cls:CreateLogset\",\"cls:DescribeLogsets\",\"cls:CreateTopic\",\"cls:ModifyTopic\",\"cls:DescribeTopics\",\"cls:CreateMachineGroup\",\"cls:DescribeMachineGroups\",\"cls:DescribeMachines\",\"cls:ModifyMachineGroup\",\"cls:DescribeIndex\",\"cls:ModifyIndex\",\"cls:CreateIndex\",\"cls:CreateConfig\",\"cls:DescribeMachineGroupConfigs\",\"cls:ModifyConfig\",\"cls:DescribeConfigs\",\"cls:DescribeConfigMachineGroups\",\"cls:ApplyConfigToMachineGroup\",\"cls:DeleteConfig\",\"cls:DeleteMachineGroup\",\"cls:DescribeAgentConfigs\",\"cls:pushLog\",\"cls:agentHeartBeat\",\"cls:getConfig\"],\"effect\":\"allow\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForApiGateWayRoleInCloudNativeAPIGateway",
  "PresetAlias": "",
  "Type": 2,

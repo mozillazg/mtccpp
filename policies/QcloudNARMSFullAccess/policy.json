@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-09-10 11:21:21",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"narms:*\"],\"resource\":\"qcs::narms:::*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"narms:*\"],\"effect\":\"allow\",\"resource\":\"qcs::narms:::*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudNARMSFullAccess",
  "PresetAlias": "",
  "Type": 2,

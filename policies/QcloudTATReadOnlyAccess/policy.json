@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-05-17 16:21:27",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tat:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tat:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTATReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

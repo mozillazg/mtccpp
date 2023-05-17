@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-10-10 22:19:00",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvm:DescribeInstances\",\"cvm:DescribeImages\",\"cvm:CreateImage\",\"cvm:DeleteImages\",\"cvm:ResetInstance\",\"cvm:StopInstances\",\"cvm:StartInstances\",\"cvm:ModifyImageSharePermission\",\"cvm:DescribeImageSharePermission\",\"cvm:CreateSnapshot\",\"cvm:RunInstances\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cvm:DescribeInstances\",\"cvm:DescribeImages\",\"cvm:CreateImage\",\"cvm:DeleteImages\",\"cvm:ResetInstance\",\"cvm:StopInstances\",\"cvm:StartInstances\",\"cvm:ModifyImageSharePermission\",\"cvm:DescribeImageSharePermission\",\"cvm:CreateSnapshot\",\"cvm:RunInstances\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCVMAccessForLabsRole",
  "PresetAlias": "",
  "Type": 2,

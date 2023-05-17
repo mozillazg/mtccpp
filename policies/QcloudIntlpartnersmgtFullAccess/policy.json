@@ -1,7 +1,7 @@
 {
  "AddTime": "2022-10-12 14:59:27",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"intlpartnersmgt:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"intlpartnersmgt:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudIntlpartnersmgtFullAccess",
  "PresetAlias": "",
  "Type": 2,

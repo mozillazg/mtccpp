@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-11-08 11:03:22",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"pts:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"pts:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudPTSReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

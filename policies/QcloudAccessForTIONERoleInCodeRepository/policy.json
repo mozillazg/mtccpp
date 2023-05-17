@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-03-12 16:39:24",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"kms:CreateKey\",\"kms:Decrypt\",\"kms:Encrypt\",\"kms:GenerateDataKey\",\"kms:ListKeyDetail\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"kms:CreateKey\",\"kms:Decrypt\",\"kms:Encrypt\",\"kms:GenerateDataKey\",\"kms:ListKeyDetail\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForTIONERoleInCodeRepository",
  "PresetAlias": "",
  "Type": 2,

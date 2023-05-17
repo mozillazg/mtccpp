@@ -1,7 +1,7 @@
 {
  "AddTime": "2023-03-15 15:45:58",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"aiart:*\"],\"resource\":\"*\",\"effect\":\"allow\",\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}}},{\"effect\":\"allow\",\"action\":[\"aiart:TextToImage\",\"aiart:ImageToImage\"],\"resource\":[\"*\"]}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"aiart:*\"],\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"aiart:TextToImage\",\"aiart:ImageToImage\"],\"effect\":\"allow\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAIARTReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

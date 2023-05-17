@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-07-08 16:26:07",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"exmail:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"exmail:*\",\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudEXMAILFullAccess",
  "PresetAlias": "",
  "Type": 2,

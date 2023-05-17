@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-02-28 16:12:05",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"as:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cvm:Describe*\",\"cvm:Inquiry*\",\"vpc:Describe*\",\"vpc:Inquiry*\",\"vpc:Get*\",\"clb:Describe*\",\"cmqtopic:Get*\",\"cmqtopic:List*\",\"cmqqueue:Get*\",\"cmqqueue:List*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"monitor:Describe*\",\"monitor:Get*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetRole\",\"cam:GetGroup\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"as:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cvm:Describe*\",\"cvm:Inquiry*\",\"vpc:Describe*\",\"vpc:Inquiry*\",\"vpc:Get*\",\"clb:Describe*\",\"cmqtopic:Get*\",\"cmqtopic:List*\",\"cmqqueue:Get*\",\"cmqqueue:List*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"monitor:Describe*\",\"monitor:Get*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetRole\",\"cam:GetGroup\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudASReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

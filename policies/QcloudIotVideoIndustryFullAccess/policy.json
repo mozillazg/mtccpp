@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-03-12 09:39:42",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"iotvideoindustry:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"iotvideoindustry:*\",\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudIotVideoIndustryFullAccess",
  "PresetAlias": "",
  "Type": 2,

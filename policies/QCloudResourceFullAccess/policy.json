@@ -1,7 +1,7 @@
 {
  "AddTime": "2016-06-02 19:40:23",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"*\",\"resource\":\"*\",\"condition\":{\"numeric_equal\":{\"qcs:except_cam_finance\":1}}}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"*\",\"condition\":{\"numeric_equal\":{\"qcs:except_cam_finance\":1}},\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QCloudResourceFullAccess",
  "PresetAlias": "",
  "Type": 2,

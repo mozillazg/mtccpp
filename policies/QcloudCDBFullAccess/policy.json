@@ -1,7 +1,7 @@
 {
  "AddTime": "2017-06-06 12:40:52",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cdb:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"vpc:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cvm:*\"],\"resource\":\"qcs::cvm:::sg\\/*\",\"effect\":\"allow\"},{\"action\":[\"cos:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"effect\":\"allow\",\"action\":[\"monitor:*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\"],\"resource\":\"*\"},{\"action\":[\"kms:CreateKey\",\"kms:GenerateDataKey\",\"kms:Decrypt\",\"kms:ListKey\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cdb:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"vpc:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cvm:*\"],\"effect\":\"allow\",\"resource\":\"qcs::cvm:::sg/*\"},{\"action\":[\"cos:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"monitor:*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"kms:CreateKey\",\"kms:GenerateDataKey\",\"kms:Decrypt\",\"kms:ListKey\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCDBFullAccess",
  "PresetAlias": "",
  "Type": 2,

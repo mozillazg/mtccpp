@@ -1,7 +1,7 @@
 {
  "AddTime": "2017-06-08 17:17:02",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"cmqtopic:*\",\"resource\":\"*\"},{\"effect\":\"allow\",\"action\":\"monitor:*\",\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"cmqtopic:*\",\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":\"monitor:*\",\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCmqTopicFullAccess",
  "PresetAlias": "",
  "Type": 2,

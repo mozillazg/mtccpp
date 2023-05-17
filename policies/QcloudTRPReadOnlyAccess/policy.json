@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-06-15 15:19:32",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"trp:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"trp:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTRPReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

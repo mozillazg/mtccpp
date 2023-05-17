@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-11-15 09:57:25",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"ivld:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"ivld:*\",\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudIVLDFullAccess",
  "PresetAlias": "",
  "Type": 2,

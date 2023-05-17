@@ -1,7 +1,7 @@
 {
  "AddTime": "2022-08-30 15:28:01",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tdmq:DescribeCmqQueueDetail\",\"tdmq:DescribeCmqTopicDetail\",\"tdmq:CreateCmqQueue\",\"tdmq:CreateCmqSubscribe\",\"tdmq:CreateCmqTopic\",\"tdmq:ModifyCmqQueueAttribute\",\"tdmq:ModifyCmqSubscriptionAttribute\",\"tdmq:ModifyCmqTopicAttribute\",\"tdmq:PublishCmqMsg\",\"tdmq:SendCmqMsg\",\"tdmq:DescribeCmqDeadLetterSourceQueues\",\"tdmq:DescribeCmqQueues\",\"tdmq:DescribeCmqSubscriptionDetail\",\"tdmq:DescribeCmqTopics\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tdmq:DescribeCmqQueueDetail\",\"tdmq:DescribeCmqTopicDetail\",\"tdmq:CreateCmqQueue\",\"tdmq:CreateCmqSubscribe\",\"tdmq:CreateCmqTopic\",\"tdmq:ModifyCmqQueueAttribute\",\"tdmq:ModifyCmqSubscriptionAttribute\",\"tdmq:ModifyCmqTopicAttribute\",\"tdmq:PublishCmqMsg\",\"tdmq:SendCmqMsg\",\"tdmq:DescribeCmqDeadLetterSourceQueues\",\"tdmq:DescribeCmqQueues\",\"tdmq:DescribeCmqSubscriptionDetail\",\"tdmq:DescribeCmqTopics\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForCIRoleInTDMQCMQ",
  "PresetAlias": "",
  "Type": 2,

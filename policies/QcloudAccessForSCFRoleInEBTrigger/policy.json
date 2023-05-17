@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-05-24 11:15:08",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"eb:DeleteTarget\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"eb:DeleteTarget\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForSCFRoleInEBTrigger",
  "PresetAlias": "",
  "Type": 2,

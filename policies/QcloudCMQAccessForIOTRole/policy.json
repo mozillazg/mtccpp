@@ -1,7 +1,7 @@
 {
  "AddTime": "2017-11-24 17:44:00",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"cmqqueue:*\",\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"cmqqueue:*\",\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCMQAccessForIOTRole",
  "PresetAlias": "",
  "Type": 2,

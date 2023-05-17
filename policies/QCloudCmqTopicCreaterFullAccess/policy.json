@@ -1,7 +1,7 @@
 {
  "AddTime": "2017-03-08 13:12:29",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"cmqtopic:*\",\"resource\":\"qcs::cmqtopic:::topicName\\/uin\\/${uin}\\/*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"cmqtopic:*\",\"effect\":\"allow\",\"resource\":\"qcs::cmqtopic:::topicName/uin/${uin}/*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QCloudCmqTopicCreaterFullAccess",
  "PresetAlias": "",
  "Type": 2,

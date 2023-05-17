@@ -1,7 +1,7 @@
 {
  "AddTime": "2017-03-08 13:11:20",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"cmqqueue:*\",\"resource\":\"qcs::cmqqueue:::queueName\\/uin\\/${uin}\\/*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"cmqqueue:*\",\"effect\":\"allow\",\"resource\":\"qcs::cmqqueue:::queueName/uin/${uin}/*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QCloudCmqQueueCreaterFullAccess",
  "PresetAlias": "",
  "Type": 2,

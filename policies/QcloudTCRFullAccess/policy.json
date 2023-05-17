@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-12-31 19:04:19",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tcr:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cam:GetRole\"],\"resource\":[\"*\"],\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tcr:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cam:GetRole\"],\"effect\":\"allow\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTCRFullAccess",
  "PresetAlias": "",
  "Type": 2,

@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-02-28 15:59:24",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"as:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cvm:*\",\"vpc:*\",\"clb:*\",\"cmqtopic:*\",\"cmqqueue:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"monitor:*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetRole\",\"cam:GetGroup\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"as:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cvm:*\",\"vpc:*\",\"clb:*\",\"cmqtopic:*\",\"cmqqueue:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"monitor:*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetRole\",\"cam:GetGroup\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudASFullAccess",
  "PresetAlias": "",
  "Type": 2,

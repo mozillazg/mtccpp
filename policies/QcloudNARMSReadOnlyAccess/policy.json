@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-09-10 11:22:07",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"narms:*\"],\"resource\":\"qcs::narms:::normal\\/read\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"narms:*\"],\"effect\":\"allow\",\"resource\":\"qcs::narms:::normal/read\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudNARMSReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

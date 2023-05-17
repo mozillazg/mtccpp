@@ -1,7 +1,7 @@
 {
  "AddTime": "2022-02-24 15:32:58",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"mrp:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"mrp:*\",\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudMRPFullAccess",
  "PresetAlias": "",
  "Type": 2,

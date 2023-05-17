@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-07-19 17:39:08",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cloudstudio:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cloudstudio:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCloudStudioFullAccess",
  "PresetAlias": "",
  "Type": 2,

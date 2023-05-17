@@ -1,7 +1,7 @@
 {
  "AddTime": "2022-08-29 10:33:36",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cos:GetBucket\",\"cos:GetObject\",\"cos:HeadBucket\",\"cos:HeadObject\",\"cos:GetService\",\"cos:GetBucketACL\",\"cos:GetObjectACL\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cos:GetBucket\",\"cos:GetObject\",\"cos:HeadBucket\",\"cos:HeadObject\",\"cos:GetService\",\"cos:GetBucketACL\",\"cos:GetObjectACL\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForDSGCRoleInSensitiveDataDiscovery",
  "PresetAlias": "",
  "Type": 2,

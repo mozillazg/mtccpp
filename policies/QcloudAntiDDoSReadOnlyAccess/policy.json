@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-04-26 22:44:32",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"antiddos:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"antiddos:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAntiDDoSReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

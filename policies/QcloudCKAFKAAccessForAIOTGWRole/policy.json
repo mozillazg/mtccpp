@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-04-20 17:40:11",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"ckafka:GetInstanceAttributes\",\"ckafka:ListInstance\",\"ckafka:CreateTopic\",\"ckafka:ListTopic\",\"ckafka:AddTopicIpwhitelist\",\"ckafka:DeleteTopicIpwhitelist\",\"ckafka:DeleteTopic\",\"ckafka:ListRoute\",\"ckafka:AddRoute\",\"ckafka:DeleteRoute\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ckafka:GetInstanceAttributes\",\"ckafka:ListInstance\",\"ckafka:CreateTopic\",\"ckafka:ListTopic\",\"ckafka:AddTopicIpwhitelist\",\"ckafka:DeleteTopicIpwhitelist\",\"ckafka:DeleteTopic\",\"ckafka:ListRoute\",\"ckafka:AddRoute\",\"ckafka:DeleteRoute\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCKAFKAAccessForAIOTGWRole",
  "PresetAlias": "",
  "Type": 2,

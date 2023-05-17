@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-05-25 16:54:36",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"ctsdb:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"monitor:DescribeBaseMetrics\",\"monitor:GetMonitorData\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ctsdb:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"monitor:DescribeBaseMetrics\",\"monitor:GetMonitorData\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCTSDBFullAccess",
  "PresetAlias": "",
  "Type": 2,

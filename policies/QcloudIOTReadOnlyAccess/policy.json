@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-10-08 17:50:08",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"iotcloud:Get*\",\"iotcloud:List*\",\"iotcloud:Describe*\",\"iotcloud:Search*\",\"iotcloud:Check*\",\"iotcloud:UserEnterIoTHub\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"iotcloud:Get*\",\"iotcloud:List*\",\"iotcloud:Describe*\",\"iotcloud:Search*\",\"iotcloud:Check*\",\"iotcloud:UserEnterIoTHub\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudIOTReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

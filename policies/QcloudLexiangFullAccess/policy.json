@@ -1,7 +1,7 @@
 {
  "AddTime": "2023-05-15 09:23:07",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"lexiang:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"lexiang:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudLexiangFullAccess",
  "PresetAlias": "",
  "Type": 2,

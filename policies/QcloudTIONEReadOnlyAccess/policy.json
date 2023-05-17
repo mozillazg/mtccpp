@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-05-13 15:10:09",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tione:Check*\",\"tione:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tione:Check*\",\"tione:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTIONEReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

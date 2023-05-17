@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-07-22 10:21:57",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":\"ckv:*\",\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"ckv:*\",\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCKVFullAccess",
  "PresetAlias": "",
  "Type": 2,

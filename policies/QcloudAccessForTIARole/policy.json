@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-09-04 12:46:15",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cls:searchLog\",\"ccs:DescribeCluster\",\"scf:CreateFunction\",\"scf:ListFunctions\",\"scf:GetFunction\",\"scf:DeleteFunction\",\"cos:AbortMultipartUpload\",\"cos:CompleteMultipartUpload\",\"cos:DeleteMultipleObjects\",\"cos:DeleteObject\",\"cos:GetBucket\",\"cos:GetObject\",\"cos:GetObjectACL\",\"cos:HeadObject\",\"cos:HeadBucket\",\"cos:OptionsObject\",\"cos:ListParts\",\"cos:PostObject\",\"cos:PutBucket\",\"cos:PutObjectCopy\",\"cos:PutObjectACL\",\"cos:UploadPartCopy\",\"cos:UploadPart\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cls:searchLog\",\"ccs:DescribeCluster\",\"scf:CreateFunction\",\"scf:ListFunctions\",\"scf:GetFunction\",\"scf:DeleteFunction\",\"cos:AbortMultipartUpload\",\"cos:CompleteMultipartUpload\",\"cos:DeleteMultipleObjects\",\"cos:DeleteObject\",\"cos:GetBucket\",\"cos:GetObject\",\"cos:GetObjectACL\",\"cos:HeadObject\",\"cos:HeadBucket\",\"cos:OptionsObject\",\"cos:ListParts\",\"cos:PostObject\",\"cos:PutBucket\",\"cos:PutObjectCopy\",\"cos:PutObjectACL\",\"cos:UploadPartCopy\",\"cos:UploadPart\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForTIARole",
  "PresetAlias": "",
  "Type": 2,

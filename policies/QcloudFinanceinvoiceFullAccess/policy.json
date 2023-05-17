@@ -1,7 +1,7 @@
 {
  "AddTime": "2023-04-27 17:23:07",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"finance:QcostSetInvoiceOpenRegular\",\"finance:QcostSetUinPostInfo\",\"finance:QcostOpenUinInvoice\",\"finance:QcostUndoInvoice\",\"finance:DescribeInvoice\",\"finance:QcostSetUinInvoiceInfoNew\",\"finance:ModifyInvoice\",\"finance:CreateMarketInvoice\",\"finance:UpdateMarketInvoiceByUser\",\"finance:DescribeMarketInvoice*\",\"finance:DescribeMarket*\",\"finance:QcostSetInvoice*\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"finance:QcostSetInvoiceOpenRegular\",\"finance:QcostSetUinPostInfo\",\"finance:QcostOpenUinInvoice\",\"finance:QcostUndoInvoice\",\"finance:DescribeInvoice\",\"finance:QcostSetUinInvoiceInfoNew\",\"finance:ModifyInvoice\",\"finance:CreateMarketInvoice\",\"finance:UpdateMarketInvoiceByUser\",\"finance:DescribeMarketInvoice*\",\"finance:DescribeMarket*\",\"finance:QcostSetInvoice*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudFinanceinvoiceFullAccess",
  "PresetAlias": "",
  "Type": 2,

@@ -1,7 +1,7 @@
 {
  "AddTime": "2022-04-11 15:48:20",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"ckafka:DescribeInstances\",\"ckafka:DescribeInstancesDetail\",\"ckafka:DescribeTopic\",\"ckafka:DescribeRoute\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ckafka:DescribeInstances\",\"ckafka:DescribeInstancesDetail\",\"ckafka:DescribeTopic\",\"ckafka:DescribeRoute\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForTCSSRoleInCkafka",
  "PresetAlias": "",
  "Type": 2,

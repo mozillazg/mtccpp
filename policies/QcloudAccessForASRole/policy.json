@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-03-21 19:41:49",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cvm:RunInstances\",\"cvm:TerminateInstances\",\"cvm:StopInstances\",\"cvm:Describe*\",\"cvm:Inquiry*\",\"clb:*\",\"monitor:*\",\"vpc:Describe*\",\"cmqtopic:GetTopicAttributes\",\"cmqtopic:PublishMessage\",\"cmqtopic:BatchPublishMessage\",\"cmqtopic:ListTopic\",\"cmqqueue:GetQueueAttributes\",\"cmqqueue:SendMessage\",\"cmqqueue:BatchSendMessage\",\"cmqqueue:ListQueue\",\"cvm:StartInstances\",\"cvm:ResetInstance\",\"finance:trade\",\"cam:PassRole\",\"kms:BindCloudResource\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cvm:RunInstances\",\"cvm:TerminateInstances\",\"cvm:StopInstances\",\"cvm:Describe*\",\"cvm:Inquiry*\",\"clb:*\",\"monitor:*\",\"vpc:Describe*\",\"cmqtopic:GetTopicAttributes\",\"cmqtopic:PublishMessage\",\"cmqtopic:BatchPublishMessage\",\"cmqtopic:ListTopic\",\"cmqqueue:GetQueueAttributes\",\"cmqqueue:SendMessage\",\"cmqqueue:BatchSendMessage\",\"cmqqueue:ListQueue\",\"cvm:StartInstances\",\"cvm:ResetInstance\",\"finance:trade\",\"cam:PassRole\",\"kms:BindCloudResource\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForASRole",
  "PresetAlias": "",
  "Type": 2,

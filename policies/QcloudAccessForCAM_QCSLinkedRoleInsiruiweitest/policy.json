@@ -1,7 +1,7 @@
 {
  "AddTime": "2022-11-10 11:17:55",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"ab:CreateIntention\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ab:CreateIntention\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForCAM_QCSLinkedRoleInsiruiweitest",
  "PresetAlias": "",
  "Type": 2,

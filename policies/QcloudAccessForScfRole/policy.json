@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-11-15 15:20:43",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cos:GetBucket*\",\"cos:HeadBucket\",\"cos:PutBucket*\",\"apigw:*\",\"cls:*\",\"cos:List*\",\"cos:Get*\",\"cos:Head*\",\"cos:OptionsObject\",\"cmqqueue:*\",\"cmqtopic:*\",\"ckafka:List*\",\"ckafka:Describe*\",\"ckafka:AddRoute\",\"ckafka:CreateRoute\",\"eb:*\",\"ckafka:DescribeTopicAttributes\",\"ckafka:ModifyGroupOffsets\",\"ckafka:DeleteGroup\",\"monitor:GetMonitorData\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cos:GetBucket*\",\"cos:HeadBucket\",\"cos:PutBucket*\",\"apigw:*\",\"cls:*\",\"cos:List*\",\"cos:Get*\",\"cos:Head*\",\"cos:OptionsObject\",\"cmqqueue:*\",\"cmqtopic:*\",\"ckafka:List*\",\"ckafka:Describe*\",\"ckafka:AddRoute\",\"ckafka:CreateRoute\",\"eb:*\",\"ckafka:DescribeTopicAttributes\",\"ckafka:ModifyGroupOffsets\",\"ckafka:DeleteGroup\",\"monitor:GetMonitorData\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForScfRole",
  "PresetAlias": "",
  "Type": 2,

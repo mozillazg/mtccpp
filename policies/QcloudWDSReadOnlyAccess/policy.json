@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-09-03 16:41:05",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"wds:CheckInstanceRefundable\",\"wds:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"wds:CheckInstanceRefundable\",\"wds:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudWDSReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

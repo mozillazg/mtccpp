@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-10-28 14:13:58",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cls:DescribeTopics\",\"cls:DescribeLogsets\",\"cls:DescribeIndex\",\"cls:SearchLog\",\"cls:DescribeLogHistogram\",\"cls:DescribeLogFastAnalysis\",\"cls:DescribeLogContext\"],\"resource\":[\"*\"]}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cls:DescribeTopics\",\"cls:DescribeLogsets\",\"cls:DescribeIndex\",\"cls:SearchLog\",\"cls:DescribeLogHistogram\",\"cls:DescribeLogFastAnalysis\",\"cls:DescribeLogContext\"],\"effect\":\"allow\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForCODINGRoleInCDCls",
  "PresetAlias": "",
  "Type": 2,

@@ -1,7 +1,7 @@
 {
  "AddTime": "2017-10-12 14:37:26",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cvm:*\"],\"resource\":\"qcs::cvm:::eip\\/*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cvm:*\"],\"effect\":\"allow\",\"resource\":\"qcs::cvm:::eip/*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudEIPFullAccess",
  "PresetAlias": "",
  "Type": 2,

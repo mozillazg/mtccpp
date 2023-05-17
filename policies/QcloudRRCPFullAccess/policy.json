@@ -1,7 +1,7 @@
 {
  "AddTime": "2022-04-08 09:16:29",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"rrcp:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"rrcp:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudRRCPFullAccess",
  "PresetAlias": "",
  "Type": 2,

@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-09-24 15:57:00",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"resource\":[\"*\"],\"action\":[\"cos:PutBucket\",\"cos:PutBucketLifecycle\",\"cos:PutBucketPolicy\",\"cos:PutObject\",\"cos:HeadObject\",\"cos:GetObject\",\"cos:DeleteObject\"]}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cos:PutBucket\",\"cos:PutBucketLifecycle\",\"cos:PutBucketPolicy\",\"cos:PutObject\",\"cos:HeadObject\",\"cos:GetObject\",\"cos:DeleteObject\"],\"effect\":\"allow\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForVMRole",
  "PresetAlias": "",
  "Type": 2,

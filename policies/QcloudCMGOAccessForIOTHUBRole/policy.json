@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-03-29 15:25:28",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"mongodb:DescribeInstances\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"mongodb:DescribeInstances\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCMGOAccessForIOTHUBRole",
  "PresetAlias": "",
  "Type": 2,

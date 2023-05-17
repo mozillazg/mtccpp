@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-05-24 15:27:00",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"bizlive:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"bizlive:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudBizLiveFullAccess",
  "PresetAlias": "",
  "Type": 2,

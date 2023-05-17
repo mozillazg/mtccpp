@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-06-15 10:05:35",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"tcr:DescribeRepositories\",\"tcr:PullRepository\",\"tcr:CreateInstanceToken\"],\"resource\":[\"*\"]}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tcr:DescribeRepositories\",\"tcr:PullRepository\",\"tcr:CreateInstanceToken\"],\"effect\":\"allow\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForSCFRoleInPullImage",
  "PresetAlias": "",
  "Type": 2,

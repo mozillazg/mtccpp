@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-11-13 17:45:04",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"ecm:*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"vpc:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ecm:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"vpc:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudECMFullAccess",
  "PresetAlias": "",
  "Type": 2,

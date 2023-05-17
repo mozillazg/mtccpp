@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-05-13 14:23:24",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"dnspod:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"dnspod:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudDNSPodReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

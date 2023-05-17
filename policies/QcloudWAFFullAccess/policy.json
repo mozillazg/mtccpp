@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-02-28 17:50:43",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"waf:*\",\"wss:CertGetList\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"waf:*\",\"wss:CertGetList\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudWAFFullAccess",
  "PresetAlias": "",
  "Type": 2,

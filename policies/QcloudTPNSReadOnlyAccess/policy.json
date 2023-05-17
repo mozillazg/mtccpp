@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-11-18 21:49:10",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"tpns:Describe*\",\"tpns:Download*\",\"tpns:CreatePush\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tpns:Describe*\",\"tpns:Download*\",\"tpns:CreatePush\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTPNSReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

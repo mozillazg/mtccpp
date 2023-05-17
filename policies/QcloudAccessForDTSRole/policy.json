@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-02-13 15:54:40",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"ckafka:ListTopic\",\"ckafka:ListRoute\",\"ckafka:AddRoute\",\"ckafka:DeleteRoute\",\"ckafka:ListInstance\",\"ckafka:DescribeInstanceAttributes\",\"ckafka:CreateRoute\",\"ckafka:DescribeRoute\",\"ckafka:DescribeInstancesDetail\",\"ckafka:DescribeTopic\",\"ckafka:DescribeTopicAttributes\",\"vpc:DescribeCcnAttachedInstances\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ckafka:ListTopic\",\"ckafka:ListRoute\",\"ckafka:AddRoute\",\"ckafka:DeleteRoute\",\"ckafka:ListInstance\",\"ckafka:DescribeInstanceAttributes\",\"ckafka:CreateRoute\",\"ckafka:DescribeRoute\",\"ckafka:DescribeInstancesDetail\",\"ckafka:DescribeTopic\",\"ckafka:DescribeTopicAttributes\",\"vpc:DescribeCcnAttachedInstances\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForDTSRole",
  "PresetAlias": "",
  "Type": 2,

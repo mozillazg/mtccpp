@@ -1,7 +1,7 @@
 {
  "AddTime": "2017-09-18 15:34:06",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"finance:*\",\"resource\":\"qcs::vpc:::*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"finance:*\",\"effect\":\"allow\",\"resource\":\"qcs::vpc:::*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudVPCFinanceAccess",
  "PresetAlias": "",
  "Type": 2,

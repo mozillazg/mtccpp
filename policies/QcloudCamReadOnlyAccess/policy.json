@@ -1,7 +1,7 @@
 {
  "AddTime": "2017-11-13 19:33:09",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cam:Get*\",\"cam:List*\",\"cam:Describe*\",\"cam:Query*\",\"cam:LookupRecentlyLogin\",\"cloudaudit:LookUpEvents\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cam:Get*\",\"cam:List*\",\"cam:Describe*\",\"cam:Query*\",\"cam:LookupRecentlyLogin\",\"cloudaudit:LookUpEvents\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCamReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

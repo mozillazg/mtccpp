@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-12-20 15:49:02",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"bpaas:ApproveBpaas\",\"bpaas:GetApproveList\",\"bpaas:GetApproveDetail\",\"bpaas:GetApplicationDetail\",\"bpaas:ApproveBpaasApplication\",\"bpaas:GetBpaasApproveList\",\"bpaas:GetBpaasApproveDetail\",\"bpaas:GetBpaasApplicationDetail\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"cam:ListSubAccounts\",\"cam:ListGroups\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"bpaas:ApproveBpaas\",\"bpaas:GetApproveList\",\"bpaas:GetApproveDetail\",\"bpaas:GetApplicationDetail\",\"bpaas:ApproveBpaasApplication\",\"bpaas:GetBpaasApproveList\",\"bpaas:GetBpaasApproveDetail\",\"bpaas:GetBpaasApplicationDetail\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"cam:ListSubAccounts\",\"cam:ListGroups\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudBPaaSApprovalAccess",
  "PresetAlias": "",
  "Type": 2,

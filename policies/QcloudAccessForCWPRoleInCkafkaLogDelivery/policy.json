@@ -1,7 +1,7 @@
 {
  "AddTime": "2022-08-15 11:27:30",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"ckafka:DescribeInstances\",\"ckafka:DescribeInstancesDetail\",\"ckafka:DescribeRoute\",\"ckafka:DescribeTopic\",\"ckafka:CreateRoute\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ckafka:DescribeInstances\",\"ckafka:DescribeInstancesDetail\",\"ckafka:DescribeRoute\",\"ckafka:DescribeTopic\",\"ckafka:CreateRoute\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForCWPRoleInCkafkaLogDelivery",
  "PresetAlias": "",
  "Type": 2,

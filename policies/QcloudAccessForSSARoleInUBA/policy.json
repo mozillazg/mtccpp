@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-12-23 20:22:07",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":[\"cos:GetBucket\",\"cos:GetObject\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cos:GetBucket\",\"cos:GetObject\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForSSARoleInUBA",
  "PresetAlias": "",
  "Type": 2,

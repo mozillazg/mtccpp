@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-04-12 21:33:43",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":{\"effect\":\"allow\",\"action\":[\"soe:StatisticsCN\",\"soe:OverviewCN\",\"soe:DescribeAppCN\",\"soe:DescribeDeveloperCN\",\"soe:DescribeBillsCN\",\"soe:DescribePackagesCN\",\"soe:InitOralProcess\",\"soe:ExtraOralProcess\",\"soe:TransmitOralProcess\",\"soe:TransmitOralProcessWithInit\"],\"resource\":\"*\"}}",
+ "PolicyDocument": "{\"statement\":{\"action\":[\"soe:StatisticsCN\",\"soe:OverviewCN\",\"soe:DescribeAppCN\",\"soe:DescribeDeveloperCN\",\"soe:DescribeBillsCN\",\"soe:DescribePackagesCN\",\"soe:InitOralProcess\",\"soe:ExtraOralProcess\",\"soe:TransmitOralProcess\",\"soe:TransmitOralProcessWithInit\"],\"effect\":\"allow\",\"resource\":\"*\"},\"version\":\"2.0\"}",
  "PolicyName": "QcloudSOECNReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

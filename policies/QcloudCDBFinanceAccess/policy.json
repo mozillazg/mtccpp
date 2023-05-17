@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-02-05 17:30:36",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"effect\":\"allow\",\"action\":\"finance:*\",\"resource\":\"qcs::cdb:::*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"finance:*\",\"effect\":\"allow\",\"resource\":\"qcs::cdb:::*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCDBFinanceAccess",
  "PresetAlias": "",
  "Type": 2,

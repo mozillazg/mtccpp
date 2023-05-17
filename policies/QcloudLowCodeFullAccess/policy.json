@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-01-06 08:51:13",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"lowcode:*\",\"tcb:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"lowcode:*\",\"tcb:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudLowCodeFullAccess",
  "PresetAlias": "",
  "Type": 2,

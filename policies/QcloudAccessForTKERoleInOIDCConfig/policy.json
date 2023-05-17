@@ -1,7 +1,7 @@
 {
  "AddTime": "2022-10-17 11:16:03",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cam:CreateOIDCConfig\",\"cam:DescribeOIDCConfig\",\"cam:DeleteOIDCConfig\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cam:CreateOIDCConfig\",\"cam:DescribeOIDCConfig\",\"cam:DeleteOIDCConfig\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForTKERoleInOIDCConfig",
  "PresetAlias": "",
  "Type": 2,

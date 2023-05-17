@@ -1,7 +1,7 @@
 {
  "AddTime": "2021-01-05 15:27:00",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"sslpod:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"sslpod:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudSSLPodReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

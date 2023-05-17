@@ -1,7 +1,7 @@
 {
  "AddTime": "2017-12-11 20:59:10",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"bmlb:*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"bmlb:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudBMLBFullAccess",
  "PresetAlias": "",
  "Type": 2,

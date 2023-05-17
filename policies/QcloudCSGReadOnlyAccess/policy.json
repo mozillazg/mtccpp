@@ -1,7 +1,7 @@
 {
  "AddTime": "2020-08-27 15:23:07",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"csg:Describe*\",\"csg:List*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"csg:Describe*\",\"csg:List*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCSGReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

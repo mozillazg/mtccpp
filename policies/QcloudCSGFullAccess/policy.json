@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-05-31 10:24:42",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":{\"effect\":\"allow\",\"action\":[\"csg:*\"],\"resource\":\"*\"}}",
+ "PolicyDocument": "{\"statement\":{\"action\":[\"csg:*\"],\"effect\":\"allow\",\"resource\":\"*\"},\"version\":\"2.0\"}",
  "PolicyName": "QcloudCSGFullAccess",
  "PresetAlias": "",
  "Type": 2,

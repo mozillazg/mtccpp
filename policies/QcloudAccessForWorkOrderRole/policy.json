@@ -1,7 +1,7 @@
 {
  "AddTime": "2019-09-23 10:09:06",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"cam:DeletePolicy\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"cam:DeletePolicy\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForWorkOrderRole",
  "PresetAlias": "",
  "Type": 2,

@@ -1,7 +1,7 @@
 {
  "AddTime": "2018-08-07 10:49:25",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"cdwpg:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"vpc:Describe*\",\"vpc:Inquiry*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"action\":[\"monitor:Get*\",\"monitor:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cdwpg:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"vpc:Describe*\",\"vpc:Inquiry*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"monitor:Get*\",\"monitor:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCDWPGReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,

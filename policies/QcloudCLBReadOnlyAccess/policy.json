@@ -1,7 +1,7 @@
 {
  "AddTime": "2017-06-07 11:53:45",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"version\":\"2.0\",\"statement\":[{\"action\":[\"clb:Describe*\"],\"resource\":\"*\",\"effect\":\"allow\"},{\"effect\":\"allow\",\"action\":[\"monitor:Describe*\",\"monitor:Get*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\"],\"resource\":\"*\"}]}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"clb:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"monitor:Describe*\",\"monitor:Get*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCLBReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
