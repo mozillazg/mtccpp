@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tke:DescribeClusterInstances",
+    "tke:DescribeClusterSecurity",
+    "vpc:DescribeSubnets"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

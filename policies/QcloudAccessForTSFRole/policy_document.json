@@ -32,7 +32,9 @@
    "apm:DescribePAASTopology",
    "apm:CreatePAASInstance",
    "apm:DeletePAASInstance",
-   "apm:DescribeMetricRecords"
+   "apm:DescribeMetricRecords",
+   "monitor:DescribeAlarmHistories",
+   "monitor:GetMonitorData"
   ],
   "effect": "allow",
   "resource": "*"
