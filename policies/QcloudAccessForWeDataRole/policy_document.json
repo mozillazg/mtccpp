@@ -163,7 +163,11 @@
     "tdmq:DescribeEnvironments",
     "tdmq:DescribeRoles",
     "tdmq:DescribeSubscriptions",
-    "tdmq:DescribeTopics"
+    "tdmq:DescribeTopics",
+    "monitor:DescribeDashboardMetricData",
+    "monitor:DescribeAlarmHistories",
+    "monitor:DescribeBaseMetricsForConsoleFontEnd",
+    "apigw:*"
    ],
    "effect": "allow",
    "resource": [

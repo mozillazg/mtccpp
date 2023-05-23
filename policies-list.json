@@ -4857,7 +4857,7 @@
   "PolicyName": "QcloudAccessForWeDataRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2023-03-01 11:20:37"
+  "UpdateTime": "2023-05-22 14:23:40"
  },
  {
   "AddTime": "2020-06-01 10:38:07",
@@ -10413,5 +10413,31 @@
   "ServiceType": "tcss",
   "Type": 2,
   "UpdateTime": "2023-05-17 16:01:08"
+ },
+ {
+  "AddTime": "2023-05-22 14:11:37",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsAttached": 0,
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 162277248,
+  "PolicyName": "QcloudCloudPagesReadOnlyAccess",
+  "ServiceType": "wds",
+  "Type": 2,
+  "UpdateTime": "2023-05-22 14:11:37"
+ },
+ {
+  "AddTime": "2023-05-22 14:12:52",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsAttached": 0,
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 162277359,
+  "PolicyName": "QcloudCloudPagesFullAccess",
+  "ServiceType": "wds",
+  "Type": 2,
+  "UpdateTime": "2023-05-22 14:12:52"
  }
 ]
