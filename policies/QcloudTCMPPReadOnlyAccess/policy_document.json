@@ -1,0 +1,54 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcmpp:CheckOpenTCMPPConsole",
+    "tcmpp:DescribeAccessibleDomain",
+    "tcmpp:DescribeApplication",
+    "tcmpp:DescribeApplicationConfig",
+    "tcmpp:DescribeApplicationList",
+    "tcmpp:DescribeBaseLibraryList",
+    "tcmpp:DescribeDataDashboard",
+    "tcmpp:DescribeDomainInfo",
+    "tcmpp:DescribeFreeResource",
+    "tcmpp:DescribeMNPAppRelAudit",
+    "tcmpp:DescribeMNPAppRelAuditList",
+    "tcmpp:DescribeMNPBoard",
+    "tcmpp:DescribeMNPDetail",
+    "tcmpp:DescribeMNPDynamics",
+    "tcmpp:DescribeMNPList",
+    "tcmpp:DescribeMNPPrivacy",
+    "tcmpp:DescribeMNPRelAppList",
+    "tcmpp:DescribeMNPRelApply",
+    "tcmpp:DescribeMNPSimpleList",
+    "tcmpp:DescribeMNPType",
+    "tcmpp:DescribeMNPVersionAuditDetail",
+    "tcmpp:DescribeMNPVersionAuditList",
+    "tcmpp:DescribeMNPVersionCompileTask",
+    "tcmpp:DescribeMNPVersionPreview",
+    "tcmpp:DescribeManagerAppMNPRelAudit",
+    "tcmpp:DescribeManagerAppMNPRelAuditList",
+    "tcmpp:DescribeManagerAppMNPRelList",
+    "tcmpp:DescribeManagerApplicationList",
+    "tcmpp:DescribeOpenTCMPPConsole",
+    "tcmpp:DescribeProductDocumentList",
+    "tcmpp:DescribeSDKIntegrateStatus",
+    "tcmpp:DescribeSensitiveAllAPIList",
+    "tcmpp:DescribeSensitiveApiApplyDetail",
+    "tcmpp:DescribeSensitiveApiAuthList",
+    "tcmpp:DescribeSimpleApplicationInfoList",
+    "tcmpp:DescribeSystemConfigByGroupId",
+    "tcmpp:DescribeTODOList",
+    "tcmpp:DescribeTipsMark",
+    "tcmpp:RetryMNPVersionCompileTask",
+    "tcmpp:TriggerMNPVersionCompileTask",
+    "tcmpp:DescribeIsShowCaseVersion"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

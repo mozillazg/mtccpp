@@ -1,0 +1,24 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcmpp:DescribeSensitiveAPI",
+    "tcmpp:DescribeSensitiveAPIAudit",
+    "tcmpp:DescribeSensitiveAPIAuditList",
+    "tcmpp:DescribePlatformMNPVersionAuditList",
+    "tcmpp:DescribePlatformMNPVersionAuditDetail",
+    "tcmpp:DescribeSensitiveAPIList",
+    "tcmpp:ModifyPlatformAuditStatus",
+    "tcmpp:ModifySensitiveAPI",
+    "tcmpp:CreateSensitiveAPI",
+    "tcmpp:CheckOpenTCMPPConsole",
+    "tcmpp:OpenTCMPPConsole",
+    "tcmpp:DescribeMNPSimpleList",
+    "tcmpp:DescribeSimpleApplicationInfoList"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
