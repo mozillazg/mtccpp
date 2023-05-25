@@ -3,8 +3,11 @@
   {
    "action": [
     "tcmpp:DescribeSensitiveAPI",
+    "tcmpp:DescribeSensitiveAllAPIList",
     "tcmpp:DescribeSensitiveAPIAudit",
     "tcmpp:DescribeSensitiveAPIAuditList",
+    "tcmpp:ModifySensitiveAPIAuditStatus",
+    "tcmpp:DeleteSensitiveAPI",
     "tcmpp:DescribePlatformMNPVersionAuditList",
     "tcmpp:DescribePlatformMNPVersionAuditDetail",
     "tcmpp:DescribeSensitiveAPIList",

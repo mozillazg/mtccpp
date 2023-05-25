@@ -2,22 +2,60 @@
  "statement": [
   {
    "action": [
-    "cfw:Describe*"
+    "cfw:ModifyPolicyAuthority",
+    "cfw:ModifyUserAuthCheckStatus",
+    "cfw:ModifyLoginTime",
+    "cfw:CreateOperateLogs",
+    "cfw:ExportLogsOffline"
    ],
    "effect": "allow",
    "resource": "*"
   },
   {
    "action": [
-    "cvm:DescribeInstances",
-    "cvm:DescribeInstancesStatus",
-    "cvm:DescribeAddresses",
-    "vpc:DescribeVpcEx",
-    "vpc:DescribeNatGateways",
-    "vpc:DescribeVpnGw",
-    "clb:DescribeLoadBalancers"
+    "cfw:*"
+   ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "csip:*"
+   ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies"
    ],
    "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "ssa:DescribeQueryParams",
+    "ssa:DescribeAssetHubDbAssetList"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "cfw:DescribeCdcIds"
+   ],
+   "effect": "deny",
    "resource": "*"
   }
  ],

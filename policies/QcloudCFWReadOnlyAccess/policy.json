@@ -1,9 +1,9 @@
 {
  "AddTime": "2019-10-22 11:29:41",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"cfw:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cvm:DescribeInstances\",\"cvm:DescribeInstancesStatus\",\"cvm:DescribeAddresses\",\"vpc:DescribeVpcEx\",\"vpc:DescribeNatGateways\",\"vpc:DescribeVpnGw\",\"clb:DescribeLoadBalancers\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cfw:ModifyPolicyAuthority\",\"cfw:ModifyUserAuthCheckStatus\",\"cfw:ModifyLoginTime\",\"cfw:CreateOperateLogs\",\"cfw:ExportLogsOffline\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cfw:*\"],\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"csip:*\"],\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cam:GetRole\",\"cam:ListAttachedRolePolicies\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"ssa:DescribeQueryParams\",\"ssa:DescribeAssetHubDbAssetList\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cfw:DescribeCdcIds\"],\"effect\":\"deny\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCFWReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2020-09-29 11:37:49"
+ "UpdateTime": "2023-05-24 14:13:22"
 }

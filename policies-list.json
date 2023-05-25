@@ -3542,7 +3542,7 @@
   "PolicyName": "QcloudCFWFullAccess",
   "ServiceType": "cfw",
   "Type": 2,
-  "UpdateTime": "2022-12-20 11:11:55"
+  "UpdateTime": "2023-05-24 10:05:32"
  },
  {
   "AddTime": "2019-10-22 11:29:41",
@@ -3555,7 +3555,7 @@
   "PolicyName": "QcloudCFWReadOnlyAccess",
   "ServiceType": "cfw",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2023-05-24 14:13:22"
  },
  {
   "AddTime": "2019-10-22 17:06:00",
@@ -10441,6 +10441,32 @@
   "UpdateTime": "2023-05-22 14:12:52"
  },
  {
+  "AddTime": "2023-05-23 11:02:01",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsAttached": 0,
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 162374315,
+  "PolicyName": "QcloudControlcenterFullAccess",
+  "ServiceType": "controlcenter",
+  "Type": 2,
+  "UpdateTime": "2023-05-23 11:02:01"
+ },
+ {
+  "AddTime": "2023-05-23 11:02:27",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsAttached": 0,
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 162374369,
+  "PolicyName": "QcloudControlcenterReadOnlyaccess",
+  "ServiceType": "controlcenter",
+  "Type": 2,
+  "UpdateTime": "2023-05-23 11:02:27"
+ },
+ {
   "AddTime": "2023-05-23 14:20:10",
   "CreateMode": 2,
   "Deactived": 0,
@@ -10477,7 +10503,7 @@
   "PolicyName": "QcloudTCMPPPlatformAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2023-05-23 14:21:58"
+  "UpdateTime": "2023-05-24 10:20:13"
  },
  {
   "AddTime": "2023-05-23 14:22:55",
@@ -10491,5 +10517,31 @@
   "ServiceType": "tcmpp",
   "Type": 2,
   "UpdateTime": "2023-05-23 14:22:55"
+ },
+ {
+  "AddTime": "2023-05-24 14:14:42",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsAttached": 0,
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 162519686,
+  "PolicyName": "QcloudCFWACLAccess",
+  "ServiceType": "cfw",
+  "Type": 2,
+  "UpdateTime": "2023-05-24 14:14:42"
+ },
+ {
+  "AddTime": "2023-05-24 14:15:37",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsAttached": 0,
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 162519836,
+  "PolicyName": "QcloudCFWACLReadOnlyAccess",
+  "ServiceType": "cfw",
+  "Type": 2,
+  "UpdateTime": "2023-05-24 14:15:37"
  }
 ]

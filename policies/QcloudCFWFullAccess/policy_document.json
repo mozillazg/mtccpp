@@ -9,20 +9,24 @@
   },
   {
    "action": [
-    "cvm:DescribeInstances",
-    "cvm:DescribeInstancesStatus",
-    "cvm:DescribeAddresses",
-    "vpc:DescribeVpcEx",
-    "vpc:DescribeNatGateways",
-    "vpc:DescribeVpnGw",
-    "clb:DescribeLoadBalancers"
+    "csip:*"
    ],
    "effect": "allow",
    "resource": "*"
   },
   {
    "action": [
-    "csip:*"
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies",
+    "cvm:DescribeInstances",
+    "cvm:DescribeInstancesStatus",
+    "cvm:DescribeAddresses",
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeNatGateways",
+    "vpc:DescribeVpnGw",
+    "clb:DescribeLoadBalancers",
+    "ssa:DescribeQueryParams",
+    "ssa:DescribeAssetHubDbAssetList"
    ],
    "effect": "allow",
    "resource": "*"
