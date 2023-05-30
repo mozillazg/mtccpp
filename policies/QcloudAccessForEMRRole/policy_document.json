@@ -79,7 +79,8 @@
     "cvm:DescribeInstancesReturnable",
     "cvm:ModifyInstancesChargeType",
     "cvm:RenewInstances",
-    "cvm:ResetInstancesType"
+    "cvm:ResetInstancesType",
+    "monitor:DescribeStatisticData"
    ],
    "effect": "allow",
    "resource": "*"

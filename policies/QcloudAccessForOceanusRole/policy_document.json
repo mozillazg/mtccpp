@@ -84,7 +84,17 @@
     "cls:ModifyMachineGroup",
     "cls:ModifyTopic",
     "cls:SearchLog",
-    "cls:DescribeIndex"
+    "cls:DescribeIndex",
+    "cam:ListUsers",
+    "cam:ListWeChatWorkSubAccounts",
+    "cam:ListCollaborators",
+    "chdfs:CreateMountPoint",
+    "chdfs:DescribeMountPoints",
+    "chdfs:DescribeMountPoint",
+    "chdfs:DeleteMountPoint",
+    "chdfs:ModifyMountPoint",
+    "chdfs:AssociateAccessGroups",
+    "chdfs:DescribeFileSystems"
    ],
    "effect": "allow",
    "resource": "*"
