@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ssl:DescribeCertificateDetail",
+    "ssl:UploadCertificate"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}
