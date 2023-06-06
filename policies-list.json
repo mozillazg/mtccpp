@@ -10556,5 +10556,18 @@
   "ServiceType": "clb",
   "Type": 2,
   "UpdateTime": "2023-05-30 15:51:34"
+ },
+ {
+  "AddTime": "2023-06-05 15:10:45",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsAttached": 0,
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 163912917,
+  "PolicyName": "QcloudAccessForCSIPLinkedRoleInTke",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2023-06-05 15:10:45"
  }
 ]
