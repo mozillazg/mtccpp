@@ -1,0 +1,31 @@
+{
+ "statement": [
+  {
+   "action": [
+    "wds:DescribeProjects",
+    "wds:DescribeProject",
+    "wds:DescribeProducts",
+    "wds:DescribeProductDetail",
+    "wds:DescribeProductCategories",
+    "wds:DescribeProductCategoryDetail",
+    "wds:DescribeProductImage",
+    "wds:CreateProduct",
+    "wds:ModifyProduct",
+    "wds:DeleteProduct",
+    "wds:CopyProduct",
+    "wds:CreateProductCategory",
+    "wds:ModifyProductCategory",
+    "wds:DeleteProductCategory",
+    "wds:CreateProductImage",
+    "wds:DeleteProductImage",
+    "wds:ModifyProductCover",
+    "wds:DescribeMaterial",
+    "wds:CreateMaterialPre",
+    "wds:CreateMaterialCallback"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

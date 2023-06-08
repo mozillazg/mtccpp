@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "wds:DescribeProjects",
+    "wds:DescribeProjectExt",
+    "wds:SetCustomDomain",
+    "wds:SetSsl"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

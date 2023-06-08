@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "wds:DescribeProjects",
+    "wds:DescribePreAuthCodeUrl",
+    "wds:DescribeAuthSessionStatus",
+    "wds:DescribeWechatApps",
+    "wds:DescribeAuthorizedApps",
+    "wds:DescribeRealPreviewQRCode"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

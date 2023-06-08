@@ -1,0 +1,22 @@
+{
+ "statement": [
+  {
+   "action": [
+    "wds:DescribeProjects",
+    "wds:DescribeForms",
+    "wds:DescribeFormConfig",
+    "wds:DescribeFormData",
+    "wds:DescribeFormPage",
+    "wds:DescribeFormSelect",
+    "wds:ModifyFormConfig",
+    "wds:CreateFormPage",
+    "wds:DeleteFormPage",
+    "wds:DeleteForm",
+    "wds:DeleteFormDataBatch"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,9 @@
+{
+ "AddTime": "2023-06-07 15:34:03",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"wds:DescribeProjects\",\"wds:DescribeForms\",\"wds:DescribeFormConfig\",\"wds:DescribeFormData\",\"wds:DescribeFormPage\",\"wds:DescribeFormSelect\",\"wds:ModifyFormConfig\",\"wds:CreateFormPage\",\"wds:DeleteFormPage\",\"wds:DeleteForm\",\"wds:DeleteFormDataBatch\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudCloudPagesFormFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2023-06-07 15:34:03"
+}

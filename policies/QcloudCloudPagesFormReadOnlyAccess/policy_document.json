@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "wds:DescribeProjects",
+    "wds:DescribeForms",
+    "wds:DescribeFormConfig",
+    "wds:DescribeFormData",
+    "wds:DescribeFormPage",
+    "wds:DescribeFormSelect"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,9 @@
+{
+ "AddTime": "2023-06-07 10:28:38",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"csxg:*\"],\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudCSXGReadOnlyaccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2023-06-07 10:28:38"
+}

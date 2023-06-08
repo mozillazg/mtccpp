@@ -1,0 +1,9 @@
+{
+ "AddTime": "2023-06-07 15:39:24",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"wds:DescribeProjects\",\"wds:DescribeProject\",\"wds:DescribeSeoFiles\",\"wds:CreateCheckTDKStatus\",\"wds:DescribeFavicon\",\"wds:SetKeywords\",\"wds:CreateSeoFile\",\"wds:DeleteSeoFile\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudCloudPagesSeoFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2023-06-07 15:39:24"
+}
