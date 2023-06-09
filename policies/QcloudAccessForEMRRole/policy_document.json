@@ -80,7 +80,8 @@
     "cvm:ModifyInstancesChargeType",
     "cvm:RenewInstances",
     "cvm:ResetInstancesType",
-    "monitor:DescribeStatisticData"
+    "monitor:DescribeStatisticData",
+    "emr:*"
    ],
    "effect": "allow",
    "resource": "*"
