@@ -167,7 +167,8 @@
     "monitor:DescribeDashboardMetricData",
     "monitor:DescribeAlarmHistories",
     "monitor:DescribeBaseMetricsForConsoleFontEnd",
-    "apigw:*"
+    "apigw:*",
+    "emr:DescribeServiceConfsNew"
    ],
    "effect": "allow",
    "resource": [

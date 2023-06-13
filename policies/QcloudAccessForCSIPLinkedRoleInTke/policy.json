@@ -1,9 +1,9 @@
 {
  "AddTime": "2023-06-05 15:10:45",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"tke:DescribeClusterSecurity\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tke:DescribeClusterSecurity\",\"tcss:CreateVulScanTask\",\"tcss:CreateClusterCheckTask\",\"tcss:DescribeVulScanInfo\",\"tcss:DescribeUserCluster\",\"tcss:DescribeEmergencyVulList\",\"tcss:DescribeVulDetail\",\"tcss:DescribeVulImageList\",\"tcss:DescribeVulRegistryImageList\",\"tcss:DescribeSystemVulList\",\"tcss:DescribeWebVulList\",\"tcss:DescribeRiskList\",\"tcss:DescribeAffectedNodeList\",\"tcss:DescribeAffectedWorkloadList\",\"tcss:StopVulScanTask\",\"tcss:DescribeAssetImageRegistryList\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForCSIPLinkedRoleInTke",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2023-06-05 15:10:45"
+ "UpdateTime": "2023-06-12 17:01:34"
 }

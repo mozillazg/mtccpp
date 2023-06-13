@@ -2,7 +2,22 @@
  "statement": [
   {
    "action": [
-    "tke:DescribeClusterSecurity"
+    "tke:DescribeClusterSecurity",
+    "tcss:CreateVulScanTask",
+    "tcss:CreateClusterCheckTask",
+    "tcss:DescribeVulScanInfo",
+    "tcss:DescribeUserCluster",
+    "tcss:DescribeEmergencyVulList",
+    "tcss:DescribeVulDetail",
+    "tcss:DescribeVulImageList",
+    "tcss:DescribeVulRegistryImageList",
+    "tcss:DescribeSystemVulList",
+    "tcss:DescribeWebVulList",
+    "tcss:DescribeRiskList",
+    "tcss:DescribeAffectedNodeList",
+    "tcss:DescribeAffectedWorkloadList",
+    "tcss:StopVulScanTask",
+    "tcss:DescribeAssetImageRegistryList"
    ],
    "effect": "allow",
    "resource": "*"
