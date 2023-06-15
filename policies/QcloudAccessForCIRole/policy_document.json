@@ -1,7 +1,8 @@
 {
  "statement": {
   "action": [
-   "cos:GetBucketACL"
+   "cos:GetBucketACL",
+   "cos:HeadBucket"
   ],
   "effect": "allow",
   "resource": "*"

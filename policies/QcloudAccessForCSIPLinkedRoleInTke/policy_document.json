@@ -17,6 +17,9 @@
     "tcss:DescribeAffectedNodeList",
     "tcss:DescribeAffectedWorkloadList",
     "tcss:StopVulScanTask",
+    "tke:DescribeClusters",
+    "tke:DescribeTKEEdgeClusters",
+    "tke:DescribeClusterInstances",
     "tcss:DescribeAssetImageRegistryList"
    ],
    "effect": "allow",
