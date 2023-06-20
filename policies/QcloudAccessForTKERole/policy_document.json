@@ -80,7 +80,9 @@
     "cvm:ModifyInstancesAttribute",
     "cvm:ResetInstance",
     "monitor:GetMonitorData",
-    "cvm:RunInstances"
+    "cvm:RunInstances",
+    "cvm:DescribeTaskInfo",
+    "eb:PutEvents"
    ],
    "effect": "allow",
    "resource": "*"

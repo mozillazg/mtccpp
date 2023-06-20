@@ -1,0 +1,9 @@
+{
+ "AddTime": "2023-06-19 16:40:59",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cam:ListAccessKeys\",\"cam:CreateAccessKey\",\"cam:DeleteAccessKey\",\"cam:GetSecurityLastUsed\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudAccessForSSMRoleInAccessKeyEscrow",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2023-06-19 16:40:59"
+}
