@@ -5289,7 +5289,7 @@
   "PolicyName": "QcloudAccessForEMRRoleInApplicationDataAccess",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-09-20 11:06:36"
+  "UpdateTime": "2023-06-20 15:26:09"
  },
  {
   "AddTime": "2020-10-26 14:49:32",
@@ -9934,5 +9934,29 @@
   "ServiceType": "cooperator",
   "Type": 2,
   "UpdateTime": "2023-06-19 16:40:59"
+ },
+ {
+  "AddTime": "2023-06-20 17:10:19",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 165712359,
+  "PolicyName": "QcloudSMRFullAccess",
+  "ServiceType": "smr",
+  "Type": 2,
+  "UpdateTime": "2023-06-20 17:10:19"
+ },
+ {
+  "AddTime": "2023-06-20 17:11:08",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 165712561,
+  "PolicyName": "QcloudSMRReadOnlyAccess",
+  "ServiceType": "smr",
+  "Type": 2,
+  "UpdateTime": "2023-06-20 17:11:08"
  }
 ]

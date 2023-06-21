@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "smr:GetBillingResourceList",
+    "smr:GetCountBillingResource",
+    "smr:DestroyResource"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

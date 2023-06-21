@@ -20,7 +20,9 @@
     "cos:AppendObject",
     "cos:HeadBucket",
     "cos:RenameObject",
-    "cos:TruncateObject"
+    "cos:TruncateObject",
+    "cos:PutSymlink",
+    "cos:GetSymlink"
    ],
    "effect": "allow",
    "resource": "*"
