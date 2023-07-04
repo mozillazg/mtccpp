@@ -10,7 +10,9 @@
     "tcb:*",
     "ssl:DescribeCertificateDetail",
     "ssl:DescribeCertificates",
-    "ssl:CheckCertificateChain"
+    "ssl:CheckCertificateChain",
+    "cdb:DescribeDBInstances",
+    "cdb:DescribeDBInstanceInfo"
    ],
    "effect": "allow",
    "resource": [
