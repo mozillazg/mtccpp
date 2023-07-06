@@ -49,7 +49,11 @@
     "cfw:DescribeNatFwInstance",
     "cfw:DescribeVpcLogEdge",
     "cfw:DescribeOperateLogSelect",
-    "cfw:DescribeCheckCLSStatus"
+    "cfw:DescribeCheckCLSStatus",
+    "cfw:DescribeAllZoneList",
+    "cfw:DescribeAllRegionList",
+    "cfw:DescribeWebCosUrl",
+    "cfw:DescribeModuleConfig"
    ],
    "effect": "allow",
    "resource": "*"

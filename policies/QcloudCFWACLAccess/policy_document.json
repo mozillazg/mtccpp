@@ -86,7 +86,11 @@
     "cfw:DescribeVpcLogEdge",
     "cfw:ModifySecurityGroupTableStatus",
     "cfw:DescribeOperateLogSelect",
-    "cfw:DescribeCheckCLSStatus"
+    "cfw:DescribeCheckCLSStatus",
+    "cfw:DescribeAllZoneList",
+    "cfw:DescribeAllRegionList",
+    "cfw:DescribeWebCosUrl",
+    "cfw:DescribeModuleConfig"
    ],
    "effect": "allow",
    "resource": "*"
