@@ -81,7 +81,9 @@
     "cvm:RenewInstances",
     "cvm:ResetInstancesType",
     "monitor:DescribeStatisticData",
-    "emr:*"
+    "emr:*",
+    "cvm:TerminateCbsStorages",
+    "cdb:OfflineIsolatedInstances"
    ],
    "effect": "allow",
    "resource": "*"
