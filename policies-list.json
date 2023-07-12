@@ -8589,7 +8589,7 @@
   "PolicyName": "QcloudAccessForDSGCRoleInSensitiveDataDiscovery",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-09-26 11:50:11"
+  "UpdateTime": "2023-07-11 11:08:09"
  },
  {
   "AddTime": "2022-08-29 10:34:34",
@@ -8601,7 +8601,7 @@
   "PolicyName": "QcloudAccessForDSGCRoleInDatabaseAssets",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-08-29 10:34:34"
+  "UpdateTime": "2023-07-11 11:09:21"
  },
  {
   "AddTime": "2022-08-29 10:34:59",
@@ -9717,7 +9717,7 @@
   "PolicyName": "QcloudAccessForCSIPLinkedRoleInTke",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2023-06-14 20:21:30"
+  "UpdateTime": "2023-07-11 10:11:56"
  },
  {
   "AddTime": "2023-06-06 11:48:14",

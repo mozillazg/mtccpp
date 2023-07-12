@@ -24,7 +24,15 @@
     "cynosdb:DescribeInstanceDetail",
     "cynosdb:DescribeAccounts",
     "cynosdb:DescribeClusterInstanceGrps",
-    "cynosdb:DescribeClusters"
+    "cynosdb:DescribeClusters",
+    "es:DescribeInstances",
+    "cvm:DescribeSecurityGroupPolicys",
+    "cvm:DescribeSecurityGroups",
+    "postgres:DescribeDBInstanceSecurityGroups",
+    "cynosdb:DescribeDBSecurityGroups",
+    "mariadb:DescribeDBSecurityGroups",
+    "dcdb:DescribeDBSecurityGroups",
+    "cdb:DescribeDBSecurityGroups"
    ],
    "effect": "allow",
    "resource": "*"

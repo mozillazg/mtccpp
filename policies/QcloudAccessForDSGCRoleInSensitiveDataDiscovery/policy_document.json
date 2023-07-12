@@ -8,7 +8,8 @@
     "cos:HeadObject",
     "cos:GetService",
     "cos:GetBucketACL",
-    "cos:GetObjectACL"
+    "cos:GetObjectACL",
+    "cos:GetBucketPolicy"
    ],
    "effect": "allow",
    "resource": "*"

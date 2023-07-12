@@ -20,7 +20,8 @@
     "tke:DescribeClusters",
     "tke:DescribeTKEEdgeClusters",
     "tke:DescribeClusterInstances",
-    "tcss:DescribeAssetImageRegistryList"
+    "tcss:DescribeAssetImageRegistryList",
+    "tke:DescribeTKEEdgeInternalKubeconfig"
    ],
    "effect": "allow",
    "resource": "*"
