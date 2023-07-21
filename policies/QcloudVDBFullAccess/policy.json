@@ -1,0 +1,9 @@
+{
+ "AddTime": "2023-07-20 14:27:47",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"vdb:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudVDBFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2023-07-20 14:27:47"
+}
