@@ -2,8 +2,7 @@
  "statement": [
   {
    "action": [
-    "waf:*",
-    "wss:CertGetList"
+    "waf:*"
    ],
    "effect": "allow",
    "resource": "*"

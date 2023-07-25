@@ -20,7 +20,6 @@
     "waf:Get*",
     "waf:Search*",
     "waf:BotV2Get*",
-    "wss:CertGetList",
     "waf:Describe*",
     "tag:DescribeResourceTagsByResourceIds",
     "ssl:DescribeCertificates",
