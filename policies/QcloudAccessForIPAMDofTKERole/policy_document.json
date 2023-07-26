@@ -25,7 +25,9 @@
     "tag:TagResources",
     "tag:UnTagResources",
     "tag:UnTagResources",
-    "tag:GetResources"
+    "tag:GetResources",
+    "vpc:ModifyNetworkInterfaceAttribute",
+    "vpc:ModifyNetworkInterface"
    ],
    "effect": "allow",
    "resource": "*"
