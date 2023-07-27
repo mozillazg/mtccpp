@@ -5085,7 +5085,7 @@
   "PolicyName": "QcloudAccessForTCMRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-07-19 11:50:40"
+  "UpdateTime": "2023-07-26 09:57:23"
  },
  {
   "AddTime": "2020-09-22 15:08:41",
@@ -9982,5 +9982,17 @@
   "ServiceType": "vdb",
   "Type": 2,
   "UpdateTime": "2023-07-20 14:27:47"
+ },
+ {
+  "AddTime": "2023-07-26 10:05:13",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 170367325,
+  "PolicyName": "QcloudAccessForTATAutoLogin",
+  "ServiceType": "tat",
+  "Type": 2,
+  "UpdateTime": "2023-07-26 10:05:13"
  }
 ]

@@ -44,7 +44,12 @@
     "tdcc:DescribeLogSwitches",
     "apm:TerminateApmInstance",
     "cls:DeleteLogset",
-    "cls:DeleteTopic"
+    "cls:DeleteTopic",
+    "cls:CreateIndex",
+    "cls:DescribeTopics",
+    "cls:CreateTopic",
+    "cls:DescribeLogsets",
+    "cls:CreateLogset"
    ],
    "effect": "allow",
    "resource": [
