@@ -25,7 +25,8 @@
     "cynosdb:DescribeClusters",
     "postgres:DescribeReadOnlyGroups",
     "mongodb:DescribeDBInstances",
-    "mongodb:DescribeDBInstanceNodeProperty"
+    "mongodb:DescribeDBInstanceNodeProperty",
+    "cdb:DescribeCdbProxyInfo"
    ],
    "effect": "allow",
    "resource": "*"
