@@ -1,9 +1,9 @@
 {
  "AddTime": "2018-03-13 11:07:47",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"tag:Describe*\",\"tag:Get*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tag:Describe*\",\"tag:Get*\",\"tag:List*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTAGReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2021-06-16 17:48:11"
+ "UpdateTime": "2023-08-03 09:45:56"
 }

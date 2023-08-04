@@ -8,8 +8,11 @@
     "finance:QueryPreResourceCntByProducts",
     "finance:QueryLatestExpireResourcesManager",
     "finance:QueryResourcesForRenewParam",
+    "finance:DescribeRenewNoticeSetting",
     "finance:QueryCbsResourcesByCvmInstanceIdsManager",
-    "finance:AsynchDownloadPreResourceByCond"
+    "finance:AsynchDownloadPreResourceByCond",
+    "finance:DescribeMeasureResourceDetails",
+    "finance:DescribeMeasureResourceProductList"
    ],
    "effect": "allow",
    "resource": "*"

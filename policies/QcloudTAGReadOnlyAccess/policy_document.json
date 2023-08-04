@@ -3,7 +3,8 @@
   {
    "action": [
     "tag:Describe*",
-    "tag:Get*"
+    "tag:Get*",
+    "tag:List*"
    ],
    "effect": "allow",
    "resource": "*"
