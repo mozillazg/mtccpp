@@ -82,7 +82,8 @@
     "monitor:GetMonitorData",
     "cvm:RunInstances",
     "cvm:DescribeTaskInfo",
-    "eb:PutEvents"
+    "eb:PutEvents",
+    "as:ClearLaunchConfigurationAttributes"
    ],
    "effect": "allow",
    "resource": "*"
