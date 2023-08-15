@@ -53,7 +53,15 @@
     "cfw:DescribeAllZoneList",
     "cfw:DescribeAllRegionList",
     "cfw:DescribeWebCosUrl",
-    "cfw:DescribeModuleConfig"
+    "cfw:DescribeModuleConfig",
+    "cfw:DescribeDNSFWStatus",
+    "cfw:DescribeDnsRuleStatus",
+    "cfw:DescribeDnsAclRule",
+    "cfw:DescribeAclRule",
+    "cfw:DescribeBandWidthBanner",
+    "cfw:DescribeWeComStatus",
+    "cfw:DescribeChangeGroupRuleNotice",
+    "cfw:DescribeSecurityGroupVersionInfo"
    ],
    "effect": "allow",
    "resource": "*"

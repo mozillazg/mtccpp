@@ -188,7 +188,13 @@
     "vpc:DetachCcnInstances",
     "vpc:EnableCcnRoutes",
     "cdc:DescribeDedicatedClusters",
-    "cos:GetObject"
+    "cos:GetObject",
+    "vpc:CreateVpcEndPoint",
+    "vpc:DeleteVpcEndPoint",
+    "vpc:DescribeVpcEndPoint",
+    "cvm:AssociateAddress",
+    "cvm:DescribeAddresses",
+    "cvm:DisassociateAddress"
    ],
    "effect": "allow",
    "resource": "*"
