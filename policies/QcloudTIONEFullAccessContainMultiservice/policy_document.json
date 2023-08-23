@@ -27,7 +27,8 @@
     "cfs:DescribeCfsFileSystems",
     "emr:DescribeInstances",
     "cvm:DescribeAddresses",
-    "emr:DescribeInstancesList"
+    "emr:DescribeInstancesList",
+    "cfs:DescribeMountTargets"
    ],
    "effect": "allow",
    "resource": "*"

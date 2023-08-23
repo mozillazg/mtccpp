@@ -1,9 +1,9 @@
 {
  "AddTime": "2022-01-12 19:37:04",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"tione:*\",\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"vpc:DescribeVpcEx\",\"vpc:DescribeSubnetEx\",\"cls:DescribeLogsets\",\"cls:DescribeTopics\",\"tcr:DescribeInstances\",\"tcr:DescribeNamespaces\",\"tcr:DescribeRepositories\",\"monitor:GetMonitorData\",\"cos:GetService\",\"cos:GetObject\",\"cos:GetBucket\",\"cos:HeadObject\",\"cos:OptionsObject\",\"tag:DescribeTagKeys\",\"tag:DescribeTagValues\",\"tag:AttachResourcesTag\",\"tag:DetachResourcesTag\",\"tag:GetResources\",\"finance:trade\",\"cfs:DescribeCfsFileSystems\",\"emr:DescribeInstances\",\"cvm:DescribeAddresses\",\"emr:DescribeInstancesList\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tione:*\",\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"vpc:DescribeVpcEx\",\"vpc:DescribeSubnetEx\",\"cls:DescribeLogsets\",\"cls:DescribeTopics\",\"tcr:DescribeInstances\",\"tcr:DescribeNamespaces\",\"tcr:DescribeRepositories\",\"monitor:GetMonitorData\",\"cos:GetService\",\"cos:GetObject\",\"cos:GetBucket\",\"cos:HeadObject\",\"cos:OptionsObject\",\"tag:DescribeTagKeys\",\"tag:DescribeTagValues\",\"tag:AttachResourcesTag\",\"tag:DetachResourcesTag\",\"tag:GetResources\",\"finance:trade\",\"cfs:DescribeCfsFileSystems\",\"emr:DescribeInstances\",\"cvm:DescribeAddresses\",\"emr:DescribeInstancesList\",\"cfs:DescribeMountTargets\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTIONEFullAccessContainMultiservice",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2023-03-02 15:58:51"
+ "UpdateTime": "2023-08-22 09:13:48"
 }
