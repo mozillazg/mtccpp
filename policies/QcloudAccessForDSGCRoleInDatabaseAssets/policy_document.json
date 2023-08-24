@@ -32,7 +32,19 @@
     "cynosdb:DescribeDBSecurityGroups",
     "mariadb:DescribeDBSecurityGroups",
     "dcdb:DescribeDBSecurityGroups",
-    "cdb:DescribeDBSecurityGroups"
+    "cdb:DescribeDBSecurityGroups",
+    "cynosdb:DescribeAccountAllGrantPrivileges",
+    "mariadb:DescribeDatabases",
+    "cdb:DescribeDBInstanceInfo",
+    "cdb:DescribeDBFeatures",
+    "mariadb:DescribeDBEncryptAttributes",
+    "dcdb:DescribeDCDBInstanceDetail",
+    "cos:GetBucketReferer",
+    "apigw:DescribeApisStatus",
+    "apigw:DescribeServicesStatus",
+    "cam:DescribeSafeAuthFlagColl",
+    "cam:ListUsers",
+    "cam:ListCollaborators"
    ],
    "effect": "allow",
    "resource": "*"
