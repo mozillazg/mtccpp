@@ -61,7 +61,8 @@
     "tcr:PushRepository",
     "tcr:PushRepositoryPersonal",
     "tcr:CreateNamespace",
-    "tcr:CreateRepository"
+    "tcr:CreateRepository",
+    "cfs:DescribeCfsFileSystems"
    ],
    "effect": "allow",
    "resource": "*"

@@ -192,7 +192,14 @@
     "tcr:PullRepositoryPersonal",
     "tcr:PushRepositoryPersonal",
     "tag:CreateTags",
-    "ssl:CheckCertificateChain"
+    "ssl:CheckCertificateChain",
+    "cynosdb:PauseServerless",
+    "cynosdb:ResumeServerless",
+    "cynosdb:ModifyServerlessStrategy",
+    "clb:DescribeRegions",
+    "clb:DescribeTaskStatus",
+    "clb:DescribeLBOperateProtect",
+    "vpc:DescribeCcnAttachedInstances"
    ],
    "effect": "allow",
    "resource": "*"
