@@ -9,7 +9,8 @@
     "trtc:VerifySig",
     "trtc:RemindBalance",
     "trtc:HardDescribeMixConf",
-    "trtc:VerifySecretUserSig"
+    "trtc:VerifySecretUserSig",
+    "trtc:CheckUserInQCWhiteList"
    ],
    "effect": "allow",
    "resource": "*"
