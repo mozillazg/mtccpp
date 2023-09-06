@@ -62,7 +62,10 @@
     "tcr:PushRepositoryPersonal",
     "tcr:CreateNamespace",
     "tcr:CreateRepository",
-    "cfs:DescribeCfsFileSystems"
+    "cfs:DescribeCfsFileSystems",
+    "vpc:CreateVpcEndPoint",
+    "vpc:DescribeVpcEndPoint",
+    "vpc:DeleteVpcEndPoint"
    ],
    "effect": "allow",
    "resource": "*"

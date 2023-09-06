@@ -1641,7 +1641,7 @@
   "PolicyName": "QcloudCDWPGFullAccess",
   "ServiceType": "cdwpg",
   "Type": 2,
-  "UpdateTime": "2020-11-18 11:29:22"
+  "UpdateTime": "2023-09-05 16:10:10"
  },
  {
   "AddTime": "2018-08-07 10:49:25",
@@ -1653,7 +1653,7 @@
   "PolicyName": "QcloudCDWPGReadOnlyAccess",
   "ServiceType": "cdwpg",
   "Type": 2,
-  "UpdateTime": "2020-11-18 11:28:59"
+  "UpdateTime": "2023-09-05 16:10:01"
  },
  {
   "AddTime": "2018-08-10 16:11:55",
@@ -2157,7 +2157,7 @@
   "PolicyName": "QcloudAccessForTIONERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2023-08-28 17:37:30"
+  "UpdateTime": "2023-09-05 14:38:27"
  },
  {
   "AddTime": "2019-02-18 10:24:09",
@@ -5373,7 +5373,7 @@
   "PolicyName": "QcloudCDWCHFullAccess",
   "ServiceType": "cdwch",
   "Type": 2,
-  "UpdateTime": "2020-10-30 16:42:25"
+  "UpdateTime": "2023-09-05 16:11:49"
  },
  {
   "AddTime": "2020-10-30 16:43:04",
@@ -5385,7 +5385,7 @@
   "PolicyName": "QcloudCDWCHReadOnlyAccess",
   "ServiceType": "cdwch",
   "Type": 2,
-  "UpdateTime": "2020-10-30 16:43:04"
+  "UpdateTime": "2023-09-05 16:11:41"
  },
  {
   "AddTime": "2020-11-03 16:43:51",
@@ -7989,7 +7989,7 @@
   "PolicyName": "QcloudCdwdorisFullAccess",
   "ServiceType": "cdwdoris",
   "Type": 2,
-  "UpdateTime": "2022-06-07 14:29:27"
+  "UpdateTime": "2023-09-05 16:13:15"
  },
  {
   "AddTime": "2022-03-01 15:13:19",
@@ -8001,7 +8001,7 @@
   "PolicyName": "QcloudCdwdorisReadOnlyaccess",
   "ServiceType": "cdwdoris",
   "Type": 2,
-  "UpdateTime": "2022-06-07 14:29:17"
+  "UpdateTime": "2023-09-05 16:13:08"
  },
  {
   "AddTime": "2022-03-07 10:59:34",
