@@ -25,7 +25,8 @@
     "oceanus:DescribeJobRunningLog",
     "dlc:DescribeSparkAppJobs",
     "dlc:DescribeSparkAppJob",
-    "mongodb:DescribeDBInstances"
+    "mongodb:DescribeDBInstances",
+    "cos:HeadBucket"
    ],
    "effect": "allow",
    "resource": [
