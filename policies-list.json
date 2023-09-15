@@ -10006,5 +10006,17 @@
   "ServiceType": "hunyuan",
   "Type": 2,
   "UpdateTime": "2023-09-11 11:19:46"
+ },
+ {
+  "AddTime": "2023-09-14 17:12:01",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 177148576,
+  "PolicyName": "QcloudUIDAIReadOnlyAccess",
+  "ServiceType": "uidai",
+  "Type": 2,
+  "UpdateTime": "2023-09-14 17:12:01"
  }
 ]
