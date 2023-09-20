@@ -9,7 +9,17 @@
     "kms:ListKeyDetail",
     "kms:ListKeys",
     "kms:BindCloudResource",
-    "kms:UnbindCloudResource"
+    "kms:UnbindCloudResource",
+    "cls:DescribeTopics",
+    "cls:DescribeLogsets",
+    "cls:CreateIndex",
+    "cls:DescribeIndexs",
+    "cls:DeleteIndex",
+    "cls:DescribeIndex",
+    "cls:ModifyIndex",
+    "cls:pushLog",
+    "cls:CreateLogset",
+    "cls:CreateTopic"
    ],
    "effect": "allow",
    "resource": [

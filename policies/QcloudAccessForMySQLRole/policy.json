@@ -1,9 +1,9 @@
 {
  "AddTime": "2019-11-15 11:51:24",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"kms:CreateKey\",\"kms:GenerateDataKey\",\"kms:Decrypt\",\"kms:ListKey\",\"kms:ListKeyDetail\",\"kms:ListKeys\",\"kms:BindCloudResource\",\"kms:UnbindCloudResource\"],\"effect\":\"allow\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"kms:CreateKey\",\"kms:GenerateDataKey\",\"kms:Decrypt\",\"kms:ListKey\",\"kms:ListKeyDetail\",\"kms:ListKeys\",\"kms:BindCloudResource\",\"kms:UnbindCloudResource\",\"cls:DescribeTopics\",\"cls:DescribeLogsets\",\"cls:CreateIndex\",\"cls:DescribeIndexs\",\"cls:DeleteIndex\",\"cls:DescribeIndex\",\"cls:ModifyIndex\",\"cls:pushLog\",\"cls:CreateLogset\",\"cls:CreateTopic\"],\"effect\":\"allow\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForMySQLRole",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2021-08-09 10:48:46"
+ "UpdateTime": "2023-09-19 09:27:32"
 }
