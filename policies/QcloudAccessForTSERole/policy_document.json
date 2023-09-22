@@ -64,7 +64,9 @@
     "as:CreateLifecycleHook",
     "cvm:DescribeSecurityGroups",
     "vpc:ModifyVpcEndPointAttribute",
-    "vpc:DisassociateVpcEndPointSecurityGroups"
+    "vpc:DisassociateVpcEndPointSecurityGroups",
+    "ssl:DescribeCertificateDetail",
+    "ckafka:DescribeInstancesDetail"
    ],
    "effect": "allow",
    "resource": [

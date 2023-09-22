@@ -5889,7 +5889,7 @@
   "PolicyName": "QcloudAccessForTSERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2023-05-10 10:27:25"
+  "UpdateTime": "2023-09-21 09:54:37"
  },
  {
   "AddTime": "2021-01-18 14:46:44",
@@ -10114,5 +10114,17 @@
   "ServiceType": "uidai",
   "Type": 2,
   "UpdateTime": "2023-09-18 10:51:06"
+ },
+ {
+  "AddTime": "2023-09-21 15:44:24",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 178341136,
+  "PolicyName": "QcloudFaceidSelfAccountAccess",
+  "ServiceType": "faceid",
+  "Type": 2,
+  "UpdateTime": "2023-09-21 15:44:24"
  }
 ]

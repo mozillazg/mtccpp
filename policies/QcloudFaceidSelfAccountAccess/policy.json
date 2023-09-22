@@ -1,0 +1,9 @@
+{
+ "AddTime": "2023-09-21 15:44:24",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"faceid:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"faceid:ConsoleGetRuleIdInfo\",\"faceid:GetSubUinListForConsole\",\"faceid:GetWeBankAppIdInfoForAuthority\",\"faceid:ConsoleGetWebankAppidInfo\",\"faceid:GetSubUinAndEidMerchantIDForConsole\",\"faceid:GetSubUinAndRuleIdInfoForConsole\",\"faceid:GetAllSubUinAndRuleIdInfoForConsole\",\"faceid:SetUserCosForConsole\",\"faceid:ConsoleServiceSetting\",\"faceid:CreateKeyForConsole\",\"faceid:SetUserKmsKeyForConsole\",\"faceid:ConsoleGetEidVerifyRecord\"],\"condition\":{\"string_equal\":{\"faceid:user\":[\"${uin}\"]}},\"effect\":\"deny\",\"resource\":\"*\"},{\"action\":[\"faceid:GetUserConfList\",\"faceid:ConsoleGetWbProjList\",\"faceid:GetEidApplyListForConsole\",\"faceid:GetStatsForConsole\",\"faceid:ConsoleGetUserStats\",\"faceid:InterfaceAnalysis\",\"faceid:GetAuditVerifyHistoryForConsole\",\"faceid:GetPaasRecordForConsole\",\"faceid:ConsoleGetWebankRecord\",\"faceid:ConsoleGetAuditVerifyHistory\",\"faceid:ConsoleGetAuditRecordHistory\",\"faceid:CancelManualAuditForConsole\",\"faceid:ConsoleExecuteManualAudit\",\"faceid:SaveUserConf\",\"faceid:SaveUserPrivacyProtocol\",\"faceid:SaveUserConf\",\"faceid:SaveEidApplyForConsole\",\"faceid:SaveEidFileForConsole\",\"faceid:ApplyWebankLicenseForConsole\",\"faceid:ConsoleModifyWbServiceStatus\",\"faceid:UpdateWbProjInfo\",\"faceid:ChangeUserConfStatusForConsole\"],\"condition\":{\"string_not_equal\":{\"faceid:user\":[\"${uin}\"]}},\"effect\":\"deny\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudFaceidSelfAccountAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2023-09-21 15:44:24"
+}
