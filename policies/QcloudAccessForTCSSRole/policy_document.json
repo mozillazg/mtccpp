@@ -12,7 +12,9 @@
     "tke:DescribeClusterInstances",
     "cvm:DescribeInstances",
     "tcr:PullRepositoryPersonal",
-    "tcr:PullRepository"
+    "tcr:PullRepository",
+    "tke:DescribeClusterSecurity",
+    "vpc:DescribeSubnets"
    ],
    "effect": "allow",
    "resource": [
