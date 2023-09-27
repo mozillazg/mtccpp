@@ -94,7 +94,8 @@
     "chdfs:DeleteMountPoint",
     "chdfs:ModifyMountPoint",
     "chdfs:AssociateAccessGroups",
-    "chdfs:DescribeFileSystems"
+    "chdfs:DescribeFileSystems",
+    "monitor:GetMonitorData"
    ],
    "effect": "allow",
    "resource": "*"
