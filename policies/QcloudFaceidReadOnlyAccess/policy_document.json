@@ -1,0 +1,61 @@
+{
+ "statement": [
+  {
+   "action": [
+    "faceid:*"
+   ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "faceid:DetectAuth",
+    "faceid:ResolveIdCardNfcData",
+    "faceid:ParseNfcData",
+    "faceid:VideoLivenessCompare",
+    "faceid:ReflectCompare",
+    "faceid:DetectReflectLivenessAndCompare",
+    "faceid:GenerateReflectSequence",
+    "faceid:ApplyWebVerificationToken",
+    "faceid:ApplyLivenessToken",
+    "faceid:ApplySdkVerificationToken",
+    "faceid:AntiFakesImage",
+    "faceid:AntiFakesVideo",
+    "faceid:DoRetrievalLiveness",
+    "faceid:ImageRecognition",
+    "faceid:Liveness",
+    "faceid:LivenessCompare",
+    "faceid:LivenessRecognition",
+    "faceid:BankCardVerification",
+    "faceid:BankCard4EVerification",
+    "faceid:BankCard2EVerification",
+    "faceid:IdCardOCRVerification",
+    "faceid:CustomizeIDCardVerification",
+    "faceid:IdCardVerification",
+    "faceid:EncryptedPhoneVerification",
+    "faceid:PhoneVerification",
+    "faceid:PhoneVerificationCUCC",
+    "faceid:PhoneVerificationCTCC",
+    "faceid:PhoneVerificationCMCC",
+    "faceid:MobileStatus",
+    "faceid:MobileNetworkTimeVerification",
+    "faceid:MinorsVerification",
+    "faceid:InterfaceAnalysis",
+    "faceid:ConsoleGet*",
+    "faceid:ConsoleCheck*",
+    "faceid:ConsoleQuery*",
+    "faceid:SaveUserOperationRecord",
+    "faceid:DetectAIFakeFaces",
+    "faceid:FaceMotionDetection"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
