@@ -1,0 +1,34 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ocr:*"
+   ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "ocr:Verify*",
+    "ocr:*Verify",
+    "ocr:VatInvoiceVerifyNew",
+    "ocr:Recognize*",
+    "ocr:ImageEnhancement",
+    "ocr:*Detect",
+    "ocr:ConsoleGet*",
+    "ocr:*OCR",
+    "ocr:ConsoleQuery*",
+    "ocr:ConsoleCheck*",
+    "ocr:ResolveAddress"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

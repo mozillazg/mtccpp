@@ -1,0 +1,49 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ocr:*OCR",
+    "ocr:Recognize*",
+    "ocr:ImageEnhancement",
+    "ocr:Verify*",
+    "ocr:*Verify",
+    "ocr:VatInvoiceVerifyNew",
+    "ocr:*Detect",
+    "ocr:QueryBarCode",
+    "ocr:QueryVehicle*",
+    "ocr:QueryConsoleOverview",
+    "ocr:ConsoleQueryPrice",
+    "ocr:*Cfg",
+    "ocr:*Info",
+    "ocr:QueryConsole*",
+    "ocr:ConsoleQuery*",
+    "ocr:ConsoleGetResource",
+    "ocr:ConsoleCheckUserStatus",
+    "ocr:GetIDCardOCRToken",
+    "ocr:QueryQpsResource",
+    "ocr:QueryQpsDetail",
+    "ocr:GetPresignedUrlForConsole",
+    "ocr:ConsoleOpenQuestionnaire",
+    "ocr:QueryUserAuthorizationList",
+    "ocr:CheckIsWhiteUser",
+    "ocr:QueryIntelligentScanSDKInfo"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "ocr:GetIntelligentScanSDKListForConsole",
+    "ocr:QueryCallDetailListBySubUin",
+    "ocr:ConsoleGetUserStats",
+    "ocr:QueryConsoleCallDetails",
+    "ocr:QueryCallForConsole",
+    "ocr:QueryQpsForConsole",
+    "ocr:QueryCostTimeForConsole"
+   ],
+   "effect": "allow",
+   "resource": "qcs::ocr:::subUin/${uin}"
+  }
+ ],
+ "version": "2.0"
+}
