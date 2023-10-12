@@ -1,9 +1,9 @@
 {
  "AddTime": "2023-10-10 16:22:19",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"ocr:*\"],\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"ocr:Verify*\",\"ocr:*Verify\",\"ocr:VatInvoiceVerifyNew\",\"ocr:Recognize*\",\"ocr:ImageEnhancement\",\"ocr:*Detect\",\"ocr:ConsoleGet*\",\"ocr:*OCR\",\"ocr:ConsoleQuery*\",\"ocr:ConsoleCheck*\",\"ocr:ResolveAddress\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ocr:*\"],\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"ocr:Verify*\",\"ocr:*Verify\",\"ocr:VatInvoiceVerifyNew\",\"ocr:Recognize*\",\"ocr:ImageEnhancement\",\"ocr:*Detect\",\"ocr:ConsoleGet*\",\"ocr:SmartStructuralOCR*\",\"ocr:*OCR\",\"ocr:ConsoleQuery*\",\"ocr:ConsoleCheck*\",\"ocr:ResolveAddress\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudOCRReadOnlyaccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2023-10-10 17:04:21"
+ "UpdateTime": "2023-10-11 09:34:15"
 }

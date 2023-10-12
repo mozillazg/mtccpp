@@ -21,6 +21,7 @@
     "ocr:ImageEnhancement",
     "ocr:*Detect",
     "ocr:ConsoleGet*",
+    "ocr:SmartStructuralOCR*",
     "ocr:*OCR",
     "ocr:ConsoleQuery*",
     "ocr:ConsoleCheck*",

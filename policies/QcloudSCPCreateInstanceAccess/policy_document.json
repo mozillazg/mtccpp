@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "scp:CreateInstance"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,10 @@
+{
+ "statement": [
+  {
+   "action": "scp:*",
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
