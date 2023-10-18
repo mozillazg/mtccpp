@@ -2,7 +2,8 @@
  "statement": [
   {
    "action": [
-    "bsca:Describe*"
+    "bsca:Describe*",
+    "bsca:SearchKB*"
    ],
    "effect": "allow",
    "resource": "*"
