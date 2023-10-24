@@ -83,7 +83,8 @@
     "cvm:RunInstances",
     "cvm:DescribeTaskInfo",
     "eb:PutEvents",
-    "as:ClearLaunchConfigurationAttributes"
+    "as:ClearLaunchConfigurationAttributes",
+    "vpc:DescribeVpcEndPointService"
    ],
    "effect": "allow",
    "resource": "*"
