@@ -66,7 +66,9 @@
     "vpc:ModifyVpcEndPointAttribute",
     "vpc:DisassociateVpcEndPointSecurityGroups",
     "ssl:DescribeCertificateDetail",
-    "ckafka:DescribeInstancesDetail"
+    "ckafka:DescribeInstancesDetail",
+    "waf:ModifyObject",
+    "waf:DescribeHosts"
    ],
    "effect": "allow",
    "resource": [
