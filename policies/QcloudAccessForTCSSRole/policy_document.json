@@ -14,7 +14,9 @@
     "tcr:PullRepositoryPersonal",
     "tcr:PullRepository",
     "tke:DescribeClusterSecurity",
-    "vpc:DescribeSubnets"
+    "vpc:DescribeSubnets",
+    "tke:DescribeTKEEdgeClusters",
+    "tke:DescribeTKEEdgeClusterCredential"
    ],
    "effect": "allow",
    "resource": [

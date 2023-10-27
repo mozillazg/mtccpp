@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "finance:DescribeMeasureResourceDetails",
+    "finance:DescribeMeasureResourceProductList",
+    "finance:DescribeMeasureResources",
+    "finance:DescribeMeasureDeductionDetails"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
