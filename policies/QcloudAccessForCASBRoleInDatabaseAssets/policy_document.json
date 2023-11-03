@@ -26,7 +26,9 @@
     "postgres:DescribeReadOnlyGroups",
     "mongodb:DescribeDBInstances",
     "mongodb:DescribeDBInstanceNodeProperty",
-    "cdb:DescribeCdbProxyInfo"
+    "cdb:DescribeCdbProxyInfo",
+    "dts:DescribeSyncJobs",
+    "dts:DescribeMigrationJobs"
    ],
    "effect": "allow",
    "resource": "*"
