@@ -2,9 +2,7 @@
  "statement": [
   {
    "action": [
-    "eb:Get*",
-    "eb:List*",
-    "eb:Describe*"
+    "tsearch:*"
    ],
    "effect": "allow",
    "resource": "*"
