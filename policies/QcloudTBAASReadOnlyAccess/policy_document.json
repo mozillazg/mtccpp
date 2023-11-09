@@ -6,6 +6,8 @@
     "tbaas:Check*",
     "tbaas:Download*",
     "tbaas:Describe*",
+    "tbaas:Query*",
+    "tbaas:Export*",
     "tbaas:PreFeeGetModifyPrice",
     "tbaas:PreFeeGetPrice",
     "tbaas:TrustsqlPreFeeGetModifyPrice",
