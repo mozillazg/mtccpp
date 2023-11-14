@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "intlpartnersmgt:QueryCustomerBillingQuota",
+    "intlpartnersmgt:QueryCustomerVoucherList",
+    "intlpartnersmgt:QueryCreditCostLog",
+    "intlpartnersmgt:QueryVoucherDeductLog"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

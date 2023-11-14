@@ -83,7 +83,8 @@
     "monitor:DescribeStatisticData",
     "emr:*",
     "cvm:TerminateCbsStorages",
-    "cdb:OfflineIsolatedInstances"
+    "cdb:OfflineIsolatedInstances",
+    "dlc:DescribeDatasourceConnection"
    ],
    "effect": "allow",
    "resource": "*"

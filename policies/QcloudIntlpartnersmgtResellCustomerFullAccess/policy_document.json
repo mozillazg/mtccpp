@@ -1,0 +1,22 @@
+{
+ "statement": [
+  {
+   "action": [
+    "intlpartnersmgt:QueryCustomerBillingQuota",
+    "intlpartnersmgt:QueryCustomerVoucherList",
+    "intlpartnersmgt:QueryCreditCostLog",
+    "intlpartnersmgt:QueryCustomerL1BillDetail",
+    "intlpartnersmgt:QueryClientCostAnalyzing",
+    "intlpartnersmgt:QueryBillColumn",
+    "intlpartnersmgt:QueryBillQueryFilter",
+    "intlpartnersmgt:QueryBillDetail",
+    "intlpartnersmgt:QueryBillByInstance",
+    "intlpartnersmgt:QueryDownloadRecordUrl",
+    "intlpartnersmgt:QueryVoucherDeductLog"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

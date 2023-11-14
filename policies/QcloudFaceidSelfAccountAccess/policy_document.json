@@ -55,7 +55,8 @@
     "faceid:ApplyWebankLicenseForConsole",
     "faceid:ConsoleModifyWbServiceStatus",
     "faceid:UpdateWbProjInfo",
-    "faceid:ChangeUserConfStatusForConsole"
+    "faceid:ChangeUserConfStatusForConsole",
+    "faceid:GetDetectFacesRecordForConsole"
    ],
    "condition": {
     "string_not_equal": {

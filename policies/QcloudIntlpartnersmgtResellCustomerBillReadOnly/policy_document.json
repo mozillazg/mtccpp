@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "intlpartnersmgt:QueryCustomerL1BillDetail",
+    "intlpartnersmgt:QueryBillColumn",
+    "intlpartnersmgt:QueryBillQueryFilter",
+    "intlpartnersmgt:QueryBillDetail",
+    "intlpartnersmgt:QueryBillByInstance"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

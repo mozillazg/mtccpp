@@ -1701,7 +1701,7 @@
   "PolicyName": "QcloudAccessForEMRRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2023-07-10 10:09:27"
+  "UpdateTime": "2023-11-13 09:34:51"
  },
  {
   "AddTime": "2018-09-03 11:29:08",
@@ -2145,7 +2145,7 @@
   "PolicyName": "QcloudAccessForDTSRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2023-02-08 11:04:02"
+  "UpdateTime": "2023-11-13 11:42:50"
  },
  {
   "AddTime": "2019-02-15 11:45:38",
@@ -10149,7 +10149,7 @@
   "PolicyName": "QcloudFaceidSelfAccountAccess",
   "ServiceType": "faceid",
   "Type": 2,
-  "UpdateTime": "2023-10-07 17:17:33"
+  "UpdateTime": "2023-11-13 09:43:09"
  },
  {
   "AddTime": "2023-10-07 16:53:31",
@@ -10258,5 +10258,53 @@
   "ServiceType": "finance",
   "Type": 2,
   "UpdateTime": "2023-10-30 09:44:43"
+ },
+ {
+  "AddTime": "2023-11-13 17:09:50",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 188129099,
+  "PolicyName": "QcloudIntlpartnersmgtResellCustomerBillReadOnly",
+  "ServiceType": "intlpartnersmgt",
+  "Type": 2,
+  "UpdateTime": "2023-11-13 17:09:50"
+ },
+ {
+  "AddTime": "2023-11-13 17:13:27",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 188129691,
+  "PolicyName": "QcloudIntlpartnersmgtResellCustomerBillFullAccess",
+  "ServiceType": "intlpartnersmgt",
+  "Type": 2,
+  "UpdateTime": "2023-11-13 17:13:27"
+ },
+ {
+  "AddTime": "2023-11-13 17:14:13",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 188129787,
+  "PolicyName": "QcloudIntlpartnersmgtResellCustomerAccountAccess",
+  "ServiceType": "intlpartnersmgt",
+  "Type": 2,
+  "UpdateTime": "2023-11-13 17:14:13"
+ },
+ {
+  "AddTime": "2023-11-13 17:15:08",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 188129935,
+  "PolicyName": "QcloudIntlpartnersmgtResellCustomerFullAccess",
+  "ServiceType": "intlpartnersmgt",
+  "Type": 2,
+  "UpdateTime": "2023-11-13 17:15:08"
  }
 ]
