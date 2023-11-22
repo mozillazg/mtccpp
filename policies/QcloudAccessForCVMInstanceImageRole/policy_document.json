@@ -1,0 +1,25 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:DescribeDisks",
+    "cvm:DescribeSnapshots",
+    "cvm:ApplySnapshot",
+    "cvm:AttachDisks",
+    "cvm:CopySnapshot*",
+    "cvm:CreateDisks",
+    "cvm:CreateSnapshot",
+    "cvm:DeleteSnapshots",
+    "cvm:DetachDisks",
+    "cvm:ModifyDiskAttributes",
+    "cvm:ModifySnapshotAttribute",
+    "cvm:ResizeDisk",
+    "cvm:TerminateDisks",
+    "cvm:InitializeDisks"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

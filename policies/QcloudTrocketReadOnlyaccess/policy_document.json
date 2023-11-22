@@ -2,13 +2,13 @@
  "statement": [
   {
    "action": [
-    "cos:*"
+    "trocket:*"
    ],
-   "effect": "allow",
-   "resource": "*"
-  },
-  {
-   "action": "monitor:*",
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
    "effect": "allow",
    "resource": "*"
   }

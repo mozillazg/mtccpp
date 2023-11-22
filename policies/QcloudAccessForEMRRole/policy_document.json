@@ -84,7 +84,8 @@
     "emr:*",
     "cvm:TerminateCbsStorages",
     "cdb:OfflineIsolatedInstances",
-    "dlc:DescribeDatasourceConnection"
+    "dlc:DescribeDatasourceConnection",
+    "cvm:CreateCbsStorages"
    ],
    "effect": "allow",
    "resource": "*"
