@@ -1,0 +1,30 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:ResetInstance",
+    "cvm:DescribeInstances",
+    "cvm:ModifyInstancesAttribute",
+    "cvm:CreatePresetRules",
+    "vpc:AttachCcnInstances",
+    "vpc:DetachCcnInstances",
+    "vpc:DescribeVpcTaskResult",
+    "vpc:AssignPrivateIpAddresses",
+    "vpc:UnassignPrivateIpAddresses",
+    "vpc:DescribeNetworkInterfaces",
+    "vpc:ModifyPrivateIpAddressesAttribute",
+    "vpc:ModifyPrivateIpAddress",
+    "privatedns:DescribePrivateZoneList",
+    "privatedns:CreatePrivateZone",
+    "privatedns:DeletePrivateZone",
+    "privatedns:DescribePrivateZoneRecordList",
+    "privatedns:CreatePrivateZoneRecord",
+    "cvm:CreateSecurityGroupPolicy",
+    "cvm:DescribeSecurityGroupPolicys"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
