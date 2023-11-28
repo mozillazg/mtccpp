@@ -3,7 +3,12 @@
   {
    "action": [
     "tdmq:DescribeClusterDetail",
-    "tdmq:DescribeTopics"
+    "tdmq:DescribeTopics",
+    "tdmq:DescribeRoles",
+    "tdmq:CreateRole",
+    "tdmq:ModifyEnvironmentRole",
+    "tdmq:CreateEnvironmentRole",
+    "tdmq:DescribeEnvironmentAttributes"
    ],
    "effect": "allow",
    "resource": "*"

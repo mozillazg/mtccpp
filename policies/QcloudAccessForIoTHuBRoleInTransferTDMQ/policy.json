@@ -1,9 +1,9 @@
 {
  "AddTime": "2021-09-15 15:13:36",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"tdmq:DescribeClusterDetail\",\"tdmq:DescribeTopics\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tdmq:DescribeClusterDetail\",\"tdmq:DescribeTopics\",\"tdmq:DescribeRoles\",\"tdmq:CreateRole\",\"tdmq:ModifyEnvironmentRole\",\"tdmq:CreateEnvironmentRole\",\"tdmq:DescribeEnvironmentAttributes\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForIoTHuBRoleInTransferTDMQ",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2021-09-15 15:13:36"
+ "UpdateTime": "2023-11-27 09:18:47"
 }
