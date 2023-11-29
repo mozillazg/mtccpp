@@ -85,7 +85,8 @@
     "cvm:TerminateCbsStorages",
     "cdb:OfflineIsolatedInstances",
     "dlc:DescribeDatasourceConnection",
-    "cvm:CreateCbsStorages"
+    "cvm:CreateCbsStorages",
+    "es:NotifyEsServerless"
    ],
    "effect": "allow",
    "resource": "*"
