@@ -4404,30 +4404,6 @@
   "UpdateTime": "2020-09-29 11:37:49"
  },
  {
-  "AddTime": "2020-05-13 15:08:31",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 35347868,
-  "PolicyName": "QcloudTIONEFullAccess",
-  "ServiceType": "tione",
-  "Type": 2,
-  "UpdateTime": "2022-01-04 10:37:14"
- },
- {
-  "AddTime": "2020-05-13 15:10:09",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 35347937,
-  "PolicyName": "QcloudTIONEReadOnlyAccess",
-  "ServiceType": "tione",
-  "Type": 2,
-  "UpdateTime": "2022-01-04 10:36:17"
- },
- {
   "AddTime": "2020-05-14 11:53:25",
   "CreateMode": 2,
   "Deactived": 0,
@@ -10353,6 +10329,6 @@
   "PolicyName": "QcloudAccessForCVMInstanceImageRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2023-11-22 11:44:09"
+  "UpdateTime": "2023-11-29 16:26:06"
  }
 ]
