@@ -32,7 +32,16 @@
     "redis:DeleteInstanceAccount",
     "redis:ModifyInstanceAccount",
     "redis:DescribeInstanceAccount",
-    "redis:DescribeTaskInfo"
+    "redis:DescribeTaskInfo",
+    "cynosdb:CreateAccounts",
+    "cynosdb:DeleteAccounts",
+    "cynosdb:DescribeAccountAllGrantPrivileges",
+    "cynosdb:DescribeAccountPrivileges",
+    "cynosdb:DescribeAccounts",
+    "cynosdb:GrantAccountPrivileges",
+    "cynosdb:ModifyAccountPrivileges",
+    "cynosdb:DescribeInstanceDetail",
+    "cynosdb:ResetAccountPassword"
    ],
    "effect": "allow",
    "resource": "*"
