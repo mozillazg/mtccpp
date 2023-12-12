@@ -2517,7 +2517,7 @@
   "PolicyName": "QcloudAccessForOceanusRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2023-09-26 10:29:36"
+  "UpdateTime": "2023-12-11 10:02:36"
  },
  {
   "AddTime": "2019-06-18 16:29:58",
@@ -10330,5 +10330,17 @@
   "ServiceType": "cooperator",
   "Type": 2,
   "UpdateTime": "2023-12-07 14:53:52"
+ },
+ {
+  "AddTime": "2023-12-11 09:52:42",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 193780307,
+  "PolicyName": "QcloudAccessForCLSRoleInMonitor",
+  "ServiceType": "cls",
+  "Type": 2,
+  "UpdateTime": "2023-12-11 11:18:11"
  }
 ]

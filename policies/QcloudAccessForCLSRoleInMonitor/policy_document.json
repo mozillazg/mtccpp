@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "monitor:GetMonitorData",
+    "monitor:DescribeProductList",
+    "monitor:DescribeBaseMetrics",
+    "cls:MetricsRemoteWrite"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

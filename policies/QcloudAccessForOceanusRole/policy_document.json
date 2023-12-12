@@ -95,7 +95,19 @@
     "chdfs:ModifyMountPoint",
     "chdfs:AssociateAccessGroups",
     "chdfs:DescribeFileSystems",
-    "monitor:GetMonitorData"
+    "monitor:GetMonitorData",
+    "es:CreateServerlessSpace",
+    "es:UpdateServerlessSpace",
+    "es:DescribeServerlessSpaces",
+    "es:DeleteServerlessSpace",
+    "es:CreateServerlessInstance",
+    "es:UpdateServerlessInstance",
+    "es:DeleteServerlessInstance",
+    "es:DescribeServerlessInstances",
+    "es:CreateServerlessInstanceUser",
+    "es:DescribeServerlessInstanceUsers",
+    "es:SearchServerlessData",
+    "es:SearchServerlessInstance"
    ],
    "effect": "allow",
    "resource": "*"
