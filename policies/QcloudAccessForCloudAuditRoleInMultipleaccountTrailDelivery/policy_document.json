@@ -2,7 +2,8 @@
  "statement": [
   {
    "action": [
-    "organization:DescribeOrganizationMembers"
+    "organization:DescribeOrganizationMembers",
+    "organization:CreateOrgMemberProductServiceRole"
    ],
    "effect": "allow",
    "resource": [
