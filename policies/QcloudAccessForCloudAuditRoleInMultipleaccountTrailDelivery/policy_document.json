@@ -3,7 +3,11 @@
   {
    "action": [
     "organization:DescribeOrganizationMembers",
-    "organization:CreateOrgMemberProductServiceRole"
+    "organization:CreateOrgMemberProductServiceRole",
+    "ckafka:ListRoute",
+    "ckafka:AddRoute",
+    "ckafka:DeleteRoute",
+    "ckafka:DescribeInstanceAttributes"
    ],
    "effect": "allow",
    "resource": [
