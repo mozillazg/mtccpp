@@ -107,7 +107,8 @@
     "es:CreateServerlessInstanceUser",
     "es:DescribeServerlessInstanceUsers",
     "es:SearchServerlessData",
-    "es:SearchServerlessInstance"
+    "es:SearchServerlessInstance",
+    "es:DescribeServerlessDi"
    ],
    "effect": "allow",
    "resource": "*"
