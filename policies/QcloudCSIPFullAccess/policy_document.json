@@ -2,7 +2,9 @@
  "statement": [
   {
    "action": [
-    "csip:*"
+    "csip:*",
+    "tcss:*",
+    "cwp:*"
    ],
    "effect": "allow",
    "resource": "*"
