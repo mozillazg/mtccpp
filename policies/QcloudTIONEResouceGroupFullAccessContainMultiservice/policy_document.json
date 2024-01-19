@@ -35,7 +35,8 @@
     "cfs:DescribeCfsFileSystems",
     "emr:DescribeInstances",
     "tag:GetResources",
-    "cvm:DescribeAddresses"
+    "cvm:DescribeAddresses",
+    "goosefs:DescribeFileSystems"
    ],
    "effect": "allow",
    "resource": "*"

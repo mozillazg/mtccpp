@@ -12,7 +12,8 @@
     "finance:QueryCbsResourcesByCvmInstanceIdsManager",
     "finance:AsynchDownloadPreResourceByCond",
     "finance:DescribeMeasureResourceDetails",
-    "finance:DescribeMeasureResourceProductList"
+    "finance:DescribeMeasureResourceProductList",
+    "finance:QueryResourceBySkuId"
    ],
    "effect": "allow",
    "resource": "*"

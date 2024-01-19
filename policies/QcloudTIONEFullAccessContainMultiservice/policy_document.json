@@ -28,7 +28,8 @@
     "emr:DescribeInstances",
     "cvm:DescribeAddresses",
     "emr:DescribeInstancesList",
-    "cfs:DescribeMountTargets"
+    "cfs:DescribeMountTargets",
+    "goosefs:DescribeFileSystems"
    ],
    "effect": "allow",
    "resource": "*"

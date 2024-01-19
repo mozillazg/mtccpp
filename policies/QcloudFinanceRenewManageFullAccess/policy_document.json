@@ -10,6 +10,7 @@
     "finance:QueryResourcesForRenewParam",
     "finance:QueryCbsResourcesByCvmInstanceIdsManager",
     "finance:AsynchDownloadPreResourceByCond",
+    "finance:QueryResourceBySkuId",
     "finance:SetRenewFlagManager",
     "finance:ModifyRenewNoticeSetting",
     "finance:SetAutoRenewTimeManager"

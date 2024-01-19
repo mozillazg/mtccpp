@@ -25,7 +25,8 @@
     "emr:DescribeInstances",
     "emr:DescribeInstancesList",
     "cvm:DescribeAddresses",
-    "tag:GetResources"
+    "tag:GetResources",
+    "goosefs:DescribeFileSystems"
    ],
    "effect": "allow",
    "resource": "*"
