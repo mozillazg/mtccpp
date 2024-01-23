@@ -194,7 +194,9 @@
     "vpc:DescribeVpcEndPoint",
     "cvm:AssociateAddress",
     "cvm:DescribeAddresses",
-    "cvm:DisassociateAddress"
+    "cvm:DisassociateAddress",
+    "tse:DescribeCloudNativeAPIGateways",
+    "tse:DescribeCloudNativeAPIGatewayConfig"
    ],
    "effect": "allow",
    "resource": "*"
