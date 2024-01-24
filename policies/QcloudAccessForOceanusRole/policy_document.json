@@ -108,7 +108,21 @@
     "es:DescribeServerlessInstanceUsers",
     "es:SearchServerlessData",
     "es:SearchServerlessInstance",
-    "es:DescribeServerlessDi"
+    "es:DescribeServerlessDi",
+    "oceanus:PullCommands",
+    "oceanus:RespondCommands",
+    "oceanus:QueryJob",
+    "oceanus:JobAlert",
+    "oceanus:RecoverJob",
+    "oceanus:NotifyJobSucceeded",
+    "oceanus:ChangeJobState",
+    "oceanus:DescribeCluster",
+    "oceanus:SendWarningInfo",
+    "oceanus:UpdateSavepoint",
+    "oceanus:UpdateJobResource",
+    "oceanus:CreateJobTuningAction",
+    "oceanus:FinishCommands",
+    "oceanus:SyncJobEventAlert"
    ],
    "effect": "allow",
    "resource": "*"
