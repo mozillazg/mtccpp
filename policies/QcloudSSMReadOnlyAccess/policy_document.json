@@ -4,7 +4,16 @@
    "action": [
     "ssm:Get*",
     "ssm:Describe*",
-    "ssm:List*"
+    "ssm:List*",
+    "kms:Decrypt",
+    "kms:ListKeyDetail",
+    "kms:GetServiceStatus",
+    "cam:ListUsers",
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies",
+    "tag:DescribeResourceTagsByResourceIds",
+    "tag:DescribeTagKeys",
+    "tag:DescribeTagValues"
    ],
    "effect": "allow",
    "resource": [

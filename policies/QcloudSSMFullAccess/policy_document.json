@@ -2,7 +2,22 @@
  "statement": [
   {
    "action": [
-    "ssm:*"
+    "ssm:*",
+    "kms:CreateKey",
+    "kms:GenerateDataKey",
+    "kms:Encrypt",
+    "kms:Decrypt",
+    "kms:ListKeyDetail",
+    "kms:BindCloudResource",
+    "kms:UnbindCloudResource",
+    "cam:ListUsers",
+    "cam:AttachRolePolicy",
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies",
+    "kms:GetServiceStatus",
+    "tag:DescribeResourceTagsByResourceIds",
+    "tag:DescribeTagKeys",
+    "tag:DescribeTagValues"
    ],
    "effect": "allow",
    "resource": [
