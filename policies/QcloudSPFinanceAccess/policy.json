@@ -1,0 +1,9 @@
+{
+ "AddTime": "2024-01-29 10:35:36",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"svp:CreateSavingPlanOrder\"],\"effect\":\"allow\",\"resource\":[\"*\"]},{\"action\":[\"finance:trade\"],\"effect\":\"allow\",\"resource\":[\"qcs::svp:::*\"]}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudSPFinanceAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2024-01-29 10:35:36"
+}

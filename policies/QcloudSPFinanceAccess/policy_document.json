@@ -1,0 +1,23 @@
+{
+ "statement": [
+  {
+   "action": [
+    "svp:CreateSavingPlanOrder"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  },
+  {
+   "action": [
+    "finance:trade"
+   ],
+   "effect": "allow",
+   "resource": [
+    "qcs::svp:::*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}
