@@ -16,7 +16,8 @@
     "cls:deleteLogset",
     "cls:downloadLog",
     "cls:getIndex",
-    "cls:modifyIndex"
+    "cls:modifyIndex",
+    "cls:CreateIndex"
    ],
    "effect": "allow",
    "resource": "*"
