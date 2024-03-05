@@ -1,9 +1,9 @@
 {
  "AddTime": "2023-12-06 09:15:25",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"orcaterm:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"orcaterm:DescribeInstancesFeatureStatus\",\"orcaterm:ModifyInstancesFeatureStatus\",\"orcaterm:StartAutoLoginSession\",\"orcaterm:StartRDPTerminalSession\",\"orcaterm:StartSSHTerminalSession\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudOrcatermFullAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2023-12-06 09:15:25"
+ "UpdateTime": "2024-03-04 09:55:13"
 }

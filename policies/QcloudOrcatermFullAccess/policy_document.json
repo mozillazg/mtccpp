@@ -2,7 +2,11 @@
  "statement": [
   {
    "action": [
-    "orcaterm:*"
+    "orcaterm:DescribeInstancesFeatureStatus",
+    "orcaterm:ModifyInstancesFeatureStatus",
+    "orcaterm:StartAutoLoginSession",
+    "orcaterm:StartRDPTerminalSession",
+    "orcaterm:StartSSHTerminalSession"
    ],
    "effect": "allow",
    "resource": "*"
