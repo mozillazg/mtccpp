@@ -24,7 +24,11 @@
     "eb:PutCloudEvents",
     "cls:DescribeTopics",
     "organization:DescribeOrganization",
-    "cos:HeadBucket"
+    "cos:HeadBucket",
+    "ckafka:ListRoute",
+    "ckafka:AddRoute",
+    "ckafka:DeleteRoute",
+    "ckafka:DescribeInstanceAttributes"
    ],
    "effect": "allow",
    "resource": "*"
