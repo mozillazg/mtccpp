@@ -122,7 +122,8 @@
     "oceanus:UpdateJobResource",
     "oceanus:CreateJobTuningAction",
     "oceanus:FinishCommands",
-    "oceanus:SyncJobEventAlert"
+    "oceanus:SyncJobEventAlert",
+    "oceanus:CreateEvent"
    ],
    "effect": "allow",
    "resource": "*"
