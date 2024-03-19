@@ -10438,5 +10438,29 @@
   "ServiceType": "trtccopilot",
   "Type": 2,
   "UpdateTime": "2024-02-20 11:02:40"
+ },
+ {
+  "AddTime": "2024-03-18 09:35:13",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 204521332,
+  "PolicyName": "TDMQRocketMQRouterReadOnlyAccess",
+  "ServiceType": "tdmq",
+  "Type": 2,
+  "UpdateTime": "2024-03-18 09:35:13"
+ },
+ {
+  "AddTime": "2024-03-18 09:36:00",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 204521353,
+  "PolicyName": "TDMQRocketMQRouterFullAccess",
+  "ServiceType": "tdmq",
+  "Type": 2,
+  "UpdateTime": "2024-03-18 09:36:00"
  }
 ]

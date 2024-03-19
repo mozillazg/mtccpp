@@ -1,0 +1,18 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tdmq:DescribeRocketMQRouterRules",
+    "tdmq:DescribeRocketMQRouterRuleDetail",
+    "tdmq:UpdateRocketMQRouterRule",
+    "tdmq:RestartRocketMQRouterTask",
+    "tdmq:PauseRocketMQRouterTask",
+    "tdmq:DeleteRocketMQRouterRule",
+    "tdmq:CreateRocketMQRouterRule"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
