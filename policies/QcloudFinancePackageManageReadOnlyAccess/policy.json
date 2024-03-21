@@ -1,9 +1,9 @@
 {
  "AddTime": "2023-10-26 17:12:35",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"finance:DescribeMeasureResourceDetails\",\"finance:DescribeMeasureResourceProductList\",\"finance:DescribeMeasureResources\",\"finance:DescribeMeasureDeductionDetails\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"finance:DescribeMeasureResourceDetails\",\"finance:DescribeMeasureResourceProductList\",\"finance:DescribeMeasureResources\",\"finance:DescribeMeasureDeductionDetails\",\"finance:DescribeMeasureCustomizeRenewCycleEnums\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudFinancePackageManageReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2023-10-26 17:12:35"
+ "UpdateTime": "2024-03-20 16:31:15"
 }

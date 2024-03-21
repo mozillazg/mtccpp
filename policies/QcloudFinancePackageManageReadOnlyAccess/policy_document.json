@@ -5,7 +5,8 @@
     "finance:DescribeMeasureResourceDetails",
     "finance:DescribeMeasureResourceProductList",
     "finance:DescribeMeasureResources",
-    "finance:DescribeMeasureDeductionDetails"
+    "finance:DescribeMeasureDeductionDetails",
+    "finance:DescribeMeasureCustomizeRenewCycleEnums"
    ],
    "effect": "allow",
    "resource": "*"
