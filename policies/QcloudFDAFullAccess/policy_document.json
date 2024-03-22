@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "fda:DescribeResourceList"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
