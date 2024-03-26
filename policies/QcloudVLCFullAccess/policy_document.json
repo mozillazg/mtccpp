@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "vlc:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -67,7 +67,8 @@
     "vpc:DescribeVpcEndPoint",
     "vpc:DeleteVpcEndPoint",
     "goosefs:DescribeClientNodes",
-    "goosefs:BatchAddClientNodes"
+    "goosefs:BatchAddClientNodes",
+    "goosefs:DescribeFileSystems"
    ],
    "effect": "allow",
    "resource": "*"

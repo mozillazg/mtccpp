@@ -20,7 +20,9 @@
     "privatedns:DescribePrivateZoneRecordList",
     "privatedns:CreatePrivateZoneRecord",
     "cvm:CreateSecurityGroupPolicy",
-    "cvm:DescribeSecurityGroupPolicys"
+    "cvm:DescribeSecurityGroupPolicys",
+    "tcr:DescribeInternalEndpoints",
+    "vpc:ModifyVpcAttribute"
    ],
    "effect": "allow",
    "resource": "*"
