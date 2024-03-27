@@ -86,7 +86,8 @@
     "cdb:OfflineIsolatedInstances",
     "dlc:DescribeDatasourceConnection",
     "cvm:CreateCbsStorages",
-    "es:NotifyEsServerless"
+    "es:NotifyEsServerless",
+    "vpc:CheckBandwidthPackage"
    ],
    "effect": "allow",
    "resource": "*"

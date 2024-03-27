@@ -57,7 +57,9 @@
     "faceid:UpdateWbProjInfo",
     "faceid:ChangeUserConfStatusForConsole",
     "faceid:GetDetectFacesRecordForConsole",
-    "faceid:GetSdkRecordHistoryForConsole"
+    "faceid:GetSdkRecordHistoryForConsole",
+    "faceid:ConsoleSavePlusSDKProjDetail",
+    "faceid:ConsoleGetPlusSDKProjList"
    ],
    "condition": {
     "string_not_equal": {
