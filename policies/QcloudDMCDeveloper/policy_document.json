@@ -40,7 +40,8 @@
     "dmc:CollectSqlAIData",
     "dmc:CreateSqlAITask",
     "dmc:CreateInstanceAIInsightTask",
-    "dmc:CreateAITaskFeedback"
+    "dmc:CreateAITaskFeedback",
+    "dmc:CheckCamGrantStatus"
    ],
    "effect": "allow",
    "resource": "*"

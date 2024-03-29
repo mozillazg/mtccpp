@@ -10485,7 +10485,7 @@
   "PolicyName": "QcloudDMCDeveloper",
   "ServiceType": "dmc",
   "Type": 2,
-  "UpdateTime": "2024-03-19 14:50:10"
+  "UpdateTime": "2024-03-28 11:47:24"
  },
  {
   "AddTime": "2024-03-21 17:51:29",
@@ -10534,5 +10534,29 @@
   "ServiceType": "cooperator",
   "Type": 2,
   "UpdateTime": "2024-03-26 15:33:07"
+ },
+ {
+  "AddTime": "2024-03-28 09:54:02",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 205456273,
+  "PolicyName": "QcloudVTCReadOnlyAccess",
+  "ServiceType": "vtc",
+  "Type": 2,
+  "UpdateTime": "2024-03-28 09:54:02"
+ },
+ {
+  "AddTime": "2024-03-28 09:54:50",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 205456330,
+  "PolicyName": "QcloudVTCFullAccess",
+  "ServiceType": "vtc",
+  "Type": 2,
+  "UpdateTime": "2024-03-28 09:54:50"
  }
 ]
