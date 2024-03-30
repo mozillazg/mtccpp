@@ -12,7 +12,11 @@
     "monitor:*",
     "cam:ListUsersForGroup",
     "cam:ListGroups",
-    "cam:GetGroup"
+    "cam:GetGroup",
+    "vpc:DescribeVpcs",
+    "vpc:DescribeSubnets",
+    "cvm:DescribeSecurityGroups",
+    "tag:DescribeTags"
    ],
    "effect": "allow",
    "resource": "*"

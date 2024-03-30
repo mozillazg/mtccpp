@@ -4,7 +4,13 @@
    "action": [
     "monitor:GetMonitorData",
     "monitor:DescribeBaseMetrics",
-    "mongodb:Describe*"
+    "mongodb:Describe*",
+    "vpc:DescribeVpcs",
+    "vpc:DescribeSubnets",
+    "cvm:DescribeSecurityGroups",
+    "tag:DescribeTags",
+    "tag:DescribeTagKeys",
+    "tag:DescribeProjects"
    ],
    "effect": "allow",
    "resource": "*"
