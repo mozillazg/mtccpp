@@ -168,7 +168,19 @@
     "monitor:DescribeAlarmHistories",
     "monitor:DescribeBaseMetricsForConsoleFontEnd",
     "apigw:*",
-    "emr:DescribeServiceConfsNew"
+    "emr:DescribeServiceConfsNew",
+    "tchousex:DescribeEngineRegions",
+    "tchousex:DescribeEngineInstances",
+    "tchousex:DescribeInstanceVipList",
+    "tchousex:CreateEngineJob",
+    "tchousex:DescribeEngineJobState",
+    "tchousex:DescribeEngineJobResult",
+    "tchousex:DeleteEngineJob",
+    "tchousex:DescribeEngineJobLog",
+    "tchousex:DescribeEngineJobInfo",
+    "tchousex:DescribeEngineExtParams",
+    "tchousex:DescribeEngineEncryptMess",
+    "tchousex:DescribeEngineClusterState"
    ],
    "effect": "allow",
    "resource": [
