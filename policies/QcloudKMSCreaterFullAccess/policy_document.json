@@ -1,7 +1,7 @@
 {
  "statement": [
   {
-   "action": "kms:*",
+   "action": "name/kms:*",
    "effect": "allow",
    "resource": "qcs::kms:::key/creatorUin/${uin}/*"
   },
@@ -12,7 +12,15 @@
     "kms:ListAlgorithms",
     "kms:GetServiceStatus",
     "kms:CreateKey",
-    "kms:CreateWhiteBoxKey"
+    "kms:CreateWhiteBoxKey",
+    "tag:DescribeResourceTagsByResourceIds",
+    "tag:DescribeTagKeys",
+    "tag:DescribeTagValues",
+    "tag:GetTags",
+    "cam:ListUsers",
+    "cam:AttachRolePolicy",
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies"
    ],
    "effect": "allow",
    "resource": "*"

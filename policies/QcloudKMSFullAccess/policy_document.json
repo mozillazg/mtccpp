@@ -1,9 +1,21 @@
 {
  "statement": [
   {
-   "action": "kms:*",
+   "action": [
+    "kms:*",
+    "tag:DescribeResourceTagsByResourceIds",
+    "tag:DescribeTagKeys",
+    "tag:DescribeTagValues",
+    "tag:GetTags",
+    "cam:ListUsers",
+    "cam:AttachRolePolicy",
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies"
+   ],
    "effect": "allow",
-   "resource": "*"
+   "resource": [
+    "*"
+   ]
   }
  ],
  "version": "2.0"
