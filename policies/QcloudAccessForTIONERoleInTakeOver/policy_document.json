@@ -22,7 +22,9 @@
     "cvm:CreateSecurityGroupPolicy",
     "cvm:DescribeSecurityGroupPolicys",
     "tcr:DescribeInternalEndpoints",
-    "vpc:ModifyVpcAttribute"
+    "vpc:ModifyVpcAttribute",
+    "cvm:RepairTaskControl",
+    "cvm:DescribeTaskInfo"
    ],
    "effect": "allow",
    "resource": "*"

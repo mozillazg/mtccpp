@@ -1,9 +1,9 @@
 {
  "AddTime": "2023-11-20 16:54:15",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"cvm:ResetInstance\",\"cvm:DescribeInstances\",\"cvm:ModifyInstancesAttribute\",\"cvm:CreatePresetRules\",\"vpc:AttachCcnInstances\",\"vpc:DetachCcnInstances\",\"vpc:DescribeVpcTaskResult\",\"vpc:AssignPrivateIpAddresses\",\"vpc:UnassignPrivateIpAddresses\",\"vpc:DescribeNetworkInterfaces\",\"vpc:ModifyPrivateIpAddressesAttribute\",\"vpc:ModifyPrivateIpAddress\",\"privatedns:DescribePrivateZoneList\",\"privatedns:CreatePrivateZone\",\"privatedns:DeletePrivateZone\",\"privatedns:DescribePrivateZoneRecordList\",\"privatedns:CreatePrivateZoneRecord\",\"cvm:CreateSecurityGroupPolicy\",\"cvm:DescribeSecurityGroupPolicys\",\"tcr:DescribeInternalEndpoints\",\"vpc:ModifyVpcAttribute\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cvm:ResetInstance\",\"cvm:DescribeInstances\",\"cvm:ModifyInstancesAttribute\",\"cvm:CreatePresetRules\",\"vpc:AttachCcnInstances\",\"vpc:DetachCcnInstances\",\"vpc:DescribeVpcTaskResult\",\"vpc:AssignPrivateIpAddresses\",\"vpc:UnassignPrivateIpAddresses\",\"vpc:DescribeNetworkInterfaces\",\"vpc:ModifyPrivateIpAddressesAttribute\",\"vpc:ModifyPrivateIpAddress\",\"privatedns:DescribePrivateZoneList\",\"privatedns:CreatePrivateZone\",\"privatedns:DeletePrivateZone\",\"privatedns:DescribePrivateZoneRecordList\",\"privatedns:CreatePrivateZoneRecord\",\"cvm:CreateSecurityGroupPolicy\",\"cvm:DescribeSecurityGroupPolicys\",\"tcr:DescribeInternalEndpoints\",\"vpc:ModifyVpcAttribute\",\"cvm:RepairTaskControl\",\"cvm:DescribeTaskInfo\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForTIONERoleInTakeOver",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2024-03-25 09:47:21"
+ "UpdateTime": "2024-04-08 20:23:07"
 }
