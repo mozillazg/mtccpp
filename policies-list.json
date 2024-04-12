@@ -10558,5 +10558,17 @@
   "ServiceType": "vtc",
   "Type": 2,
   "UpdateTime": "2024-03-28 09:54:50"
+ },
+ {
+  "AddTime": "2024-04-11 15:13:40",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 206443306,
+  "PolicyName": "QlcloudAccessForTaaSlinkedRoleInALL",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2024-04-11 15:13:40"
  }
 ]
