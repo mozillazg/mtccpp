@@ -10558,5 +10558,29 @@
   "ServiceType": "vtc",
   "Type": 2,
   "UpdateTime": "2024-03-28 09:54:50"
+ },
+ {
+  "AddTime": "2024-04-15 10:42:28",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 206683913,
+  "PolicyName": "QcloudAccessForTaaSlinkedRoleInTCR",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2024-04-15 10:42:28"
+ },
+ {
+  "AddTime": "2024-04-15 10:44:31",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 206684023,
+  "PolicyName": "QcloudAccessForTaaSlinkedRole",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2024-04-15 10:44:31"
  }
 ]
