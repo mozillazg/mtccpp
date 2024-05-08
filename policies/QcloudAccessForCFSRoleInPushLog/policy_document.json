@@ -2,7 +2,7 @@
  "statement": [
   {
    "action": [
-    "im:*"
+    "cls:pushLog"
    ],
    "effect": "allow",
    "resource": "*"

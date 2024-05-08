@@ -55,7 +55,16 @@
     "tke:DescribeLogSwitches",
     "tke:DescribeEksLogSwitches",
     "tke:InstallEksLogAgent",
-    "tke:UninstallEksLogAgent"
+    "tke:UninstallEksLogAgent",
+    "monitor:CreateRecordingRule",
+    "monitor:UpdateRecordingRule",
+    "monitor:DescribeRecordingRules",
+    "monitor:CreatePrometheusConfig",
+    "monitor:DescribePrometheusConfig",
+    "monitor:DescribePrometheusClusterAgents",
+    "monitor:DeletePrometheusClusterAgent",
+    "monitor:ModifyPrometheusAgentExternalLabels",
+    "monitor:CreatePrometheusClusterAgent"
    ],
    "effect": "allow",
    "resource": [

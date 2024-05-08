@@ -2,8 +2,13 @@
  "statement": [
   {
    "action": [
-    "im:*"
+    "lke:*"
    ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
    "effect": "allow",
    "resource": "*"
   }

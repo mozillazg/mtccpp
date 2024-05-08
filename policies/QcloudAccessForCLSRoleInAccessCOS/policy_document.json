@@ -3,7 +3,8 @@
   {
    "action": [
     "cos:GetObject",
-    "cos:GetBucket"
+    "cos:GetBucket",
+    "cos:PostBucketInventory"
    ],
    "effect": "allow",
    "resource": [

@@ -2,7 +2,7 @@
  "statement": [
   {
    "action": [
-    "im:*"
+    "lke:*"
    ],
    "effect": "allow",
    "resource": "*"
