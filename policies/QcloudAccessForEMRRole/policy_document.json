@@ -87,7 +87,13 @@
     "dlc:DescribeDatasourceConnection",
     "cvm:CreateCbsStorages",
     "es:NotifyEsServerless",
-    "vpc:CheckBandwidthPackage"
+    "vpc:CheckBandwidthPackage",
+    "vpc:CreateHaVip",
+    "vpc:DeleteHaVip",
+    "vpc:DescribeHaVips",
+    "vpc:CreateNetworkInterfaceEx",
+    "vpc:DeleteNetworkInterfaceEx",
+    "vpc:DescribeVpcTaskResult"
    ],
    "effect": "allow",
    "resource": "*"

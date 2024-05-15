@@ -1,0 +1,26 @@
+{
+ "statement": [
+  {
+   "action": [
+    "rce:DescribeNameList",
+    "rce:DescribeNameListDataList",
+    "rce:AddNameList",
+    "rce:CreateNameList",
+    "rce:DeleteNameList",
+    "rce:ImportNameListData",
+    "rce:ModifyNameList",
+    "rce:GetCosPresignedURL",
+    "rce:DescribeEventMapping",
+    "rce:DescribeCustomerPermission",
+    "rce:DescribeServiceStatus",
+    "rce:DescribeEventCodeList",
+    "rce:ModifyNameListData"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}
