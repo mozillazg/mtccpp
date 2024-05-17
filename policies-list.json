@@ -10630,5 +10630,29 @@
   "ServiceType": "rce",
   "Type": 2,
   "UpdateTime": "2024-05-14 17:08:22"
+ },
+ {
+  "AddTime": "2024-05-16 14:43:48",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 210080440,
+  "PolicyName": "QcloudVCGReadOnlyAccess",
+  "ServiceType": "vcg",
+  "Type": 2,
+  "UpdateTime": "2024-05-16 14:43:48"
+ },
+ {
+  "AddTime": "2024-05-16 14:45:03",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 210080665,
+  "PolicyName": "QcloudVCGFullAccess",
+  "ServiceType": "vcg",
+  "Type": 2,
+  "UpdateTime": "2024-05-16 14:45:03"
  }
 ]

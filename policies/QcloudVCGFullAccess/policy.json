@@ -1,0 +1,9 @@
+{
+ "AddTime": "2024-05-16 14:45:03",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"vcg:*\",\"vtc:GetTaskList\",\"vtc:GetTaskDetail\",\"vtc:DescribeMediaModeration\",\"vtc:ValidateMaterialService\",\"vtc:GetAuthUrl\",\"vtc:DescribeOpenStatus\",\"vtc:SubmitMediaModeration\",\"vtc:ActivateService\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudVCGFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2024-05-16 14:45:03"
+}

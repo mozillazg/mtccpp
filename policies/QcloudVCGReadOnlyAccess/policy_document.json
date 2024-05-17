@@ -1,0 +1,23 @@
+{
+ "statement": [
+  {
+   "action": [
+    "vcg:*",
+    "vtc:GetTaskList",
+    "vtc:GetTaskDetail",
+    "vtc:DescribeMediaModeration",
+    "vtc:ValidateMaterialService",
+    "vtc:GetAuthUrl",
+    "vtc:DescribeOpenStatus"
+   ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
