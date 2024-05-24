@@ -1,0 +1,24 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:CreateMachineGroup",
+    "cls:DeleteMachineGroup",
+    "cls:CreateConfig",
+    "cls:ApplyConfigToMachineGroup",
+    "cls:DeleteConfigFromMachineGroup",
+    "cls:CreateLogset",
+    "cls:DescribeLogsets",
+    "cls:CreateTopic",
+    "cls:DescribeTopics",
+    "cls:DeleteConfig",
+    "cls:ModifyConfig",
+    "cls:DescribeConfigs",
+    "cls:SearchLog"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
