@@ -93,7 +93,13 @@
     "vpc:DescribeHaVips",
     "vpc:CreateNetworkInterfaceEx",
     "vpc:DeleteNetworkInterfaceEx",
-    "vpc:DescribeVpcTaskResult"
+    "vpc:DescribeVpcTaskResult",
+    "tag:AddResourceTag",
+    "tag:CreateTags",
+    "tke:AddExistedInstances",
+    "tke:CreateCluster",
+    "tke:DescribeClusterInstances",
+    "tke:CheckClusterCIDR"
    ],
    "effect": "allow",
    "resource": "*"
@@ -104,6 +110,21 @@
    "resource": [
     "qcs::cdb:::*",
     "qcs::cvm:::*"
+   ]
+  },
+  {
+   "action": [
+    "tke:DeleteCluster",
+    "tke:DeleteClusterInstances"
+   ],
+   "condition": {
+    "string_equal": {
+     "qcs:resource_tag/tke_managed_by": "emr"
+    }
+   },
+   "effect": "allow",
+   "resource": [
+    "*"
    ]
   }
  ],

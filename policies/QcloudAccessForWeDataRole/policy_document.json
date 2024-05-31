@@ -196,7 +196,9 @@
     "tchousex:CreatePartition",
     "tchousex:DescribePartitionList",
     "tchousex:DropPartition",
-    "tchousex:ExecuteEngineSql"
+    "tchousex:ExecuteEngineSql",
+    "casb:*",
+    "dsgc:*"
    ],
    "effect": "allow",
    "resource": [

@@ -2,7 +2,10 @@
  "statement": [
   {
    "action": [
-    "svp:CreateSavingPlanOrder"
+    "svp:CreateSavingPlanOrder",
+    "svp:DescribeSavingPlanUsage",
+    "svp:DescribeSavingPlanOverview",
+    "svp:DescribeSavingPlanDeduct"
    ],
    "effect": "allow",
    "resource": [

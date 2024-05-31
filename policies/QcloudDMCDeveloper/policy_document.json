@@ -33,15 +33,14 @@
     "dmc:ModifyImportTaskOrder",
     "dmc:TerminateWorkOrderExecute",
     "dmc:TerminateImportExportTask",
-    "dmc:GrantPermissionsToUsers",
-    "dmc:DeletePermissionFromUsers",
     "dmc:CancelWorkOrder",
     "dmc:LoginDMCSession",
     "dmc:CollectSqlAIData",
     "dmc:CreateSqlAITask",
     "dmc:CreateInstanceAIInsightTask",
     "dmc:CreateAITaskFeedback",
-    "dmc:CheckCamGrantStatus"
+    "dmc:CheckCamGrantStatus",
+    "dmc:ModifyWorkOrder"
    ],
    "effect": "allow",
    "resource": "*"
