@@ -99,7 +99,16 @@
     "tke:AddExistedInstances",
     "tke:CreateCluster",
     "tke:DescribeClusterInstances",
-    "tke:CheckClusterCIDR"
+    "tke:CheckClusterCIDR",
+    "tcr:DescribeInstances",
+    "tcr:DescribeNamespaces",
+    "tcr:DescribeRepositories",
+    "tcr:DescribeInstanceCustomizedDomain",
+    "cvm:CreateDisasterRecoverGroup",
+    "cvm:DescribeDisasterRecoverGroupQuota",
+    "cvm:ModifyInstancesDisasterRecoverGroup",
+    "cvm:ModifyDisasterRecoverGroupAttribute",
+    "cvm:DeleteDisasterRecoverGroups"
    ],
    "effect": "allow",
    "resource": "*"
