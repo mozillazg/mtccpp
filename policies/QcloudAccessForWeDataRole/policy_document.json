@@ -197,6 +197,9 @@
     "tchousex:DescribePartitionList",
     "tchousex:DropPartition",
     "tchousex:ExecuteEngineSql",
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies",
+    "cam:DescribeRoleList",
     "casb:*",
     "dsgc:*"
    ],

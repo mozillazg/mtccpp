@@ -14,7 +14,10 @@
     "cls:DeleteConfig",
     "cls:ModifyConfig",
     "cls:DescribeConfigs",
-    "cls:SearchLog"
+    "cls:SearchLog",
+    "cls:pushLog",
+    "cls:getConfig",
+    "cls:agentHeartBeat"
    ],
    "effect": "allow",
    "resource": "*"

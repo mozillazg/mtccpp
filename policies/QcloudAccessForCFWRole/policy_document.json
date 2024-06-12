@@ -196,7 +196,15 @@
     "cvm:DescribeAddresses",
     "cvm:DisassociateAddress",
     "tse:DescribeCloudNativeAPIGateways",
-    "tse:DescribeCloudNativeAPIGatewayConfig"
+    "tse:DescribeCloudNativeAPIGatewayConfig",
+    "postgres:DescribeDBInstanceSecurityGroups",
+    "postgres:ModifyDBInstanceSecurityGroups",
+    "mongodb:DescribeSecurityGroup",
+    "mongodb:ModifyDBInstanceSecurityGroup",
+    "mariadb:DescribeDBSecurityGroups",
+    "mariadb:DisassociateSecurityGroups",
+    "mariadb:AssociateSecurityGroups",
+    "vpc:DescribeHaVips"
    ],
    "effect": "allow",
    "resource": "*"

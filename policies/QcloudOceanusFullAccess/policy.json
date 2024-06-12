@@ -1,9 +1,9 @@
 {
  "AddTime": "2019-06-20 11:09:27",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"oceanus:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"oceanus:*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cam:DescribeRoleList\",\"cam:ListUsers\",\"cam:ListWeChatWorkSubAccounts\",\"cam:ListCollaborators\",\"tag:DescribeTagKeys\",\"tag:GetTagValues\",\"monitor:GetMonitorData\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudOceanusFullAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2021-08-31 15:39:16"
+ "UpdateTime": "2024-06-11 21:27:30"
 }

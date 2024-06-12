@@ -16,7 +16,8 @@
     "tke:DescribeClusterSecurity",
     "vpc:DescribeSubnets",
     "tke:DescribeTKEEdgeClusters",
-    "tke:DescribeTKEEdgeClusterCredential"
+    "tke:DescribeTKEEdgeClusterCredential",
+    "monitor:DescribeStatisticData"
    ],
    "effect": "allow",
    "resource": [

@@ -1,7 +1,10 @@
 {
  "statement": [
   {
-   "action": "soe:*",
+   "action": [
+    "soe:*",
+    "soenew:*"
+   ],
    "effect": "allow",
    "resource": "*"
   }

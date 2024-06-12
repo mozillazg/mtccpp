@@ -68,7 +68,13 @@
     "vpc:DeleteVpcEndPoint",
     "goosefs:DescribeClientNodes",
     "goosefs:BatchAddClientNodes",
-    "goosefs:DescribeFileSystems"
+    "goosefs:DescribeFileSystems",
+    "monitor:DescribeDashboardMetricData",
+    "monitor:DescribeBaseMetrics",
+    "cam:ListMaskedSubAccounts",
+    "tag:GetTagValues",
+    "tione:DescribeTrainingTaskPlugin",
+    "tione:ReportCheckpointList"
    ],
    "effect": "allow",
    "resource": "*"

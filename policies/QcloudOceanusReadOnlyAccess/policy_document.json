@@ -7,6 +7,19 @@
    ],
    "effect": "allow",
    "resource": "*"
+  },
+  {
+   "action": [
+    "cam:DescribeRoleList",
+    "cam:ListUsers",
+    "cam:ListWeChatWorkSubAccounts",
+    "cam:ListCollaborators",
+    "tag:DescribeTagKeys",
+    "tag:GetTagValues",
+    "monitor:GetMonitorData"
+   ],
+   "effect": "allow",
+   "resource": "*"
   }
  ],
  "version": "2.0"
