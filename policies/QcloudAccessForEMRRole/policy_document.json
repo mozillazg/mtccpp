@@ -108,7 +108,10 @@
     "cvm:DescribeDisasterRecoverGroupQuota",
     "cvm:ModifyInstancesDisasterRecoverGroup",
     "cvm:ModifyDisasterRecoverGroupAttribute",
-    "cvm:DeleteDisasterRecoverGroups"
+    "cvm:DeleteDisasterRecoverGroups",
+    "tcr:DescribeInternalEndpoints",
+    "tcr:DescribeExternalEndpointStatus",
+    "tcr:DescribeRepositoryOwnerPersonal"
    ],
    "effect": "allow",
    "resource": "*"

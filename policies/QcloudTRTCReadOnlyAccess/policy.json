@@ -1,9 +1,9 @@
 {
  "AddTime": "2020-07-06 15:24:47",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"trtc:Describe*\",\"trtc:Get*\",\"trtc:ShowRoomList\",\"trtc:ShowUserList\",\"trtc:VerifySig\",\"trtc:RemindBalance\",\"trtc:HardDescribeMixConf\",\"trtc:VerifySecretUserSig\",\"trtc:CheckUserInQCWhiteList\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"trtc:Describe*\",\"trtc:Get*\",\"trtc:ShowRoomList\",\"trtc:ShowUserList\",\"trtc:VerifySig\",\"trtc:RemindBalance\",\"trtc:HardDescribeMixConf\",\"trtc:VerifySecretUserSig\",\"trtc:CheckUserInQCWhiteList\",\"trtc:Check*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTRTCReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2023-08-31 09:38:04"
+ "UpdateTime": "2024-06-27 22:01:00"
 }

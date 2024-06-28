@@ -1173,7 +1173,7 @@
   "PolicyName": "QcloudAccessForTSFRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2023-05-17 11:37:15"
+  "UpdateTime": "2024-06-27 21:27:34"
  },
  {
   "AddTime": "2018-03-20 16:14:26",
@@ -1605,7 +1605,7 @@
   "PolicyName": "QcloudCkafkaReadOnlyAccess",
   "ServiceType": "ckafka",
   "Type": 2,
-  "UpdateTime": "2023-10-12 15:25:37"
+  "UpdateTime": "2024-06-27 22:03:12"
  },
  {
   "AddTime": "2018-08-02 10:19:49",
@@ -1689,7 +1689,7 @@
   "PolicyName": "QcloudAccessForEMRRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-06-06 21:06:15"
+  "UpdateTime": "2024-06-27 21:57:20"
  },
  {
   "AddTime": "2018-09-03 11:29:08",
@@ -1989,7 +1989,7 @@
   "PolicyName": "QcloudAccessForTCBRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2023-07-03 14:11:23"
+  "UpdateTime": "2024-06-27 21:52:53"
  },
  {
   "AddTime": "2018-12-10 16:21:53",
@@ -3837,7 +3837,7 @@
   "PolicyName": "QcloudCCCFullAccess",
   "ServiceType": "ccc",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2024-06-27 14:47:28"
  },
  {
   "AddTime": "2020-02-17 20:40:09",
@@ -4305,7 +4305,7 @@
   "PolicyName": "QcloudAccessForTCBRoleInAccessCloudBaseRun",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2023-08-28 09:24:42"
+  "UpdateTime": "2024-06-27 22:05:14"
  },
  {
   "AddTime": "2020-04-27 15:09:48",
@@ -4689,7 +4689,7 @@
   "PolicyName": "QcloudTRTCReadOnlyAccess",
   "ServiceType": "trtc",
   "Type": 2,
-  "UpdateTime": "2023-08-31 09:38:04"
+  "UpdateTime": "2024-06-27 22:01:00"
  },
  {
   "AddTime": "2020-07-08 16:26:07",
@@ -5229,7 +5229,7 @@
   "PolicyName": "QcloudAccessForMDPRoleInLVBCDNDistribution",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2021-08-09 10:48:46"
+  "UpdateTime": "2024-06-27 21:33:33"
  },
  {
   "AddTime": "2020-10-22 16:32:53",
@@ -8193,7 +8193,7 @@
   "PolicyName": "QcloudCCCReadOnlyaccess",
   "ServiceType": "ccc",
   "Type": 2,
-  "UpdateTime": "2022-04-18 10:24:49"
+  "UpdateTime": "2024-06-27 14:47:11"
  },
  {
   "AddTime": "2022-04-18 10:29:02",
@@ -9645,7 +9645,7 @@
   "PolicyName": "QcloudCFWACLAccess",
   "ServiceType": "cfw",
   "Type": 2,
-  "UpdateTime": "2023-08-14 15:27:10"
+  "UpdateTime": "2024-06-27 21:42:35"
  },
  {
   "AddTime": "2023-05-24 14:15:37",
@@ -9657,7 +9657,7 @@
   "PolicyName": "QcloudCFWACLReadOnlyAccess",
   "ServiceType": "cfw",
   "Type": 2,
-  "UpdateTime": "2023-08-14 15:27:50"
+  "UpdateTime": "2024-06-27 21:40:08"
  },
  {
   "AddTime": "2023-06-05 15:10:45",
@@ -10726,5 +10726,29 @@
   "ServiceType": "vclm",
   "Type": 2,
   "UpdateTime": "2024-06-20 17:07:02"
+ },
+ {
+  "AddTime": "2024-06-27 21:07:31",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 214217927,
+  "PolicyName": "QcloudAccessForTIONERoleInGoosefs",
+  "ServiceType": "tione",
+  "Type": 2,
+  "UpdateTime": "2024-06-27 21:07:31"
+ },
+ {
+  "AddTime": "2024-06-27 21:13:40",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 214219181,
+  "PolicyName": "QcloudCDCAccessForEMRRole",
+  "ServiceType": "emr",
+  "Type": 2,
+  "UpdateTime": "2024-06-27 21:13:40"
  }
 ]

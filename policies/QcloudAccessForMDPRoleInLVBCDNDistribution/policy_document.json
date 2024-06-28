@@ -6,7 +6,9 @@
     "live:DescribeLiveDomains",
     "live:DescribeSourceStreamInfo",
     "live:ModifySourceStreamInfo",
-    "live:CloseSourceStream"
+    "live:CloseSourceStream",
+    "live:DescribeOriginStreamInfo",
+    "live:ModifyOriginStreamInfo"
    ],
    "effect": "allow",
    "resource": [

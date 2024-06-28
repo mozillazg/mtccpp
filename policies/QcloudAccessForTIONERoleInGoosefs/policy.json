@@ -1,0 +1,9 @@
+{
+ "AddTime": "2024-06-27 21:07:31",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"goosefs:DescribeClusterNodes\",\"goosefs:CreateClusterNodes\",\"goosefs:DescribeClusterClients\",\"goosefs:CreateClusterClients\",\"goosefs:DeleteClusterClients\",\"goosefs:DescribeTasks\",\"goosefs:DescribeClusters\",\"goosefs:DescribeNamespaces\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudAccessForTIONERoleInGoosefs",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2024-06-27 21:07:31"
+}

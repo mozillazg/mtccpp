@@ -12,7 +12,9 @@
     "ssl:DescribeCertificates",
     "ssl:CheckCertificateChain",
     "cdb:DescribeDBInstances",
-    "cdb:DescribeDBInstanceInfo"
+    "cdb:DescribeDBInstanceInfo",
+    "coding:*",
+    "lowcode:*"
    ],
    "effect": "allow",
    "resource": [

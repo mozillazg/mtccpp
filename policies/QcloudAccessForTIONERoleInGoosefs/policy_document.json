@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "goosefs:DescribeClusterNodes",
+    "goosefs:CreateClusterNodes",
+    "goosefs:DescribeClusterClients",
+    "goosefs:CreateClusterClients",
+    "goosefs:DeleteClusterClients",
+    "goosefs:DescribeTasks",
+    "goosefs:DescribeClusters",
+    "goosefs:DescribeNamespaces"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

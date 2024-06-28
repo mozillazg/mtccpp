@@ -2,10 +2,8 @@
  "statement": [
   {
    "action": [
-    "ckafka:Get*",
-    "ckafka:List*",
-    "ckafka:Describe*",
-    "ckafka:Fetch*"
+    "cdc:DescribeDedicatedClusters",
+    "cdc:DescribeDedicatedClusterInstanceTypes"
    ],
    "effect": "allow",
    "resource": "*"

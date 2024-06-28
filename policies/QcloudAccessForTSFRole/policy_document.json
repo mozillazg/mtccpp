@@ -34,7 +34,12 @@
    "apm:DeletePAASInstance",
    "apm:DescribeMetricRecords",
    "monitor:DescribeAlarmHistories",
-   "monitor:GetMonitorData"
+   "monitor:GetMonitorData",
+   "tse:DescribeSREInstanceAccessAddress",
+   "tcr:CreateUserPersonal",
+   "tcr:CreateApplicationTokenPersonal",
+   "tcr:DescribeApplicationTokenPersonal",
+   "tcr:ModifyUserPasswordPersonal"
   ],
   "effect": "allow",
   "resource": "*"

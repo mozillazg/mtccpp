@@ -199,7 +199,8 @@
     "clb:DescribeRegions",
     "clb:DescribeTaskStatus",
     "clb:DescribeLBOperateProtect",
-    "vpc:DescribeCcnAttachedInstances"
+    "vpc:DescribeCcnAttachedInstances",
+    "cynosdb:DescribeServerlessStrategy"
    ],
    "effect": "allow",
    "resource": "*"
