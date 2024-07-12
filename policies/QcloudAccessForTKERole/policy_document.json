@@ -84,7 +84,14 @@
     "cvm:DescribeTaskInfo",
     "eb:PutEvents",
     "as:ClearLaunchConfigurationAttributes",
-    "vpc:DescribeVpcEndPointService"
+    "vpc:DescribeVpcEndPointService",
+    "vpc:ModifyAddressAttribute",
+    "vpc:DescribeTaskResult",
+    "vpc:AssignIpv6Addresses",
+    "vpc:AllocateIp6AddressesBandwidth",
+    "vpc:ReleaseIp6AddressesBandwidth",
+    "vpc:DescribeIp6Addresses",
+    "vpc:DescribeVpcLimits"
    ],
    "effect": "allow",
    "resource": "*"

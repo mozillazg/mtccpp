@@ -12,7 +12,8 @@
     "tsf:InitializeApm",
     "tsf:ImageUserIsExists",
     "tsf:ImageGetRepositoryList",
-    "tsf:DscribeTasks"
+    "tsf:DscribeTasks",
+    "tsf:Check*"
    ],
    "effect": "allow",
    "resource": "*"

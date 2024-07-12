@@ -111,7 +111,8 @@
     "cvm:DeleteDisasterRecoverGroups",
     "tcr:DescribeInternalEndpoints",
     "tcr:DescribeExternalEndpointStatus",
-    "tcr:DescribeRepositoryOwnerPersonal"
+    "tcr:DescribeRepositoryOwnerPersonal",
+    "cls:DeleteCloudProductLogTask"
    ],
    "effect": "allow",
    "resource": "*"

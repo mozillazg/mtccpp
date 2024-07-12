@@ -10,7 +10,11 @@
     "cvm:DisassociateAddress",
     "cvm:ModifyAddressAttribute",
     "cvm:ReleaseAddresses",
-    "cvm:TransformAddress"
+    "cvm:TransformAddress",
+    "vpc:DescribeTaskResult",
+    "vpc:AllocateIp6AddressesBandwidth",
+    "vpc:ReleaseIp6AddressesBandwidth",
+    "vpc:DescribeIp6Addresses"
    ],
    "effect": "allow",
    "resource": "*"
