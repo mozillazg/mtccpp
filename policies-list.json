@@ -1425,7 +1425,7 @@
   "PolicyName": "QcloudCKAFKAAccessForCLSRole",
   "ServiceType": "cls",
   "Type": 2,
-  "UpdateTime": "2021-01-14 10:15:55"
+  "UpdateTime": "2024-07-18 23:02:21"
  },
  {
   "AddTime": "2018-05-04 11:08:15",
@@ -3273,7 +3273,7 @@
   "PolicyName": "QcloudAccessForCFWRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-06-11 21:10:51"
+  "UpdateTime": "2024-07-18 23:15:00"
  },
  {
   "AddTime": "2019-10-28 16:16:55",

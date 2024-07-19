@@ -5,7 +5,9 @@
     "ckafka:ListRoute",
     "ckafka:AddRoute",
     "ckafka:DeleteRoute",
-    "ckafka:DescribeInstanceAttributes"
+    "ckafka:DescribeInstanceAttributes",
+    "ckafka:AuthorizeToken",
+    "ckafka:CreateToken"
    ],
    "effect": "allow",
    "resource": "*"
