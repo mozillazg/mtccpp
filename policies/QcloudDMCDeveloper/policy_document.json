@@ -40,7 +40,8 @@
     "dmc:CreateInstanceAIInsightTask",
     "dmc:CreateAITaskFeedback",
     "dmc:CheckCamGrantStatus",
-    "dmc:ModifyWorkOrder"
+    "dmc:ModifyWorkOrder",
+    "dmc:ApproveWorkOrder"
    ],
    "effect": "allow",
    "resource": "*"
