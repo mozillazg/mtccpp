@@ -2,7 +2,8 @@
  "statement": [
   {
    "action": [
-    "es:Describe*"
+    "es:Describe*",
+    "es:QueryRegionZone"
    ],
    "effect": "allow",
    "resource": [
