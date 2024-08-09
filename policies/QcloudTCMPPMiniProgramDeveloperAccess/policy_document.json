@@ -1,0 +1,27 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcmpp:DescribeMNPType",
+    "tcmpp:DescribeMNPDetail",
+    "tcmpp:DescribeOnlineVersion",
+    "tcmpp:CreateConsoleMNPVersionCompileTask",
+    "tcmpp:DescribeMNPManagerDetail",
+    "tcmpp:DescribeMNPManagerList",
+    "tcmpp:DescribeOfflineMNPPackage",
+    "tcmpp:ModifyMNPVersionPreview",
+    "tcmpp:DescribeMNPVersionPreview",
+    "tcmpp:DescribeMNPBoard",
+    "tcmpp:CheckGlobalDomain",
+    "tcmpp:DescribeDomainInfo",
+    "tcmpp:DescribeSensitiveApiAuthList",
+    "tcmpp:DescribeSensitiveApiApplyDetail",
+    "tcmpp:DescribeConsoleMNPVersionCompileTask",
+    "tcmpp:DescribeTempSecret4UploadFile2Cos"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

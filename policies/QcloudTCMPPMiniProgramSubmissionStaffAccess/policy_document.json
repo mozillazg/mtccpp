@@ -1,0 +1,22 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcmpp:DescribeMNPType",
+    "tcmpp:DescribeMNPDetail",
+    "tcmpp:DescribeOnlineVersion",
+    "tcmpp:DescribeMNPManagerDetail",
+    "tcmpp:DescribeMNPManagerList",
+    "tcmpp:DescribeOfflineMNPPackage",
+    "tcmpp:ModifyMNPVersionPreview",
+    "tcmpp:DescribeMNPVersionPreview",
+    "tcmpp:DescribeMNPBoard",
+    "tcmpp:CreatePlatformAudit",
+    "tcmpp:CreateOnlineApply"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -34,7 +34,8 @@
     "cos:GetBucketVersioning",
     "cos:PutBucketVersioning",
     "cos:PutBucketTagging",
-    "monitor:GetMonitorData"
+    "monitor:GetMonitorData",
+    "coding:*"
    ],
    "effect": "allow",
    "resource": "*"

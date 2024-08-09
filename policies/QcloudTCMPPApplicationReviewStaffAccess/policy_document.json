@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcmpp:DescribeApplicationList",
+    "tcmpp:DescribeApplicationConfig",
+    "tcmpp:DescribeApplication",
+    "tcmpp:ModifyPlatformAuditStatus",
+    "tcmpp:ModifySensitiveAPIAuditStatus",
+    "tcmpp:DescribeApplicationMNPVersionAuditList",
+    "tcmpp:DescribeSensitiveAPIList",
+    "tcmpp:DescribeSensitiveAPIAuditList"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

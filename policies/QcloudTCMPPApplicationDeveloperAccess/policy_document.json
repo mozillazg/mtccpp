@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcmpp:ModifyApplicationAppUrl",
+    "tcmpp:ModifyApplicationAppKey",
+    "tcmpp:DescribeApplicationList",
+    "tcmpp:DescribeApplicationConfig",
+    "tcmpp:DescribeApplication"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,24 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcmpp:ModifyApplicationAppUrl",
+    "tcmpp:ModifyApplicationAppKey",
+    "tcmpp:ModifyApplication",
+    "tcmpp:DescribeApplicationList",
+    "tcmpp:DescribeApplicationConfig",
+    "tcmpp:DescribeApplication",
+    "tcmpp:DeleteApplication",
+    "tcmpp:CreateApplication",
+    "tcmpp:DescribeSensitiveAPIList",
+    "tcmpp:DescribeSensitiveAPIAuditList",
+    "tcmpp:DeleteSensitiveAPI",
+    "tcmpp:CreateSensitiveAPI",
+    "tcmpp:DescribeTempSecret4UploadFile2Cos"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
