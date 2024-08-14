@@ -22,7 +22,9 @@
     "cos:RenameObject",
     "cos:TruncateObject",
     "cos:PutSymlink",
-    "cos:GetSymlink"
+    "cos:GetSymlink",
+    "cos:PutBucketInventory",
+    "cos:GetBucketInventory"
    ],
    "effect": "allow",
    "resource": "*"

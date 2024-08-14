@@ -201,7 +201,10 @@
     "cam:ListAttachedRolePolicies",
     "cam:DescribeRoleList",
     "casb:*",
-    "dsgc:*"
+    "dsgc:*",
+    "emr:DescribeExportConfs",
+    "emr:DescribeCloudInstanceService",
+    "emr:CheckCosAuth"
    ],
    "effect": "allow",
    "resource": [

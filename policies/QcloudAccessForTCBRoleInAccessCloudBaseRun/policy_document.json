@@ -200,7 +200,13 @@
     "clb:DescribeTaskStatus",
     "clb:DescribeLBOperateProtect",
     "vpc:DescribeCcnAttachedInstances",
-    "cynosdb:DescribeServerlessStrategy"
+    "cynosdb:DescribeServerlessStrategy",
+    "cynosdb:ActivateClusterSkipTrade",
+    "cynosdb:CreateClusterSkipTrade",
+    "cynosdb:IsolateClusterSkipTrade",
+    "cynosdb:OffLineClusterSkipTrade",
+    "cynosdb:SearchClusterTables",
+    "cynosdb:DescribeServerlessInstanceSpecs"
    ],
    "effect": "allow",
    "resource": "*"

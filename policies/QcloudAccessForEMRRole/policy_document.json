@@ -113,7 +113,8 @@
     "tcr:DescribeExternalEndpointStatus",
     "tcr:DescribeRepositoryOwnerPersonal",
     "cls:DeleteCloudProductLogTask",
-    "cvm:DescribeInstancesModification"
+    "cvm:DescribeInstancesModification",
+    "monitor:GetMonitorData"
    ],
    "effect": "allow",
    "resource": "*"
