@@ -7485,7 +7485,7 @@
   "PolicyName": "QcloudBSCAReadOnlyAccess",
   "ServiceType": "bsca",
   "Type": 2,
-  "UpdateTime": "2023-10-17 09:26:47"
+  "UpdateTime": "2024-08-20 14:53:05"
  },
  {
   "AddTime": "2021-11-15 15:28:01",
@@ -7497,7 +7497,7 @@
   "PolicyName": "QcloudBSCAFullAccess",
   "ServiceType": "bsca",
   "Type": 2,
-  "UpdateTime": "2021-11-15 15:28:01"
+  "UpdateTime": "2024-08-20 14:52:58"
  },
  {
   "AddTime": "2021-11-15 16:22:27",
@@ -10906,5 +10906,17 @@
   "ServiceType": "ivh",
   "Type": 2,
   "UpdateTime": "2024-08-08 22:13:42"
+ },
+ {
+  "AddTime": "2024-08-20 10:17:58",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 218466350,
+  "PolicyName": "QcloudMRSReadOnlyAccess",
+  "ServiceType": "mrs",
+  "Type": 2,
+  "UpdateTime": "2024-08-20 10:17:58"
  }
 ]
