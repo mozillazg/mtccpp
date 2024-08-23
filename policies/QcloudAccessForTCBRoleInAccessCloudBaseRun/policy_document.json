@@ -206,7 +206,16 @@
     "cynosdb:IsolateClusterSkipTrade",
     "cynosdb:OffLineClusterSkipTrade",
     "cynosdb:SearchClusterTables",
-    "cynosdb:DescribeServerlessInstanceSpecs"
+    "cynosdb:DescribeServerlessInstanceSpecs",
+    "tcr:CreateUserPersonal",
+    "tcr:ValidateUserPersonal",
+    "tcr:ValidateNamespaceExistPersonal",
+    "tcr:DescribeImagePersonal",
+    "tcr:ValidateRepositoryExistPersonal",
+    "tcr:ManageInternalEndpoint",
+    "cdn:PurgeUrlsCache",
+    "cdn:TcbCheckCreate",
+    "cdn:TcbCheckResource"
    ],
    "effect": "allow",
    "resource": "*"

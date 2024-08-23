@@ -2,9 +2,9 @@
  "statement": [
   {
    "action": [
-    "monitor:Describe*",
-    "monitor:Get*",
-    "monitor:Export*"
+    "tat:DescribeInvocationTasks",
+    "tat:RunCommand",
+    "tat:DescribeAutomationAgentStatus"
    ],
    "effect": "allow",
    "resource": "*"
