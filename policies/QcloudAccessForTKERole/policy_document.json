@@ -124,7 +124,8 @@
     "tke:ModifySuperNodeTag",
     "tke:QueryEKSDiskTask",
     "tke:StopEks",
-    "tke:UpdateImageCache"
+    "tke:UpdateImageCache",
+    "vpc:CreateSecurityGroup"
    ],
    "effect": "allow",
    "resource": "*"

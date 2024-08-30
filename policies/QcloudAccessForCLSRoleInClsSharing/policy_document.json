@@ -1,0 +1,32 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:DescribeDashboards",
+    "cls:DescribeIndex",
+    "cls:DescribeLogHistogram",
+    "cls:DescribeTopics",
+    "cls:QueryMetric",
+    "cls:QueryRangeMetric",
+    "cls:SearchLog",
+    "cls:MetricsLabelValues",
+    "cls:MetricsLabels",
+    "cls:MetricsSeries",
+    "cls:MetricsQueryExemplars",
+    "cls:GetMetricLabelValues",
+    "cls:MetricsQuery",
+    "cls:MetricsQueryRange",
+    "cls:GetMetricSeries",
+    "cls:MetricsRemoteRead",
+    "cls:DescribeLatestJsonLog",
+    "cls:CreateExport",
+    "cls:DescribeExports",
+    "cls:DescribeLatestUserLog",
+    "cls:DescribeLogFastAnalysis"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

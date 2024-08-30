@@ -22,7 +22,9 @@
   {
    "action": [
     "cam:GetReceiverInfo",
-    "cam:GetCustomMfaCallback"
+    "cam:GetCustomMfaCallback",
+    "cam:GetMFADeviceColl",
+    "cam:DescribeSafeAuthFlagColl"
    ],
    "effect": "allow",
    "resource": "*"

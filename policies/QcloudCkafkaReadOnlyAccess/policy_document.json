@@ -5,7 +5,9 @@
     "ckafka:Get*",
     "ckafka:List*",
     "ckafka:Describe*",
-    "ckafka:Fetch*"
+    "ckafka:Fetch*",
+    "ckafka:Inquire*",
+    "ckafka:Check*"
    ],
    "effect": "allow",
    "resource": "*"

@@ -6,7 +6,8 @@
     "cloudaudit:LookUpEvents",
     "cam:*CollApiKey",
     "cam:GetReceiverInfo",
-    "cam:GetSecurityLastUsed"
+    "cam:GetSecurityLastUsed",
+    "cam:QueryApiKeyRecord"
    ],
    "effect": "allow",
    "resource": "*"

@@ -14,7 +14,10 @@
     "cdb:DescribeDBInstances",
     "cdb:DescribeDBInstanceInfo",
     "coding:*",
-    "lowcode:*"
+    "lowcode:*",
+    "cdn:PurgeUrlsCache",
+    "cdn:TcbCheckCreate",
+    "cdn:TcbCheckResource"
    ],
    "effect": "allow",
    "resource": [

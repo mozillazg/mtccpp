@@ -17,7 +17,11 @@
     "vpc:DescribeSubnets",
     "tke:DescribeTKEEdgeClusters",
     "tke:DescribeTKEEdgeClusterCredential",
-    "monitor:DescribeStatisticData"
+    "monitor:DescribeStatisticData",
+    "tke:DescribeLogSwitches",
+    "tke:DescribeEKSClusterCredential",
+    "tke:GetEKSClusterResources",
+    "tke:GetPodChargeInfo"
    ],
    "effect": "allow",
    "resource": [

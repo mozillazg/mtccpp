@@ -1605,7 +1605,7 @@
   "PolicyName": "QcloudCkafkaReadOnlyAccess",
   "ServiceType": "ckafka",
   "Type": 2,
-  "UpdateTime": "2024-06-27 22:03:12"
+  "UpdateTime": "2024-08-29 22:14:19"
  },
  {
   "AddTime": "2018-08-02 10:19:49",
@@ -1989,7 +1989,7 @@
   "PolicyName": "QcloudAccessForTCBRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-06-27 21:52:53"
+  "UpdateTime": "2024-08-29 22:22:55"
  },
  {
   "AddTime": "2018-12-10 16:21:53",
@@ -2001,7 +2001,7 @@
   "PolicyName": "QcloudAccessForTKERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-08-22 22:02:30"
+  "UpdateTime": "2024-08-29 22:12:06"
  },
  {
   "AddTime": "2018-12-17 21:19:39",
@@ -3849,7 +3849,7 @@
   "PolicyName": "QcloudCollApiKeyManageAccess",
   "ServiceType": "cam",
   "Type": 2,
-  "UpdateTime": "2021-11-08 15:24:35"
+  "UpdateTime": "2024-08-29 22:16:53"
  },
  {
   "AddTime": "2020-02-17 20:44:11",
@@ -3873,7 +3873,7 @@
   "PolicyName": "QcloudCollMFAManageAccess",
   "ServiceType": "cam",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2024-08-29 22:18:01"
  },
  {
   "AddTime": "2020-02-20 10:24:08",
@@ -6093,7 +6093,7 @@
   "PolicyName": "QcloudAccessForTCSSRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-06-11 23:43:26"
+  "UpdateTime": "2024-08-29 22:06:17"
  },
  {
   "AddTime": "2021-03-09 09:44:55",
@@ -7269,7 +7269,7 @@
   "PolicyName": "QcloudAccessForCWPRoleInVulnerabilityRepair",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2021-10-11 19:53:19"
+  "UpdateTime": "2024-08-29 22:03:36"
  },
  {
   "AddTime": "2021-10-12 16:52:08",
@@ -10930,5 +10930,17 @@
   "ServiceType": "mrs",
   "Type": 2,
   "UpdateTime": "2024-08-20 10:17:58"
+ },
+ {
+  "AddTime": "2024-08-29 22:21:35",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 219280277,
+  "PolicyName": "QcloudAccessForCLSRoleInClsSharing",
+  "ServiceType": "cls",
+  "Type": 2,
+  "UpdateTime": "2024-08-29 22:21:35"
  }
 ]
