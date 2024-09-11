@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "waf:DescribeInstances",
+    "waf:DescribeDomains",
+    "waf:CreateHost",
+    "waf:DeleteHost",
+    "ssl:DescribeCertificates",
+    "ssl:DescribeCertificateDetail"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

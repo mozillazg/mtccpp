@@ -2001,7 +2001,7 @@
   "PolicyName": "QcloudAccessForTKERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-08-29 22:12:06"
+  "UpdateTime": "2024-09-10 21:31:09"
  },
  {
   "AddTime": "2018-12-17 21:19:39",
@@ -9417,7 +9417,7 @@
   "PolicyName": "QcloudTsearchFullAccess",
   "ServiceType": "tsearch",
   "Type": 2,
-  "UpdateTime": "2023-04-17 14:45:57"
+  "UpdateTime": "2024-09-10 21:35:45"
  },
  {
   "AddTime": "2023-04-17 14:46:27",
@@ -9429,7 +9429,7 @@
   "PolicyName": "QcloudTsearchReadOnlyaccess",
   "ServiceType": "tsearch",
   "Type": 2,
-  "UpdateTime": "2023-04-17 14:46:27"
+  "UpdateTime": "2024-09-10 21:39:31"
  },
  {
   "AddTime": "2023-04-20 10:27:54",
@@ -10725,7 +10725,7 @@
   "PolicyName": "QcloudCloudappInstallationAccess",
   "ServiceType": "cloudapp",
   "Type": 2,
-  "UpdateTime": "2024-07-11 22:14:39"
+  "UpdateTime": "2024-09-10 21:28:48"
  },
  {
   "AddTime": "2024-07-18 23:19:42",
@@ -10942,5 +10942,65 @@
   "ServiceType": "cls",
   "Type": 2,
   "UpdateTime": "2024-08-29 22:21:35"
+ },
+ {
+  "AddTime": "2024-09-10 21:43:31",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 220148578,
+  "PolicyName": "QcloudIAPFullAccess",
+  "ServiceType": "iap",
+  "Type": 2,
+  "UpdateTime": "2024-09-10 21:43:31"
+ },
+ {
+  "AddTime": "2024-09-10 21:44:24",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 220148633,
+  "PolicyName": "QcloudIAPReadOnlyaccess",
+  "ServiceType": "iap",
+  "Type": 2,
+  "UpdateTime": "2024-09-10 21:44:24"
+ },
+ {
+  "AddTime": "2024-09-10 21:53:42",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 220149672,
+  "PolicyName": "QcloudLKEAPReadOnlyAccess",
+  "ServiceType": "lkeap",
+  "Type": 2,
+  "UpdateTime": "2024-09-10 21:53:42"
+ },
+ {
+  "AddTime": "2024-09-10 21:54:22",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 220149714,
+  "PolicyName": "QcloudLKEAPFullAccess",
+  "ServiceType": "lkeap",
+  "Type": 2,
+  "UpdateTime": "2024-09-10 21:54:22"
+ },
+ {
+  "AddTime": "2024-09-10 22:00:55",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 220150185,
+  "PolicyName": "QcloudAccessForscfRoleInSSLWAF",
+  "ServiceType": "scf",
+  "Type": 2,
+  "UpdateTime": "2024-09-10 22:00:55"
  }
 ]

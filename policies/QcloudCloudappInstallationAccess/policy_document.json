@@ -19,7 +19,8 @@
     "cam:ListAttachedRolePolicies",
     "cam:UpdatePolicy",
     "cam:CreateServiceLinkedRole",
-    "cam:DescribeServiceLinkedRole"
+    "cam:DescribeServiceLinkedRole",
+    "cvm:ModifyImageSharePermission"
    ],
    "effect": "allow",
    "resource": [

@@ -1,0 +1,9 @@
+{
+ "AddTime": "2024-09-10 21:53:42",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"lkeap:*\"],\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudLKEAPReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2024-09-10 21:53:42"
+}

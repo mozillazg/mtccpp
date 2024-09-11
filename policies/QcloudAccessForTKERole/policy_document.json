@@ -125,7 +125,9 @@
     "tke:QueryEKSDiskTask",
     "tke:StopEks",
     "tke:UpdateImageCache",
-    "vpc:CreateSecurityGroup"
+    "vpc:CreateSecurityGroup",
+    "tke:DescribeExternalNode",
+    "tke:InquirePricePurchaseNativeNode"
    ],
    "effect": "allow",
    "resource": "*"
