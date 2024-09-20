@@ -230,7 +230,12 @@
     "cls:OpenKafkaConsumer",
     "cls:ModifyKafkaConsumer",
     "cls:DescribeKafkaConsumer",
-    "vpc:ModifyVpnGatewayAttribute"
+    "vpc:ModifyVpnGatewayAttribute",
+    "cls:CloseKafkaConsumer",
+    "cls:DescribeLogsets",
+    "cls:DescribeTopics",
+    "cls:ModifyTopic",
+    "csip:DescribeCFWAssetStatistics"
    ],
    "effect": "allow",
    "resource": "*"

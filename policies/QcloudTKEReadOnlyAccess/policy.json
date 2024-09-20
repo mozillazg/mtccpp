@@ -1,9 +1,9 @@
 {
  "AddTime": "2020-05-09 14:51:14",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"tke:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cvm:Describe*\",\"cvm:Inquiry*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"vpc:Describe*\",\"vpc:Inquiry*\",\"vpc:Get*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"clb:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"monitor:Describe*\",\"monitor:Get*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tke:Describe*\",\"tke:Get*\",\"tke:List*\",\"tke:Check*\",\"tke:InquirePrice*\",\"tke:SwitchParameter*\",\"tke:ValidateClusterAddVirtualNodeConditions\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cvm:Describe*\",\"cvm:Inquiry*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"vpc:Describe*\",\"vpc:Inquiry*\",\"vpc:Get*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"clb:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"monitor:Describe*\",\"monitor:Get*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTKEReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2020-09-29 11:37:49"
+ "UpdateTime": "2024-09-19 21:14:09"
 }

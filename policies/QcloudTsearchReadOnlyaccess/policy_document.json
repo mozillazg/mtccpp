@@ -14,6 +14,13 @@
   },
   {
    "action": [
+    "tsearch:Count*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
     "vpc:Describe*",
     "vpc:Inquiry*",
     "vpc:Get*"

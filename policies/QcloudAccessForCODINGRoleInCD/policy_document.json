@@ -28,7 +28,11 @@
     "cls:DescribeLogFastAnalysis",
     "cls:DescribeLogContext",
     "monitor:DescribeStatisticData",
-    "tke:DescribeClusters"
+    "tke:DescribeClusters",
+    "tke:CheckSubaccountAuthority",
+    "tke:DescribeClusterAuthorizationMode",
+    "tke:DescribeRegions",
+    "tke:DescribeClusterInstances"
    ],
    "effect": "allow",
    "resource": [

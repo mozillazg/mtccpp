@@ -3273,7 +3273,7 @@
   "PolicyName": "QcloudAccessForCFWRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-07-18 23:15:00"
+  "UpdateTime": "2024-09-19 21:06:21"
  },
  {
   "AddTime": "2019-10-28 16:16:55",
@@ -4377,7 +4377,7 @@
   "PolicyName": "QcloudTKEReadOnlyAccess",
   "ServiceType": "tke",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2024-09-19 21:14:09"
  },
  {
   "AddTime": "2020-05-09 14:52:22",
@@ -7341,7 +7341,7 @@
   "PolicyName": "QcloudAccessForCODINGRoleInCD",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2023-02-16 10:40:52"
+  "UpdateTime": "2024-09-19 21:04:39"
  },
  {
   "AddTime": "2021-10-26 17:24:26",
@@ -9429,7 +9429,7 @@
   "PolicyName": "QcloudTsearchReadOnlyaccess",
   "ServiceType": "tsearch",
   "Type": 2,
-  "UpdateTime": "2024-09-10 21:39:31"
+  "UpdateTime": "2024-09-19 21:11:43"
  },
  {
   "AddTime": "2023-04-20 10:27:54",

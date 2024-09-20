@@ -2,7 +2,13 @@
  "statement": [
   {
    "action": [
-    "tke:Describe*"
+    "tke:Describe*",
+    "tke:Get*",
+    "tke:List*",
+    "tke:Check*",
+    "tke:InquirePrice*",
+    "tke:SwitchParameter*",
+    "tke:ValidateClusterAddVirtualNodeConditions"
    ],
    "effect": "allow",
    "resource": "*"
