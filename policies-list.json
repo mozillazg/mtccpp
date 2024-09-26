@@ -5724,18 +5724,6 @@
   "UpdateTime": "2020-12-29 14:41:54"
  },
  {
-  "AddTime": "2020-12-29 14:42:31",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 63238008,
-  "PolicyName": "QcloudWeDataReadOnlyAccess",
-  "ServiceType": "wedata",
-  "Type": 2,
-  "UpdateTime": "2020-12-29 14:42:31"
- },
- {
   "AddTime": "2020-12-30 17:27:47",
   "CreateMode": 2,
   "Deactived": 0,
