@@ -1689,7 +1689,7 @@
   "PolicyName": "QcloudAccessForEMRRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-08-13 21:11:32"
+  "UpdateTime": "2024-09-26 21:16:05"
  },
  {
   "AddTime": "2018-09-03 11:29:08",
@@ -10990,5 +10990,29 @@
   "ServiceType": "scf",
   "Type": 2,
   "UpdateTime": "2024-09-10 22:00:55"
+ },
+ {
+  "AddTime": "2024-09-26 21:19:05",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 221595253,
+  "PolicyName": "QcloudBhFullAccess",
+  "ServiceType": "bh",
+  "Type": 2,
+  "UpdateTime": "2024-09-26 21:19:05"
+ },
+ {
+  "AddTime": "2024-09-26 21:20:22",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 221595448,
+  "PolicyName": "QcloudBHReadOnlyAccess",
+  "ServiceType": "bh",
+  "Type": 2,
+  "UpdateTime": "2024-09-26 21:20:22"
  }
 ]

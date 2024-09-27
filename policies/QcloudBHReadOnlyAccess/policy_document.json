@@ -1,0 +1,25 @@
+{
+ "statement": [
+  {
+   "action": [
+    "bh:*"
+   ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "bh:Show*",
+    "bh:Replay*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

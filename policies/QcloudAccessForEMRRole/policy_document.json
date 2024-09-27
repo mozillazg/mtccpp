@@ -114,7 +114,11 @@
     "tcr:DescribeRepositoryOwnerPersonal",
     "cls:DeleteCloudProductLogTask",
     "cvm:DescribeInstancesModification",
-    "monitor:GetMonitorData"
+    "monitor:GetMonitorData",
+    "cvm:ResetInstance",
+    "cvm:ModifyInstancesVpcAttribute",
+    "cvm:StopInstances",
+    "cvm:StartInstances"
    ],
    "effect": "allow",
    "resource": "*"
