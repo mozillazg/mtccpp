@@ -10980,6 +10980,18 @@
   "UpdateTime": "2024-09-10 21:54:22"
  },
  {
+  "AddTime": "2024-09-10 21:59:44",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 220150018,
+  "PolicyName": "QcloudAccessFortkeRoleInMetricsbyLog",
+  "ServiceType": "tke",
+  "Type": 2,
+  "UpdateTime": "2024-09-10 21:59:44"
+ },
+ {
   "AddTime": "2024-09-10 22:00:55",
   "CreateMode": 2,
   "Deactived": 0,

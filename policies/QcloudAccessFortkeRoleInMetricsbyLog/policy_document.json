@@ -1,0 +1,24 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:CreateMetricConfig",
+    "cls:DeleteMetricConfig",
+    "cls:DescribeTopicMetricConfigs",
+    "cls:DescribeClusterMetricConfigs",
+    "cls:DescribeTopicBaseMetricConfigs",
+    "cls:DescribeClusterBaseMetricConfigs",
+    "cls:ModifyMetricConfig",
+    "cls:MetricsRemoteWrite"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": "monitor:*",
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
