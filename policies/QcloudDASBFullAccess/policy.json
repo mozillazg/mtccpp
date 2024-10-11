@@ -1,9 +1,9 @@
 {
  "AddTime": "2019-10-22 17:06:00",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"dasb:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"dasb:*\",\"bh:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudDASBFullAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2024-05-28 10:36:46"
+ "UpdateTime": "2024-10-10 21:14:41"
 }

@@ -1,0 +1,29 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tchousex:*",
+    "cam:GetRole",
+    "cam:DescribeRoleList",
+    "cam:CreateServiceLinkedRole",
+    "cam:DescribeServiceLinkedRole",
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeSubnetEx",
+    "tag:GetTagKeys",
+    "tag:GetTagValues",
+    "tag:TagResources",
+    "tag:UnTagResources",
+    "tag:DescribeResourceTagsByResourceIds",
+    "tag:GetTags",
+    "bi:*",
+    "monitor:GetMonitorData",
+    "cos:GetService",
+    "cos:GetBucket",
+    "cos:PutObject"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

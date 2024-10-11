@@ -127,7 +127,9 @@
     "tke:UpdateImageCache",
     "vpc:CreateSecurityGroup",
     "tke:DescribeExternalNode",
-    "tke:InquirePricePurchaseNativeNode"
+    "tke:InquirePricePurchaseNativeNode",
+    "cvm:DescribeUserZoneStatus",
+    "cvm:DescribeMarketImages"
    ],
    "effect": "allow",
    "resource": "*"

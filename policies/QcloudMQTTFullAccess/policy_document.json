@@ -2,8 +2,7 @@
  "statement": [
   {
    "action": [
-    "dasb:*",
-    "bh:*"
+    "mqtt:*"
    ],
    "effect": "allow",
    "resource": "*"

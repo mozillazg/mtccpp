@@ -11,7 +11,8 @@
     "trtc:HardDescribeMixConf",
     "trtc:VerifySecretUserSig",
     "trtc:CheckUserInQCWhiteList",
-    "trtc:Check*"
+    "trtc:Check*",
+    "trtc:Is*"
    ],
    "effect": "allow",
    "resource": "*"

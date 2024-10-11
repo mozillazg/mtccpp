@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tchousex:Describe*",
+    "tchousex:AuthorizedSql",
+    "cam:GetRole",
+    "vpc:DescribeSubnetEx",
+    "monitor:GetMonitorData"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

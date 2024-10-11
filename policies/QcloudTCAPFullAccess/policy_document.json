@@ -2,8 +2,7 @@
  "statement": [
   {
    "action": [
-    "dasb:*",
-    "bh:*"
+    "tcap:*"
    ],
    "effect": "allow",
    "resource": "*"

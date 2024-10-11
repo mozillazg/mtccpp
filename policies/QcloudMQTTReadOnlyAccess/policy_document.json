@@ -2,9 +2,13 @@
  "statement": [
   {
    "action": [
-    "dasb:*",
-    "bh:*"
+    "mqtt:*"
    ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
    "effect": "allow",
    "resource": "*"
   }
