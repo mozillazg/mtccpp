@@ -7,7 +7,9 @@
     "ckafka:DeleteRoute",
     "ckafka:DescribeInstanceAttributes",
     "ckafka:AuthorizeToken",
-    "ckafka:CreateToken"
+    "ckafka:CreateToken",
+    "ckafka:DescribeTopicAttributes",
+    "cam:GetRole"
    ],
    "effect": "allow",
    "resource": "*"

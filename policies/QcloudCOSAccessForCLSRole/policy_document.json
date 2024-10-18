@@ -8,7 +8,9 @@
     "cos:AppendObject",
     "cos:InitiateMultipartUpload",
     "cos:UploadPart",
-    "cos:CompleteMultipartUpload"
+    "cos:CompleteMultipartUpload",
+    "cos:HeadBucket",
+    "cam:GetRole"
    ],
    "effect": "allow",
    "resource": "*"
