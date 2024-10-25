@@ -118,7 +118,15 @@
     "cvm:ResetInstance",
     "cvm:ModifyInstancesVpcAttribute",
     "cvm:StopInstances",
-    "cvm:StartInstances"
+    "cvm:StartInstances",
+    "vpc:DescribeAddressTemplates",
+    "vpc:DescribeServiceTemplates",
+    "vpc:DescribeServiceTemplateGroups",
+    "vpc:DescribeAddressTemplateGroups",
+    "vpc:DescribeAddressGroups",
+    "vpc:DescribeAddress",
+    "vpc:DescribeServiceGroups",
+    "vpc:DescribeService"
    ],
    "effect": "allow",
    "resource": "*"

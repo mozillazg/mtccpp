@@ -1,7 +1,10 @@
 {
  "statement": [
   {
-   "action": "tdmysql:*",
+   "action": [
+    "tdmysql:*",
+    "dbs:*"
+   ],
    "effect": "allow",
    "resource": "*"
   }

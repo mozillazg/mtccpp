@@ -235,7 +235,10 @@
     "cls:DescribeLogsets",
     "cls:DescribeTopics",
     "cls:ModifyTopic",
-    "csip:DescribeCFWAssetStatistics"
+    "csip:DescribeCFWAssetStatistics",
+    "vpc:AssignIpv6Addresses",
+    "vpc:AssignIpv6CidrBlock",
+    "vpc:UnassignIpv6CidrBlock"
    ],
    "effect": "allow",
    "resource": "*"

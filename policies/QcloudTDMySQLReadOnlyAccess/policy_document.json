@@ -2,7 +2,8 @@
  "statement": [
   {
    "action": [
-    "tdmysql:Describe*"
+    "tdmysql:Describe*",
+    "dbs:Describe*"
    ],
    "effect": "allow",
    "resource": "*"

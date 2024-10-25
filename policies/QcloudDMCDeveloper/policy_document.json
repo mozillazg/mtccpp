@@ -41,7 +41,8 @@
     "dmc:CreateAITaskFeedback",
     "dmc:CheckCamGrantStatus",
     "dmc:ModifyWorkOrder",
-    "dmc:ApproveWorkOrder"
+    "dmc:ApproveWorkOrder",
+    "dmc:ModifyDatabaseRemark"
    ],
    "effect": "allow",
    "resource": "*"
