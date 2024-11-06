@@ -1,0 +1,21 @@
+{
+ "statement": [
+  {
+   "action": [
+    "emr:DescribeClusterNodes",
+    "emr:DescribeInstances",
+    "emr:DescribeInstancesList",
+    "sqlserver:DescribeDBInstances",
+    "sqlserver:CreateAccount",
+    "sqlserver:DescribeDBs",
+    "sqlserver:ModifyAccountPrivilege",
+    "sqlserver:DescribeAccounts",
+    "sqlserver:DeleteAccount",
+    "cdwpg:DescribeSimpleInstances"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

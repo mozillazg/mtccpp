@@ -1,9 +1,9 @@
 {
  "AddTime": "2024-07-11 22:14:39",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":\"*\",\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cam:CreatePolicy\",\"cam:CreateRole\",\"cam:AttachRolePolicy\",\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"cam:UpdatePolicy\",\"cam:CreateServiceLinkedRole\",\"cam:DescribeServiceLinkedRole\",\"cvm:ModifyImageSharePermission\"],\"effect\":\"allow\",\"resource\":[\"*\"]},{\"action\":[\"cloudapp:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"*\",\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cam:CreatePolicy\",\"cam:CreateRole\",\"cam:DeletePolicy\",\"cam:DeleteRole\",\"cam:AttachRolePolicy\",\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"cam:UpdatePolicy\",\"cam:CreateServiceLinkedRole\",\"cam:DescribeServiceLinkedRole\",\"cvm:ModifyImageSharePermission\"],\"effect\":\"allow\",\"resource\":[\"*\"]},{\"action\":[\"cloudapp:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCloudappInstallationAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2024-09-10 21:28:48"
+ "UpdateTime": "2024-11-05 21:29:26"
 }

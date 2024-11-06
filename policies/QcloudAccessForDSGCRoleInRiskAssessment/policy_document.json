@@ -1,0 +1,33 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cdb:DescribeDBInstanceInfo",
+    "dcdb:DescribeDBEncryptAttributes",
+    "mariadb:DescribeDBEncryptAttributes",
+    "postgres:DescribeDBInstances",
+    "cdb:DescribeBackups",
+    "dcdb:DescribeBackupFiles",
+    "mariadb:DescribeBackupFiles",
+    "postgres:DescribeBaseBackups",
+    "cynosdb:DescribeBackupList",
+    "mongodb:DescribeDBBackups",
+    "cdb:DescribeAccounts",
+    "dcdb:DescribeAccounts",
+    "mariadb:DescribeAccounts",
+    "postgres:DescribeAccounts",
+    "cynosdb:DescribeAccounts",
+    "mongodb:DescribeAccountUsers",
+    "cdb:DescribeAuditInstanceList",
+    "cynosdb:DescribeAuditInstanceList",
+    "dbbrain:DescribeAuditInstanceList",
+    "cos:GetBucketEncryption",
+    "cos:GetBucketVersioning",
+    "cos:GetBucketLogging"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

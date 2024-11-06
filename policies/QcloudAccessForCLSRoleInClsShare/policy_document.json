@@ -8,7 +8,12 @@
     "cls:DescribeTopics",
     "cls:QueryMetric",
     "cls:QueryRangeMetric",
-    "cls:SearchLog"
+    "cls:SearchLog",
+    "cls:DescribeLogContext",
+    "cls:CreateExport",
+    "cls:DescribeExports",
+    "cls:GetMetricLabelValues",
+    "cls:GetMetricSeries"
    ],
    "effect": "allow",
    "resource": [

@@ -129,7 +129,11 @@
     "tke:DescribeExternalNode",
     "tke:InquirePricePurchaseNativeNode",
     "cvm:DescribeUserZoneStatus",
-    "cvm:DescribeMarketImages"
+    "cvm:DescribeMarketImages",
+    "ssl:DescribeCertificates",
+    "ssl:CheckCertificateChain",
+    "ssl:DeleteCertificate",
+    "ssl:DescribeDeleteCertificatesTaskResult"
    ],
    "effect": "allow",
    "resource": "*"

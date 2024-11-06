@@ -1,9 +1,9 @@
 {
  "AddTime": "2016-06-02 19:40:37",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":\"cooperator:MANAGE_FINANCE\",\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"cooperator:MANAGE_FINANCE\",\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":\"finance:*\",\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QCloudFinanceFullAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2018-08-13 17:54:58"
+ "UpdateTime": "2024-11-05 21:15:15"
 }
