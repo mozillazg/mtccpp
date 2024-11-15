@@ -1,0 +1,29 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ioa:DescribeMgrDomain",
+    "ioa:DescribeAmAuth",
+    "ioa:DescribeLicense",
+    "ioa:DescribeTableColumnSetting",
+    "ioa:DescribeAdminMenu",
+    "ioa:DescribeTenantlessConfig",
+    "ioa:CheckDLPAlarmRule",
+    "ioa:DescribeEncryptKey",
+    "ioa:CheckDLPAlarmLog",
+    "ioa:DescribeRootAccountGroup",
+    "ioa:ModifyGuide",
+    "ioa:DescribeGuide",
+    "ioa:DescribeGlobalLicense",
+    "ioa:DescribePublicEncryptKey",
+    "ioa:DescribeAutoVirtualGroupRuleItems",
+    "ioa:DescribePolicyType",
+    "ioa:DescribeProfileField",
+    "ioa:DescribeModuleConfigUsage"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,9 @@
+{
+ "AddTime": "2024-11-14 21:59:26",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ioa:DescribeSourceTypes\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"ioa:DescribeAccountGroups\",\"ioa:DescribeLocalAccounts\",\"ioa:DescribeRootAccountGroup\",\"ioa:DescribeSimpleLocalAccounts\",\"ioa:DescribeVirtualAccounts\",\"ioa:DescribeLocalAccount\",\"ioa:DescribeAccountGroup\",\"ioa:DescribeExistAccountGroup\",\"ioa:DescribeAccountVirtualGroups\",\"ioa:DescribeSearchAccountGroupTree\",\"ioa:DescribeAccountGroupsUserTotal\",\"ioa:DescribeExpandedAccountGroupTree\",\"ioa:CheckAccountImportTask\",\"ioa:DescribeCheckAccountImportTaskResult\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudIOAAccountReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2024-11-14 21:59:26"
+}

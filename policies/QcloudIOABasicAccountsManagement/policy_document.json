@@ -1,0 +1,45 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ioa:DescribeSourceTypes"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "ioa:DescribeAccountGroups",
+    "ioa:DescribeLocalAccounts",
+    "ioa:DescribeRootAccountGroup",
+    "ioa:DescribeSimpleLocalAccounts",
+    "ioa:DescribeVirtualAccounts",
+    "ioa:DescribeLocalAccount",
+    "ioa:ModifyLocalAccount",
+    "ioa:ModifyLocalAccountStatus",
+    "ioa:ResetLocalAccountPassword",
+    "ioa:DeleteLocalAccounts",
+    "ioa:ModifyAccountGroup",
+    "ioa:DeleteAccountGroup",
+    "ioa:DescribeAccountGroup",
+    "ioa:DescribeExistAccountGroup",
+    "ioa:DescribeAccountVirtualGroups",
+    "ioa:DescribeSearchAccountGroupTree",
+    "ioa:DescribeAccountGroupsUserTotal",
+    "ioa:ModifyAccountVirtualGroup",
+    "ioa:DeleteAccountVirtualGroup",
+    "ioa:CreateAccountVirtualGroup",
+    "ioa:CreateAccountGroup",
+    "ioa:CreateAccountImportTask",
+    "ioa:DescribeExpandedAccountGroupTree",
+    "ioa:UnbindVirtualAccounts",
+    "ioa:BindVirtualAccounts",
+    "ioa:CheckAccountImportTask",
+    "ioa:DescribeCheckAccountImportTaskResult"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

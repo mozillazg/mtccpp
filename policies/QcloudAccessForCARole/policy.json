@@ -1,9 +1,9 @@
 {
  "AddTime": "2019-05-06 11:29:35",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"cmqqueue:CreateQueue\",\"cmqqueue:ListQueue\",\"cmqqueue:SendMessage\",\"cos:PutBucket\",\"cos:PutObject\",\"cos:GetService\",\"kms:GetServiceStatus\",\"kms:CreateKey\",\"kms:ListKeyDetail\",\"cos:ListParts\",\"cos:PostObject\",\"cos:PutObject*\",\"cos:InitiateMultipartUpload\",\"cos:UploadPart\",\"cos:UploadPartCopy\",\"cos:CompleteMultipartUpload\",\"cos:AbortMultipartUpload\",\"cos:ListMultipartUploads\",\"cls:pushLog\",\"eb:PutCloudEvents\",\"cls:DescribeTopics\",\"organization:DescribeOrganization\",\"cos:HeadBucket\",\"ckafka:ListRoute\",\"ckafka:AddRoute\",\"ckafka:DeleteRoute\",\"ckafka:DescribeInstanceAttributes\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cmqqueue:CreateQueue\",\"cmqqueue:ListQueue\",\"cmqqueue:SendMessage\",\"cos:PutBucket\",\"cos:PutObject\",\"cos:GetService\",\"kms:GetServiceStatus\",\"kms:CreateKey\",\"kms:ListKeyDetail\",\"cos:ListParts\",\"cos:PostObject\",\"cos:PutObject*\",\"cos:InitiateMultipartUpload\",\"cos:UploadPart\",\"cos:UploadPartCopy\",\"cos:CompleteMultipartUpload\",\"cos:AbortMultipartUpload\",\"cos:ListMultipartUploads\",\"cls:pushLog\",\"eb:PutCloudEvents\",\"cls:DescribeTopics\",\"organization:DescribeOrganization\",\"cos:HeadBucket\",\"ckafka:ListRoute\",\"ckafka:AddRoute\",\"ckafka:DeleteRoute\",\"ckafka:DescribeInstanceAttributes\",\"ckafka:DescribeTopicAttributes\",\"ckafka:CreateRoute\",\"ckafka:DescribeRoute\",\"ckafka:AuthorizeToken\",\"ckafka:CreateToken\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAccessForCARole",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2024-03-12 15:43:10"
+ "UpdateTime": "2024-11-14 21:33:34"
 }

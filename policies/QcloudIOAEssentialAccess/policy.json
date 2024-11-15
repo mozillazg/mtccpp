@@ -1,0 +1,9 @@
+{
+ "AddTime": "2024-11-14 21:57:56",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ioa:DescribeMgrDomain\",\"ioa:DescribeAmAuth\",\"ioa:DescribeLicense\",\"ioa:DescribeTableColumnSetting\",\"ioa:DescribeAdminMenu\",\"ioa:DescribeTenantlessConfig\",\"ioa:CheckDLPAlarmRule\",\"ioa:DescribeEncryptKey\",\"ioa:CheckDLPAlarmLog\",\"ioa:DescribeRootAccountGroup\",\"ioa:ModifyGuide\",\"ioa:DescribeGuide\",\"ioa:DescribeGlobalLicense\",\"ioa:DescribePublicEncryptKey\",\"ioa:DescribeAutoVirtualGroupRuleItems\",\"ioa:DescribePolicyType\",\"ioa:DescribeProfileField\",\"ioa:DescribeModuleConfigUsage\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudIOAEssentialAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2024-11-14 21:57:56"
+}

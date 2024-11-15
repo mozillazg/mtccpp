@@ -1,0 +1,9 @@
+{
+ "AddTime": "2024-11-14 21:55:26",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ioa:DescribePeripheralHardwareInfo\",\"ioa:DescribeDeviceCommonConfig\",\"ioa:DescribeProfileField\",\"ioa:DescribeGroupSyncSetting\"],\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"ioa:DescribeDeviceGroups\",\"ioa:DescribeDownloadDevices\",\"ioa:DescribeGroupDevices\",\"ioa:DescribeDeviceGroupTree\",\"ioa:DescribeDeviceChildGroups\",\"ioa:DescribeLdapGroup\",\"ioa:DescribeDeviceTags\",\"ioa:DescribeMoveInfo\",\"ioa:DescribeDeviceInfo\",\"ioa:DescribeHardwareLog\",\"ioa:DescribeDeviceGroup\",\"ioa:DescribeDownloadGroups\",\"ioa:DescribeHardwareChangeInfos\",\"ioa:DescribeDownloadHardwareChangeInfos\",\"ioa:DescribeModuleConfigUsage\",\"ioa:DescribeRootGroupId\",\"ioa:DescribeAutoVirtualGroupRule\",\"ioa:DescribeAutoVirtualGroupRuleItems\",\"ioa:DeleteAutoVirtualGroupRule\",\"ioa:DescribeDeviceVirtualGroups\",\"ioa:DescribeVirtualDevices\",\"ioa:DescribeCommonConfigs\",\"ioa:DescribeDevices\",\"ioa:DescribeDevice\"],\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudIOAReadOnlyDeviceManagement",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2024-11-14 21:55:26"
+}
