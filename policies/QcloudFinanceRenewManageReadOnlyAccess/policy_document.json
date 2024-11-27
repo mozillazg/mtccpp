@@ -13,7 +13,8 @@
     "finance:AsynchDownloadPreResourceByCond",
     "finance:DescribeMeasureResourceDetails",
     "finance:DescribeMeasureResourceProductList",
-    "finance:QueryResourceBySkuId"
+    "finance:QueryResourceBySkuId",
+    "finance:QueryPreResource"
    ],
    "effect": "allow",
    "resource": "*"

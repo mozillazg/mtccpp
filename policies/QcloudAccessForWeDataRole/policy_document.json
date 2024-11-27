@@ -204,7 +204,8 @@
     "dsgc:*",
     "emr:DescribeExportConfs",
     "emr:DescribeCloudInstanceService",
-    "emr:CheckCosAuth"
+    "emr:CheckCosAuth",
+    "finance:trade"
    ],
    "effect": "allow",
    "resource": [

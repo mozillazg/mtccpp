@@ -238,7 +238,17 @@
     "csip:DescribeCFWAssetStatistics",
     "vpc:AssignIpv6Addresses",
     "vpc:AssignIpv6CidrBlock",
-    "vpc:UnassignIpv6CidrBlock"
+    "vpc:UnassignIpv6CidrBlock",
+    "vpc:CreateTrafficMirror",
+    "vpc:StopTrafficMirror",
+    "vpc:StartTrafficMirror",
+    "vpc:DescribeTrafficMirrors",
+    "vpc:UpdateTrafficMirrorAllFilter",
+    "vpc:ResetTrafficMirrorSrcs",
+    "vpc:ResetTrafficMirrorFilter",
+    "vpc:ResetTrafficMirrorTarget",
+    "vpc:DeleteTrafficMirror",
+    "dc:DescribeInternetAddress"
    ],
    "effect": "allow",
    "resource": "*"

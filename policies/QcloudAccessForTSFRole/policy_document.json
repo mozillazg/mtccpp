@@ -39,7 +39,18 @@
    "tcr:CreateUserPersonal",
    "tcr:CreateApplicationTokenPersonal",
    "tcr:DescribeApplicationTokenPersonal",
-   "tcr:ModifyUserPasswordPersonal"
+   "tcr:ModifyUserPasswordPersonal",
+   "tse:DescribeSREInstances",
+   "tse:DescribeGovernanceNamespaces",
+   "apm:DescribeApmInstances",
+   "apm:DescribeApmDefaultInstance",
+   "apm:DescribeMetricLineData",
+   "apm:DescribeTagValues",
+   "apm:DescribeSpanTagList",
+   "apm:DescribeServiceOverview",
+   "apm:DescribeApmAgent",
+   "apm:ModifyInstanceAssociation",
+   "apm:ModifyApmDefaultInstance"
   ],
   "effect": "allow",
   "resource": "*"

@@ -128,7 +128,10 @@
     "vpc:DescribeServiceGroups",
     "vpc:DescribeService",
     "cvm:CreateSnapshot",
-    "cvm:ApplySnapshot"
+    "cvm:ApplySnapshot",
+    "tke:DescribeClusterStaticInstaller",
+    "tke:DescribeOSImages",
+    "tke:DescribeVersions"
    ],
    "effect": "allow",
    "resource": "*"
