@@ -133,7 +133,9 @@
     "ssl:DescribeCertificates",
     "ssl:CheckCertificateChain",
     "ssl:DeleteCertificate",
-    "ssl:DescribeDeleteCertificatesTaskResult"
+    "ssl:DescribeDeleteCertificatesTaskResult",
+    "tke:DescribeClusters",
+    "tke:DescribeClusterInstances"
    ],
    "effect": "allow",
    "resource": "*"
