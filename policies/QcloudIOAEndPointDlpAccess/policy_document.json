@@ -4,7 +4,22 @@
    "action": [
     "ioa:DescribeBackendPolicyTemplate",
     "ioa:TestDLPApproval",
-    "ioa:DescribeLocations"
+    "ioa:DescribeLocations",
+    "ioa:DescribeDLPLogDetail",
+    "ioa:DescribeDLPFileDownloadUrl",
+    "ioa:DescribeIconDownloadUrl",
+    "ioa:DescribeIconUploadUrl",
+    "ioa:DescribeEncryptKey",
+    "ioa:ConnectDLPStoreTest",
+    "ioa:DescribeDLPRiskPersonLevel",
+    "ioa:TestRegexpRule",
+    "ioa:CheckDLPObjectStoreQuote",
+    "ioa:DescribeDLPCosDnsLookupsList",
+    "ioa:DescribeDLPCosDnsLookupsListByScopeName",
+    "ioa:ModifyDLPCosDnsLookups",
+    "ioa:CheckDLPCosDnsLookupsQuote",
+    "ioa:CreateDLPCosDnsLookups",
+    "ioa:DeleteDLPCosDnsLookups"
    ],
    "effect": "allow",
    "resource": "*"
@@ -12,9 +27,7 @@
   {
    "action": [
     "ioa:DescribeTaskInformation",
-    "ioa:CheckDLPObjectStoreQuote",
     "ioa:CleanDLPObjectStoreSpace",
-    "ioa:ConnectDLPStoreTest",
     "ioa:CreateBackendPolicy",
     "ioa:CreateCustomChannel",
     "ioa:CreateDataCategory",
@@ -74,7 +87,6 @@
     "ioa:DescribeDLPDataLevel",
     "ioa:DescribeDLPFileControlChannel",
     "ioa:DescribeDLPFileDataLevel",
-    "ioa:DescribeDLPFileDownloadUrl",
     "ioa:DescribeDLPFileLineChart",
     "ioa:DescribeDLPFileRootType",
     "ioa:DescribeDLPFileType",
@@ -83,7 +95,6 @@
     "ioa:DescribeDLPFileTypeOverview",
     "ioa:DescribeDLPInterceptTimeOutChannels",
     "ioa:DescribeDLPLog",
-    "ioa:DescribeDLPLogDetail",
     "ioa:DescribeDLPObjectStoreList",
     "ioa:DescribeDLPObjectStorePolicy",
     "ioa:DescribeDLPPolicyContent",
@@ -92,16 +103,12 @@
     "ioa:DescribeDLPPolicyScope",
     "ioa:DescribeDLPRiskPersonDashboard",
     "ioa:DescribeDLPRiskPersonInformation",
-    "ioa:DescribeDLPRiskPersonLevel",
     "ioa:DescribeDLPRiskPersonList",
     "ioa:DescribeDLPRuleOverview",
     "ioa:DescribeDLPSendChannelAnalyse",
     "ioa:DescribeDLPSendFileAnalyse",
     "ioa:DescribeDLPSendFileTrendAnalyse",
     "ioa:DescribeDLPStoreConfig",
-    "ioa:DescribeEncryptKey",
-    "ioa:DescribeIconDownloadUrl",
-    "ioa:DescribeIconUploadUrl",
     "ioa:DescribeInternalDataLibrary",
     "ioa:DescribeLogDownloadURLDLPAlarmLog",
     "ioa:DescribeThirdpartyAuthUrl",
@@ -133,9 +140,7 @@
     "ioa:ModifyDLPPolicySeq",
     "ioa:ModifyDLPRiskPersonLevel",
     "ioa:ModifyDLPRiskStatus",
-    "ioa:ModifyTaskStatus",
-    "ioa:TestDLPApproval",
-    "ioa:TestRegexpRule"
+    "ioa:ModifyTaskStatus"
    ],
    "effect": "allow",
    "resource": "*"

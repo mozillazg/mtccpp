@@ -14,8 +14,6 @@
     "cls:getTopic",
     "cls:agentHeartBeat",
     "cls:getConfig",
-    "ccs:DescribeCluster",
-    "ccs:DescribeClusterInstances",
     "vpc:DescribeSubnet",
     "vpc:DescribeSubnetEx",
     "vpc:DescribeCcnAttachedInstances",

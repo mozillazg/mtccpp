@@ -1,0 +1,41 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:ExitLiveMigrateInstance",
+    "cvm:LiveMigrateInstance",
+    "cvm:ModifyInstancesVpcAttribute",
+    "cvm:LiveMigrateInstance",
+    "cvm:ExitLiveMigrateInstance",
+    "cvm:DescribeInstances",
+    "cvm:DescribeInstanceConfigInfos",
+    "cvm:RunInstances",
+    "cvm:TerminateInstances",
+    "cvm:CreateImage",
+    "cvm:DescribeImages",
+    "cvm:AssociateSecurityGroups",
+    "cvm:DisassociateSecurityGroups",
+    "cvm:CreateDisks",
+    "cvm:AttachDisks",
+    "cvm:DetachDisks",
+    "cvm:DescribeDisks",
+    "cvm:TerminateDisks",
+    "vpc:CreateSecurityGroupWithPolicies",
+    "vpc:DescribeAddressTemplates",
+    "vpc:DescribeServiceTemplates",
+    "vpc:DescribeAddressTemplateGroups",
+    "vpc:DescribeServiceTemplateGroups",
+    "vpc:DescribeVpcs",
+    "vpc:CreateVpc",
+    "vpc:DescribeSubnets",
+    "vpc:CreateSubnet",
+    "vpc:DescribeVpcLimits",
+    "vpc:DescribeSecurityGroupPolicies",
+    "finance:DescribeAccountBalance"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

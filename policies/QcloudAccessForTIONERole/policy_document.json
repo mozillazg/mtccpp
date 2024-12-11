@@ -120,7 +120,9 @@
     "cvm:ImportKeyPair",
     "cvm:ModifyKeyPairAttribute",
     "cvm:CreateKeyPair",
-    "cvm:DescribeKeyPairs"
+    "cvm:DescribeKeyPairs",
+    "tcr:PullRepositoryPersonal",
+    "goosefs:DeleteClusterNodes"
    ],
    "effect": "allow",
    "resource": "*"

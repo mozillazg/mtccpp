@@ -1689,7 +1689,7 @@
   "PolicyName": "QcloudAccessForEMRRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-11-26 21:56:59"
+  "UpdateTime": "2024-12-10 21:02:56"
  },
  {
   "AddTime": "2018-09-03 11:29:08",
@@ -2001,7 +2001,7 @@
   "PolicyName": "QcloudAccessForTKERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-12-03 21:40:49"
+  "UpdateTime": "2024-12-10 21:02:57"
  },
  {
   "AddTime": "2018-12-17 21:19:39",
@@ -2145,7 +2145,7 @@
   "PolicyName": "QcloudAccessForTIONERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-07-25 21:37:13"
+  "UpdateTime": "2024-12-10 21:02:58"
  },
  {
   "AddTime": "2019-02-18 10:24:09",
@@ -11337,7 +11337,7 @@
   "PolicyName": "QcloudIOAEndPointDlpAccess",
   "ServiceType": "ioa",
   "Type": 2,
-  "UpdateTime": "2024-11-21 22:37:31"
+  "UpdateTime": "2024-12-10 21:03:04"
  },
  {
   "AddTime": "2024-11-27 17:51:25",
@@ -11374,5 +11374,29 @@
   "ServiceType": "cms",
   "Type": 2,
   "UpdateTime": "2024-12-04 15:57:53"
+ },
+ {
+  "AddTime": "2024-12-10 21:02:55",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 227763266,
+  "PolicyName": "QcloudAccessForCLSRoleInSSL",
+  "ServiceType": "cls",
+  "Type": 2,
+  "UpdateTime": "2024-12-10 21:02:55"
+ },
+ {
+  "AddTime": "2024-12-10 21:37:34",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 227764880,
+  "PolicyName": "QcloudAccessForCSMLinkedRoleInLiveMigrate",
+  "ServiceType": "csm",
+  "Type": 2,
+  "UpdateTime": "2024-12-10 21:37:34"
  }
 ]

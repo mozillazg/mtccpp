@@ -131,7 +131,11 @@
     "cvm:ApplySnapshot",
     "tke:DescribeClusterStaticInstaller",
     "tke:DescribeOSImages",
-    "tke:DescribeVersions"
+    "tke:DescribeVersions",
+    "chdfs:DescribeFileSystems",
+    "chdfs:DescribeMountPoints",
+    "chdfs:AssociateAccessGroups",
+    "chdfs:DisassociateAccessGroups"
    ],
    "effect": "allow",
    "resource": "*"
