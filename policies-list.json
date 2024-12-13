@@ -11386,5 +11386,29 @@
   "ServiceType": "cls",
   "Type": 2,
   "UpdateTime": "2024-12-10 21:02:55"
+ },
+ {
+  "AddTime": "2024-12-12 14:45:07",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 227894282,
+  "PolicyName": "QcloudBDAIFullAccess",
+  "ServiceType": "bdai",
+  "Type": 2,
+  "UpdateTime": "2024-12-12 14:45:07"
+ },
+ {
+  "AddTime": "2024-12-12 14:45:08",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 227894285,
+  "PolicyName": "QcloudBDAIReadOnlyAccess",
+  "ServiceType": "bdai",
+  "Type": 2,
+  "UpdateTime": "2024-12-12 14:45:08"
  }
 ]
