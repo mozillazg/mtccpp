@@ -135,7 +135,8 @@
     "chdfs:DescribeFileSystems",
     "chdfs:DescribeMountPoints",
     "chdfs:AssociateAccessGroups",
-    "chdfs:DisassociateAccessGroups"
+    "chdfs:DisassociateAccessGroups",
+    "tag:DescribeResourcesByTags"
    ],
    "effect": "allow",
    "resource": "*"
