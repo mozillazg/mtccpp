@@ -17,7 +17,8 @@
     "lowcode:*",
     "cdn:PurgeUrlsCache",
     "cdn:TcbCheckCreate",
-    "cdn:TcbCheckResource"
+    "cdn:TcbCheckResource",
+    "tcbr:*"
    ],
    "effect": "allow",
    "resource": [

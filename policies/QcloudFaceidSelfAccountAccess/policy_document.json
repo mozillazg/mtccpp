@@ -59,7 +59,11 @@
     "faceid:GetDetectFacesRecordForConsole",
     "faceid:GetSdkRecordHistoryForConsole",
     "faceid:ConsoleSavePlusSDKProjDetail",
-    "faceid:ConsoleGetPlusSDKProjList"
+    "faceid:ConsoleGetPlusSDKProjList",
+    "faceid:DeleteEidApply",
+    "faceid:DeletePlusSDKProject",
+    "faceid:DeleteUserConf",
+    "faceid:DeleteWbProject"
    ],
    "condition": {
     "string_not_equal": {
