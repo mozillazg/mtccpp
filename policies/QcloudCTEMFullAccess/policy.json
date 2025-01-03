@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-01-02 15:20:59",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ctem:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudCTEMFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-01-02 15:20:59"
+}

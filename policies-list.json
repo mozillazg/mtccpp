@@ -3621,7 +3621,7 @@
   "PolicyName": "QcloudTTSFullAccess",
   "ServiceType": "tts",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2025-01-02 11:01:22"
  },
  {
   "AddTime": "2019-12-17 15:04:07",
@@ -11362,5 +11362,41 @@
   "ServiceType": "bdai",
   "Type": 2,
   "UpdateTime": "2024-12-12 14:45:08"
+ },
+ {
+  "AddTime": "2025-01-02 15:20:59",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 229544078,
+  "PolicyName": "QcloudCTEMFullAccess",
+  "ServiceType": "ctem",
+  "Type": 2,
+  "UpdateTime": "2025-01-02 15:20:59"
+ },
+ {
+  "AddTime": "2025-01-02 15:21:00",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 229544079,
+  "PolicyName": "QcloudCTEMReadOnlyAccess",
+  "ServiceType": "ctem",
+  "Type": 2,
+  "UpdateTime": "2025-01-02 15:21:00"
+ },
+ {
+  "AddTime": "2025-01-02 21:15:57",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 229566628,
+  "PolicyName": "QcloudTchousexConnectAccess",
+  "ServiceType": "tchousex",
+  "Type": 2,
+  "UpdateTime": "2025-01-02 21:15:57"
  }
 ]
