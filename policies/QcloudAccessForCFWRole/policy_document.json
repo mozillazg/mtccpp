@@ -248,7 +248,8 @@
     "vpc:ResetTrafficMirrorFilter",
     "vpc:ResetTrafficMirrorTarget",
     "vpc:DeleteTrafficMirror",
-    "dc:DescribeInternetAddress"
+    "dc:DescribeInternetAddress",
+    "gaap:DescribeProxies"
    ],
    "effect": "allow",
    "resource": "*"
