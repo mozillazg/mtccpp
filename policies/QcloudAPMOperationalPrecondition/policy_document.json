@@ -1,0 +1,23 @@
+{
+ "statement": [
+  {
+   "action": [
+    "apm:CheckRoleNameExist",
+    "apm:DescribeApmComboInfo",
+    "apm:DescribeApmDefaultInstance",
+    "apm:DescribeApmInfoByAppId",
+    "apm:DescribeApmRegions",
+    "apm:DescribeDBTagValues",
+    "apm:DescribeExistInstances",
+    "apm:DescribeResources",
+    "apm:DescribeTKEService",
+    "apm:*OPR*"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcsas:DescribeApplicationList",
+    "tcsas:DescribeApplicationConfigFile",
+    "tcsas:DescribeApplication"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

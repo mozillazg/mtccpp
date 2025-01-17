@@ -1,0 +1,17 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcsas:AddTeamMember",
+    "tcsas:DeleteTeamMember",
+    "tcsas:DescribeTeamMemberList",
+    "tcsas:ModifyTeamMember",
+    "tcsas:DescribeRoleList",
+    "tcsas:CreatePresetKey"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

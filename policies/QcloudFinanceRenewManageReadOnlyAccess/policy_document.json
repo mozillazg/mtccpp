@@ -14,7 +14,9 @@
     "finance:DescribeMeasureResourceDetails",
     "finance:DescribeMeasureResourceProductList",
     "finance:QueryResourceBySkuId",
-    "finance:QueryPreResource"
+    "finance:QueryPreResource",
+    "finance:DescribePreResourceRegionIds",
+    "finance:DescribePreResourceSubProducts"
    ],
    "effect": "allow",
    "resource": "*"

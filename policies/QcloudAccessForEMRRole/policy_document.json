@@ -136,7 +136,8 @@
     "chdfs:DescribeMountPoints",
     "chdfs:AssociateAccessGroups",
     "chdfs:DisassociateAccessGroups",
-    "tag:DescribeResourcesByTags"
+    "tag:DescribeResourcesByTags",
+    "tke:AddVpcCniSubnets"
    ],
    "effect": "allow",
    "resource": "*"

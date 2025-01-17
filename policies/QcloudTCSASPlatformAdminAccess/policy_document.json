@@ -1,0 +1,44 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcsas:DescribeMNPCategory",
+    "tcsas:DescribeMNPReleasedVersionHistory",
+    "tcsas:DescribeMNP",
+    "tcsas:DescribeMNPList",
+    "tcsas:DescribeMNPOfflinePackageURL",
+    "tcsas:DescribeMNPPreview",
+    "tcsas:DescribeMNPAllStageVersions",
+    "tcsas:DescribeMNPDomainACL",
+    "tcsas:DescribeMNPSensitiveAPIPermissionList",
+    "tcsas:DescribeMNPSensitiveAPIPermissionApproval",
+    "tcsas:DescribeApplicationList",
+    "tcsas:DescribeApplicationConfigFile",
+    "tcsas:DescribeApplication",
+    "tcsas:DescribeMNPApprovalList",
+    "tcsas:DescribeApplicationSensitiveAPIList",
+    "tcsas:DescribeMNPSensitiveAPIPermissionApprovalList",
+    "tcsas:DescribeTeamList",
+    "tcsas:CreateTeam",
+    "tcsas:DeleteTeam",
+    "tcsas:DescribeTeam",
+    "tcsas:ModifyTeam",
+    "tcsas:DescribeTeamMemberList",
+    "tcsas:DescribeRoleList",
+    "tcsas:CreateGlobalDomainACL",
+    "tcsas:ModifyGlobalDomain",
+    "tcsas:DeleteGlobalDomain",
+    "tcsas:CreateUser",
+    "tcsas:DescribeUserList",
+    "tcsas:DeleteUser",
+    "tcsas:DescribeUser",
+    "tcsas:ModifyUser",
+    "tcsas:CreatePresetKey",
+    "tcsas:DescribeTempSecret4UploadFile2Cos"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

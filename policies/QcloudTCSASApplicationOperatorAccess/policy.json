@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-01-16 23:08:14",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tcsas:DescribeApplicationList\",\"tcsas:DescribeApplicationConfigFile\",\"tcsas:DescribeApplication\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudTCSASApplicationOperatorAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-01-16 23:08:14"
+}

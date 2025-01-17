@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-01-16 21:38:26",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"apm:CheckRoleNameExist\",\"apm:DescribeApmComboInfo\",\"apm:DescribeApmDefaultInstance\",\"apm:DescribeApmInfoByAppId\",\"apm:DescribeApmRegions\",\"apm:DescribeDBTagValues\",\"apm:DescribeExistInstances\",\"apm:DescribeResources\",\"apm:DescribeTKEService\",\"apm:*OPR*\"],\"effect\":\"allow\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudAPMOperationalPrecondition",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-01-16 21:38:26"
+}

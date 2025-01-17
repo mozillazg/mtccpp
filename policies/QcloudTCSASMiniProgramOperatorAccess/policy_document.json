@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcsas:DescribeMNPCategory",
+    "tcsas:DescribeMNPReleasedVersionHistory",
+    "tcsas:DescribeMNP",
+    "tcsas:DescribeMNPList",
+    "tcsas:DescribeMNPOfflinePackageURL",
+    "tcsas:ConfigureMNPPreview",
+    "tcsas:DescribeMNPPreview",
+    "tcsas:DescribeMNPAllStageVersions"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

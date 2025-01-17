@@ -6,6 +6,8 @@
     "finance:QueryPreResourcesByCondManager",
     "finance:QueryPreResourceDetails",
     "finance:QueryPreResourceCntByProducts",
+    "finance:DescribePreResourceRegionIds",
+    "finance:DescribePreResourceSubProducts",
     "finance:QueryLatestExpireResourcesManager",
     "finance:QueryResourcesForRenewParam",
     "finance:QueryCbsResourcesByCvmInstanceIdsManager",
@@ -13,8 +15,7 @@
     "finance:QueryResourceBySkuId",
     "finance:QueryPreResource",
     "finance:SetRenewFlagManager",
-    "finance:ModifyRenewNoticeSetting",
-    "finance:SetAutoRenewTimeManager"
+    "finance:ModifyRenewNoticeSetting"
    ],
    "effect": "allow",
    "resource": "*"

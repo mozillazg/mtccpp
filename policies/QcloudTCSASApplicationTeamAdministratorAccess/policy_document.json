@@ -1,0 +1,33 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcsas:ModifyApplication",
+    "tcsas:DescribeApplicationList",
+    "tcsas:DescribeApplicationConfigFile",
+    "tcsas:DescribeApplication",
+    "tcsas:DeleteApplication",
+    "tcsas:CreateApplication",
+    "tcsas:ProcessMNPApproval",
+    "tcsas:ProcessMNPSensitiveAPIPermissionApproval",
+    "tcsas:DescribeMNPApprovalList",
+    "tcsas:DescribeApplicationSensitiveAPIList",
+    "tcsas:DescribeMNPSensitiveAPIPermissionApprovalList",
+    "tcsas:DeleteApplicationSensitiveAPI",
+    "tcsas:CreateApplicationSensitiveAPI",
+    "tcsas:DescribeTeamList",
+    "tcsas:DescribeTeam",
+    "tcsas:ModifyTeam",
+    "tcsas:AddTeamMember",
+    "tcsas:DeleteTeamMember",
+    "tcsas:DescribeTeamMemberList",
+    "tcsas:ModifyTeamMember",
+    "tcsas:DescribeRoleList",
+    "tcsas:CreatePresetKey"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

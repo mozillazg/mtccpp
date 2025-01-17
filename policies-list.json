@@ -1689,7 +1689,7 @@
   "PolicyName": "QcloudAccessForEMRRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-12-17 21:29:14"
+  "UpdateTime": "2025-01-16 22:06:37"
  },
  {
   "AddTime": "2018-09-03 11:29:08",
@@ -6969,7 +6969,7 @@
   "PolicyName": "QcloudFinanceRenewManageFullAccess",
   "ServiceType": "finance",
   "Type": 2,
-  "UpdateTime": "2024-11-26 22:01:44"
+  "UpdateTime": "2025-01-16 22:26:12"
  },
  {
   "AddTime": "2021-08-10 16:32:46",
@@ -6981,7 +6981,7 @@
   "PolicyName": "QcloudFinanceRenewManageReadOnlyAccess",
   "ServiceType": "finance",
   "Type": 2,
-  "UpdateTime": "2024-11-26 22:00:14"
+  "UpdateTime": "2025-01-16 21:49:11"
  },
  {
   "AddTime": "2021-08-13 10:53:10",
@@ -11362,5 +11362,161 @@
   "ServiceType": "tchousex",
   "Type": 2,
   "UpdateTime": "2025-01-02 21:15:57"
+ },
+ {
+  "AddTime": "2025-01-16 21:38:26",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230569269,
+  "PolicyName": "QcloudAPMOperationalPrecondition",
+  "ServiceType": "apm",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 21:38:26"
+ },
+ {
+  "AddTime": "2025-01-16 22:35:45",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230571704,
+  "PolicyName": "QcloudTCSASPlatformAdminAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 22:35:45"
+ },
+ {
+  "AddTime": "2025-01-16 22:38:18",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230571739,
+  "PolicyName": "QcloudTCSASApplicationMemberManagerAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 22:38:18"
+ },
+ {
+  "AddTime": "2025-01-16 22:42:46",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230571779,
+  "PolicyName": "QcloudTCSASApplicationSeniorDeveloperAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 22:42:46"
+ },
+ {
+  "AddTime": "2025-01-16 22:50:53",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230572262,
+  "PolicyName": "QcloudTCSASApplicationDeveloperAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 22:50:53"
+ },
+ {
+  "AddTime": "2025-01-16 22:57:06",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230572296,
+  "PolicyName": "QcloudTCSASApplicationReviewStaffAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 22:57:06"
+ },
+ {
+  "AddTime": "2025-01-16 23:00:11",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230572352,
+  "PolicyName": "QcloudTCSASMiniProgramMemberManagerAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 23:00:11"
+ },
+ {
+  "AddTime": "2025-01-16 23:01:10",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230572462,
+  "PolicyName": "QcloudTCSASMiniProgramOperatorAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 23:01:10"
+ },
+ {
+  "AddTime": "2025-01-16 23:02:35",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230572593,
+  "PolicyName": "QcloudTCSASMiniProgramSubmissionStaffAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 23:02:35"
+ },
+ {
+  "AddTime": "2025-01-16 23:04:47",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230572758,
+  "PolicyName": "QcloudTCSASMiniProgramAdministratorAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 23:04:47"
+ },
+ {
+  "AddTime": "2025-01-16 23:06:22",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230572776,
+  "PolicyName": "QcloudTCSASMiniProgramDeveloperAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 23:06:22"
+ },
+ {
+  "AddTime": "2025-01-16 23:07:32",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230572795,
+  "PolicyName": "QcloudTCSASApplicationTeamAdministratorAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 23:07:32"
+ },
+ {
+  "AddTime": "2025-01-16 23:08:14",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230572804,
+  "PolicyName": "QcloudTCSASApplicationOperatorAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 23:08:14"
  }
 ]

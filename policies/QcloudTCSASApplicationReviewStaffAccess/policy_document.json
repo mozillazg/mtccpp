@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcsas:DescribeApplicationList",
+    "tcsas:DescribeApplicationConfigFile",
+    "tcsas:DescribeApplication",
+    "tcsas:ProcessMNPApproval",
+    "tcsas:ProcessMNPSensitiveAPIPermissionApproval",
+    "tcsas:DescribeMNPApprovalList",
+    "tcsas:DescribeApplicationSensitiveAPIList",
+    "tcsas:DescribeMNPSensitiveAPIPermissionApprovalList"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
