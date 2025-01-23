@@ -11484,6 +11484,18 @@
   "UpdateTime": "2025-01-16 23:04:47"
  },
  {
+  "AddTime": "2025-01-16 23:05:36",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 230572763,
+  "PolicyName": "QcloudTCSASMiniProgramSeniorDeveloperAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2025-01-16 23:05:36"
+ },
+ {
   "AddTime": "2025-01-16 23:06:22",
   "CreateMode": 2,
   "Deactived": 0,
