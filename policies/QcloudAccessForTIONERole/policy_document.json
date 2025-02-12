@@ -22,7 +22,6 @@
     "vpc:DescribeSubnet",
     "vpc:DescribeSubnetEx",
     "vpc:DescribeVpcEx",
-    "ccr:pull",
     "cls:listLogset",
     "cls:listTopic",
     "cls:getTopic",

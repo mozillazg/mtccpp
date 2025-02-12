@@ -74,7 +74,9 @@
     "ioa:ExportReportVulDevicesAgg",
     "ioa:ExportReportVul",
     "ioa:ListReportVulDownloadUrl",
-    "ioa:CreateEDRRespondTask"
+    "ioa:CreateEDRRespondTask",
+    "ioa:CreateHoneypotBindBait",
+    "ioa:CreateHoneypotDeliverFakeIp"
    ],
    "effect": "allow",
    "resource": "*"

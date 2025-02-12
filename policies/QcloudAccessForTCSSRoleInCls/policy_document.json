@@ -5,7 +5,12 @@
     "cls:DescribeTopics",
     "cls:DescribeIndex",
     "cls:UploadLog",
-    "cls:DescribeLogsets"
+    "cls:DescribeLogsets",
+    "cls:CreateCloudProductLogTask",
+    "cls:DeleteCloudProductLogTask",
+    "cls:ModifyCloudProductLogTask",
+    "cls:DescribeCloudProductLogTasks",
+    "cls:pushLog"
    ],
    "effect": "allow",
    "resource": "*"

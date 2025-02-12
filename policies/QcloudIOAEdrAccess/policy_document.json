@@ -143,7 +143,15 @@
     "ioa:ModifyDisposalReportVulDevices",
     "ioa:ExportReportVulDevicesAgg",
     "ioa:ExportReportVul",
-    "ioa:ListReportVulDownloadUrl"
+    "ioa:ListReportVulDownloadUrl",
+    "ioa:CreateHoneypotBindBait",
+    "ioa:CreateHoneypotDeliverFakeIp",
+    "ioa:CreateEDRGraphNodeIntelligenceTask",
+    "ioa:DescribeEDRGraphNodeIntelligenceTask",
+    "ioa:CreateEDRGraphNodeSandboxTask",
+    "ioa:DescribeEDRGraphNodeSandboxTask",
+    "ioa:DescribeTerminalLogsDSLToSQL",
+    "ioa:ModifyCancelEDRRespondTask"
    ],
    "effect": "allow",
    "resource": "*"
