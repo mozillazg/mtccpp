@@ -3,7 +3,17 @@
   {
    "action": [
     "es:Describe*",
-    "es:QueryRegionZone"
+    "es:Check*",
+    "es:Get*",
+    "es:Query*",
+    "es:Inquire*",
+    "es:List*",
+    "es:Download*",
+    "es:Search*",
+    "es:CountInstances",
+    "es:CountLogstashInstances",
+    "es:CountDataImport",
+    "es:CountCollectors"
    ],
    "effect": "allow",
    "resource": [

@@ -204,7 +204,9 @@
     "dsgc:*",
     "emr:DescribeExportConfs",
     "emr:DescribeCloudInstanceService",
-    "emr:CheckCosAuth"
+    "emr:CheckCosAuth",
+    "emr:DescribeRegionAndZoneSaleInfo",
+    "cdwpg:DescribeRegionZone"
    ],
    "effect": "allow",
    "resource": [

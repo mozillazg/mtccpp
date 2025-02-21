@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ckafka:DescribeInstancesDetail",
+    "ckafka:DescribeRoute",
+    "ckafka:DescribeTopicAttributes"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

@@ -1569,7 +1569,7 @@
   "PolicyName": "QcloudElasticsearchServiceReadOnlyAccess",
   "ServiceType": "es",
   "Type": 2,
-  "UpdateTime": "2024-08-01 21:13:52"
+  "UpdateTime": "2025-02-20 21:11:43"
  },
  {
   "AddTime": "2018-06-12 11:23:02",
@@ -4425,7 +4425,7 @@
   "PolicyName": "QcloudAccessForWeDataRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-12-03 21:40:51"
+  "UpdateTime": "2025-02-20 21:11:44"
  },
  {
   "AddTime": "2020-06-01 10:38:07",
@@ -11530,5 +11530,17 @@
   "ServiceType": "tcsas",
   "Type": 2,
   "UpdateTime": "2025-01-16 23:08:14"
+ },
+ {
+  "AddTime": "2025-02-19 17:54:21",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 232970674,
+  "PolicyName": "QcloudAccessForCOSNotifyRoleInCkafka",
+  "ServiceType": "cos",
+  "Type": 2,
+  "UpdateTime": "2025-02-19 17:54:21"
  }
 ]
