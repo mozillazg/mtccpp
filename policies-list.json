@@ -11542,5 +11542,29 @@
   "ServiceType": "cos",
   "Type": 2,
   "UpdateTime": "2025-02-19 17:54:21"
+ },
+ {
+  "AddTime": "2025-02-20 10:40:05",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 233014282,
+  "PolicyName": "QcloudEVTFullAccess",
+  "ServiceType": "evt",
+  "Type": 2,
+  "UpdateTime": "2025-02-20 10:40:05"
+ },
+ {
+  "AddTime": "2025-02-20 10:40:06",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 233014283,
+  "PolicyName": "QcloudEVTReadOnlyAccess",
+  "ServiceType": "evt",
+  "Type": 2,
+  "UpdateTime": "2025-02-20 10:40:06"
  }
 ]

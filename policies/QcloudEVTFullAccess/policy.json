@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-02-20 10:40:05",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"evt:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudEVTFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-02-20 10:40:05"
+}
