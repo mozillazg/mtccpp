@@ -10,7 +10,7 @@
     "cos:GetBucketObjectVersions",
     "cos:OptionsObject",
     "cos:ListParts",
-    "cos:DeleteObject",
+    "cos:DeleteObject*",
     "cos:PostObject",
     "cos:PostObjectRestore",
     "cos:PutObject*",

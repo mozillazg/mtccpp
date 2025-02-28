@@ -2,7 +2,8 @@
  "statement": [
   {
    "action": [
-    "cos:PutBucket*"
+    "cos:PutBucket*",
+    "cos:PostBucketInventory"
    ],
    "effect": "allow",
    "resource": "*"

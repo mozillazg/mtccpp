@@ -24,7 +24,8 @@
     "cam:GetReceiverInfo",
     "cam:GetCustomMfaCallback",
     "cam:GetMFADeviceColl",
-    "cam:DescribeSafeAuthFlagColl"
+    "cam:DescribeSafeAuthFlagColl",
+    "cam:DescribeSubAccountDefaultMFASetting"
    ],
    "effect": "allow",
    "resource": "*"
