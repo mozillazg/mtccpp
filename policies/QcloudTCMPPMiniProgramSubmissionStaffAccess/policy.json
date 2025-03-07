@@ -1,9 +1,9 @@
 {
  "AddTime": "2024-08-08 22:06:19",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"tcmpp:DescribeMNPType\",\"tcmpp:DescribeMNPDetail\",\"tcmpp:DescribeOnlineVersion\",\"tcmpp:DescribeMNPManagerDetail\",\"tcmpp:DescribeMNPManagerList\",\"tcmpp:DescribeOfflineMNPPackage\",\"tcmpp:ModifyMNPVersionPreview\",\"tcmpp:DescribeMNPVersionPreview\",\"tcmpp:DescribeMNPBoard\",\"tcmpp:CreatePlatformAudit\",\"tcmpp:CreateOnlineApply\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tcsas:DescribeMNPCategory\",\"tcsas:DescribeMNPReleasedVersionHistory\",\"tcsas:DescribeMNP\",\"tcsas:DescribeMNPList\",\"tcsas:DescribeMNPOfflinePackageURL\",\"tcsas:ConfigureMNPPreview\",\"tcsas:DescribeMNPPreview\",\"tcsas:DescribeMNPAllStageVersions\",\"tcsas:CreateMNPApproval\",\"tcsas:ReleaseMNPVersion\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTCMPPMiniProgramSubmissionStaffAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2024-08-08 22:06:19"
+ "UpdateTime": "2025-03-06 21:44:54"
 }

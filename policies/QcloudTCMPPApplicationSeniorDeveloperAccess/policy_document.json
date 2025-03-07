@@ -2,19 +2,17 @@
  "statement": [
   {
    "action": [
-    "tcmpp:ModifyApplicationAppUrl",
-    "tcmpp:ModifyApplicationAppKey",
-    "tcmpp:ModifyApplication",
-    "tcmpp:DescribeApplicationList",
-    "tcmpp:DescribeApplicationConfig",
-    "tcmpp:DescribeApplication",
-    "tcmpp:DeleteApplication",
-    "tcmpp:CreateApplication",
-    "tcmpp:DescribeSensitiveAPIList",
-    "tcmpp:DescribeSensitiveAPIAuditList",
-    "tcmpp:DeleteSensitiveAPI",
-    "tcmpp:CreateSensitiveAPI",
-    "tcmpp:DescribeTempSecret4UploadFile2Cos"
+    "tcsas:ModifyApplication",
+    "tcsas:DescribeApplicationList",
+    "tcsas:DescribeApplicationConfigFile",
+    "tcsas:DescribeApplication",
+    "tcsas:DeleteApplication",
+    "tcsas:CreateApplication",
+    "tcsas:DescribeApplicationSensitiveAPIList",
+    "tcsas:DescribeMNPSensitiveAPIPermissionApprovalList",
+    "tcsas:DeleteApplicationSensitiveAPI",
+    "tcsas:CreateApplicationSensitiveAPI",
+    "tcsas:DescribeTempSecret4UploadFile2Cos"
    ],
    "effect": "allow",
    "resource": "*"

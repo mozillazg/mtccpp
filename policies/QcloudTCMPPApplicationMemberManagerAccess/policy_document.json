@@ -2,14 +2,12 @@
  "statement": [
   {
    "action": [
-    "tcmpp:CreateTeamMember",
-    "tcmpp:AddTeamMember",
-    "tcmpp:DeleteTeamMember",
-    "tcmpp:DescribeTeamMemberList",
-    "tcmpp:ModifyTeamMember",
-    "tcmpp:DescribeRoleList",
-    "tcmpp:DescribeRoleDetail",
-    "tcmpp:CreatePresetKey"
+    "tcsas:AddTeamMember",
+    "tcsas:DeleteTeamMember",
+    "tcsas:DescribeTeamMemberList",
+    "tcsas:ModifyTeamMember",
+    "tcsas:DescribeRoleList",
+    "tcsas:CreatePresetKey"
    ],
    "effect": "allow",
    "resource": "*"

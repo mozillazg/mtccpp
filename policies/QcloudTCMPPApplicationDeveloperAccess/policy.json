@@ -1,9 +1,9 @@
 {
  "AddTime": "2024-08-08 21:57:41",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"tcmpp:ModifyApplicationAppUrl\",\"tcmpp:ModifyApplicationAppKey\",\"tcmpp:DescribeApplicationList\",\"tcmpp:DescribeApplicationConfig\",\"tcmpp:DescribeApplication\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tcsas:ModifyApplication\",\"tcsas:DescribeApplicationList\",\"tcsas:DescribeApplicationConfigFile\",\"tcsas:DescribeApplication\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTCMPPApplicationDeveloperAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2024-08-08 21:57:41"
+ "UpdateTime": "2025-03-06 21:44:49"
 }

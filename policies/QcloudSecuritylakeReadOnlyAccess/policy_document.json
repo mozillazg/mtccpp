@@ -2,9 +2,13 @@
  "statement": [
   {
    "action": [
-    "lkeap:*",
-    "lkeap:ChatCompletions"
+    "securitylake:*"
    ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
    "effect": "allow",
    "resource": "*"
   }

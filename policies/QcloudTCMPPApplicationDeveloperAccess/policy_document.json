@@ -2,11 +2,10 @@
  "statement": [
   {
    "action": [
-    "tcmpp:ModifyApplicationAppUrl",
-    "tcmpp:ModifyApplicationAppKey",
-    "tcmpp:DescribeApplicationList",
-    "tcmpp:DescribeApplicationConfig",
-    "tcmpp:DescribeApplication"
+    "tcsas:ModifyApplication",
+    "tcsas:DescribeApplicationList",
+    "tcsas:DescribeApplicationConfigFile",
+    "tcsas:DescribeApplication"
    ],
    "effect": "allow",
    "resource": "*"

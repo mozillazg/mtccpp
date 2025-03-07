@@ -2,15 +2,14 @@
  "statement": [
   {
    "action": [
-    "tcmpp:DescribeMNPType",
-    "tcmpp:DescribeMNPDetail",
-    "tcmpp:DescribeOnlineVersion",
-    "tcmpp:DescribeMNPManagerDetail",
-    "tcmpp:DescribeMNPManagerList",
-    "tcmpp:DescribeOfflineMNPPackage",
-    "tcmpp:ModifyMNPVersionPreview",
-    "tcmpp:DescribeMNPVersionPreview",
-    "tcmpp:DescribeMNPBoard"
+    "tcsas:DescribeMNPCategory",
+    "tcsas:DescribeMNPReleasedVersionHistory",
+    "tcsas:DescribeMNP",
+    "tcsas:DescribeMNPList",
+    "tcsas:DescribeMNPOfflinePackageURL",
+    "tcsas:ConfigureMNPPreview",
+    "tcsas:DescribeMNPPreview",
+    "tcsas:DescribeMNPAllStageVersions"
    ],
    "effect": "allow",
    "resource": "*"

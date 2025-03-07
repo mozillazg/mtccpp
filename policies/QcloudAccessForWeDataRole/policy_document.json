@@ -206,7 +206,20 @@
     "emr:DescribeCloudInstanceService",
     "emr:CheckCosAuth",
     "emr:DescribeRegionAndZoneSaleInfo",
-    "cdwpg:DescribeRegionZone"
+    "cdwpg:DescribeRegionZone",
+    "emr:DescribeUserTempSecret",
+    "emr:DescribeUserSecret",
+    "emr:DescribeUserManagerUserList",
+    "emr:AddUsersAgainForUserManager",
+    "emr:SyncCamUsers",
+    "ssm:GetRegions",
+    "ssm:GetSecretValue",
+    "ssm:ListSecrets",
+    "ssm:ListSecretVersionIds",
+    "wedata:DescribeAllTask",
+    "wedata:DescribeDsFolderTree",
+    "wedata:DescribeTaskVersionByScheduling",
+    "wedata:DescribeTenantProjects"
    ],
    "effect": "allow",
    "resource": [

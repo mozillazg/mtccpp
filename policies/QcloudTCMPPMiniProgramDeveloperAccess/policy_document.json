@@ -2,22 +2,20 @@
  "statement": [
   {
    "action": [
-    "tcmpp:DescribeMNPType",
-    "tcmpp:DescribeMNPDetail",
-    "tcmpp:DescribeOnlineVersion",
-    "tcmpp:CreateConsoleMNPVersionCompileTask",
-    "tcmpp:DescribeMNPManagerDetail",
-    "tcmpp:DescribeMNPManagerList",
-    "tcmpp:DescribeOfflineMNPPackage",
-    "tcmpp:ModifyMNPVersionPreview",
-    "tcmpp:DescribeMNPVersionPreview",
-    "tcmpp:DescribeMNPBoard",
-    "tcmpp:CheckGlobalDomain",
-    "tcmpp:DescribeDomainInfo",
-    "tcmpp:DescribeSensitiveApiAuthList",
-    "tcmpp:DescribeSensitiveApiApplyDetail",
-    "tcmpp:DescribeConsoleMNPVersionCompileTask",
-    "tcmpp:DescribeTempSecret4UploadFile2Cos"
+    "tcsas:DescribeMNPCategory",
+    "tcsas:DescribeMNPReleasedVersionHistory",
+    "tcsas:CreateMNPVersion",
+    "tcsas:DescribeMNP",
+    "tcsas:DescribeMNPList",
+    "tcsas:DescribeMNPOfflinePackageURL",
+    "tcsas:ConfigureMNPPreview",
+    "tcsas:DescribeMNPPreview",
+    "tcsas:DescribeMNPAllStageVersions",
+    "tcsas:DescribeMNPDomainACL",
+    "tcsas:DescribeMNPSensitiveAPIPermissionList",
+    "tcsas:DescribeMNPSensitiveAPIPermissionApproval",
+    "tcsas:DescribeMNPVersion",
+    "tcsas:DescribeTempSecret4UploadFile2Cos"
    ],
    "effect": "allow",
    "resource": "*"

@@ -2,8 +2,7 @@
  "statement": [
   {
    "action": [
-    "lkeap:*",
-    "lkeap:ChatCompletions"
+    "securitylake:*"
    ],
    "effect": "allow",
    "resource": "*"

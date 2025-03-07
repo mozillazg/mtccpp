@@ -2,14 +2,14 @@
  "statement": [
   {
    "action": [
-    "tcmpp:DescribeApplicationList",
-    "tcmpp:DescribeApplicationConfig",
-    "tcmpp:DescribeApplication",
-    "tcmpp:ModifyPlatformAuditStatus",
-    "tcmpp:ModifySensitiveAPIAuditStatus",
-    "tcmpp:DescribeApplicationMNPVersionAuditList",
-    "tcmpp:DescribeSensitiveAPIList",
-    "tcmpp:DescribeSensitiveAPIAuditList"
+    "tcsas:DescribeApplicationList",
+    "tcsas:DescribeApplicationConfigFile",
+    "tcsas:DescribeApplication",
+    "tcsas:ProcessMNPApproval",
+    "tcsas:ProcessMNPSensitiveAPIPermissionApproval",
+    "tcsas:DescribeMNPApprovalList",
+    "tcsas:DescribeApplicationSensitiveAPIList",
+    "tcsas:DescribeMNPSensitiveAPIPermissionApprovalList"
    ],
    "effect": "allow",
    "resource": "*"

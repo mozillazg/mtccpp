@@ -1,9 +1,9 @@
 {
  "AddTime": "2024-08-08 21:39:40",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"tcmpp:ModifyApplicationAppUrl\",\"tcmpp:ModifyApplicationAppKey\",\"tcmpp:ModifyApplication\",\"tcmpp:DescribeApplicationList\",\"tcmpp:DescribeApplicationConfig\",\"tcmpp:DescribeApplication\",\"tcmpp:DeleteApplication\",\"tcmpp:CreateApplication\",\"tcmpp:DescribeSensitiveAPIList\",\"tcmpp:DescribeSensitiveAPIAuditList\",\"tcmpp:DeleteSensitiveAPI\",\"tcmpp:CreateSensitiveAPI\",\"tcmpp:DescribeTempSecret4UploadFile2Cos\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tcsas:ModifyApplication\",\"tcsas:DescribeApplicationList\",\"tcsas:DescribeApplicationConfigFile\",\"tcsas:DescribeApplication\",\"tcsas:DeleteApplication\",\"tcsas:CreateApplication\",\"tcsas:DescribeApplicationSensitiveAPIList\",\"tcsas:DescribeMNPSensitiveAPIPermissionApprovalList\",\"tcsas:DeleteApplicationSensitiveAPI\",\"tcsas:CreateApplicationSensitiveAPI\",\"tcsas:DescribeTempSecret4UploadFile2Cos\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTCMPPApplicationSeniorDeveloperAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2024-08-08 21:39:40"
+ "UpdateTime": "2025-03-06 21:44:48"
 }

@@ -2,9 +2,9 @@
  "statement": [
   {
    "action": [
-    "tcmpp:DescribeApplicationList",
-    "tcmpp:DescribeApplicationConfig",
-    "tcmpp:DescribeApplication"
+    "tcsas:DescribeApplicationList",
+    "tcsas:DescribeApplicationConfigFile",
+    "tcsas:DescribeApplication"
    ],
    "effect": "allow",
    "resource": "*"

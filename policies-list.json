@@ -4425,7 +4425,7 @@
   "PolicyName": "QcloudAccessForWeDataRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2025-02-20 21:11:44"
+  "UpdateTime": "2025-03-06 21:44:42"
  },
  {
   "AddTime": "2020-06-01 10:38:07",
@@ -10665,7 +10665,7 @@
   "PolicyName": "QcloudTCMPPPlatformAdminAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2024-08-08 21:36:55"
+  "UpdateTime": "2025-03-06 21:44:47"
  },
  {
   "AddTime": "2024-08-08 21:38:05",
@@ -10677,7 +10677,7 @@
   "PolicyName": "QcloudTCMPPApplicationMemberManagerAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2024-08-08 21:38:05"
+  "UpdateTime": "2025-03-06 21:44:47"
  },
  {
   "AddTime": "2024-08-08 21:39:40",
@@ -10689,7 +10689,7 @@
   "PolicyName": "QcloudTCMPPApplicationSeniorDeveloperAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2024-08-08 21:39:40"
+  "UpdateTime": "2025-03-06 21:44:48"
  },
  {
   "AddTime": "2024-08-08 21:57:41",
@@ -10701,7 +10701,7 @@
   "PolicyName": "QcloudTCMPPApplicationDeveloperAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2024-08-08 21:57:41"
+  "UpdateTime": "2025-03-06 21:44:49"
  },
  {
   "AddTime": "2024-08-08 22:00:47",
@@ -10713,7 +10713,7 @@
   "PolicyName": "QcloudTCMPPApplicationOperatorAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2024-08-08 22:00:47"
+  "UpdateTime": "2025-03-06 21:44:50"
  },
  {
   "AddTime": "2024-08-08 22:02:23",
@@ -10725,7 +10725,7 @@
   "PolicyName": "QcloudTCMPPApplicationReviewStaffAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2024-08-08 22:02:23"
+  "UpdateTime": "2025-03-06 21:44:51"
  },
  {
   "AddTime": "2024-08-08 22:03:58",
@@ -10737,7 +10737,7 @@
   "PolicyName": "QcloudTCMPPMiniProgramMemberManagerAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2024-08-08 22:03:58"
+  "UpdateTime": "2025-03-06 21:44:52"
  },
  {
   "AddTime": "2024-08-08 22:04:46",
@@ -10749,7 +10749,7 @@
   "PolicyName": "QcloudTCMPPMiniProgramOperatorAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2024-08-08 22:04:46"
+  "UpdateTime": "2025-03-06 21:44:53"
  },
  {
   "AddTime": "2024-08-08 22:06:19",
@@ -10761,7 +10761,7 @@
   "PolicyName": "QcloudTCMPPMiniProgramSubmissionStaffAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2024-08-08 22:06:19"
+  "UpdateTime": "2025-03-06 21:44:54"
  },
  {
   "AddTime": "2024-08-08 22:07:33",
@@ -10773,7 +10773,7 @@
   "PolicyName": "QcloudTCMPPMiniProgramAdministratorAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2024-08-08 22:07:33"
+  "UpdateTime": "2025-03-06 21:44:55"
  },
  {
   "AddTime": "2024-08-08 22:08:42",
@@ -10785,7 +10785,7 @@
   "PolicyName": "QcloudTCMPPMiniProgramSeniorDeveloperAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2024-08-08 22:08:42"
+  "UpdateTime": "2025-03-06 21:44:55"
  },
  {
   "AddTime": "2024-08-08 22:09:41",
@@ -10797,7 +10797,7 @@
   "PolicyName": "QcloudTCMPPMiniProgramDeveloperAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2024-08-08 22:09:41"
+  "UpdateTime": "2025-03-06 21:44:56"
  },
  {
   "AddTime": "2024-08-08 22:10:40",
@@ -10809,7 +10809,7 @@
   "PolicyName": "QcloudTCMPPApplicationTeamAdministratorAccess",
   "ServiceType": "tcmpp",
   "Type": 2,
-  "UpdateTime": "2024-08-08 22:10:40"
+  "UpdateTime": "2025-03-06 21:44:57"
  },
  {
   "AddTime": "2024-08-08 22:12:52",
@@ -10893,7 +10893,7 @@
   "PolicyName": "QcloudLKEAPReadOnlyAccess",
   "ServiceType": "lkeap",
   "Type": 2,
-  "UpdateTime": "2024-09-10 21:53:42"
+  "UpdateTime": "2025-03-06 21:44:58"
  },
  {
   "AddTime": "2024-09-10 21:54:22",
@@ -11566,5 +11566,53 @@
   "ServiceType": "evt",
   "Type": 2,
   "UpdateTime": "2025-02-20 10:40:06"
+ },
+ {
+  "AddTime": "2025-02-27 11:42:13",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 233556419,
+  "PolicyName": "QcloudQidianFullAccess",
+  "ServiceType": "qidian",
+  "Type": 2,
+  "UpdateTime": "2025-02-27 11:42:13"
+ },
+ {
+  "AddTime": "2025-02-27 11:42:14",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 233556420,
+  "PolicyName": "QcloudQidianReadOnlyAccess",
+  "ServiceType": "qidian",
+  "Type": 2,
+  "UpdateTime": "2025-02-27 11:42:14"
+ },
+ {
+  "AddTime": "2025-03-04 17:14:12",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 234032978,
+  "PolicyName": "QcloudSecuritylakeFullAccess",
+  "ServiceType": "securitylake",
+  "Type": 2,
+  "UpdateTime": "2025-03-04 17:14:12"
+ },
+ {
+  "AddTime": "2025-03-04 17:14:12",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 234032981,
+  "PolicyName": "QcloudSecuritylakeReadOnlyAccess",
+  "ServiceType": "securitylake",
+  "Type": 2,
+  "UpdateTime": "2025-03-04 17:14:12"
  }
 ]
