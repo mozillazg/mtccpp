@@ -1,0 +1,23 @@
+{
+ "statement": [
+  {
+   "action": [
+    "dlc:CheckLockMetaData",
+    "dlc:DescribeDMSDatabase",
+    "dlc:DescribeDMSPartitions",
+    "dlc:DescribeDMSTable",
+    "dlc:DescribeLakeFsWarehouseAccess",
+    "dlc:LockMetaData",
+    "dlc:UnlockMetaData",
+    "dlc:ReportHeartbeatMetaData",
+    "dlc:DescribeDMSTables",
+    "dlc:DescribeDatabases"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}
