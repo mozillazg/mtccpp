@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-02-27 11:26:04",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"quota:*\",\"organization:DescribeOrganization\",\"organization:DescribeOrganizationMembers\"],\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudQUOTAReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-03-12 11:23:27"
+}

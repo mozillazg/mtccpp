@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "quota:*",
+    "organization:DescribeOrganization",
+    "organization:DescribeOrganizationMembers"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

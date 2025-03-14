@@ -6045,7 +6045,7 @@
   "PolicyName": "QcloudAccessForTCSSRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2024-08-29 22:06:17"
+  "UpdateTime": "2025-03-13 21:17:36"
  },
  {
   "AddTime": "2021-03-09 09:44:55",
@@ -11544,6 +11544,30 @@
   "UpdateTime": "2025-02-20 10:40:06"
  },
  {
+  "AddTime": "2025-02-27 11:26:03",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 233555082,
+  "PolicyName": "QcloudQUOTAFullAccess",
+  "ServiceType": "quota",
+  "Type": 2,
+  "UpdateTime": "2025-03-12 11:23:26"
+ },
+ {
+  "AddTime": "2025-02-27 11:26:04",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 233555083,
+  "PolicyName": "QcloudQUOTAReadOnlyAccess",
+  "ServiceType": "quota",
+  "Type": 2,
+  "UpdateTime": "2025-03-12 11:23:27"
+ },
+ {
   "AddTime": "2025-02-27 11:42:13",
   "CreateMode": 2,
   "Deactived": 0,
@@ -11592,6 +11616,42 @@
   "UpdateTime": "2025-03-04 17:14:12"
  },
  {
+  "AddTime": "2025-03-11 14:50:15",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 234647593,
+  "PolicyName": "QcloudEIPReadOnlyAccess",
+  "ServiceType": "cvm",
+  "Type": 2,
+  "UpdateTime": "2025-03-11 14:50:15"
+ },
+ {
+  "AddTime": "2025-03-12 10:27:12",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 234716501,
+  "PolicyName": "QcloudLightcosFullAccess",
+  "ServiceType": "lightcos",
+  "Type": 2,
+  "UpdateTime": "2025-03-12 10:27:12"
+ },
+ {
+  "AddTime": "2025-03-12 10:27:13",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 234716503,
+  "PolicyName": "QcloudLightcosReadOnlyAccess",
+  "ServiceType": "lightcos",
+  "Type": 2,
+  "UpdateTime": "2025-03-12 10:27:13"
+ },
+ {
   "AddTime": "2025-03-12 11:35:27",
   "CreateMode": 2,
   "Deactived": 0,
@@ -11602,5 +11662,17 @@
   "ServiceType": "cls",
   "Type": 2,
   "UpdateTime": "2025-03-12 11:35:27"
+ },
+ {
+  "AddTime": "2025-03-12 20:06:32",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 234755275,
+  "PolicyName": "QcloudClouddcFullAccess",
+  "ServiceType": "clouddc",
+  "Type": 2,
+  "UpdateTime": "2025-03-12 20:06:32"
  }
 ]

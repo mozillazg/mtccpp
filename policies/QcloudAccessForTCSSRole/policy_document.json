@@ -21,7 +21,8 @@
     "tke:DescribeLogSwitches",
     "tke:DescribeEKSClusterCredential",
     "tke:GetEKSClusterResources",
-    "tke:GetPodChargeInfo"
+    "tke:GetPodChargeInfo",
+    "tke:DescribePostNodeResources"
    ],
    "effect": "allow",
    "resource": [

@@ -1,0 +1,26 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:DescribeAddress*",
+    "vpc:DescribeBandwidthPackage*",
+    "vpc:DescribeBandwidthAttribute",
+    "vpc:DescribeTrafficPackage*",
+    "cvm:DescribeEip*",
+    "vpc:DescribeDedicatedAddressPools",
+    "vpc:DescribeAddress*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "monitor:Describe*",
+    "monitor:Get*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
