@@ -4737,7 +4737,7 @@
   "PolicyName": "QcloudMMPSFullAccess",
   "ServiceType": "mmps",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2025-03-17 17:30:43"
  },
  {
   "AddTime": "2020-07-20 17:09:40",
@@ -4749,7 +4749,7 @@
   "PolicyName": "QcloudMMPSReadOnlyAccess",
   "ServiceType": "mmps",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2025-03-17 17:30:36"
  },
  {
   "AddTime": "2020-07-20 20:05:25",
@@ -10392,30 +10392,6 @@
   "UpdateTime": "2024-03-26 15:33:07"
  },
  {
-  "AddTime": "2024-03-28 09:54:02",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 205456273,
-  "PolicyName": "QcloudVTCReadOnlyAccess",
-  "ServiceType": "vtc",
-  "Type": 2,
-  "UpdateTime": "2024-03-28 09:54:02"
- },
- {
-  "AddTime": "2024-03-28 09:54:50",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 205456330,
-  "PolicyName": "QcloudVTCFullAccess",
-  "ServiceType": "vtc",
-  "Type": 2,
-  "UpdateTime": "2024-03-28 09:54:50"
- },
- {
   "AddTime": "2024-04-15 10:42:28",
   "CreateMode": 2,
   "Deactived": 0,
@@ -11614,6 +11590,30 @@
   "ServiceType": "securitylake",
   "Type": 2,
   "UpdateTime": "2025-03-04 17:14:12"
+ },
+ {
+  "AddTime": "2025-03-06 15:58:36",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 234272593,
+  "PolicyName": "QcloudCHCFullAccess",
+  "ServiceType": "chc",
+  "Type": 2,
+  "UpdateTime": "2025-03-06 15:58:36"
+ },
+ {
+  "AddTime": "2025-03-06 15:58:37",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 234272594,
+  "PolicyName": "QcloudCHCReadOnlyAccess",
+  "ServiceType": "chc",
+  "Type": 2,
+  "UpdateTime": "2025-03-06 15:58:37"
  },
  {
   "AddTime": "2025-03-11 14:50:15",

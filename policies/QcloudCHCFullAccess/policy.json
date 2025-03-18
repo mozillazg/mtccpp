@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-03-06 15:58:36",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"chc:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudCHCFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-03-06 15:58:36"
+}
