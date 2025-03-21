@@ -1,9 +1,9 @@
 {
  "AddTime": "2021-08-10 11:16:17",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"finance:DescribeBill*\",\"finance:DescribeConsolidatedBillDownloadUrl\",\"finance:DownloadCustomizedResourceSummary\",\"finance:DescribeResourceBill*\",\"finance:DescribeDosage*\",\"finance:DownloadCustomizedDetail\",\"finance:DescribeAllocat*\",\"finance:DescribeGather*\",\"finance:DescribeConsumption*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"finance:DescribeBill*\",\"finance:DescribeConsolidatedBillDownloadUrl\",\"finance:DownloadCustomizedResourceSummary\",\"finance:DescribeResourceBill*\",\"finance:DescribeDosage*\",\"finance:DownloadCustomizedDetail\",\"finance:DescribeAllocat*\",\"finance:DescribeGather*\",\"finance:DescribeConsumption*\",\"finance:DescribeCostWhiteUserStatus\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudFinanceBillReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2023-04-24 10:03:48"
+ "UpdateTime": "2025-03-20 21:01:37"
 }

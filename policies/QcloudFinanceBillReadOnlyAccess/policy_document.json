@@ -10,7 +10,8 @@
     "finance:DownloadCustomizedDetail",
     "finance:DescribeAllocat*",
     "finance:DescribeGather*",
-    "finance:DescribeConsumption*"
+    "finance:DescribeConsumption*",
+    "finance:DescribeCostWhiteUserStatus"
    ],
    "effect": "allow",
    "resource": "*"

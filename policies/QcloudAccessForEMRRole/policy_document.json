@@ -137,7 +137,8 @@
     "chdfs:AssociateAccessGroups",
     "chdfs:DisassociateAccessGroups",
     "tag:DescribeResourcesByTags",
-    "tke:AddVpcCniSubnets"
+    "tke:AddVpcCniSubnets",
+    "cvm:ResizeInstanceDisks"
    ],
    "effect": "allow",
    "resource": "*"

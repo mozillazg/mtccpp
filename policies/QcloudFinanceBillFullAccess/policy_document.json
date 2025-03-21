@@ -20,7 +20,10 @@
     "finance:ModifyGather*",
     "finance:DeleteGather*",
     "finance:DescribeConsumption*",
-    "finance:CreateAllocation*"
+    "finance:CreateAllocation*",
+    "finance:CreateBillUserCosInfo",
+    "finance:CreateCostWhiteUser",
+    "finance:DescribeCostWhiteUserStatus"
    ],
    "effect": "allow",
    "resource": "*"

@@ -2,7 +2,7 @@
  "statement": [
   {
    "action": [
-    "tcmpp:*"
+    "tcsas:*"
    ],
    "effect": "allow",
    "resource": "*"

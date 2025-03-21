@@ -13,7 +13,12 @@
     "es:CountInstances",
     "es:CountLogstashInstances",
     "es:CountDataImport",
-    "es:CountCollectors"
+    "es:CountCollectors",
+    "es:UpdateServerlessIndexMetaFieldToJson",
+    "es:UpdateServerlessIndexMetaJsonToField",
+    "es:CreateServerlessIndexMetaFieldToJson",
+    "es:CreateServerlessIndexMetaJsonToField",
+    "es:CreateServerlessMappingsFromSample"
    ],
    "effect": "allow",
    "resource": [
