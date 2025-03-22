@@ -6120,30 +6120,6 @@
   "UpdateTime": "2021-03-25 14:49:54"
  },
  {
-  "AddTime": "2021-03-25 20:01:24",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 72458668,
-  "PolicyName": "QcloudIDAMFullAccess",
-  "ServiceType": "idam",
-  "Type": 2,
-  "UpdateTime": "2021-03-25 20:01:24"
- },
- {
-  "AddTime": "2021-03-25 20:02:21",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 72458725,
-  "PolicyName": "QcloudIDAMReadOnlyAccess",
-  "ServiceType": "idam",
-  "Type": 2,
-  "UpdateTime": "2021-03-25 20:02:21"
- },
- {
   "AddTime": "2021-03-31 10:13:38",
   "CreateMode": 2,
   "Deactived": 0,
