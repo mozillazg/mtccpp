@@ -11674,5 +11674,17 @@
   "ServiceType": "tione",
   "Type": 2,
   "UpdateTime": "2025-03-20 16:45:01"
+ },
+ {
+  "AddTime": "2025-03-25 16:26:23",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 235989400,
+  "PolicyName": "QcloudAccessForSecurityLakeRoleInAccesslog",
+  "ServiceType": "securitylake",
+  "Type": 2,
+  "UpdateTime": "2025-03-25 16:26:23"
  }
 ]

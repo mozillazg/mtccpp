@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-03-25 16:26:23",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ckafka:DescribeInstances\",\"ckafka:DescribeTopic\",\"ckafka:DescribeInstanceAttributes\",\"ckafka:DescribeTopicDetail\",\"ckafka:AddRoute\",\"ckafka:DeleteRoute\",\"ckafka:ListRoute\",\"ckafka:CreateAcl\",\"ckafka:DeleteAcl\",\"ckafka:DescribeACL\",\"ckafka:CreateAclRule\",\"ckafka:DeleteAclRule\",\"ckafka:DescribeAclRule\",\"ckafka:CreateUser\",\"ckafka:DeleteUser\",\"ckafka:DescribeUser\",\"ckafka:DeleteAclRule\",\"ckafka:CreateConsumer\",\"cam:GetRole\",\"cam:ListAttachedRolePolicies\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudAccessForSecurityLakeRoleInAccesslog",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-03-25 16:26:23"
+}
