@@ -11,6 +11,16 @@
    },
    "effect": "allow",
    "resource": "*"
+  },
+  {
+   "action": [
+    "monitor:DescribeFibona*",
+    "monitor:CreateFibonaComponentSession",
+    "monitor:SaveFibonaComponentSessionMessage",
+    "monitor:CreateFibonaComponentSessionFeedback"
+   ],
+   "effect": "allow",
+   "resource": "*"
   }
  ],
  "version": "2.0"

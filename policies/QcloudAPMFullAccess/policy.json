@@ -1,9 +1,9 @@
 {
  "AddTime": "2021-06-28 19:18:39",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"apm:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"apm:*\",\"monitor:*Fibona*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudAPMFullAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2024-04-25 18:01:03"
+ "UpdateTime": "2025-03-27 22:29:10"
 }

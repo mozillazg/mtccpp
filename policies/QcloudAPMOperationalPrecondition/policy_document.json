@@ -11,7 +11,8 @@
     "apm:DescribeExistInstances",
     "apm:DescribeResources",
     "apm:DescribeTKEService",
-    "apm:*OPR*"
+    "apm:*OPR*",
+    "monitor:*Fibona*"
    ],
    "effect": "allow",
    "resource": [

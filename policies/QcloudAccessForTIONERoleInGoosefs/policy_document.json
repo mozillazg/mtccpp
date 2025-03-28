@@ -9,7 +9,8 @@
     "goosefs:DeleteClusterClients",
     "goosefs:DescribeTasks",
     "goosefs:DescribeClusters",
-    "goosefs:DescribeNamespaces"
+    "goosefs:DescribeNamespaces",
+    "goosefs:DeleteClusterNodes"
    ],
    "effect": "allow",
    "resource": "*"

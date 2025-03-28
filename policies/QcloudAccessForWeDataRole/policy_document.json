@@ -219,7 +219,8 @@
     "wedata:DescribeAllTask",
     "wedata:DescribeDsFolderTree",
     "wedata:DescribeTaskVersionByScheduling",
-    "wedata:DescribeTenantProjects"
+    "wedata:DescribeTenantProjects",
+    "wedata:Describe*"
    ],
    "effect": "allow",
    "resource": [

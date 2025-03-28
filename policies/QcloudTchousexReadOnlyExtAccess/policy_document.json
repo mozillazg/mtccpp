@@ -6,7 +6,9 @@
     "tchousex:AuthorizedSql",
     "cam:GetRole",
     "vpc:DescribeSubnetEx",
-    "monitor:GetMonitorData"
+    "monitor:GetMonitorData",
+    "tchousex:ConnectInstance",
+    "vpc:DescribeVpcEx"
    ],
    "effect": "allow",
    "resource": "*"

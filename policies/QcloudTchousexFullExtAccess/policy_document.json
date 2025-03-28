@@ -19,7 +19,9 @@
     "monitor:GetMonitorData",
     "cos:GetService",
     "cos:GetBucket",
-    "cos:PutObject"
+    "cos:PutObject",
+    "cam:ListCollaborators",
+    "cam:ListUsers"
    ],
    "effect": "allow",
    "resource": "*"

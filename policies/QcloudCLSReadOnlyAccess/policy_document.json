@@ -35,7 +35,8 @@
     "cls:GetMetricSeries",
     "cls:MetricsQuery*",
     "cls:MetricsLabel*",
-    "cls:MetricsSeries*"
+    "cls:MetricsSeries*",
+    "cls:Chat*"
    ],
    "effect": "allow",
    "resource": [

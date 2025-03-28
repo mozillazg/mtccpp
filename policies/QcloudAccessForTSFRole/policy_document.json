@@ -1,6 +1,7 @@
 {
  "statement": {
   "action": [
+   "clb:DescribeLoadBalancers",
    "ccr:*",
    "ccs:*",
    "cvm:Describe*",

@@ -2,7 +2,8 @@
  "statement": [
   {
    "action": [
-    "apm:*"
+    "apm:*",
+    "monitor:*Fibona*"
    ],
    "effect": "allow",
    "resource": "*"
