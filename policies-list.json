@@ -3132,30 +3132,6 @@
   "UpdateTime": "2020-09-29 11:37:49"
  },
  {
-  "AddTime": "2019-10-09 16:17:31",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 26723820,
-  "PolicyName": "QcloudSMPNFullAccess",
-  "ServiceType": "smpn",
-  "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
- },
- {
-  "AddTime": "2019-10-09 16:17:58",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 26723832,
-  "PolicyName": "QcloudSMPNReadOnlyAccess",
-  "ServiceType": "smpn",
-  "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
- },
- {
   "AddTime": "2019-10-10 10:06:10",
   "CreateMode": 2,
   "Deactived": 0,
@@ -11628,18 +11604,6 @@
   "UpdateTime": "2025-03-12 10:27:13"
  },
  {
-  "AddTime": "2025-03-12 11:35:27",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 234721975,
-  "PolicyName": "QcloudAcceSSForCLSLinkedDLC",
-  "ServiceType": "cls",
-  "Type": 2,
-  "UpdateTime": "2025-03-12 11:35:27"
- },
- {
   "AddTime": "2025-03-12 20:06:32",
   "CreateMode": 2,
   "Deactived": 0,
@@ -11674,5 +11638,29 @@
   "ServiceType": "tione",
   "Type": 2,
   "UpdateTime": "2025-03-20 16:45:01"
+ },
+ {
+  "AddTime": "2025-03-28 17:12:12",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 236327550,
+  "PolicyName": "QcloudCMGFullAccess",
+  "ServiceType": "cmg",
+  "Type": 2,
+  "UpdateTime": "2025-03-28 17:12:12"
+ },
+ {
+  "AddTime": "2025-03-28 17:12:13",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 236327551,
+  "PolicyName": "QcloudCMGReadOnlyAccess",
+  "ServiceType": "cmg",
+  "Type": 2,
+  "UpdateTime": "2025-03-28 17:12:13"
  }
 ]
