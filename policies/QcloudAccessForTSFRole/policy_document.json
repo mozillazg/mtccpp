@@ -51,7 +51,8 @@
    "apm:DescribeServiceOverview",
    "apm:DescribeApmAgent",
    "apm:ModifyInstanceAssociation",
-   "apm:ModifyApmDefaultInstance"
+   "apm:ModifyApmDefaultInstance",
+   "apm:DescribeInstanceBriefs"
   ],
   "effect": "allow",
   "resource": "*"

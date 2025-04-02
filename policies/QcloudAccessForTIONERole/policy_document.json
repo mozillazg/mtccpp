@@ -121,7 +121,8 @@
     "cvm:CreateKeyPair",
     "cvm:DescribeKeyPairs",
     "tcr:PullRepositoryPersonal",
-    "goosefs:DeleteClusterNodes"
+    "goosefs:DeleteClusterNodes",
+    "vpc:CreateAndAttachNetworkInterface"
    ],
    "effect": "allow",
    "resource": "*"
