@@ -70,7 +70,15 @@
     "waf:ModifyObject",
     "waf:DescribeHosts",
     "scf:InvokeFunctionUrl",
-    "scf:ListTriggers"
+    "scf:ListTriggers",
+    "clb:DescribeLoadBalancers",
+    "clb:DescribeListeners",
+    "clb:DescribeTargets",
+    "clb:DeleteLoadBalancer",
+    "clb:CreateLoadBalancer",
+    "clb:CreateListener",
+    "clb:RegisterTargets",
+    "clb:DeregisterTargets"
    ],
    "effect": "allow",
    "resource": [
