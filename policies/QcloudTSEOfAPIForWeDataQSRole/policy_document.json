@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tse:DescribeCloudNativeAPIGateway",
+    "tse:DescribeCloudNativeAPIGateways",
+    "tse:DescribeCloudNativeAPIGatewayConfig"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
