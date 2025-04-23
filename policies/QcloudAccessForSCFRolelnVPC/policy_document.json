@@ -1,0 +1,28 @@
+{
+ "statement": [
+  {
+   "action": [
+    "vpc:DetachNetworkInterfaceEx",
+    "vpc:UnassignPrivateIpAddresses",
+    "vpc:DeleteCrossSubNetworkInterface",
+    "vpc:DeleteNetworkInterfaceEx",
+    "vpc:DeleteHaVip",
+    "vpc:AssignPrivateIpAddresses",
+    "vpc:DescribeCrossSubNetworkInterfaces",
+    "vpc:CreateCrossSubNetworkInterface",
+    "vpc:DescribeVpcLimits",
+    "vpc:DescribeVpcs",
+    "vpc:DescribeHaVips",
+    "vpc:DescribeSubnets",
+    "vpc:CreateHaVip",
+    "vpc:QueryTask",
+    "vpc:AttachNetworkInterfaceEx",
+    "vpc:DescribeNetworkInterfacesEx",
+    "vpc:CreateNetworkInterfaceEx"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
