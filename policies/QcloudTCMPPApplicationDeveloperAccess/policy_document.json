@@ -5,7 +5,11 @@
     "tcsas:ModifyApplication",
     "tcsas:DescribeApplicationList",
     "tcsas:DescribeApplicationConfigFile",
-    "tcsas:DescribeApplication"
+    "tcsas:DescribeApplication",
+    "tcmpp:ModifyApplication",
+    "tcmpp:DescribeApplicationList",
+    "tcmpp:DescribeApplicationConfigFile",
+    "tcmpp:DescribeApplication"
    ],
    "effect": "allow",
    "resource": "*"

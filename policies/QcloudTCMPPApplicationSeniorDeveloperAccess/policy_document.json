@@ -12,7 +12,18 @@
     "tcsas:DescribeMNPSensitiveAPIPermissionApprovalList",
     "tcsas:DeleteApplicationSensitiveAPI",
     "tcsas:CreateApplicationSensitiveAPI",
-    "tcsas:DescribeTempSecret4UploadFile2Cos"
+    "tcsas:DescribeTempSecret4UploadFile2Cos",
+    "tcmpp:ModifyApplication",
+    "tcmpp:DescribeApplicationList",
+    "tcmpp:DescribeApplicationConfigFile",
+    "tcmpp:DescribeApplication",
+    "tcmpp:DeleteApplication",
+    "tcmpp:CreateApplication",
+    "tcmpp:DescribeApplicationSensitiveAPIList",
+    "tcmpp:DescribeMNPSensitiveAPIPermissionApprovalList",
+    "tcmpp:DeleteApplicationSensitiveAPI",
+    "tcmpp:CreateApplicationSensitiveAPI",
+    "tcmpp:DescribeTempSecret4UploadFile2Cos"
    ],
    "effect": "allow",
    "resource": "*"

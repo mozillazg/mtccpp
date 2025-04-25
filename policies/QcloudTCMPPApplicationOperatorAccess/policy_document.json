@@ -4,7 +4,10 @@
    "action": [
     "tcsas:DescribeApplicationList",
     "tcsas:DescribeApplicationConfigFile",
-    "tcsas:DescribeApplication"
+    "tcsas:DescribeApplication",
+    "tcmpp:DescribeApplicationList",
+    "tcmpp:DescribeApplicationConfigFile",
+    "tcmpp:DescribeApplication"
    ],
    "effect": "allow",
    "resource": "*"

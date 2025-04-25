@@ -215,7 +215,9 @@
     "tcr:ManageInternalEndpoint",
     "cdn:PurgeUrlsCache",
     "cdn:TcbCheckCreate",
-    "cdn:TcbCheckResource"
+    "cdn:TcbCheckResource",
+    "tcr:DescribeNamespacePersonal",
+    "tcr:DescribeApplicationTokenPersonal"
    ],
    "effect": "allow",
    "resource": "*"

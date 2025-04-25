@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-04-24 11:21:48",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"trabbit:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudTrabbitFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-04-24 11:21:48"
+}

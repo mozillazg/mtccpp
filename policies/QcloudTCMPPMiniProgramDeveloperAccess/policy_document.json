@@ -15,7 +15,21 @@
     "tcsas:DescribeMNPSensitiveAPIPermissionList",
     "tcsas:DescribeMNPSensitiveAPIPermissionApproval",
     "tcsas:DescribeMNPVersion",
-    "tcsas:DescribeTempSecret4UploadFile2Cos"
+    "tcsas:DescribeTempSecret4UploadFile2Cos",
+    "tcmpp:DescribeMNPCategory",
+    "tcmpp:DescribeMNPReleasedVersionHistory",
+    "tcmpp:CreateMNPVersion",
+    "tcmpp:DescribeMNP",
+    "tcmpp:DescribeMNPList",
+    "tcmpp:DescribeMNPOfflinePackageURL",
+    "tcmpp:ConfigureMNPPreview",
+    "tcmpp:DescribeMNPPreview",
+    "tcmpp:DescribeMNPAllStageVersions",
+    "tcmpp:DescribeMNPDomainACL",
+    "tcmpp:DescribeMNPSensitiveAPIPermissionList",
+    "tcmpp:DescribeMNPSensitiveAPIPermissionApproval",
+    "tcmpp:DescribeMNPVersion",
+    "tcmpp:DescribeTempSecret4UploadFile2Cos"
    ],
    "effect": "allow",
    "resource": "*"

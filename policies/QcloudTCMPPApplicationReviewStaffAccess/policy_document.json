@@ -9,7 +9,15 @@
     "tcsas:ProcessMNPSensitiveAPIPermissionApproval",
     "tcsas:DescribeMNPApprovalList",
     "tcsas:DescribeApplicationSensitiveAPIList",
-    "tcsas:DescribeMNPSensitiveAPIPermissionApprovalList"
+    "tcsas:DescribeMNPSensitiveAPIPermissionApprovalList",
+    "tcmpp:DescribeApplicationList",
+    "tcmpp:DescribeApplicationConfigFile",
+    "tcmpp:DescribeApplication",
+    "tcmpp:ProcessMNPApproval",
+    "tcmpp:ProcessMNPSensitiveAPIPermissionApproval",
+    "tcmpp:DescribeMNPApprovalList",
+    "tcmpp:DescribeApplicationSensitiveAPIList",
+    "tcmpp:DescribeMNPSensitiveAPIPermissionApprovalList"
    ],
    "effect": "allow",
    "resource": "*"

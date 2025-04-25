@@ -9,7 +9,15 @@
     "tcsas:DescribeMNPOfflinePackageURL",
     "tcsas:ConfigureMNPPreview",
     "tcsas:DescribeMNPPreview",
-    "tcsas:DescribeMNPAllStageVersions"
+    "tcsas:DescribeMNPAllStageVersions",
+    "tcmpp:DescribeMNPCategory",
+    "tcmpp:DescribeMNPReleasedVersionHistory",
+    "tcmpp:DescribeMNP",
+    "tcmpp:DescribeMNPList",
+    "tcmpp:DescribeMNPOfflinePackageURL",
+    "tcmpp:ConfigureMNPPreview",
+    "tcmpp:DescribeMNPPreview",
+    "tcmpp:DescribeMNPAllStageVersions"
    ],
    "effect": "allow",
    "resource": "*"

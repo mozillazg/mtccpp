@@ -2,8 +2,7 @@
  "statement": [
   {
    "action": [
-    "tcsas:*",
-    "tcmpp:*"
+    "trabbit:*"
    ],
    "effect": "allow",
    "resource": "*"
