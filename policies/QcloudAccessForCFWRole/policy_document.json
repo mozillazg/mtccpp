@@ -249,7 +249,12 @@
     "vpc:ResetTrafficMirrorTarget",
     "vpc:DeleteTrafficMirror",
     "dc:DescribeInternetAddress",
-    "gaap:DescribeProxies"
+    "gaap:DescribeProxies",
+    "cdb:DescribeCdbProxyInfo",
+    "cls:DescribeDemonstrations",
+    "vpc:DescribeRoutes",
+    "vpc:DescribeRouteList",
+    "vpc:DescribeProductQuota"
    ],
    "effect": "allow",
    "resource": "*"
