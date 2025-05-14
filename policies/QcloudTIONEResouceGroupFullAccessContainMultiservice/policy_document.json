@@ -50,7 +50,12 @@
     "goosefs:DescribeClusters",
     "goosefs:DescribeNamespaces",
     "goosefs:DescribeFileSystems",
-    "cvm:DescribeSecurityGroupPolicys"
+    "cvm:DescribeSecurityGroupPolicys",
+    "tione:CreateBillingResourceInstanceHealthCheckTask",
+    "tione:DescribeBillingResourceGroupHealthCheckTasks",
+    "tione:StopBillingResourceInstanceHealthCheckTask",
+    "tione:DeleteBillingResourceInstanceHealthCheckTask",
+    "tione:DescribeSanityCheckItems"
    ],
    "effect": "allow",
    "resource": "*"

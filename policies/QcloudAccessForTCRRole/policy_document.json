@@ -35,7 +35,15 @@
     "cos:PutBucketVersioning",
     "cos:PutBucketTagging",
     "monitor:GetMonitorData",
-    "coding:*"
+    "coding:*",
+    "privatedns:CreatePrivateZone",
+    "privatedns:CreatePrivateZoneRecord",
+    "privatedns:DeletePrivateZone",
+    "privatedns:DeletePrivateZoneRecord",
+    "privatedns:ModifyPrivateZoneRecord",
+    "privatedns:ModifyPrivateZoneVpc",
+    "privatedns:DescribePrivateZoneList",
+    "privatedns:DescribePrivateZoneRecordList"
    ],
    "effect": "allow",
    "resource": "*"

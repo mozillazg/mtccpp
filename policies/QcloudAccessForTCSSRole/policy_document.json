@@ -22,7 +22,10 @@
     "tke:DescribeEKSClusterCredential",
     "tke:GetEKSClusterResources",
     "tke:GetPodChargeInfo",
-    "tke:DescribePostNodeResources"
+    "tke:DescribePostNodeResources",
+    "tcr:DescribeImagePersonal",
+    "tcr:CreateApplicationTokenPersonal",
+    "tcr:DescribeApplicationTokenPersonal"
    ],
    "effect": "allow",
    "resource": [

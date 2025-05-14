@@ -40,7 +40,8 @@
     "cfs:DescribeMountTargets",
     "goosefs:DescribeClusters",
     "goosefs:DescribeNamespaces",
-    "goosefs:DescribeFileSystems"
+    "goosefs:DescribeFileSystems",
+    "cvm:DescribeSecurityGroupPolicys"
    ],
    "effect": "allow",
    "resource": "*"
