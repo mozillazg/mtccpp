@@ -11818,5 +11818,29 @@
   "ServiceType": "ihn",
   "Type": 2,
   "UpdateTime": "2025-05-07 14:24:47"
+ },
+ {
+  "AddTime": "2025-05-14 11:07:27",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 240862002,
+  "PolicyName": "QcloudWSAFullAccess",
+  "ServiceType": "wsa",
+  "Type": 2,
+  "UpdateTime": "2025-05-14 11:07:27"
+ },
+ {
+  "AddTime": "2025-05-14 11:07:28",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 240862004,
+  "PolicyName": "QcloudWSAReadOnlyAccess",
+  "ServiceType": "wsa",
+  "Type": 2,
+  "UpdateTime": "2025-05-14 11:07:28"
  }
 ]
