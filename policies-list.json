@@ -6300,30 +6300,6 @@
   "UpdateTime": "2021-04-25 11:04:10"
  },
  {
-  "AddTime": "2021-04-25 11:28:45",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 76385740,
-  "PolicyName": "QcloudSMOPReadOnlyAccess",
-  "ServiceType": "smop",
-  "Type": 2,
-  "UpdateTime": "2021-04-25 11:28:45"
- },
- {
-  "AddTime": "2021-04-25 11:29:13",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 76385806,
-  "PolicyName": "QcloudSMOPFullAccess",
-  "ServiceType": "smop",
-  "Type": 2,
-  "UpdateTime": "2021-04-25 11:29:13"
- },
- {
   "AddTime": "2021-04-26 11:48:09",
   "CreateMode": 2,
   "Deactived": 0,
