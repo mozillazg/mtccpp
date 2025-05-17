@@ -11818,5 +11818,29 @@
   "ServiceType": "wsa",
   "Type": 2,
   "UpdateTime": "2025-05-14 11:07:28"
+ },
+ {
+  "AddTime": "2025-05-16 15:31:47",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 241046757,
+  "PolicyName": "QcloudTCDIFullAccess",
+  "ServiceType": "tcdi",
+  "Type": 2,
+  "UpdateTime": "2025-05-16 15:31:47"
+ },
+ {
+  "AddTime": "2025-05-16 15:31:48",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 241046760,
+  "PolicyName": "QcloudTCDIReadOnlyAccess",
+  "ServiceType": "tcdi",
+  "Type": 2,
+  "UpdateTime": "2025-05-16 15:31:48"
  }
 ]
