@@ -9468,30 +9468,6 @@
   "UpdateTime": "2023-06-06 11:48:14"
  },
  {
-  "AddTime": "2023-06-07 10:28:38",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 164116885,
-  "PolicyName": "QcloudCSXGReadOnlyaccess",
-  "ServiceType": "csxg",
-  "Type": 2,
-  "UpdateTime": "2023-06-07 10:28:38"
- },
- {
-  "AddTime": "2023-06-07 10:29:19",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 164116943,
-  "PolicyName": "QcloudCSXGFullAccess",
-  "ServiceType": "csxg",
-  "Type": 2,
-  "UpdateTime": "2023-06-07 10:29:19"
- },
- {
   "AddTime": "2023-06-07 15:33:16",
   "CreateMode": 2,
   "Deactived": 0,
