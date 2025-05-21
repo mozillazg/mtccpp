@@ -217,7 +217,8 @@
     "cdn:TcbCheckCreate",
     "cdn:TcbCheckResource",
     "tcr:DescribeNamespacePersonal",
-    "tcr:DescribeApplicationTokenPersonal"
+    "tcr:DescribeApplicationTokenPersonal",
+    "cynosdb:DescribeClusterUsages"
    ],
    "effect": "allow",
    "resource": "*"

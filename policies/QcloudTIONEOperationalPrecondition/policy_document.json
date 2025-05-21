@@ -102,7 +102,11 @@
     "tione:SendChatMessage",
     "tione:StopTaskComparison",
     "tione:TransferResourceInstancesToResourceGroup",
-    "tione:UpdateNotebookInfo"
+    "tione:UpdateNotebookInfo",
+    "tione:DescribeEvaluationPathName",
+    "tione:DescribeLLMAPIConnectivity",
+    "tione:DescribeSanityCheckItems",
+    "tione:DescribeEvaluationBuiltInDatasets"
    ],
    "effect": "allow",
    "resource": "*"

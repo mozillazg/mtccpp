@@ -133,7 +133,9 @@
     "ssl:DeleteCertificate",
     "ssl:DescribeDeleteCertificatesTaskResult",
     "tke:DescribeClusters",
-    "tke:DescribeClusterInstances"
+    "tke:DescribeClusterInstances",
+    "tke:DescribeVpcCniPodLimits",
+    "cvm:DescribeKeyPairs"
    ],
    "effect": "allow",
    "resource": "*"

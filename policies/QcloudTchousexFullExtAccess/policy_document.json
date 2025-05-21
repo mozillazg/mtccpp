@@ -21,7 +21,9 @@
     "cos:GetBucket",
     "cos:PutObject",
     "cam:ListCollaborators",
-    "cam:ListUsers"
+    "cam:ListUsers",
+    "cls:DescribeTopics",
+    "cls:DescribeLogsets"
    ],
    "effect": "allow",
    "resource": "*"

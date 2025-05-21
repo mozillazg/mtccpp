@@ -52,7 +52,15 @@
    "apm:DescribeApmAgent",
    "apm:ModifyInstanceAssociation",
    "apm:ModifyApmDefaultInstance",
-   "apm:DescribeInstanceBriefs"
+   "apm:DescribeInstanceBriefs",
+   "as:DescribeAutoScalingGroups",
+   "as:DescribeAutoScalingInstances",
+   "as:RemoveInstances",
+   "as:DescribeAutoScalingGroupLastActivities",
+   "as:ModifyDesiredCapacity",
+   "as:ModifyLaunchConfigurationAttributes",
+   "as:SetInstancesProtection",
+   "as:DescribeLaunchConfigurations"
   ],
   "effect": "allow",
   "resource": "*"

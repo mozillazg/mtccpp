@@ -8,7 +8,9 @@
     "vpc:DescribeSubnetEx",
     "monitor:GetMonitorData",
     "tchousex:ConnectInstance",
-    "vpc:DescribeVpcEx"
+    "vpc:DescribeVpcEx",
+    "cls:DescribeTopics",
+    "cls:DescribeLogsets"
    ],
    "effect": "allow",
    "resource": "*"

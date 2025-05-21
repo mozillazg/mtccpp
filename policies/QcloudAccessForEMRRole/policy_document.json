@@ -138,7 +138,14 @@
     "chdfs:DisassociateAccessGroups",
     "tag:DescribeResourcesByTags",
     "tke:AddVpcCniSubnets",
-    "cvm:ResizeInstanceDisks"
+    "cvm:ResizeInstanceDisks",
+    "tcr:DescribeRepositoryAllPersonal",
+    "tcr:DescribeRepositoryFilterPersonal",
+    "tcr:DescribeImagePersonal",
+    "tcr:DescribeNamespacePersonal",
+    "tcr:DescribeRegions",
+    "cdb:DescribeCdbZoneConfig",
+    "tag:DescribeTagValues"
    ],
    "effect": "allow",
    "resource": "*"
