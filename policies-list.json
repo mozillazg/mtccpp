@@ -7680,30 +7680,6 @@
   "UpdateTime": "2022-02-14 19:37:43"
  },
  {
-  "AddTime": "2022-02-15 15:37:40",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 113671145,
-  "PolicyName": "QcloudKonisGraphReadOnlyAccess",
-  "ServiceType": "konisgraph",
-  "Type": 2,
-  "UpdateTime": "2022-02-15 15:37:40"
- },
- {
-  "AddTime": "2022-02-15 15:38:13",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 113671210,
-  "PolicyName": "QcloudKonisGraphFullAccess",
-  "ServiceType": "konisgraph",
-  "Type": 2,
-  "UpdateTime": "2022-02-15 15:38:13"
- },
- {
   "AddTime": "2022-02-17 17:24:41",
   "CreateMode": 2,
   "Deactived": 0,
@@ -8134,30 +8110,6 @@
   "ServiceType": "trro",
   "Type": 2,
   "UpdateTime": "2022-05-18 15:54:33"
- },
- {
-  "AddTime": "2022-05-31 14:44:10",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 126009281,
-  "PolicyName": "QcloudTANFullAccess",
-  "ServiceType": "tan",
-  "Type": 2,
-  "UpdateTime": "2022-05-31 14:44:10"
- },
- {
-  "AddTime": "2022-05-31 14:44:11",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 126009283,
-  "PolicyName": "QcloudTANReadOnlyaccess",
-  "ServiceType": "tan",
-  "Type": 2,
-  "UpdateTime": "2022-05-31 14:44:11"
  },
  {
   "AddTime": "2022-05-31 14:57:24",
@@ -11818,5 +11770,29 @@
   "ServiceType": "tcdi",
   "Type": 2,
   "UpdateTime": "2025-05-16 15:31:48"
+ },
+ {
+  "AddTime": "2025-05-21 16:09:50",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 241425848,
+  "PolicyName": "QcloudSAAIFullAccess",
+  "ServiceType": "saai",
+  "Type": 2,
+  "UpdateTime": "2025-05-21 16:09:50"
+ },
+ {
+  "AddTime": "2025-05-21 16:09:51",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 241425849,
+  "PolicyName": "QcloudSAAIReadOnlyAccess",
+  "ServiceType": "saai",
+  "Type": 2,
+  "UpdateTime": "2025-05-21 16:09:51"
  }
 ]
