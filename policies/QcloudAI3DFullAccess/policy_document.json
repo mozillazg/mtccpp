@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ai3d:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

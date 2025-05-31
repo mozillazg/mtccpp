@@ -11760,6 +11760,30 @@
   "UpdateTime": "2025-05-16 15:31:48"
  },
  {
+  "AddTime": "2025-05-20 09:51:40",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 241305197,
+  "PolicyName": "QcloudAI3DFullAccess",
+  "ServiceType": "ai3d",
+  "Type": 2,
+  "UpdateTime": "2025-05-20 09:51:40"
+ },
+ {
+  "AddTime": "2025-05-20 09:51:41",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 241305198,
+  "PolicyName": "QcloudAI3DReadOnlyAccess",
+  "ServiceType": "ai3d",
+  "Type": 2,
+  "UpdateTime": "2025-05-20 09:51:41"
+ },
+ {
   "AddTime": "2025-05-21 16:09:50",
   "CreateMode": 2,
   "Deactived": 0,
