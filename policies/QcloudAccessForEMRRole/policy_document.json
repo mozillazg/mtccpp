@@ -145,7 +145,13 @@
     "tcr:DescribeNamespacePersonal",
     "tcr:DescribeRegions",
     "cdb:DescribeCdbZoneConfig",
-    "tag:DescribeTagValues"
+    "tag:DescribeTagValues",
+    "tke:DescribeAddon",
+    "tke:InstallAddon",
+    "tke:UpdateAddon",
+    "tke:DeleteAddon",
+    "chdfs:DescribeMountPoint",
+    "chdfs:DescribeInventoryConfigs"
    ],
    "effect": "allow",
    "resource": "*"

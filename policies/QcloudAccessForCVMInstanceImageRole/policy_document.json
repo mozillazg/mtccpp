@@ -15,7 +15,9 @@
     "cvm:ModifySnapshotAttribute",
     "cvm:ResizeDisk",
     "cvm:TerminateDisks",
-    "cvm:InitializeDisks"
+    "cvm:InitializeDisks",
+    "cvm:Describe*",
+    "cvm:Inquiry*"
    ],
    "effect": "allow",
    "resource": "*"

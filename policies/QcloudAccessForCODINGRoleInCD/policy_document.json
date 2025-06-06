@@ -32,7 +32,9 @@
     "tke:CheckSubaccountAuthority",
     "tke:DescribeClusterAuthorizationMode",
     "tke:DescribeRegions",
-    "tke:DescribeClusterInstances"
+    "tke:DescribeClusterInstances",
+    "cvm:Describe*",
+    "cvm:Inquiry*"
    ],
    "effect": "allow",
    "resource": [

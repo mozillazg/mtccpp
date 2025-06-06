@@ -122,7 +122,9 @@
     "cvm:DescribeKeyPairs",
     "tcr:PullRepositoryPersonal",
     "goosefs:DeleteClusterNodes",
-    "vpc:CreateAndAttachNetworkInterface"
+    "vpc:CreateAndAttachNetworkInterface",
+    "tcr:CreateUserPersonal",
+    "tcr:ModifyUserPasswordPersonal"
    ],
    "effect": "allow",
    "resource": "*"
