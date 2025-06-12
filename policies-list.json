@@ -11818,5 +11818,29 @@
   "ServiceType": "emr",
   "Type": 2,
   "UpdateTime": "2025-06-09 10:39:14"
+ },
+ {
+  "AddTime": "2025-06-11 21:00:09",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 243408211,
+  "PolicyName": "QcloudTencentdbFullAccess",
+  "ServiceType": "tencentdb",
+  "Type": 2,
+  "UpdateTime": "2025-06-11 21:00:09"
+ },
+ {
+  "AddTime": "2025-06-11 21:00:17",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 243408244,
+  "PolicyName": "QcloudTencentdbReadOnlyAccess",
+  "ServiceType": "tencentdb",
+  "Type": 2,
+  "UpdateTime": "2025-06-11 21:00:17"
  }
 ]
