@@ -124,7 +124,9 @@
     "goosefs:DeleteClusterNodes",
     "vpc:CreateAndAttachNetworkInterface",
     "tcr:CreateUserPersonal",
-    "tcr:ModifyUserPasswordPersonal"
+    "tcr:ModifyUserPasswordPersonal",
+    "cvm:Inquiry*",
+    "cvm:Describe*"
    ],
    "effect": "allow",
    "resource": "*"

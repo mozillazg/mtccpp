@@ -24,7 +24,9 @@
     "tcr:DescribeInternalEndpoints",
     "vpc:ModifyVpcAttribute",
     "cvm:RepairTaskControl",
-    "cvm:DescribeTaskInfo"
+    "cvm:DescribeTaskInfo",
+    "cvm:Describe*",
+    "cvm:Inquiry*"
    ],
    "effect": "allow",
    "resource": "*"

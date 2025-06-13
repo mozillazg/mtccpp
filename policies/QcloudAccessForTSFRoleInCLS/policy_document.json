@@ -17,7 +17,8 @@
     "cls:SearchLog",
     "cls:pushLog",
     "cls:getConfig",
-    "cls:agentHeartBeat"
+    "cls:agentHeartBeat",
+    "tcr:ValidateUserPersonal"
    ],
    "effect": "allow",
    "resource": "*"

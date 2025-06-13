@@ -254,10 +254,46 @@
     "cls:DescribeDemonstrations",
     "vpc:DescribeRoutes",
     "vpc:DescribeRouteList",
-    "vpc:DescribeProductQuota"
+    "vpc:DescribeProductQuota",
+    "cvm:Inquiry*",
+    "cvm:Describe*",
+    "tke:DescribeClusterGlobalStatistics",
+    "tke:DescribeClusters",
+    "tke:DescribeExistedInstances",
+    "tke:ListEKSPods",
+    "tke:DescribeClusterInstances",
+    "tke:DescribeExternalNodeSupportConfig",
+    "monitor:BatchGetStatisticsData",
+    "monitor:GetMonitorData"
    ],
    "effect": "allow",
    "resource": "*"
+  },
+  {
+   "action": [
+    "tke:AcquireClusterKubeConfigForProduct"
+   ],
+   "effect": "allow",
+   "resource": [
+    "qcs::tke::*:cluster/*",
+    "qcs::tke::*:k8s/*/pods/*/get",
+    "qcs::tke::*:k8s/*/pods/*/list",
+    "qcs::tke::*:k8s/*/pods/*/watch",
+    "qcs::tke::*:k8s/*/nodes/*/get",
+    "qcs::tke::*:k8s/*/nodes/*/list",
+    "qcs::tke::*:k8s/*/nodes/*/watch",
+    "qcs::tke::*:k8s/*/services/*/get",
+    "qcs::tke::*:k8s/*/services/*/list",
+    "qcs::tke::*:k8s/*/services/*/watch",
+    "qcs::tke::*:k8s/networking.k8s.io/ingresses/*/get",
+    "qcs::tke::*:k8s/networking.k8s.io/ingresses/*/list",
+    "qcs::tke::*:k8s/networking.k8s.io/ingresses/*/watch",
+    "qcs::tke::*:k8s/apps/daemonsets/*/create",
+    "qcs::tke::*:k8s/apps/daemonsets/*/get",
+    "qcs::tke::*:k8s/apps/daemonsets/*/list",
+    "qcs::tke::*:k8s/apps/daemonsets/*/update",
+    "qcs::tke::*:k8s/apps/daemonsets/*/delete"
+   ]
   }
  ],
  "version": "2.0"

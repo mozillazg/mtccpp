@@ -280,7 +280,11 @@
     "tione:DescribePlatformImages",
     "tione:DescribeModelServiceHistory",
     "tione:DescribeModelServiceHotUpdated",
-    "tione:ModifyServiceGroupWeights"
+    "tione:ModifyServiceGroupWeights",
+    "tag:TagResources",
+    "tag:UnTagResources",
+    "tag:GetResources",
+    "tag:ModifyResourceTags"
    ],
    "effect": "allow",
    "resource": [
