@@ -11808,6 +11808,30 @@
   "UpdateTime": "2025-05-21 16:09:51"
  },
  {
+  "AddTime": "2025-05-23 11:32:19",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 241634870,
+  "PolicyName": "QcloudCNBFullAccess",
+  "ServiceType": "cnb",
+  "Type": 2,
+  "UpdateTime": "2025-05-23 11:32:19"
+ },
+ {
+  "AddTime": "2025-05-23 11:32:20",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 241634873,
+  "PolicyName": "QcloudCNBReadOnlyAccess",
+  "ServiceType": "cnb",
+  "Type": 2,
+  "UpdateTime": "2025-05-23 11:32:20"
+ },
+ {
   "AddTime": "2025-06-09 10:39:14",
   "CreateMode": 2,
   "Deactived": 0,

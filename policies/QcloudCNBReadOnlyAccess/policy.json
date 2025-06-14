@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-05-23 11:32:20",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cnb:*\"],\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudCNBReadOnlyAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-05-23 11:32:20"
+}
