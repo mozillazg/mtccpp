@@ -11832,6 +11832,30 @@
   "UpdateTime": "2025-05-23 11:32:20"
  },
  {
+  "AddTime": "2025-05-27 21:02:53",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 242090139,
+  "PolicyName": "QcloudDataagentFullAccess",
+  "ServiceType": "dataagent",
+  "Type": 2,
+  "UpdateTime": "2025-05-27 21:02:53"
+ },
+ {
+  "AddTime": "2025-05-27 21:02:54",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 242090143,
+  "PolicyName": "QcloudDataagentReadOnlyAccess",
+  "ServiceType": "dataagent",
+  "Type": 2,
+  "UpdateTime": "2025-05-27 21:02:54"
+ },
+ {
   "AddTime": "2025-06-09 10:39:14",
   "CreateMode": 2,
   "Deactived": 0,
