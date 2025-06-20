@@ -218,7 +218,10 @@
     "cdn:TcbCheckResource",
     "tcr:DescribeNamespacePersonal",
     "tcr:DescribeApplicationTokenPersonal",
-    "cynosdb:DescribeClusterUsages"
+    "cynosdb:DescribeClusterUsages",
+    "cynosdb:DescribeBackupDownloadUrl",
+    "cynosdb:ModifyBackupName",
+    "cynosdb:RollBackCluster"
    ],
    "effect": "allow",
    "resource": "*"

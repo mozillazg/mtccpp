@@ -47,7 +47,10 @@
     "vpc:QueryTask",
     "vpc:ApplyPrivateIpAddress",
     "vpc:ReturnPrivateIpAddress",
-    "cam:GetUserAppId"
+    "cam:GetUserAppId",
+    "vpc:ModifyPrivateIPAddressResource",
+    "vpc:DescribeInstanceCapable",
+    "cvm:CheckNetworkInterfaceSecurityGroupReady"
    ],
    "effect": "allow",
    "resource": "*"

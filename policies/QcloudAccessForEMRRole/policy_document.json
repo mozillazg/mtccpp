@@ -151,7 +151,9 @@
     "tke:UpdateAddon",
     "tke:DeleteAddon",
     "chdfs:DescribeMountPoint",
-    "chdfs:DescribeInventoryConfigs"
+    "chdfs:DescribeInventoryConfigs",
+    "cvm:Describe*",
+    "cvm:Inquiry*"
    ],
    "effect": "allow",
    "resource": "*"
