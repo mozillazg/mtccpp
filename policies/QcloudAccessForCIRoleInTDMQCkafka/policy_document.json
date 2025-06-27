@@ -10,7 +10,8 @@
     "ckafka:CreateTopic",
     "ckafka:CreateInstancePre",
     "ckafka:GetTopicAttributes",
-    "ckafka:SendMessage"
+    "ckafka:SendMessage",
+    "ckafka:DescribeInstancesDetail"
    ],
    "effect": "allow",
    "resource": "*"

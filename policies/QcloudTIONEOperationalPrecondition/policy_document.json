@@ -106,7 +106,22 @@
     "tione:DescribeEvaluationPathName",
     "tione:DescribeLLMAPIConnectivity",
     "tione:DescribeSanityCheckItems",
-    "tione:DescribeEvaluationBuiltInDatasets"
+    "tione:DescribeEvaluationBuiltInDatasets",
+    "tione:DescribeCvmInstanceConfigInfos",
+    "tione:DescribeCvmZoneInstanceConfigInfos",
+    "tione:CreateMountLimit",
+    "tione:DeleteMountLimit",
+    "tione:UpdateMountLimit",
+    "tione:DescribeMountLimits",
+    "tione:CreateDataSource",
+    "tione:DescribeMountInstances",
+    "tione:DescribeMountInstance",
+    "tione:DescribeAsyncChatMessage",
+    "tione:DescribeEvaluationSummaries",
+    "tione:DescribeInferCode",
+    "tione:DescribeInsideAction",
+    "tione:DescribeModelServiceHotUpdated",
+    "tione:DescribeModelServiceUserInfo"
    ],
    "effect": "allow",
    "resource": "*"

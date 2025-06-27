@@ -4,7 +4,9 @@
    "action": [
     "tcr:DescribeRepositories",
     "tcr:PullRepository",
-    "tcr:CreateInstanceToken"
+    "tcr:CreateInstanceToken",
+    "tcr:DescribeImagePersonal",
+    "tcr:DescribeApplicationTokenPersonal"
    ],
    "effect": "allow",
    "resource": [

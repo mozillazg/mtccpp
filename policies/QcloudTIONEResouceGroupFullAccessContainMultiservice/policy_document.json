@@ -55,10 +55,28 @@
     "tione:DescribeBillingResourceGroupHealthCheckTasks",
     "tione:StopBillingResourceInstanceHealthCheckTask",
     "tione:DeleteBillingResourceInstanceHealthCheckTask",
-    "tione:DescribeSanityCheckItems"
+    "tione:DescribeSanityCheckItems",
+    "tione:DescribeMountLimits",
+    "tione:CreateMountLimit",
+    "tione:DeleteMountLimit",
+    "tione:UpdateMountLimit",
+    "tione:DescribeMountInstances",
+    "tione:DescribeMountInstance",
+    "tione:DescribeCvmInstanceConfigInfos",
+    "tione:DescribeCvmZoneInstanceConfigInfos"
    ],
    "effect": "allow",
    "resource": "*"
+  },
+  {
+   "action": [
+    "tione:*"
+   ],
+   "effect": "allow",
+   "resource": [
+    "qcs::tione:::datasource/*",
+    "qcs::tione:::resourcegroup/*"
+   ]
   }
  ],
  "version": "2.0"

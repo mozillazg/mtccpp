@@ -2001,7 +2001,7 @@
   "PolicyName": "QcloudAccessForTKERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2025-05-20 21:28:46"
+  "UpdateTime": "2025-06-26 21:02:46"
  },
  {
   "AddTime": "2018-12-17 21:19:39",
@@ -4257,7 +4257,7 @@
   "PolicyName": "QcloudAccessForTCBRoleInAccessCloudBaseRun",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2025-06-19 21:09:17"
+  "UpdateTime": "2025-06-26 21:02:47"
  },
  {
   "AddTime": "2020-04-27 15:09:48",
@@ -5637,7 +5637,7 @@
   "PolicyName": "QcloudWeDataFullAccess",
   "ServiceType": "wedata",
   "Type": 2,
-  "UpdateTime": "2020-12-29 14:41:54"
+  "UpdateTime": "2025-06-26 21:02:52"
  },
  {
   "AddTime": "2020-12-29 14:42:31",
@@ -6549,7 +6549,7 @@
   "PolicyName": "QcloudAccessForSCFRoleInPullImage",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2021-08-09 10:48:46"
+  "UpdateTime": "2025-06-26 21:02:53"
  },
  {
   "AddTime": "2021-06-15 15:15:05",
@@ -7617,7 +7617,7 @@
   "PolicyName": "QcloudTIONEResouceGroupFullAccessContainMultiservice",
   "ServiceType": "tione",
   "Type": 2,
-  "UpdateTime": "2025-05-13 21:18:18"
+  "UpdateTime": "2025-06-26 21:02:53"
  },
  {
   "AddTime": "2022-01-12 19:37:04",
@@ -11529,7 +11529,7 @@
   "PolicyName": "QcloudAccessForCIRoleInTDMQCkafka",
   "ServiceType": "ci",
   "Type": 2,
-  "UpdateTime": "2025-03-19 11:13:01"
+  "UpdateTime": "2025-06-26 21:02:57"
  },
  {
   "AddTime": "2025-03-20 16:45:01",
@@ -11541,7 +11541,7 @@
   "PolicyName": "QcloudTIONEOperationalPrecondition",
   "ServiceType": "tione",
   "Type": 2,
-  "UpdateTime": "2025-05-20 21:28:54"
+  "UpdateTime": "2025-06-26 21:02:58"
  },
  {
   "AddTime": "2025-03-28 17:12:12",

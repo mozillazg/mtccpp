@@ -135,7 +135,11 @@
     "tke:DescribeClusters",
     "tke:DescribeClusterInstances",
     "tke:DescribeVpcCniPodLimits",
-    "cvm:DescribeKeyPairs"
+    "cvm:DescribeKeyPairs",
+    "cvm:DescribeInstanceTypeConfigs",
+    "cvm:DescribeZoneInstanceConfigInfos",
+    "cvm:DescribeZones",
+    "cvm:DescribeRegions"
    ],
    "effect": "allow",
    "resource": "*"
