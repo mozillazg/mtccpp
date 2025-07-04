@@ -4257,7 +4257,7 @@
   "PolicyName": "QcloudAccessForTCBRoleInAccessCloudBaseRun",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2025-06-26 21:02:47"
+  "UpdateTime": "2025-07-03 21:09:49"
  },
  {
   "AddTime": "2020-04-27 15:09:48",
@@ -5841,7 +5841,7 @@
   "PolicyName": "QcloudRCEReadOnlyAccess",
   "ServiceType": "rce",
   "Type": 2,
-  "UpdateTime": "2021-04-29 10:44:11"
+  "UpdateTime": "2025-07-03 21:09:50"
  },
  {
   "AddTime": "2021-01-25 11:43:48",
@@ -11760,6 +11760,30 @@
   "UpdateTime": "2025-05-16 15:31:48"
  },
  {
+  "AddTime": "2025-05-16 17:55:58",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 241057356,
+  "PolicyName": "QcloudGATWOFullAccess",
+  "ServiceType": "ga2",
+  "Type": 2,
+  "UpdateTime": "2025-05-16 17:55:58"
+ },
+ {
+  "AddTime": "2025-05-16 17:55:59",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 241057357,
+  "PolicyName": "QcloudGATWOReadOnlyAccess",
+  "ServiceType": "ga2",
+  "Type": 2,
+  "UpdateTime": "2025-05-16 17:55:59"
+ },
+ {
   "AddTime": "2025-05-20 09:51:40",
   "CreateMode": 2,
   "Deactived": 0,
@@ -11890,18 +11914,6 @@
   "ServiceType": "tencentdb",
   "Type": 2,
   "UpdateTime": "2025-06-11 21:00:17"
- },
- {
-  "AddTime": "2025-06-27 09:46:16",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 244687933,
-  "PolicyName": "QcloudBTOEReadOnlyAccess",
-  "ServiceType": "btoe",
-  "Type": 2,
-  "UpdateTime": "2025-06-27 09:46:16"
  },
  {
   "AddTime": "2025-06-30 14:58:12",

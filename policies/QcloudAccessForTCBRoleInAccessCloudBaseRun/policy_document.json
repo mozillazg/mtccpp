@@ -222,7 +222,8 @@
     "cynosdb:DescribeBackupDownloadUrl",
     "cynosdb:ModifyBackupName",
     "cynosdb:RollBackCluster",
-    "cynosdb:DescribeClusterInstanceGroups"
+    "cynosdb:DescribeClusterInstanceGroups",
+    "cynosdb:DescribeInstanceLoginInfo"
    ],
    "effect": "allow",
    "resource": "*"
