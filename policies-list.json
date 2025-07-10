@@ -11926,5 +11926,29 @@
   "ServiceType": "finance",
   "Type": 2,
   "UpdateTime": "2025-06-30 14:58:12"
+ },
+ {
+  "AddTime": "2025-07-08 15:29:02",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 245515128,
+  "PolicyName": "QcloudFWMFullAccess",
+  "ServiceType": "fwm",
+  "Type": 2,
+  "UpdateTime": "2025-07-08 15:29:02"
+ },
+ {
+  "AddTime": "2025-07-08 15:29:03",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 245515131,
+  "PolicyName": "QcloudFWMReadOnlyAccess",
+  "ServiceType": "fwm",
+  "Type": 2,
+  "UpdateTime": "2025-07-08 15:29:03"
  }
 ]
