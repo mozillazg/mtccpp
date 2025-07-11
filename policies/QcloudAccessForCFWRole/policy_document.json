@@ -264,7 +264,9 @@
     "tke:DescribeClusterInstances",
     "tke:DescribeExternalNodeSupportConfig",
     "monitor:BatchGetStatisticsData",
-    "monitor:GetMonitorData"
+    "monitor:GetMonitorData",
+    "ga2:DescribeGlobalAccelerators",
+    "ga2:DescribeAccelerateAreas"
    ],
    "effect": "allow",
    "resource": "*"

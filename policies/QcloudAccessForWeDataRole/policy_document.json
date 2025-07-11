@@ -284,7 +284,16 @@
     "tag:TagResources",
     "tag:UnTagResources",
     "tag:GetResources",
-    "tag:ModifyResourceTags"
+    "tag:ModifyResourceTags",
+    "tchousex:AuthorizedSql",
+    "tchousex:DescribeSparkAllSessions",
+    "tchousex:DescribeNotebookSession",
+    "tchousex:DeleteNotebookSession",
+    "tchousex:DescribeNotebookSessionStatement",
+    "tchousex:CreateNotebookSessionStatement",
+    "tchousex:CreateNotebookSession",
+    "oceanus:CreateEngineJob",
+    "oceanus:DeleteEngineJob"
    ],
    "effect": "allow",
    "resource": [

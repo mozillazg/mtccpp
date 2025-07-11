@@ -11,7 +11,8 @@
     "finance:DescribeAllocat*",
     "finance:DescribeGather*",
     "finance:DescribeConsumption*",
-    "finance:DescribeCostWhiteUserStatus"
+    "finance:DescribeCostWhiteUserStatus",
+    "finance:DescribeCost*"
    ],
    "effect": "allow",
    "resource": "*"

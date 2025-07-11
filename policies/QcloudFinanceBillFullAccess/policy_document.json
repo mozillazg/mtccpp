@@ -23,7 +23,8 @@
     "finance:CreateAllocation*",
     "finance:CreateBillUserCosInfo",
     "finance:CreateCostWhiteUser",
-    "finance:DescribeCostWhiteUserStatus"
+    "finance:DescribeCostWhiteUserStatus",
+    "finance:DescribeCost*"
    ],
    "effect": "allow",
    "resource": "*"

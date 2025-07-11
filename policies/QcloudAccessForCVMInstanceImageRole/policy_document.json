@@ -17,7 +17,8 @@
     "cvm:TerminateDisks",
     "cvm:InitializeDisks",
     "cvm:Describe*",
-    "cvm:Inquiry*"
+    "cvm:Inquiry*",
+    "cvm:ModifySnapshotsSharePermission"
    ],
    "effect": "allow",
    "resource": "*"
