@@ -1,9 +1,9 @@
 {
  "AddTime": "2018-04-19 15:48:17",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"redis:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"redis:Get*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"redis:Inquiry*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"monitor:Describe*\",\"monitor:Get*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\",\"vpc:DescribeVpcs\",\"vpc:DescribeSubnets\",\"cvm:DescribeSecurityGroups\",\"tag:DescribeTags\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"redis:Describe*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"redis:Get*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"redis:Inquiry*\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"monitor:Describe*\",\"monitor:Get*\",\"cam:ListUsersForGroup\",\"cam:ListGroups\",\"cam:GetGroup\",\"vpc:DescribeVpcs\",\"vpc:DescribeSubnets\",\"cvm:DescribeSecurityGroups\",\"tag:DescribeTags\",\"tag:DescribeProjects\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudRedisReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2024-03-29 15:36:14"
+ "UpdateTime": "2025-07-17 21:00:55"
 }

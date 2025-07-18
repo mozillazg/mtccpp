@@ -293,7 +293,8 @@
     "tchousex:CreateNotebookSessionStatement",
     "tchousex:CreateNotebookSession",
     "oceanus:CreateEngineJob",
-    "oceanus:DeleteEngineJob"
+    "oceanus:DeleteEngineJob",
+    "vpc:DescribeSubnets"
    ],
    "effect": "allow",
    "resource": [

@@ -2,7 +2,8 @@
  "statement": [
   {
    "action": [
-    "cmg:*"
+    "cmg:*",
+    "msp:*"
    ],
    "effect": "allow",
    "resource": "*"

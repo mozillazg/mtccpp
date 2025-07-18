@@ -31,7 +31,8 @@
     "vpc:DescribeVpcs",
     "vpc:DescribeSubnets",
     "cvm:DescribeSecurityGroups",
-    "tag:DescribeTags"
+    "tag:DescribeTags",
+    "tag:DescribeProjects"
    ],
    "effect": "allow",
    "resource": "*"

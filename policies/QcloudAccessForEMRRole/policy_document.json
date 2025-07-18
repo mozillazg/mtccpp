@@ -153,7 +153,20 @@
     "chdfs:DescribeMountPoint",
     "chdfs:DescribeInventoryConfigs",
     "cvm:Describe*",
-    "cvm:Inquiry*"
+    "cvm:Inquiry*",
+    "redis:DescribeCreateGoodsInfo",
+    "redis:InquiryPriceCreateInstance",
+    "redis:DescribeInstances",
+    "redis:DestroyPostpaidInstance",
+    "redis:DestroyPrepaidInstance",
+    "redis:CleanUpInstance",
+    "clb:DeleteLoadBalancerListeners",
+    "clb:DescribeListeners",
+    "clb:DescribeLoadBalancers",
+    "clb:BatchRegisterTargets",
+    "clb:CreateListener",
+    "clb:DescribeLoadBalancersDetail",
+    "tag:GetTags"
    ],
    "effect": "allow",
    "resource": "*"

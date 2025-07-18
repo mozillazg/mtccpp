@@ -2,7 +2,13 @@
  "statement": [
   {
    "action": [
-    "rum:Describe*"
+    "rum:Describe*",
+    "rum:Get*",
+    "rum:Query*",
+    "rum:CheckOwnUin",
+    "rum:DimDistributionAnalysis",
+    "rum:SingleCaseRelatedUB",
+    "rum:VerifySDK"
    ],
    "effect": "allow",
    "resource": "*"
