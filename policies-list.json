@@ -11950,5 +11950,29 @@
   "ServiceType": "fwm",
   "Type": 2,
   "UpdateTime": "2025-07-08 15:29:03"
+ },
+ {
+  "AddTime": "2025-07-16 14:48:33",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 246150850,
+  "PolicyName": "QcloudCEMFullAccess",
+  "ServiceType": "cem",
+  "Type": 2,
+  "UpdateTime": "2025-07-16 14:48:33"
+ },
+ {
+  "AddTime": "2025-07-16 14:48:34",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 246150851,
+  "PolicyName": "QcloudCEMReadOnlyAccess",
+  "ServiceType": "cem",
+  "Type": 2,
+  "UpdateTime": "2025-07-16 14:48:34"
  }
 ]
