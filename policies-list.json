@@ -11974,5 +11974,41 @@
   "ServiceType": "cem",
   "Type": 2,
   "UpdateTime": "2025-07-16 14:48:34"
+ },
+ {
+  "AddTime": "2025-07-22 14:12:42",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 246586734,
+  "PolicyName": "QcloudFullAccessForRumPro",
+  "ServiceType": "rum",
+  "Type": 2,
+  "UpdateTime": "2025-07-22 14:12:42"
+ },
+ {
+  "AddTime": "2025-07-22 14:13:01",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 246586747,
+  "PolicyName": "QcloudRegularUserAccessForRumPro",
+  "ServiceType": "rum",
+  "Type": 2,
+  "UpdateTime": "2025-07-22 14:13:01"
+ },
+ {
+  "AddTime": "2025-07-22 14:13:14",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 246586749,
+  "PolicyName": "QcloudBusinessSystemAccessForRumPro",
+  "ServiceType": "rum",
+  "Type": 2,
+  "UpdateTime": "2025-07-22 14:13:14"
  }
 ]
