@@ -78,7 +78,9 @@
     "clb:CreateLoadBalancer",
     "clb:CreateListener",
     "clb:RegisterTargets",
-    "clb:DeregisterTargets"
+    "clb:DeregisterTargets",
+    "tke:DescribeEKSClusterCredential",
+    "monitor:GetMonitorData"
    ],
    "effect": "allow",
    "resource": [
