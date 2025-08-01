@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-07-31 09:32:31",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cos:GetService\",\"billing:DescribeBillUserCosInfo\",\"billing:CreateBillUserCosInfo\",\"billing:CreateCostWhiteUser\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudAccessForCLSRoleInAccessBilling",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-07-31 09:32:31"
+}

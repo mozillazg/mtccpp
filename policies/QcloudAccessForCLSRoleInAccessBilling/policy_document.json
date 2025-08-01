@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cos:GetService",
+    "billing:DescribeBillUserCosInfo",
+    "billing:CreateBillUserCosInfo",
+    "billing:CreateCostWhiteUser"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
