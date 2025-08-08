@@ -294,7 +294,19 @@
     "tchousex:CreateNotebookSession",
     "oceanus:CreateEngineJob",
     "oceanus:DeleteEngineJob",
-    "vpc:DescribeSubnets"
+    "vpc:DescribeSubnets",
+    "tione:ModifyModelServiceAuthToken",
+    "tione:DeleteModelServiceAuthToken",
+    "tione:CreateModelServiceAuthToken",
+    "tione:DescribeBillingResourceGroups",
+    "tione:DescribeBillingResourceGroup",
+    "tione:DescribeBillingResourceInstanceRunningJobs",
+    "tione:ModifyTrainingTask",
+    "vpc:CreateVpcEndPoint",
+    "vpc:ModifyVpcEndPointAttribute",
+    "vpc:DeleteVpcEndPoint",
+    "vpc:DescribeVpcEndPoint",
+    "cfs:DescribeCfsFileSystems"
    ],
    "effect": "allow",
    "resource": [
