@@ -11350,5 +11350,29 @@
   "ServiceType": "cls",
   "Type": 2,
   "UpdateTime": "2025-07-31 09:32:31"
+ },
+ {
+  "AddTime": "2025-08-12 16:29:37",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 248623379,
+  "PolicyName": "QcloudAccessForTIONERoleInNetworkAccess",
+  "ServiceType": "tione",
+  "Type": 2,
+  "UpdateTime": "2025-08-12 16:29:37"
+ },
+ {
+  "AddTime": "2025-08-12 20:34:26",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 248652037,
+  "PolicyName": "QcloudAccessForTIONERoleInNetwork",
+  "ServiceType": "tione",
+  "Type": 2,
+  "UpdateTime": "2025-08-12 20:34:26"
  }
 ]

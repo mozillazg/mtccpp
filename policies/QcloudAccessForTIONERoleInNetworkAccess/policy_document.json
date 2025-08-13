@@ -1,0 +1,23 @@
+{
+ "statement": [
+  {
+   "action": [
+    "clb:DescribeLoadBalancers",
+    "clb:CreateListener",
+    "clb:DescribeListeners",
+    "clb:ModifyListener",
+    "clb:DescribeQuota",
+    "clb:DescribeTaskStatus",
+    "clb:DescribeTargetHealth",
+    "clb:DescribeTargets",
+    "clb:ModifyTargetWeight",
+    "clb:BatchModifyTargetWeight",
+    "clb:BatchDeregisterTargets",
+    "clb:BatchRegisterTargets"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
