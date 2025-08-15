@@ -5,7 +5,8 @@
     "ckafka:DescribeInstances",
     "ckafka:DescribeInstancesDetail",
     "ckafka:DescribeTopic",
-    "ckafka:DescribeRoute"
+    "ckafka:DescribeRoute",
+    "ckafka:CreateRoute"
    ],
    "effect": "allow",
    "resource": "*"

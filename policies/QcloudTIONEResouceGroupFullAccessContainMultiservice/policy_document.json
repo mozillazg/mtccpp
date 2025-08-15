@@ -63,7 +63,13 @@
     "tione:DescribeMountInstances",
     "tione:DescribeMountInstance",
     "tione:DescribeCvmInstanceConfigInfos",
-    "tione:DescribeCvmZoneInstanceConfigInfos"
+    "tione:DescribeCvmZoneInstanceConfigInfos",
+    "tione:DescribeAccessRules",
+    "tione:DescribeRoleTemplate",
+    "tione:CreateRole",
+    "tione:DescribeResourceMonitorAvailableMetric",
+    "tione:CreatePreloadFile",
+    "cam:ListMaskedSubAccounts"
    ],
    "effect": "allow",
    "resource": "*"
@@ -75,7 +81,9 @@
    "effect": "allow",
    "resource": [
     "qcs::tione:::datasource/*",
-    "qcs::tione:::resourcegroup/*"
+    "qcs::tione:::resourcegroup/*",
+    "qcs::tione:::role/*",
+    "qcs::tione:::preloadfile/*"
    ]
   }
  ],

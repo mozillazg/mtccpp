@@ -121,7 +121,12 @@
     "tione:DescribeInferCode",
     "tione:DescribeInsideAction",
     "tione:DescribeModelServiceHotUpdated",
-    "tione:DescribeModelServiceUserInfo"
+    "tione:DescribeModelServiceUserInfo",
+    "tione:CreateRole",
+    "tione:DescribeRoleTemplate",
+    "tione:DescribeAccessRules",
+    "tione:CreatePreloadFile",
+    "tione:DescribeResourceMonitorAvailableMetric"
    ],
    "effect": "allow",
    "resource": "*"

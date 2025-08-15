@@ -8,15 +8,6 @@
    "resource": [
     "*"
    ]
-  },
-  {
-   "action": [
-    "cam:PassRole"
-   ],
-   "effect": "allow",
-   "resource": [
-    "qcs::cam:::RoleName/WeData_QCSRole"
-   ]
   }
  ],
  "version": "2.0"

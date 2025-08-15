@@ -25,7 +25,8 @@
     "tke:DescribePostNodeResources",
     "tcr:DescribeImagePersonal",
     "tcr:CreateApplicationTokenPersonal",
-    "tcr:DescribeApplicationTokenPersonal"
+    "tcr:DescribeApplicationTokenPersonal",
+    "tke:DescribeSuperNodes"
    ],
    "effect": "allow",
    "resource": [
