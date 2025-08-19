@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tione:CreateBillingResourceInstanceHealthCheckTask"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
