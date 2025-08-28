@@ -10,7 +10,8 @@
     "cvm:DescribeSecurityGroups",
     "tag:DescribeTags",
     "tag:DescribeTagKeys",
-    "tag:DescribeProjects"
+    "tag:DescribeProjects",
+    "monitor:Describe*"
    ],
    "effect": "allow",
    "resource": "*"

@@ -26,7 +26,8 @@
     "cvm:RepairTaskControl",
     "cvm:DescribeTaskInfo",
     "cvm:Describe*",
-    "cvm:Inquiry*"
+    "cvm:Inquiry*",
+    "vpc:DescribeSecurityGroupLimits"
    ],
    "effect": "allow",
    "resource": "*"

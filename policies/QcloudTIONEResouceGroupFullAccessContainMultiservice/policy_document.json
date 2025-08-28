@@ -69,7 +69,8 @@
     "tione:CreateRole",
     "tione:DescribeResourceMonitorAvailableMetric",
     "tione:CreatePreloadFile",
-    "cam:ListMaskedSubAccounts"
+    "cam:ListMaskedSubAccounts",
+    "vpc:DescribeSecurityGroupLimits"
    ],
    "effect": "allow",
    "resource": "*"

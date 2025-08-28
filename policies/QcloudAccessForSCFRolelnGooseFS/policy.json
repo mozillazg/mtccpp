@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-08-27 17:49:26",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"goosefs:DescribeClusterConfig\",\"goosefs:DescribeNamespaces\",\"goosefs:DescribeClusters\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudAccessForSCFRolelnGooseFS",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-08-27 17:49:26"
+}

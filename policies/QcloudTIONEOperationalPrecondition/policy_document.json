@@ -126,7 +126,20 @@
     "tione:DescribeRoleTemplate",
     "tione:DescribeAccessRules",
     "tione:CreatePreloadFile",
-    "tione:DescribeResourceMonitorAvailableMetric"
+    "tione:DescribeResourceMonitorAvailableMetric",
+    "tione:DescribeJudgeTemplateHints",
+    "tione:DescribeUploadedDatasetMetricsConfig",
+    "tione:DeleteUploadedDatasetMetricsFile",
+    "tione:DescribeUploadedDatasetMetricsFiles",
+    "tione:CreateEvaluationJudgeTemplate",
+    "tione:DescribeDatasetMetricsFilesCredential",
+    "tione:DescribeEvaluationDatasetMetrics",
+    "tione:CreateEvaluationDatasetMetrics",
+    "tione:CreateObjectiveEvaluationDraft",
+    "tione:DescribeEvaluationJudgeAdjustmentScore",
+    "tione:DescribeEvaluationJudgeAdjustmentAsyncScore",
+    "tione:DescribeEvaluationJudgeAdjustmentResponse",
+    "tione:DescribeEvaluationJudgeAdjustmentAsyncResponse"
    ],
    "effect": "allow",
    "resource": "*"

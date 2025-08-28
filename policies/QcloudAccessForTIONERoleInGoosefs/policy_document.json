@@ -10,7 +10,9 @@
     "goosefs:DescribeTasks",
     "goosefs:DescribeClusters",
     "goosefs:DescribeNamespaces",
-    "goosefs:DeleteClusterNodes"
+    "goosefs:DeleteClusterNodes",
+    "goosefs:AddCrossVpcSubnetSupportForClientNode",
+    "goosefs:BuildClientNodeMountCommand"
    ],
    "effect": "allow",
    "resource": "*"
