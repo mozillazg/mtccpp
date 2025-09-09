@@ -1,0 +1,81 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ioa:DescribeMDMStatus",
+    "ioa:DescribeDeliveryServers",
+    "ioa:DescribeEnterpriseIntranetIP",
+    "ioa:DescribeCertManageStatus",
+    "ioa:DescribeLdapUserSourceSwitch",
+    "ioa:DescribeLogo",
+    "ioa:UploadLogo",
+    "ioa:ResetLogo",
+    "ioa:SaveLogo",
+    "ioa:DescribeIcon",
+    "ioa:CreateAPISecret",
+    "ioa:DescribeAPISecrets",
+    "ioa:CheckAPISecret",
+    "ioa:SaveOtherClientConf",
+    "ioa:CreateEnterpriseIntranetIP",
+    "ioa:DescribeAdminDomainList",
+    "ioa:DescribeAppleID",
+    "ioa:DescribeAdminDomainDetail",
+    "ioa:ModifyDeliveryServer",
+    "ioa:UploadMDMPushCert",
+    "ioa:DeleteAdminDomain",
+    "ioa:DeleteEnterpriseIntranetIP",
+    "ioa:DescribeLicenseTenantWhiteList",
+    "ioa:DescribeConnectorConfig",
+    "ioa:DescribeConnectorGroups",
+    "ioa:ModifyConnectorConfigs",
+    "ioa:DescribeDefaultConfig",
+    "ioa:DescribeRootAccountGroup",
+    "ioa:DeleteTerminalLogsByTimeRange",
+    "ioa:DeleteLogIndices",
+    "ioa:ModifyEnterpriseIntranetIP",
+    "ioa:DescribeAccountGroupDomainTree",
+    "ioa:DescribeDeviceGroupDomainTree",
+    "ioa:DescribeRootDomainId",
+    "ioa:DescribeDownloadURL",
+    "ioa:DescribeUploadURL",
+    "ioa:ModifyAlertRuleItems",
+    "ioa:DescribeAlertRuleItems",
+    "ioa:DescribeDeliveryStrategies",
+    "ioa:ModifyDeliveryStrategy",
+    "ioa:DeleteDeliveryServer",
+    "ioa:ModifySystemSettings",
+    "ioa:DescribeSystemSettings",
+    "ioa:ModifyAPISecret",
+    "ioa:DescribeAppleCSRDownloadURL",
+    "ioa:SaveSystemConfigs"
+   ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "ioa:DescribeRootGroupId",
+    "ioa:CheckResourceLibraryQuote",
+    "ioa:DescribeBannersEx",
+    "ioa:CreateBannerEx",
+    "ioa:DeleteBannersEx",
+    "ioa:ModifyBannerEx",
+    "ioa:ModifyBlockedDeviceConfig",
+    "ioa:DescribeLogDetailTerminalOperations"
+   ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

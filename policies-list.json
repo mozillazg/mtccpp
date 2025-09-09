@@ -11434,5 +11434,53 @@
   "ServiceType": "scf",
   "Type": 2,
   "UpdateTime": "2025-08-27 17:49:26"
+ },
+ {
+  "AddTime": "2025-09-08 10:15:32",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 251103955,
+  "PolicyName": "QcloudIOASystemSettingReadOnlyAccess",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2025-09-08 10:15:32"
+ },
+ {
+  "AddTime": "2025-09-08 10:16:19",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 251104070,
+  "PolicyName": "QcloudIOASystemSettingAccess",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2025-09-08 10:16:19"
+ },
+ {
+  "AddTime": "2025-09-08 10:16:40",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 251104123,
+  "PolicyName": "QcloudIOASoftwareManagement",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2025-09-08 10:16:40"
+ },
+ {
+  "AddTime": "2025-09-08 10:16:54",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 251104157,
+  "PolicyName": "QcloudIOASoftwareReadOnlyAccess",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2025-09-08 10:16:54"
  }
 ]
