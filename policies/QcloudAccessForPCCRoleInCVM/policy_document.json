@@ -1,0 +1,31 @@
+{
+ "statement": [
+  {
+   "action": [
+    "sts:AssumeRole",
+    "kms:AsymmetricRsaDecrypt",
+    "kms:AsymmetricSm2Decrypt",
+    "kms:BindCloudResource",
+    "kms:BindCloudResource",
+    "kms:CancelKeyArchive",
+    "kms:CancelKeyDeletion",
+    "kms:CreateKey",
+    "kms:Decrypt",
+    "kms:Encrypt",
+    "ssm:CreateSecret",
+    "ssm:DeleteSecret",
+    "ssm:GetSecretValue",
+    "ssm:ListSecrets",
+    "ssm:UpdateSecret",
+    "ssm:DescribeResourceIds",
+    "ssm:DescribeSecret",
+    "pcc:*"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

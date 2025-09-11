@@ -11482,5 +11482,17 @@
   "ServiceType": "ioa",
   "Type": 2,
   "UpdateTime": "2025-09-08 10:16:54"
+ },
+ {
+  "AddTime": "2025-09-10 20:11:57",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 251370298,
+  "PolicyName": "QcloudAccessForPCCRoleInCVM",
+  "ServiceType": "cooperator",
+  "Type": 2,
+  "UpdateTime": "2025-09-10 20:11:57"
  }
 ]
