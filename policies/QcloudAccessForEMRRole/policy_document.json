@@ -166,7 +166,19 @@
     "clb:BatchRegisterTargets",
     "clb:CreateListener",
     "clb:DescribeLoadBalancersDetail",
-    "tag:GetTags"
+    "tag:GetTags",
+    "cynosdb:CreateClusters",
+    "cynosdb:DescribeResourcesByDealName",
+    "cynosdb:DescribeInstances",
+    "cynosdb:DescribeClusters",
+    "cynosdb:OfflineCluster",
+    "cynosdb:IsolateCluster",
+    "cynosdb:DescribeParamForTrade",
+    "cynosdb:InquirePriceCreate",
+    "cynosdb:OpenAuditService",
+    "cdb:OpenAuditService",
+    "cvm:ModifyDiskExtraPerformance",
+    "tccatalog:CreateTCCatalogEndpoint"
    ],
    "effect": "allow",
    "resource": "*"
@@ -176,7 +188,8 @@
    "effect": "allow",
    "resource": [
     "qcs::cdb:::*",
-    "qcs::cvm:::*"
+    "qcs::cvm:::*",
+    "qcs::cynosdb:::*"
    ]
   },
   {

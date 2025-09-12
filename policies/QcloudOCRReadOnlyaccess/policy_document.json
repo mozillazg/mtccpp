@@ -25,7 +25,11 @@
     "ocr:*OCR",
     "ocr:ConsoleQuery*",
     "ocr:ConsoleCheck*",
-    "ocr:ResolveAddress"
+    "ocr:ResolveAddress",
+    "ocr:ExtractDocBasic",
+    "ocr:ExtractDocMulti",
+    "ocr:ExtractDocMultiPro",
+    "ocr:HandwritingEssayOCR"
    ],
    "effect": "allow",
    "resource": "*"
