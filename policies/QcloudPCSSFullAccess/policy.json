@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-09-01 09:53:57",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"pcss:*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudPCSSFullAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-09-01 09:53:57"
+}

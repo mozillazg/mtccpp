@@ -11436,6 +11436,30 @@
   "UpdateTime": "2025-08-27 17:49:26"
  },
  {
+  "AddTime": "2025-09-01 09:53:57",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 250483730,
+  "PolicyName": "QcloudPCSSFullAccess",
+  "ServiceType": "pcss",
+  "Type": 2,
+  "UpdateTime": "2025-09-01 09:53:57"
+ },
+ {
+  "AddTime": "2025-09-01 09:53:58",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 250483733,
+  "PolicyName": "QcloudPCSSReadOnlyaccess",
+  "ServiceType": "pcss",
+  "Type": 2,
+  "UpdateTime": "2025-09-01 09:53:58"
+ },
+ {
   "AddTime": "2025-09-08 10:15:32",
   "CreateMode": 2,
   "Deactived": 0,

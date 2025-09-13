@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-09-01 09:53:58",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"pcss:*\"],\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudPCSSReadOnlyaccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-09-01 09:53:58"
+}
