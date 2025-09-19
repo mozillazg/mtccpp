@@ -178,7 +178,9 @@
     "cynosdb:OpenAuditService",
     "cdb:OpenAuditService",
     "cvm:ModifyDiskExtraPerformance",
-    "tccatalog:CreateTCCatalogEndpoint"
+    "tccatalog:CreateTCCatalogEndpoint",
+    "tccatalog:DescribeMetastoreInstances",
+    "cynosdb:DescribeZones"
    ],
    "effect": "allow",
    "resource": "*"

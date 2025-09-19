@@ -26,7 +26,20 @@
     "dlc:DescribeSparkAppJobs",
     "dlc:DescribeSparkAppJob",
     "mongodb:DescribeDBInstances",
-    "cos:HeadBucket"
+    "cos:HeadBucket",
+    "vpc:DescribeVpcs",
+    "oceanus:DescribeWorkSpaces",
+    "oceanus:CheckIsAdministrator",
+    "tchousex:DescribeEngineRegions",
+    "tchousex:DescribeEngineInstances",
+    "dlc:DescribeDatabases",
+    "dlc:DescribeStandardEngineResourceGroups",
+    "cdwpg:DescribeInstances",
+    "cynosdb:DescribeInstances",
+    "kms:GetServiceStatus",
+    "cos:GetService",
+    "tse:DescribeCloudNativeAPIGateway",
+    "tse:DescribeCloudNativeAPIGatewayConfig"
    ],
    "effect": "allow",
    "resource": [
