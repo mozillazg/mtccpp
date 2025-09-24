@@ -3,7 +3,8 @@
   {
    "action": [
     "wedata:Describe*",
-    "wedata:List*"
+    "wedata:List*",
+    "wedata:Get*"
    ],
    "effect": "allow",
    "resource": "*"

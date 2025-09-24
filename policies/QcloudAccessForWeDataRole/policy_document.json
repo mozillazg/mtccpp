@@ -306,7 +306,13 @@
     "vpc:ModifyVpcEndPointAttribute",
     "vpc:DeleteVpcEndPoint",
     "vpc:DescribeVpcEndPoint",
-    "cfs:DescribeCfsFileSystems"
+    "cfs:DescribeCfsFileSystems",
+    "cynosdb:DescribeInstances",
+    "dcdb:DescribeDCDBInstances",
+    "tbase:DescribeInstances",
+    "cdwch:DescribeInstancesNew",
+    "cdwdoris:DescribeInstances",
+    "ctsdb:DescribeClusters"
    ],
    "effect": "allow",
    "resource": [
