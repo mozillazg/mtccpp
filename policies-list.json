@@ -11518,5 +11518,29 @@
   "ServiceType": "cooperator",
   "Type": 2,
   "UpdateTime": "2025-09-10 20:11:57"
+ },
+ {
+  "AddTime": "2025-09-29 14:43:21",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 253045410,
+  "PolicyName": "QcloudAccessForCWPRoleInSCF",
+  "ServiceType": "cwp",
+  "Type": 2,
+  "UpdateTime": "2025-09-29 14:43:21"
+ },
+ {
+  "AddTime": "2025-09-29 14:43:28",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 253045415,
+  "PolicyName": "QcloudAccessForTCSSRoleInSCF",
+  "ServiceType": "tcss",
+  "Type": 2,
+  "UpdateTime": "2025-09-29 14:43:29"
  }
 ]

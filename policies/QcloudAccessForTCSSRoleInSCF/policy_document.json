@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "scf:InvokeFunction",
+    "scf:ListAliases",
+    "scf:ListFunctions",
+    "scf:ListVersionByFunction",
+    "scf:ListNamespaces"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
