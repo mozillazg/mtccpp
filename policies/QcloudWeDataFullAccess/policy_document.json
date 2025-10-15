@@ -2,7 +2,8 @@
  "statement": [
   {
    "action": [
-    "wedata:*"
+    "wedata:*",
+    "cam:PassRole"
    ],
    "effect": "allow",
    "resource": [
