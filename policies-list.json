@@ -11542,5 +11542,41 @@
   "ServiceType": "tcss",
   "Type": 2,
   "UpdateTime": "2025-09-29 14:43:29"
+ },
+ {
+  "AddTime": "2025-10-14 10:44:39",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 254103437,
+  "PolicyName": "QcloudSoftwareFullAccess",
+  "ServiceType": "software",
+  "Type": 2,
+  "UpdateTime": "2025-10-14 10:44:39"
+ },
+ {
+  "AddTime": "2025-10-14 10:44:40",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 254103438,
+  "PolicyName": "QcloudSoftwareReadOnlyAccess",
+  "ServiceType": "software",
+  "Type": 2,
+  "UpdateTime": "2025-10-14 10:44:40"
+ },
+ {
+  "AddTime": "2025-10-15 11:37:45",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 254194278,
+  "PolicyName": "QcloudTIONEDeveloperContainMultiservice",
+  "ServiceType": "tione",
+  "Type": 2,
+  "UpdateTime": "2025-10-15 11:37:45"
  }
 ]

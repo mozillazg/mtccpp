@@ -1,0 +1,90 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cam:GetRole",
+    "cam:ListAttachedRolePolicies",
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeSubnetEx",
+    "vpc:DescribeNetworkAcls",
+    "vpc:DescribeSecurityGroupPolicies",
+    "cls:DescribeLogsets",
+    "cls:DescribeTopics",
+    "tcr:DescribeInstances",
+    "tcr:DescribeNamespaces",
+    "tcr:DescribeRepositories",
+    "tcr:DescribeRepositoryOwnerPersonal",
+    "tcr:DescribeRepositoryFilterPersonal",
+    "tcr:DescribeNamespacePersonal",
+    "tcr:DescribeInternalEndpoints",
+    "monitor:GetMonitorData",
+    "cos:GetService",
+    "cos:GetObject",
+    "cos:GetBucket",
+    "cos:HeadObject",
+    "cos:OptionsObject",
+    "cos:PutObject",
+    "tag:DescribeTagKeys",
+    "tag:DescribeTagValues",
+    "tag:AttachResourcesTag",
+    "tag:DetachResourcesTag",
+    "tag:GetResources",
+    "tag:DescribeEffectivePolicy",
+    "cfs:DescribeCfsFileSystems",
+    "emr:DescribeInstances",
+    "emr:DescribeInstancesList",
+    "cfs:DescribeMountTargets",
+    "goosefs:DescribeClusters",
+    "goosefs:DescribeNamespaces",
+    "goosefs:DescribeFileSystems",
+    "clb:DescribeListeners",
+    "clb:DescribeLoadBalancers"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "tione:*"
+   ],
+   "effect": "allow",
+   "resource": [
+    "qcs::tione:::vpcprivatelink/*",
+    "qcs::tione:::trainingtask/*",
+    "qcs::tione:::subeval/*",
+    "qcs::tione:::objeval/*",
+    "qcs::tione:::servicegroup/*",
+    "qcs::tione:::recyclepolicy/*",
+    "qcs::tione:::personalannotationtask/*",
+    "qcs::tione:::notebook/*",
+    "qcs::tione:::modelendpoint/*",
+    "qcs::tione:::modelacctask/*",
+    "qcs::tione:::model/*",
+    "qcs::tione:::llmtraintask/*",
+    "qcs::tione:::lifecyclescript/*",
+    "qcs::tione:::flowproject/*",
+    "qcs::tione:::modelendpoint/*",
+    "qcs::tione:::dataset/*",
+    "qcs::tione:::dataprocesstask/*",
+    "qcs::tione:::coderepo/*",
+    "qcs::tione:::algo/*",
+    "qcs::tione:::batch/*"
+   ]
+  },
+  {
+   "action": [
+    "tione:Describe*",
+    "tione:Get*",
+    "tione:Check*",
+    "tione:Fetch*"
+   ],
+   "effect": "allow",
+   "resource": [
+    "qcs::tione:::resourcegroup/*",
+    "qcs::tione:::datasource/*",
+    "qcs::tione:::preloadfile/*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}
