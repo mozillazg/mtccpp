@@ -3180,18 +3180,6 @@
   "UpdateTime": "2020-09-29 11:37:49"
  },
  {
-  "AddTime": "2019-10-30 19:46:05",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 27750521,
-  "PolicyName": "QcloudCDSMASKFullAccess",
-  "ServiceType": "cdsmask",
-  "Type": 2,
-  "UpdateTime": "2021-07-12 16:23:13"
- },
- {
   "AddTime": "2019-10-31 19:41:14",
   "CreateMode": 2,
   "Deactived": 0,
@@ -7332,18 +7320,6 @@
   "UpdateTime": "2022-02-24 15:33:46"
  },
  {
-  "AddTime": "2022-02-28 10:26:37",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 115021114,
-  "PolicyName": "QcloudCCPFullAccess",
-  "ServiceType": "ccp",
-  "Type": 2,
-  "UpdateTime": "2022-02-28 10:26:37"
- },
- {
   "AddTime": "2022-03-01 15:13:18",
   "CreateMode": 2,
   "Deactived": 0,
@@ -7750,18 +7726,6 @@
   "ServiceType": "yinsuda",
   "Type": 2,
   "UpdateTime": "2022-06-21 20:07:15"
- },
- {
-  "AddTime": "2022-06-23 16:52:40",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 128910745,
-  "PolicyName": "QcloudCCPReadOnlyAccess",
-  "ServiceType": "ccp",
-  "Type": 2,
-  "UpdateTime": "2022-06-23 16:52:40"
  },
  {
   "AddTime": "2022-06-27 11:06:52",
@@ -8626,18 +8590,6 @@
   "ServiceType": "tsearch",
   "Type": 2,
   "UpdateTime": "2024-09-19 21:11:43"
- },
- {
-  "AddTime": "2023-04-20 10:27:54",
-  "CreateMode": 2,
-  "Deactived": 0,
-  "DeactivedDetail": [],
-  "IsServiceLinkedPolicy": 0,
-  "PolicyId": 158675036,
-  "PolicyName": "QcloudCDSMASKReadOnlyAccess",
-  "ServiceType": "cdsmask",
-  "Type": 2,
-  "UpdateTime": "2023-04-20 11:22:21"
  },
  {
   "AddTime": "2023-04-27 17:21:39",
