@@ -16,7 +16,30 @@
   },
   {
    "action": [
-    "ioa:DescribeTaskInformation"
+    "ioa:DescribeTaskInformation",
+    "ioa:DescribeTryNewClientPackages",
+    "ioa:DescribeGuide",
+    "ioa:ModifyGuide",
+    "ioa:DescribeApplyInfo",
+    "ioa:GivenLicense",
+    "ioa:DescribeConcurrentBandwidthAlarm",
+    "ioa:DescribeConfigCheck",
+    "ioa:DescribeGroupSyncSetting",
+    "ioa:DescribeRootAccountGroup",
+    "ioa:DescribeConnectorGroups",
+    "ioa:DescribeTaskList",
+    "ioa:DescribeRootGroupId",
+    "ioa:DescribeGroupSyncStatus",
+    "ioa:DescribeDeviceChildGroups",
+    "ioa:DescribeDevice",
+    "ioa:DescribeDevices",
+    "ioa:DescribeDeviceVirtualGroups",
+    "ioa:DescribeVirtualDevices",
+    "ioa:DescribeAccountGroups",
+    "ioa:DescribeLocalAccounts",
+    "ioa:DescribeSimpleLocalAccounts",
+    "ioa:DescribeAccountVirtualGroups",
+    "ioa:DescribeVirtualAccounts"
    ],
    "effect": "allow",
    "resource": "*"

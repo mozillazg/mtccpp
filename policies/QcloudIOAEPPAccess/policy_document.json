@@ -63,7 +63,6 @@
     "ioa:DescribeLogHistogramsTerminalSecurity",
     "ioa:DescribeLogDownloadURLTerminalSecurity",
     "ioa:DescribeLogTagsTerminalSecurity",
-    "ioa:CreateLogDownloadTaskTerminalSecurity",
     "ioa:ListReportVul",
     "ioa:ListReportVulEffectsDevices",
     "ioa:DescribeReportVulOstypeStatistics",
@@ -76,7 +75,17 @@
     "ioa:ListReportVulDownloadUrl",
     "ioa:CreateEDRRespondTask",
     "ioa:CreateHoneypotBindBait",
-    "ioa:CreateHoneypotDeliverFakeIp"
+    "ioa:CreateHoneypotDeliverFakeIp",
+    "ioa:DescribeConnectorGroups",
+    "ioa:DescribeDownloadVirusSamplesURL",
+    "ioa:CreateSoftDistributeTask",
+    "ioa:CreateSoftUpgradeTask",
+    "ioa:CreateClientShutDownTask",
+    "ioa:CreateClientUninstallTask",
+    "ioa:ModifyTask",
+    "ioa:DeleteTask",
+    "ioa:ExportLogDownloadTaskTerminalSecurity",
+    "ioa:CreatePullVirusSampleTask"
    ],
    "effect": "allow",
    "resource": "*"

@@ -16,7 +16,6 @@
     "ioa:DescribeGuide",
     "ioa:DescribeGlobalLicense",
     "ioa:DescribePublicEncryptKey",
-    "ioa:DescribeAutoVirtualGroupRuleItems",
     "ioa:DescribePolicyType",
     "ioa:DescribeProfileField",
     "ioa:DescribeModuleConfigUsage"

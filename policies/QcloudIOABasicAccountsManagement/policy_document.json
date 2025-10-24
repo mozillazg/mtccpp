@@ -35,7 +35,12 @@
     "ioa:UnbindVirtualAccounts",
     "ioa:BindVirtualAccounts",
     "ioa:CheckAccountImportTask",
-    "ioa:DescribeCheckAccountImportTaskResult"
+    "ioa:DescribeCheckAccountImportTaskResult",
+    "ioa:DescribeUserSecrets",
+    "ioa:DescribeAccountBindDeviceNum",
+    "ioa:DescribeUploadURL",
+    "ioa:CreateTaskForAccountVirtualGroupImport",
+    "ioa:CreateTaskForPreCheckAccountVirtualGroupImport"
    ],
    "effect": "allow",
    "resource": "*"

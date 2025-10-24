@@ -312,7 +312,22 @@
     "tbase:DescribeInstances",
     "cdwch:DescribeInstancesNew",
     "cdwdoris:DescribeInstances",
-    "ctsdb:DescribeClusters"
+    "ctsdb:DescribeClusters",
+    "emr:*",
+    "vpc:AcceptVpcPeeringConnection",
+    "vpc:CreateVpcPeeringConnection",
+    "vpc:DescribeRouteTables",
+    "vpc:DescribeVpcs",
+    "vpc:DeleteVpcPeeringConnection",
+    "tccatalog:*",
+    "tcr:DescribeNamespacePersonal",
+    "tcr:DescribeRepositoryFilterPersonal",
+    "tcr:DescribeImagePersonal",
+    "tcr:DescribeRepositoryOwnerPersonal",
+    "tcr:DescribeInstances",
+    "tcr:DescribeNamespaces",
+    "tcr:DescribeRepositories",
+    "tcr:DescribeImages"
    ],
    "effect": "allow",
    "resource": [

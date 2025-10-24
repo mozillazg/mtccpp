@@ -44,7 +44,10 @@
     "cvm:DescribeSecurityGroupPolicys",
     "clb:DescribeListeners",
     "clb:DescribeLoadBalancers",
-    "cam:ListMaskedSubAccounts"
+    "cam:ListMaskedSubAccounts",
+    "monitor:DescribeAlarmPolicies",
+    "vpc:DescribeSecurityGroupLimits",
+    "cam:ListGroupsForConsole"
    ],
    "effect": "allow",
    "resource": "*"

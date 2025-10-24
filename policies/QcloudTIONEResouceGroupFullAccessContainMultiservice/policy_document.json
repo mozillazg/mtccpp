@@ -70,7 +70,9 @@
     "tione:DescribeResourceMonitorAvailableMetric",
     "tione:CreatePreloadFile",
     "cam:ListMaskedSubAccounts",
-    "vpc:DescribeSecurityGroupLimits"
+    "vpc:DescribeSecurityGroupLimits",
+    "monitor:DescribeAlarmPolicies",
+    "cam:ListGroupsForConsole"
    ],
    "effect": "allow",
    "resource": "*"

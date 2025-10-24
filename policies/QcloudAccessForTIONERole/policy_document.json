@@ -126,7 +126,9 @@
     "tcr:CreateUserPersonal",
     "tcr:ModifyUserPasswordPersonal",
     "cvm:Inquiry*",
-    "cvm:Describe*"
+    "cvm:Describe*",
+    "cam:ListUsersForGroup",
+    "cam:ListGroupsForUser"
    ],
    "effect": "allow",
    "resource": "*"

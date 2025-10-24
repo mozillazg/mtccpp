@@ -139,7 +139,17 @@
     "tione:DescribeEvaluationJudgeAdjustmentScore",
     "tione:DescribeEvaluationJudgeAdjustmentAsyncScore",
     "tione:DescribeEvaluationJudgeAdjustmentResponse",
-    "tione:DescribeEvaluationJudgeAdjustmentAsyncResponse"
+    "tione:DescribeEvaluationJudgeAdjustmentAsyncResponse",
+    "tione:DescribeAggregatedMetricsFilesCredential",
+    "tione:DescribeUploadedAggregatedMetricsFiles",
+    "tione:DeleteUploadedAggregatedMetricsFile",
+    "tione:DescribeUploadedAggregatedMetricsConfig",
+    "tione:CreateAggregatedMetricConfig",
+    "tione:DescribeAggregatedMetricConfigs",
+    "tione:DeleteAggregatedMetricConfig",
+    "tione:DescribeAggregatedMetricsOutputFile",
+    "tione:DescribeEvaluationsMetrics",
+    "tione:DescribeFilePreview"
    ],
    "effect": "allow",
    "resource": "*"
