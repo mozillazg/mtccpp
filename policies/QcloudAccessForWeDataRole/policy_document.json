@@ -327,7 +327,19 @@
     "tcr:DescribeInstances",
     "tcr:DescribeNamespaces",
     "tcr:DescribeRepositories",
-    "tcr:DescribeImages"
+    "tcr:DescribeImages",
+    "cls:DescribeLogsets",
+    "cls:CreateLogset",
+    "cls:DescribeTopics",
+    "cls:CreateTopic",
+    "cls:CreateDataTransform",
+    "cls:ModifyDataTransform",
+    "cls:DeleteDataTransform",
+    "cls:DescribeDataTransformInfo",
+    "cls:CreateShipper",
+    "cls:DescribeShippers",
+    "cls:ModifyShipper",
+    "cls:DeleteShipper"
    ],
    "effect": "allow",
    "resource": [

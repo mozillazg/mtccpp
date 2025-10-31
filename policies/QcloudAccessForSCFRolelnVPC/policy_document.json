@@ -18,7 +18,11 @@
     "vpc:QueryTask",
     "vpc:AttachNetworkInterfaceEx",
     "vpc:DescribeNetworkInterfacesEx",
-    "vpc:CreateNetworkInterfaceEx"
+    "vpc:CreateNetworkInterfaceEx",
+    "vpc:DescribeVpcEndPoint",
+    "vpc:DeleteVpcEndPoint",
+    "vpc:CreateVpcEndPoint",
+    "vpc:ModifyVpcEndPointAttribute"
    ],
    "effect": "allow",
    "resource": "*"

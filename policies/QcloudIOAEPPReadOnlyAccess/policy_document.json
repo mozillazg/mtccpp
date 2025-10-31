@@ -81,7 +81,16 @@
     "ioa:ListReportVulDownloadUrl",
     "ioa:CreateEDRRespondTask",
     "ioa:CreateHoneypotBindBait",
-    "ioa:CreateHoneypotDeliverFakeIp"
+    "ioa:CreateHoneypotDeliverFakeIp",
+    "ioa:DescribeConnectorGroups",
+    "ioa:DescribeDownloadVirusSamplesURL",
+    "ioa:CreateSoftDistributeTask",
+    "ioa:CreateSoftUpgradeTask",
+    "ioa:CreateClientShutDownTask",
+    "ioa:CreateClientUninstallTask",
+    "ioa:ModifyTask",
+    "ioa:DeleteTask",
+    "ioa:CreatePullVirusSampleTask"
    ],
    "condition": {
     "numeric_equal": {

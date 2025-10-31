@@ -84,7 +84,19 @@
     "ioa:ModifyTask",
     "ioa:DescribeTaskResult",
     "ioa:CreateSoftUpgradeTask",
-    "ioa:CreateLogDownloadTaskSoftwareBehaviorControl"
+    "ioa:CreateLogDownloadTaskSoftwareBehaviorControl",
+    "ioa:DescribeSoftwareRepositoryFileUrl",
+    "ioa:DescribeSoftwareRepositoryUploadNotify",
+    "ioa:DescribeSoftwareRepositoryClasses",
+    "ioa:ModifySoftwareRepositoryVersion",
+    "ioa:ModifySoftwareRepositoryVersionStatus",
+    "ioa:DeleteSoftwareRepositoryVersion",
+    "ioa:DescribeSoftwareRepositoryVersionList",
+    "ioa:ModifySoftwareRepository",
+    "ioa:DeleteSoftwareRepository",
+    "ioa:DescribeSoftwareRepository",
+    "ioa:ModifySoftwareRepositoryScope",
+    "ioa:DescribeSoftwareRepositoryScope"
    ],
    "effect": "allow",
    "resource": "*"

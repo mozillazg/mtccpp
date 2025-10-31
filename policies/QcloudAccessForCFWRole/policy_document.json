@@ -266,7 +266,9 @@
     "monitor:BatchGetStatisticsData",
     "monitor:GetMonitorData",
     "ga2:DescribeGlobalAccelerators",
-    "ga2:DescribeAccelerateAreas"
+    "ga2:DescribeAccelerateAreas",
+    "clb:DescribeLoadBalancersFeature",
+    "clb:ModifyLoadBalancerAttributes"
    ],
    "effect": "allow",
    "resource": "*"

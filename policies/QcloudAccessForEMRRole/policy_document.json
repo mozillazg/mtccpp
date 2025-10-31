@@ -180,7 +180,9 @@
     "cvm:ModifyDiskExtraPerformance",
     "tccatalog:CreateTCCatalogEndpoint",
     "tccatalog:DescribeMetastoreInstances",
-    "cynosdb:DescribeZones"
+    "cynosdb:DescribeZones",
+    "clb:CreateLoadBalancer",
+    "clb:DeleteLoadBalancer"
    ],
    "effect": "allow",
    "resource": "*"

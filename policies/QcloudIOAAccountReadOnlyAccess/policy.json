@@ -1,9 +1,9 @@
 {
  "AddTime": "2024-11-14 21:59:26",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"ioa:DescribeSourceTypes\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"ioa:DescribeAccountGroups\",\"ioa:DescribeLocalAccounts\",\"ioa:DescribeRootAccountGroup\",\"ioa:DescribeSimpleLocalAccounts\",\"ioa:DescribeVirtualAccounts\",\"ioa:DescribeLocalAccount\",\"ioa:DescribeAccountGroup\",\"ioa:DescribeExistAccountGroup\",\"ioa:DescribeAccountVirtualGroups\",\"ioa:DescribeSearchAccountGroupTree\",\"ioa:DescribeAccountGroupsUserTotal\",\"ioa:DescribeExpandedAccountGroupTree\",\"ioa:CheckAccountImportTask\",\"ioa:DescribeCheckAccountImportTaskResult\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"ioa:DescribeSourceTypes\"],\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"ioa:DescribeAccountGroups\",\"ioa:DescribeLocalAccounts\",\"ioa:DescribeRootAccountGroup\",\"ioa:DescribeSimpleLocalAccounts\",\"ioa:DescribeVirtualAccounts\",\"ioa:DescribeLocalAccount\",\"ioa:DescribeAccountGroup\",\"ioa:DescribeExistAccountGroup\",\"ioa:DescribeAccountVirtualGroups\",\"ioa:DescribeSearchAccountGroupTree\",\"ioa:DescribeAccountGroupsUserTotal\",\"ioa:DescribeExpandedAccountGroupTree\",\"ioa:CheckAccountImportTask\",\"ioa:DescribeCheckAccountImportTaskResult\",\"ioa:CreateAccountImportTask\",\"ioa:DescribeUserSecrets\",\"ioa:DescribeAccountBindDeviceNum\",\"ioa:DescribeUploadURL\",\"ioa:ModifyLocalAccount\",\"ioa:ModifyLocalAccountStatus\",\"ioa:ResetLocalAccountPassword\",\"ioa:DeleteLocalAccounts\",\"ioa:ModifyAccountGroup\",\"ioa:DeleteAccountGroup\",\"ioa:ModifyAccountVirtualGroup\",\"ioa:DeleteAccountVirtualGroup\",\"ioa:CreateAccountVirtualGroup\",\"ioa:CreateAccountGroup\",\"ioa:UnbindVirtualAccounts\",\"ioa:BindVirtualAccounts\",\"ioa:CreateTaskForAccountVirtualGroupImport\",\"ioa:CreateTaskForPreCheckAccountVirtualGroupImport\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudIOAAccountReadOnlyAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2024-11-14 21:59:26"
+ "UpdateTime": "2025-10-30 21:41:06"
 }

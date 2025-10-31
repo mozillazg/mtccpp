@@ -16,8 +16,6 @@
     "ioa:DescribeDeviceGroup",
     "ioa:DescribeDevices",
     "ioa:DescribeDeviceGroups",
-    "ioa:DescribeDevicesInfo",
-    "ioa:DescribeGroupDevices",
     "ioa:DescribeDeviceGroupTree",
     "ioa:DescribeDeviceChildGroups",
     "ioa:DescribeDeviceTags",
