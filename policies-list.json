@@ -11554,5 +11554,29 @@
   "ServiceType": "tione",
   "Type": 2,
   "UpdateTime": "2025-10-15 11:37:45"
+ },
+ {
+  "AddTime": "2025-10-20 16:25:55",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 254584062,
+  "PolicyName": "QcloudAIECFullAccess",
+  "ServiceType": "aiec",
+  "Type": 2,
+  "UpdateTime": "2025-10-20 16:25:55"
+ },
+ {
+  "AddTime": "2025-10-20 16:25:56",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 254584064,
+  "PolicyName": "QcloudAIECReadOnlyAccess",
+  "ServiceType": "aiec",
+  "Type": 2,
+  "UpdateTime": "2025-10-20 16:25:56"
  }
 ]
