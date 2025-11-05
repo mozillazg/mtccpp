@@ -11578,5 +11578,17 @@
   "ServiceType": "aiec",
   "Type": 2,
   "UpdateTime": "2025-10-20 16:25:56"
+ },
+ {
+  "AddTime": "2025-11-04 15:12:37",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 255889749,
+  "PolicyName": "QcloudAccessForTCBRoleInTCR",
+  "ServiceType": "tcbr",
+  "Type": 2,
+  "UpdateTime": "2025-11-04 15:12:37"
  }
 ]

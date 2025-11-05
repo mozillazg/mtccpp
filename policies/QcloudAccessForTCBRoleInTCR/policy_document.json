@@ -1,0 +1,21 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tcr:DescribeNamespaces",
+    "tcr:DescribeImages",
+    "tcr:PullRepository",
+    "tcr:CreateNamespace",
+    "tcr:DeleteNamespace",
+    "tcr:DeleteRepository",
+    "tcr:PushRepository",
+    "tcr:DeleteImage"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

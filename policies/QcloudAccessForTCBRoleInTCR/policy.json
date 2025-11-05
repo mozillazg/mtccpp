@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-11-04 15:12:37",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tcr:DescribeNamespaces\",\"tcr:DescribeImages\",\"tcr:PullRepository\",\"tcr:CreateNamespace\",\"tcr:DeleteNamespace\",\"tcr:DeleteRepository\",\"tcr:PushRepository\",\"tcr:DeleteImage\"],\"effect\":\"allow\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudAccessForTCBRoleInTCR",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-11-04 15:12:37"
+}
