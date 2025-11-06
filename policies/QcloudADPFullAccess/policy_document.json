@@ -1,0 +1,16 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cam:ListCollaborators",
+    "cam:ListWeChatWorkSubAccounts",
+    "cam:DescribeRoleList",
+    "cam:ListUsers",
+    "lke:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

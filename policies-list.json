@@ -11590,5 +11590,29 @@
   "ServiceType": "tcbr",
   "Type": 2,
   "UpdateTime": "2025-11-04 15:12:37"
+ },
+ {
+  "AddTime": "2025-11-05 14:42:50",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 256042854,
+  "PolicyName": "QcloudADPReadOnlyaccess",
+  "ServiceType": "lke",
+  "Type": 2,
+  "UpdateTime": "2025-11-05 14:42:50"
+ },
+ {
+  "AddTime": "2025-11-05 14:44:12",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 256042926,
+  "PolicyName": "QcloudADPFullAccess",
+  "ServiceType": "lke",
+  "Type": 2,
+  "UpdateTime": "2025-11-05 14:44:12"
  }
 ]
