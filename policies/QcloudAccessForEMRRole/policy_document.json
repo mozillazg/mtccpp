@@ -182,7 +182,9 @@
     "tccatalog:DescribeMetastoreInstances",
     "cynosdb:DescribeZones",
     "clb:CreateLoadBalancer",
-    "clb:DeleteLoadBalancer"
+    "clb:DeleteLoadBalancer",
+    "clb:DescribeTargets",
+    "clb:BatchDeregisterTargets"
    ],
    "effect": "allow",
    "resource": "*"
