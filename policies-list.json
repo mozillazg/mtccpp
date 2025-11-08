@@ -11614,5 +11614,29 @@
   "ServiceType": "lke",
   "Type": 2,
   "UpdateTime": "2025-11-05 14:44:12"
+ },
+ {
+  "AddTime": "2025-11-07 09:52:40",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 256191320,
+  "PolicyName": "QcloudIOADeviceProtectionAccess",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2025-11-07 09:52:40"
+ },
+ {
+  "AddTime": "2025-11-07 09:52:53",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 256191327,
+  "PolicyName": "QcloudIOADeviceProtectionReadOnlyAccess",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2025-11-07 09:52:53"
  }
 ]

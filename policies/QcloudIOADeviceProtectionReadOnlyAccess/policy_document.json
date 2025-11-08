@@ -1,0 +1,97 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ioa:DescribeCommonConfigs",
+    "ioa:DescribeTenantPinCodeList",
+    "ioa:DescribePackages",
+    "ioa:DescribeTenantTrafficMetric",
+    "ioa:DescribeDeviceAuthorizationPoint",
+    "ioa:DescribeConnectorGroups",
+    "ioa:DescribePolicyPrivilege",
+    "ioa:DescribeGroupSyncSetting"
+   ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  },
+  {
+   "action": [
+    "ioa:DescribeAccountGroups",
+    "ioa:DescribeTaskInformation",
+    "ioa:DescribeRootGroupId",
+    "ioa:DescribeDeviceChildGroups",
+    "ioa:DescribeDevices",
+    "ioa:DescribeDeviceVirtualGroups",
+    "ioa:DescribeVirtualDevices",
+    "ioa:DescribeGroupSyncStatus",
+    "ioa:DescribeDeviceGroups",
+    "ioa:DescribeRootAccountGroup",
+    "ioa:DescribeLocalAccounts",
+    "ioa:DescribeAccountVirtualGroups",
+    "ioa:DescribeSimpleLocalAccounts",
+    "ioa:DescribeLogDetailClientOperation",
+    "ioa:DescribeLogHistogramsClientOperation",
+    "ioa:DescribeLogTagsClientOperation",
+    "ioa:DescribeLogDownloadURLClientOperation",
+    "ioa:ExportLogDownloadTaskClientOperation",
+    "ioa:DescribeLogDetailTerminalCompliance",
+    "ioa:DescribeLogHistogramsTerminalCompliance",
+    "ioa:DescribeLogTagsTerminalCompliance",
+    "ioa:DescribeLogDownloadURLTerminalCompliance",
+    "ioa:ExportLogDownloadTaskTerminalCompliance",
+    "ioa:DescribeLogDetailTerminalControl",
+    "ioa:DescribeLogHistogramsTerminalControl",
+    "ioa:DescribeLogTagsTerminalControl",
+    "ioa:DescribeLogDownloadURLTerminalControl",
+    "ioa:ExportLogDownloadTaskTerminalControl",
+    "ioa:DescribeLogDetailTerminalOperations",
+    "ioa:DescribeLogHistogramsTerminalOperations",
+    "ioa:DescribeLogTagsTerminalOperations",
+    "ioa:DescribeLogDownloadURLTerminalOperations",
+    "ioa:ExportLogDownloadTaskTerminalOperations",
+    "ioa:DescribeBasePolicyContent",
+    "ioa:DescribeControlPolicySubType",
+    "ioa:DescribeControlPolicyList",
+    "ioa:CreateControlPolicy",
+    "ioa:ModifyControlPolicy",
+    "ioa:ModifyControlPolicyScope",
+    "ioa:ModifyControlPolicyContent",
+    "ioa:ModifyControlPolicyStatus",
+    "ioa:DeleteControlPolicy",
+    "ioa:DescribeControlPolicyDetail",
+    "ioa:DescribeControlPolicyScope",
+    "ioa:DescribeControlPolicyContent",
+    "ioa:DescribeGeneralPolicySubType",
+    "ioa:DescribeGeneralPolicyList",
+    "ioa:CreateGeneralPolicy",
+    "ioa:ModifyGeneralPolicy",
+    "ioa:ModifyGeneralPolicyScope",
+    "ioa:ModifyGeneralPolicyContent",
+    "ioa:ModifyGeneralPolicyStatus",
+    "ioa:DeleteGeneralPolicy",
+    "ioa:DescribeGeneralPolicyDetail",
+    "ioa:DescribeGeneralPolicyScope",
+    "ioa:DescribeGeneralPolicyContent",
+    "ioa:DescribeApplyDevices",
+    "ioa:DescribeSecurityPolicyList",
+    "ioa:DescribeSecurityPolicyDetail",
+    "ioa:DescribeSecurityPolicyScope",
+    "ioa:DescribeSecurityPolicyContent",
+    "ioa:DescribeBannersEx"
+   ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
