@@ -5,7 +5,8 @@
     "cwp:Describe*",
     "cwp:Export*",
     "cwp:Check*",
-    "cwp:Search*"
+    "cwp:Search*",
+    "cwp:Get*"
    ],
    "effect": "allow",
    "resource": "*"

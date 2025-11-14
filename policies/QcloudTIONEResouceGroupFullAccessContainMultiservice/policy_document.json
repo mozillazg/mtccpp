@@ -72,7 +72,8 @@
     "cam:ListMaskedSubAccounts",
     "vpc:DescribeSecurityGroupLimits",
     "monitor:DescribeAlarmPolicies",
-    "cam:ListGroupsForConsole"
+    "cam:ListGroupsForConsole",
+    "cvm:DescribeSecurityGroupLimits"
    ],
    "effect": "allow",
    "resource": "*"

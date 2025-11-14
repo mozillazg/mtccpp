@@ -47,7 +47,12 @@
     "cam:ListMaskedSubAccounts",
     "monitor:DescribeAlarmPolicies",
     "vpc:DescribeSecurityGroupLimits",
-    "cam:ListGroupsForConsole"
+    "cam:ListGroupsForConsole",
+    "tcr:DescribeImagePersonal",
+    "tcr:DescribeImages",
+    "tcr:DescribeRepositoryPersonal",
+    "cvm:DescribeDisks",
+    "cvm:DescribeSecurityGroupLimits"
    ],
    "effect": "allow",
    "resource": "*"

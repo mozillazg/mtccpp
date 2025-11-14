@@ -128,7 +128,15 @@
     "cvm:Inquiry*",
     "cvm:Describe*",
     "cam:ListUsersForGroup",
-    "cam:ListGroupsForUser"
+    "cam:ListGroupsForUser",
+    "cvm:AttachDisks",
+    "cvm:DetachDisks",
+    "cvm:DescribeDisks",
+    "cvm:DescribeInstancesDiskNum",
+    "cvm:InitializeDisks",
+    "cvm:DescribeSecurityGroupLimits",
+    "goosefs:AddCrossVpcSubnetSupportForClientNode",
+    "goosefs:BuildClientNodeMountCommand"
    ],
    "effect": "allow",
    "resource": "*"

@@ -38,7 +38,11 @@
     "goosefs:DescribeNamespaces",
     "goosefs:DescribeFileSystems",
     "clb:DescribeListeners",
-    "clb:DescribeLoadBalancers"
+    "clb:DescribeLoadBalancers",
+    "tcr:DescribeImagePersonal",
+    "tcr:DescribeImages",
+    "tcr:DescribeRepositoryPersonal",
+    "cvm:DescribeDisks"
    ],
    "effect": "allow",
    "resource": "*"
