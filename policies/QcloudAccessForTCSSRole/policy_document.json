@@ -26,7 +26,10 @@
     "tcr:DescribeImagePersonal",
     "tcr:CreateApplicationTokenPersonal",
     "tcr:DescribeApplicationTokenPersonal",
-    "tke:DescribeSuperNodes"
+    "tke:DescribeSuperNodes",
+    "tke:DescribeControlPlaneLogs",
+    "tke:DisableControlPlaneLogs",
+    "tke:EnableControlPlaneLogs"
    ],
    "effect": "allow",
    "resource": [

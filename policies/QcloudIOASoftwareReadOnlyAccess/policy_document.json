@@ -101,7 +101,12 @@
     "ioa:DeleteSoftwareRepository",
     "ioa:DescribeSoftwareRepository",
     "ioa:ModifySoftwareRepositoryScope",
-    "ioa:DescribeSoftwareRepositoryScope"
+    "ioa:DescribeSoftwareRepositoryScope",
+    "ioa:ModifySoftwareRepositoryClass",
+    "ioa:ModifySoftwareInstallationControlPolicyContent",
+    "ioa:DescribeSoftwareInstallationControlPolicyList",
+    "ioa:DescribeInstalledSoftwareList",
+    "ioa:DescribeSoftwareSimpleRep"
    ],
    "condition": {
     "numeric_equal": {
