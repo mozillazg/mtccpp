@@ -1,0 +1,9 @@
+{
+ "AddTime": "2025-11-25 18:24:56",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"vpc:DescribeSubnets\",\"cls:DescribeLogsets\",\"cls:DescribeTopics\",\"cfs:DescribeMountTargets\",\"clb:DescribeLoadBalancers\",\"cvm:DescribeDisks\",\"tke:CreateCluster\",\"tke:InstallLogAgent\",\"tke:CreateClusterVirtualNodePool\",\"tke:DeleteClusterVirtualNodePool\",\"tke:DeleteCluster\",\"tke:DisableEventPersistence\",\"tke:CreateCLSLogConfig\",\"tke:EnableEventPersistence\",\"tke:CheckClusterCIDR\",\"tke:Describe*\",\"tke:CreateCLSLogConfig\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudAccessForSCFRolelnWorkFlow",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2025-11-25 18:24:56"
+}
