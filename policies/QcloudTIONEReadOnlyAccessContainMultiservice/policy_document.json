@@ -32,7 +32,8 @@
     "tag:DescribeEffectivePolicy",
     "goosefs:DescribeClusters",
     "goosefs:DescribeNamespaces",
-    "goosefs:DescribeFileSystems"
+    "goosefs:DescribeFileSystems",
+    "tione:ChatCompletionDemo"
    ],
    "effect": "allow",
    "resource": "*"

@@ -268,7 +268,8 @@
     "ga2:DescribeGlobalAccelerators",
     "ga2:DescribeAccelerateAreas",
     "clb:DescribeLoadBalancersFeature",
-    "clb:ModifyLoadBalancerAttributes"
+    "clb:ModifyLoadBalancerAttributes",
+    "tat:DescribeCommands"
    ],
    "effect": "allow",
    "resource": "*"

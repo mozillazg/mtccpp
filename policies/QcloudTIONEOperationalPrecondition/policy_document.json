@@ -166,7 +166,8 @@
     "tione:DescribeWorkspace",
     "tione:CreateWorkspace",
     "tione:ModifyWorkspace",
-    "tione:DeleteWorkspace"
+    "tione:DeleteWorkspace",
+    "tione:DescribeWorkspaceAttachedResourceGroups"
    ],
    "effect": "allow",
    "resource": "*"

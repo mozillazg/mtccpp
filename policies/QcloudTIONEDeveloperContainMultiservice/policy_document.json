@@ -42,7 +42,8 @@
     "tcr:DescribeImagePersonal",
     "tcr:DescribeImages",
     "tcr:DescribeRepositoryPersonal",
-    "cvm:DescribeDisks"
+    "cvm:DescribeDisks",
+    "tcr:DescribeReplicationInstances"
    ],
    "effect": "allow",
    "resource": "*"

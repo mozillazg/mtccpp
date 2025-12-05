@@ -139,7 +139,9 @@
     "cvm:DescribeInstanceTypeConfigs",
     "cvm:DescribeZoneInstanceConfigInfos",
     "cvm:DescribeZones",
-    "cvm:DescribeRegions"
+    "cvm:DescribeRegions",
+    "tke:DescribeClusterNodePools",
+    "tke:DeleteClusterInstances"
    ],
    "effect": "allow",
    "resource": "*"
