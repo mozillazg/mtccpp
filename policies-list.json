@@ -11650,5 +11650,17 @@
   "ServiceType": "scf",
   "Type": 2,
   "UpdateTime": "2025-11-25 18:24:56"
+ },
+ {
+  "AddTime": "2025-12-15 18:15:17",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 259377725,
+  "PolicyName": "QcloudAccessForTCBRoleInMongodb",
+  "ServiceType": "tcb",
+  "Type": 2,
+  "UpdateTime": "2025-12-15 18:15:17"
  }
 ]

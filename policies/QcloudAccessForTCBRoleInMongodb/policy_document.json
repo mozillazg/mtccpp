@@ -1,0 +1,15 @@
+{
+ "statement": [
+  {
+   "action": [
+    "mongodb:DescribeDBInstances",
+    "mongodb:DescribeDBInstanceNodeProperty",
+    "mongodb:DescribeDBInstanceURL",
+    "mongodb:DescribeDBInstanceVersion"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
