@@ -39,7 +39,11 @@
     "ioa:DescribeLocalAccounts",
     "ioa:DescribeSimpleLocalAccounts",
     "ioa:DescribeAccountVirtualGroups",
-    "ioa:DescribeVirtualAccounts"
+    "ioa:DescribeVirtualAccounts",
+    "ioa:CreateLogCondition",
+    "ioa:DeleteLogCondition",
+    "ioa:ModifyLogCondition",
+    "ioa:DescribeLogCondition"
    ],
    "effect": "allow",
    "resource": "*"

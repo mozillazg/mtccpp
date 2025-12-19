@@ -269,7 +269,17 @@
     "ga2:DescribeAccelerateAreas",
     "clb:DescribeLoadBalancersFeature",
     "clb:ModifyLoadBalancerAttributes",
-    "tat:DescribeCommands"
+    "tat:DescribeCommands",
+    "vpc:DeleteCcnPolicyBasedRoutingRule",
+    "vpc:DescribeCcnPolicyBasedRoutingNextHop",
+    "vpc:CreateCcnPolicyBasedRoutingNextHop",
+    "vpc:DeleteCcnPolicyBasedRoutingNextHop",
+    "vpc:ModifyCcnPolicyBasedRoutingNextHopAttribute",
+    "vpc:DescribeCcnPolicyBasedRoutingRule",
+    "vpc:CreateCcnPolicyBasedRoutingRules",
+    "vpc:DescribeCcnInstanceNonDirectFlag",
+    "vpc:EnableCcnInstanceNonDirectFlag",
+    "vpc:DisableCcnInstanceNonDirectFlag"
    ],
    "effect": "allow",
    "resource": "*"

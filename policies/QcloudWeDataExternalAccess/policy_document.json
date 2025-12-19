@@ -39,7 +39,14 @@
     "kms:GetServiceStatus",
     "cos:GetService",
     "tse:DescribeCloudNativeAPIGateway",
-    "tse:DescribeCloudNativeAPIGatewayConfig"
+    "tse:DescribeCloudNativeAPIGatewayConfig",
+    "cam:ListWeChatWorkSubAccounts",
+    "oceanus:DescribeWorkSpaces",
+    "oceanus:DescribeRegionZones",
+    "oceanus:CheckOceanusRoleGrant",
+    "oceanus:DescribeAuthClassification",
+    "cdwdoris:DescribeRegionZone",
+    "cdwdoris:DescribeInstances"
    ],
    "effect": "allow",
    "resource": [

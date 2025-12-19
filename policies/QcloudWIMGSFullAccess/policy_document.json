@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "wimgs:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

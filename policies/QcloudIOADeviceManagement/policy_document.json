@@ -96,7 +96,19 @@
     "ioa:DescribeLogHistogramsTerminalOperations",
     "ioa:DescribeLogTagsTerminalOperations",
     "ioa:DescribeLogDownloadURLTerminalOperations",
-    "ioa:ExportLogDownloadTaskTerminalOperations"
+    "ioa:ExportLogDownloadTaskTerminalOperations",
+    "ioa:DescribeDeviceFileUploadUrl",
+    "ioa:DescribeDeviceUploadLogoFields",
+    "ioa:ModifyDeviceUploadItem",
+    "ioa:DeleteDeviceUploadItems",
+    "ioa:ExportDeviceUploadResultDownloadTask",
+    "ioa:DescribeDeviceUploadPreviewDetails",
+    "ioa:DescribeDeviceUploadInfoList",
+    "ioa:DescribeDeviceStat",
+    "ioa:DescribeOrganizationalStructureDevices",
+    "ioa:DescribeOrganizationalStructureTree",
+    "ioa:MarkInsideGroupManually",
+    "ioa:DescribeInsideGroupStatistics"
    ],
    "effect": "allow",
    "resource": "*"
