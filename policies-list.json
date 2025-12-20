@@ -11640,6 +11640,30 @@
   "UpdateTime": "2025-11-07 09:52:53"
  },
  {
+  "AddTime": "2025-11-20 16:06:41",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 257354580,
+  "PolicyName": "QcloudCloudmateFullAccess",
+  "ServiceType": "cloudmate",
+  "Type": 2,
+  "UpdateTime": "2025-11-20 16:06:41"
+ },
+ {
+  "AddTime": "2025-11-20 16:06:42",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 257354581,
+  "PolicyName": "QcloudCloudmateReadOnlyAccess",
+  "ServiceType": "cloudmate",
+  "Type": 2,
+  "UpdateTime": "2025-11-20 16:06:43"
+ },
+ {
   "AddTime": "2025-11-21 10:45:54",
   "CreateMode": 2,
   "Deactived": 0,
