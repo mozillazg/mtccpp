@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:pushLog"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
