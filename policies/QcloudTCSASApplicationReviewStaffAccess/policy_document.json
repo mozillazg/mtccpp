@@ -9,7 +9,8 @@
     "tcsas:ProcessMNPSensitiveAPIPermissionApproval",
     "tcsas:DescribeMNPApprovalList",
     "tcsas:DescribeApplicationSensitiveAPIList",
-    "tcsas:DescribeMNPSensitiveAPIPermissionApprovalList"
+    "tcsas:DescribeMNPSensitiveAPIPermissionApprovalList",
+    "tcsas:DescribeApplicationConfigInfos"
    ],
    "effect": "allow",
    "resource": "*"

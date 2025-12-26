@@ -279,7 +279,19 @@
     "vpc:CreateCcnPolicyBasedRoutingRules",
     "vpc:DescribeCcnInstanceNonDirectFlag",
     "vpc:EnableCcnInstanceNonDirectFlag",
-    "vpc:DisableCcnInstanceNonDirectFlag"
+    "vpc:DisableCcnInstanceNonDirectFlag",
+    "vpc:CreateNetworkInterfaceEx",
+    "vpc:CreateLocalGateway",
+    "vpc:DeleteLocalGateway",
+    "vpc:NotifyRoutes",
+    "vpc:WithdrawNotifyRoutes",
+    "vpc:DescribeRouteTables",
+    "vpc:CreateHaVip",
+    "vpc:DeleteHaVip",
+    "vpc:DescribeVpcResourceDashboard",
+    "vpc:DescribeCcnRoutes",
+    "vpc:ReplaceCcnRouteTableInputPolicys",
+    "vpc:AssociateRouteTable"
    ],
    "effect": "allow",
    "resource": "*"

@@ -167,7 +167,11 @@
     "tione:CreateWorkspace",
     "tione:ModifyWorkspace",
     "tione:DeleteWorkspace",
-    "tione:DescribeWorkspaceAttachedResourceGroups"
+    "tione:DescribeWorkspaceAttachedResourceGroups",
+    "tione:CreateEvaluationCustomSpec",
+    "tione:DescribeCBSQuotas",
+    "tione:ModifyCbsQuota",
+    "tione:DescribeCBSUsage"
    ],
    "effect": "allow",
    "resource": "*"

@@ -73,7 +73,9 @@
     "qcs::tione:::dataprocesstask/*",
     "qcs::tione:::coderepo/*",
     "qcs::tione:::algo/*",
-    "qcs::tione:::batch/*"
+    "qcs::tione:::batch/*",
+    "qcs::tione:::judgetemplate/*",
+    "qcs::tione:::evalspec/*"
    ]
   },
   {

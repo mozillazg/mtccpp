@@ -2085,7 +2085,7 @@
   "PolicyName": "QcloudAccessForTIONERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2025-11-13 20:55:35"
+  "UpdateTime": "2025-12-25 21:07:40"
  },
  {
   "AddTime": "2019-02-18 10:24:09",
@@ -3153,7 +3153,7 @@
   "PolicyName": "QcloudAccessForCFWRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2025-12-18 21:46:36"
+  "UpdateTime": "2025-12-25 21:07:42"
  },
  {
   "AddTime": "2019-10-28 16:16:55",
@@ -10497,7 +10497,7 @@
   "PolicyName": "QcloudTCSASPlatformAdminAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-01-16 22:35:45"
+  "UpdateTime": "2025-12-25 21:07:53"
  },
  {
   "AddTime": "2025-01-16 22:38:18",
@@ -10521,7 +10521,7 @@
   "PolicyName": "QcloudTCSASApplicationSeniorDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-01-16 22:42:46"
+  "UpdateTime": "2025-12-25 21:07:54"
  },
  {
   "AddTime": "2025-01-16 22:50:53",
@@ -10533,7 +10533,7 @@
   "PolicyName": "QcloudTCSASApplicationDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-01-16 22:50:53"
+  "UpdateTime": "2025-12-25 21:07:56"
  },
  {
   "AddTime": "2025-01-16 22:57:06",
@@ -10545,7 +10545,7 @@
   "PolicyName": "QcloudTCSASApplicationReviewStaffAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-01-16 22:57:06"
+  "UpdateTime": "2025-12-25 21:07:57"
  },
  {
   "AddTime": "2025-01-16 23:00:11",
@@ -10569,7 +10569,7 @@
   "PolicyName": "QcloudTCSASMiniProgramOperatorAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-01-16 23:01:10"
+  "UpdateTime": "2025-12-25 21:07:58"
  },
  {
   "AddTime": "2025-01-16 23:02:35",
@@ -10593,7 +10593,7 @@
   "PolicyName": "QcloudTCSASMiniProgramAdministratorAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-01-16 23:04:47"
+  "UpdateTime": "2025-12-25 21:07:59"
  },
  {
   "AddTime": "2025-01-16 23:05:36",
@@ -10605,7 +10605,7 @@
   "PolicyName": "QcloudTCSASMiniProgramSeniorDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-01-16 23:05:36"
+  "UpdateTime": "2025-12-25 21:08:01"
  },
  {
   "AddTime": "2025-01-16 23:06:22",
@@ -10617,7 +10617,7 @@
   "PolicyName": "QcloudTCSASMiniProgramDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-01-16 23:06:22"
+  "UpdateTime": "2025-12-25 21:08:02"
  },
  {
   "AddTime": "2025-01-16 23:07:32",
@@ -10629,7 +10629,7 @@
   "PolicyName": "QcloudTCSASApplicationTeamAdministratorAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-01-16 23:07:32"
+  "UpdateTime": "2025-12-25 21:08:03"
  },
  {
   "AddTime": "2025-01-16 23:08:14",
@@ -10641,7 +10641,7 @@
   "PolicyName": "QcloudTCSASApplicationOperatorAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-01-16 23:08:14"
+  "UpdateTime": "2025-12-25 21:08:05"
  },
  {
   "AddTime": "2025-02-19 17:54:21",
@@ -10845,7 +10845,7 @@
   "PolicyName": "QcloudTIONEOperationalPrecondition",
   "ServiceType": "tione",
   "Type": 2,
-  "UpdateTime": "2025-12-04 21:11:47"
+  "UpdateTime": "2025-12-25 21:08:06"
  },
  {
   "AddTime": "2025-03-28 17:12:12",
@@ -11553,7 +11553,7 @@
   "PolicyName": "QcloudTIONEDeveloperContainMultiservice",
   "ServiceType": "tione",
   "Type": 2,
-  "UpdateTime": "2025-12-04 21:11:49"
+  "UpdateTime": "2025-12-25 21:08:08"
  },
  {
   "AddTime": "2025-10-20 16:25:55",

@@ -136,7 +136,10 @@
     "cvm:InitializeDisks",
     "cvm:DescribeSecurityGroupLimits",
     "goosefs:AddCrossVpcSubnetSupportForClientNode",
-    "goosefs:BuildClientNodeMountCommand"
+    "goosefs:BuildClientNodeMountCommand",
+    "cvm:CreateDisks",
+    "cvm:ResizeDisk",
+    "cvm:TerminateDisks"
    ],
    "effect": "allow",
    "resource": "*"
