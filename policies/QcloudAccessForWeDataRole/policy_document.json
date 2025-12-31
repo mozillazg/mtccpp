@@ -339,7 +339,11 @@
     "cls:CreateShipper",
     "cls:DescribeShippers",
     "cls:ModifyShipper",
-    "cls:DeleteShipper"
+    "cls:DeleteShipper",
+    "wedata:RefreshFeatureTable",
+    "wedata:CreateOnlineFeatureTable",
+    "wedata:CreateExploreScriptByOwnerUin",
+    "wedata:CreateExploreScript"
    ],
    "effect": "allow",
    "resource": [

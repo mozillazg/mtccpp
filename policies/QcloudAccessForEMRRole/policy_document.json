@@ -184,7 +184,9 @@
     "clb:CreateLoadBalancer",
     "clb:DeleteLoadBalancer",
     "clb:DescribeTargets",
-    "clb:BatchDeregisterTargets"
+    "clb:BatchDeregisterTargets",
+    "cfs:DescribeCfsFileSystems",
+    "cfs:DescribeMountTargets"
    ],
    "effect": "allow",
    "resource": "*"
