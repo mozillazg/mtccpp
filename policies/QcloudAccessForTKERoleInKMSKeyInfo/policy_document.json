@@ -7,7 +7,8 @@
     "kms:Encrypt",
     "kms:DescribeKey",
     "kms:BindCloudResource",
-    "kms:UnbindCloudResource"
+    "kms:UnbindCloudResource",
+    "kms:EnableKeyRotation"
    ],
    "effect": "allow",
    "resource": "*"

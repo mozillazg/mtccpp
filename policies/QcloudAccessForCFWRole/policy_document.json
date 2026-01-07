@@ -291,7 +291,9 @@
     "vpc:DescribeVpcResourceDashboard",
     "vpc:DescribeCcnRoutes",
     "vpc:ReplaceCcnRouteTableInputPolicys",
-    "vpc:AssociateRouteTable"
+    "vpc:AssociateRouteTable",
+    "vpc:AssociateHaVipInstance",
+    "vpc:DisassociateHaVipInstance"
    ],
    "effect": "allow",
    "resource": "*"

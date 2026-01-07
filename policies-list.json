@@ -3153,7 +3153,7 @@
   "PolicyName": "QcloudAccessForCFWRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2025-12-25 21:07:42"
+  "UpdateTime": "2026-01-06 21:03:34"
  },
  {
   "AddTime": "2019-10-28 16:16:55",
@@ -8793,7 +8793,7 @@
   "PolicyName": "QcloudAccessForTKERoleInKMSKeyInfo",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2023-06-06 11:48:14"
+  "UpdateTime": "2026-01-06 21:03:36"
  },
  {
   "AddTime": "2023-06-07 15:33:16",
@@ -11698,6 +11698,30 @@
   "ServiceType": "scf",
   "Type": 2,
   "UpdateTime": "2025-11-25 18:24:56"
+ },
+ {
+  "AddTime": "2025-12-15 11:19:14",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 259350212,
+  "PolicyName": "QcloudACCFullAccess",
+  "ServiceType": "acc",
+  "Type": 2,
+  "UpdateTime": "2025-12-15 11:19:14"
+ },
+ {
+  "AddTime": "2025-12-15 11:19:15",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 259350217,
+  "PolicyName": "QcloudACCReadOnlyAccess",
+  "ServiceType": "acc",
+  "Type": 2,
+  "UpdateTime": "2025-12-15 11:19:15"
  },
  {
   "AddTime": "2025-12-15 18:15:17",
