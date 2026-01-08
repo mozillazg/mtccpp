@@ -8,7 +8,10 @@
     "kms:DescribeKey",
     "kms:BindCloudResource",
     "kms:UnbindCloudResource",
-    "kms:EnableKeyRotation"
+    "kms:EnableKeyRotation",
+    "kms:GetServiceStatus",
+    "kms:CreateKey",
+    "kms:GenerateDataKey"
    ],
    "effect": "allow",
    "resource": "*"
