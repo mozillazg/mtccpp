@@ -1,0 +1,9 @@
+{
+ "AddTime": "2026-01-14 11:45:34",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"finance:DescribeEstimate*\",\"finance:ModifyEstimate*\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudFinanceEstimateReadWrite",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2026-01-14 11:45:34"
+}
