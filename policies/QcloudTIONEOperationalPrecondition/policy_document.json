@@ -171,7 +171,9 @@
     "tione:CreateEvaluationCustomSpec",
     "tione:DescribeCBSQuotas",
     "tione:ModifyCbsQuota",
-    "tione:DescribeCBSUsage"
+    "tione:DescribeCBSUsage",
+    "tione:DescribeSubAccountLinuxUserInfos",
+    "tione:UpdateSubAccountLinuxUserInfo"
    ],
    "effect": "allow",
    "resource": "*"

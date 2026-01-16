@@ -101,7 +101,13 @@
     "ioa:ModifySoftwareInstallationControlPolicyContent",
     "ioa:DescribeSoftwareInstallationControlPolicyList",
     "ioa:DescribeInstalledSoftwareList",
-    "ioa:DescribeSoftwareSimpleRep"
+    "ioa:DescribeSoftwareSimpleRep",
+    "ioa:DescribeSoftwareUninstallControlPolicyList",
+    "ioa:ModifySoftwareUninstallControlPolicyContent",
+    "ioa:DescribeSoftwareAggList",
+    "ioa:DescribeUninstallApplyDevices",
+    "ioa:DescribeUninstallSoftList",
+    "ioa:DescribeAggSoftDeviceAll"
    ],
    "effect": "allow",
    "resource": "*"

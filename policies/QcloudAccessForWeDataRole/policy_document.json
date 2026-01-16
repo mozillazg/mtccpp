@@ -343,7 +343,8 @@
     "wedata:RefreshFeatureTable",
     "wedata:CreateOnlineFeatureTable",
     "wedata:CreateExploreScriptByOwnerUin",
-    "wedata:CreateExploreScript"
+    "wedata:CreateExploreScript",
+    "cos:GetBucketCORS"
    ],
    "effect": "allow",
    "resource": [

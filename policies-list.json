@@ -2085,7 +2085,7 @@
   "PolicyName": "QcloudAccessForTIONERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2025-12-25 21:07:40"
+  "UpdateTime": "2026-01-15 20:59:32"
  },
  {
   "AddTime": "2019-02-18 10:24:09",
@@ -4257,7 +4257,7 @@
   "PolicyName": "QcloudAccessForWeDataRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2025-12-30 21:17:31"
+  "UpdateTime": "2026-01-15 20:59:34"
  },
  {
   "AddTime": "2020-06-01 10:38:07",
@@ -10365,7 +10365,7 @@
   "PolicyName": "QcloudIOAEndPointDlpAccess",
   "ServiceType": "ioa",
   "Type": 2,
-  "UpdateTime": "2025-10-23 21:04:17"
+  "UpdateTime": "2026-01-15 20:59:39"
  },
  {
   "AddTime": "2024-11-27 17:51:25",
@@ -10845,7 +10845,7 @@
   "PolicyName": "QcloudTIONEOperationalPrecondition",
   "ServiceType": "tione",
   "Type": 2,
-  "UpdateTime": "2025-12-25 21:08:06"
+  "UpdateTime": "2026-01-15 20:59:40"
  },
  {
   "AddTime": "2025-03-28 17:12:12",
@@ -11421,7 +11421,7 @@
   "PolicyName": "QcloudIOASystemSettingReadOnlyAccess",
   "ServiceType": "ioa",
   "Type": 2,
-  "UpdateTime": "2025-09-08 10:15:32"
+  "UpdateTime": "2026-01-15 20:59:42"
  },
  {
   "AddTime": "2025-09-08 10:16:19",
@@ -11433,7 +11433,7 @@
   "PolicyName": "QcloudIOASystemSettingAccess",
   "ServiceType": "ioa",
   "Type": 2,
-  "UpdateTime": "2025-09-08 10:16:19"
+  "UpdateTime": "2026-01-15 20:59:43"
  },
  {
   "AddTime": "2025-09-08 10:16:40",
@@ -11445,7 +11445,7 @@
   "PolicyName": "QcloudIOASoftwareManagement",
   "ServiceType": "ioa",
   "Type": 2,
-  "UpdateTime": "2025-11-20 21:23:35"
+  "UpdateTime": "2026-01-15 20:59:45"
  },
  {
   "AddTime": "2025-09-08 10:16:54",
@@ -11457,7 +11457,7 @@
   "PolicyName": "QcloudIOASoftwareReadOnlyAccess",
   "ServiceType": "ioa",
   "Type": 2,
-  "UpdateTime": "2025-11-20 21:23:37"
+  "UpdateTime": "2026-01-15 20:59:46"
  },
  {
   "AddTime": "2025-09-10 20:11:57",
@@ -11470,6 +11470,30 @@
   "ServiceType": "cooperator",
   "Type": 2,
   "UpdateTime": "2025-09-10 20:11:57"
+ },
+ {
+  "AddTime": "2025-09-25 10:16:00",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 252677396,
+  "PolicyName": "QcloudAGSFullAccess",
+  "ServiceType": "ags",
+  "Type": 2,
+  "UpdateTime": "2025-09-25 10:16:00"
+ },
+ {
+  "AddTime": "2025-09-25 10:16:01",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 252677399,
+  "PolicyName": "QcloudAGSReadOnlyAccess",
+  "ServiceType": "ags",
+  "Type": 2,
+  "UpdateTime": "2025-09-25 10:16:01"
  },
  {
   "AddTime": "2025-09-29 14:43:21",
@@ -11625,7 +11649,7 @@
   "PolicyName": "QcloudIOADeviceProtectionAccess",
   "ServiceType": "ioa",
   "Type": 2,
-  "UpdateTime": "2025-11-07 09:52:40"
+  "UpdateTime": "2026-01-15 20:59:48"
  },
  {
   "AddTime": "2025-11-07 09:52:53",
@@ -11637,7 +11661,7 @@
   "PolicyName": "QcloudIOADeviceProtectionReadOnlyAccess",
   "ServiceType": "ioa",
   "Type": 2,
-  "UpdateTime": "2025-11-07 09:52:53"
+  "UpdateTime": "2026-01-15 20:59:49"
  },
  {
   "AddTime": "2025-11-20 16:06:41",

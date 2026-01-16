@@ -139,7 +139,8 @@
     "goosefs:BuildClientNodeMountCommand",
     "cvm:CreateDisks",
     "cvm:ResizeDisk",
-    "cvm:TerminateDisks"
+    "cvm:TerminateDisks",
+    "vpc:DescribeAddresses"
    ],
    "effect": "allow",
    "resource": "*"

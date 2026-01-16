@@ -77,7 +77,11 @@
     "ioa:DescribeSecurityPolicyDetail",
     "ioa:DescribeSecurityPolicyScope",
     "ioa:DescribeSecurityPolicyContent",
-    "ioa:DescribeBannersEx"
+    "ioa:DescribeBannersEx",
+    "ioa:DescribePolicyTotalApplyInfo",
+    "ioa:DescribeDownloadDeviceCompliantInfo",
+    "ioa:DescribeDeviceCompliantInfos",
+    "ioa:DescribeHelpPrimaryClasses"
    ],
    "effect": "allow",
    "resource": "*"
