@@ -58,7 +58,8 @@
     "tcsas:DescribeAPPDataDetailLineChart",
     "tcsas:ModifyApplicationConfig",
     "tcsas:CreateApplicationConfig",
-    "tcsas:DescribeApplicationConfigInfos"
+    "tcsas:DescribeApplicationConfigInfos",
+    "tcsas:DescribeApplicationMNPList"
    ],
    "effect": "allow",
    "resource": "*"

@@ -46,7 +46,19 @@
     "oceanus:CheckOceanusRoleGrant",
     "oceanus:DescribeAuthClassification",
     "cdwdoris:DescribeRegionZone",
-    "cdwdoris:DescribeInstances"
+    "cdwdoris:DescribeInstances",
+    "dsgc:ListDSPAClusters",
+    "tse:DescribeCloudNativeAPIGateways",
+    "dcdb:DescribeDCDBInstances",
+    "dlc:DescribeDataEngineSessionParameters",
+    "cdwdoris:AuthorizeUserPrivilegesSTD",
+    "cdwdoris:CheckUserPrivilegesSTD",
+    "cdwdoris:CreateUsersSTD",
+    "cdwdoris:DescribeMetaPrivilegesSTD",
+    "cdwdoris:DescribeUserTokenSTD",
+    "cdwdoris:DescribeUsersSTD",
+    "cdwdoris:ModifyUserSTD",
+    "cdwdoris:RevokeUserPrivilegesSTD"
    ],
    "effect": "allow",
    "resource": [

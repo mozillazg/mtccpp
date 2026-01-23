@@ -8,7 +8,8 @@
     "ckafka:AddRoute",
     "ckafka:DeleteRoute",
     "ckafka:DescribeInstanceAttributes",
-    "agentidentity:GetAgent"
+    "agentidentity:GetAgent",
+    "organization:ListOrgServiceAssignMember"
    ],
    "effect": "allow",
    "resource": [

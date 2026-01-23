@@ -344,7 +344,14 @@
     "wedata:CreateOnlineFeatureTable",
     "wedata:CreateExploreScriptByOwnerUin",
     "wedata:CreateExploreScript",
-    "cos:GetBucketCORS"
+    "cos:GetBucketCORS",
+    "monitor:DescribeAlarmNotices",
+    "monitor:DeleteAlarmNotices",
+    "monitor:CreateAlarmNotice",
+    "monitor:CreateAlarmPolicy",
+    "monitor:DescribeAlarmPolicy",
+    "monitor:DeleteAlarmPolicy",
+    "monitor:UnBindingPolicyObject"
    ],
    "effect": "allow",
    "resource": [

@@ -2,7 +2,8 @@
  "statement": [
   {
    "action": [
-    "dataagent:*"
+    "dataagent:*",
+    "cam:ListMaskedSubAccounts"
    ],
    "condition": {
     "numeric_equal": {

@@ -41,7 +41,18 @@
     "cynosdb:GrantAccountPrivileges",
     "cynosdb:ModifyAccountPrivileges",
     "cynosdb:DescribeInstanceDetail",
-    "cynosdb:ResetAccountPassword"
+    "cynosdb:ResetAccountPassword",
+    "postgres:CreateAccount",
+    "postgres:ModifyAccountPrivileges",
+    "postgres:ResetAccountPassword",
+    "postgres:DeleteAccount",
+    "postgres:DescribeAccounts",
+    "mongodb:CreateAccountUser",
+    "mongodb:DescribeAccountUsers",
+    "mongodb:ResetDBInstancePassword",
+    "mongodb:DeleteAccountUser",
+    "mongodb:DescribeAsyncRequestInfo",
+    "mongodb:SetAccountUserPrivilege"
    ],
    "effect": "allow",
    "resource": "*"
