@@ -58,7 +58,12 @@
     "cdwdoris:DescribeUserTokenSTD",
     "cdwdoris:DescribeUsersSTD",
     "cdwdoris:ModifyUserSTD",
-    "cdwdoris:RevokeUserPrivilegesSTD"
+    "cdwdoris:RevokeUserPrivilegesSTD",
+    "organization:DescribeIdentityCenter",
+    "organization:ListUsers",
+    "cdwdoris:DescribeClusterConfigs",
+    "cdwdoris:DescribeInstanceNodes",
+    "tccatalog:DescribeRegionWhitelist"
    ],
    "effect": "allow",
    "resource": [
