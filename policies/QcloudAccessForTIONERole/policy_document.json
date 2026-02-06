@@ -140,7 +140,10 @@
     "cvm:CreateDisks",
     "cvm:ResizeDisk",
     "cvm:TerminateDisks",
-    "vpc:DescribeAddresses"
+    "vpc:DescribeAddresses",
+    "goosefs:DescribeCustomerCluster",
+    "goosefs:QueryClientNodeMountCommand",
+    "cvm:DescribeInstancesDeniedActions"
    ],
    "effect": "allow",
    "resource": "*"

@@ -173,7 +173,8 @@
     "tione:ModifyCbsQuota",
     "tione:DescribeCBSUsage",
     "tione:DescribeSubAccountLinuxUserInfos",
-    "tione:UpdateSubAccountLinuxUserInfo"
+    "tione:UpdateSubAccountLinuxUserInfo",
+    "tione:DescribeTrainGlobalConfig"
    ],
    "effect": "allow",
    "resource": "*"

@@ -22,7 +22,14 @@
     "cam:UpdatePolicy",
     "cam:CreateServiceLinkedRole",
     "cam:DescribeServiceLinkedRole",
-    "cvm:ModifyImageSharePermission"
+    "cvm:ModifyImageSharePermission",
+    "lkeap:ListAPIKey",
+    "lkeap:GetAPIKey",
+    "lkeap:ListPostpaidProduct",
+    "lkeap:DescribeOpenStatus",
+    "lkeap:CreateAPIKey",
+    "lkeap:ActivateService",
+    "lkeap:ModifyPostpaidSwitch"
    ],
    "effect": "allow",
    "resource": [
