@@ -174,7 +174,10 @@
     "tione:DescribeCBSUsage",
     "tione:DescribeSubAccountLinuxUserInfos",
     "tione:UpdateSubAccountLinuxUserInfo",
-    "tione:DescribeTrainGlobalConfig"
+    "tione:DescribeTrainGlobalConfig",
+    "tione:DescribeWorkspaceQuotas",
+    "tione:DescribeWorkspaceQuotaUsage",
+    "tione:ModifyWorkspaceQuota"
    ],
    "effect": "allow",
    "resource": "*"
