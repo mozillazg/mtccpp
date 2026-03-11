@@ -186,7 +186,11 @@
     "clb:DescribeTargets",
     "clb:BatchDeregisterTargets",
     "cfs:DescribeCfsFileSystems",
-    "cfs:DescribeMountTargets"
+    "cfs:DescribeMountTargets",
+    "cvm:AllocateAddresses",
+    "cvm:DisassociateAddress",
+    "cvm:ReleaseAddresses",
+    "clb:SetLoadBalancerSecurityGroups"
    ],
    "effect": "allow",
    "resource": "*"
