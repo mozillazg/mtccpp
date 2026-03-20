@@ -295,7 +295,8 @@
     "vpc:AssociateHaVipInstance",
     "vpc:DisassociateHaVipInstance",
     "lighthouse:DescribeFirewallRules",
-    "lighthouse:ModifyFirewallRules"
+    "lighthouse:ModifyFirewallRules",
+    "tat:DescribeAutomationAgentStatus"
    ],
    "effect": "allow",
    "resource": "*"

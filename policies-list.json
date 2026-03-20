@@ -3153,7 +3153,7 @@
   "PolicyName": "QcloudAccessForCFWRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2026-03-10 21:03:28"
+  "UpdateTime": "2026-03-19 21:06:36"
  },
  {
   "AddTime": "2019-10-28 16:16:55",
@@ -4257,7 +4257,7 @@
   "PolicyName": "QcloudAccessForWeDataRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2026-01-22 21:03:16"
+  "UpdateTime": "2026-03-19 21:06:39"
  },
  {
   "AddTime": "2020-06-01 10:38:07",
@@ -6609,7 +6609,7 @@
   "PolicyName": "QcloudWeDataExternalAccess",
   "ServiceType": "wedata",
   "Type": 2,
-  "UpdateTime": "2026-01-29 21:06:30"
+  "UpdateTime": "2026-03-19 21:06:44"
  },
  {
   "AddTime": "2021-09-01 15:43:59",
@@ -11818,5 +11818,29 @@
   "ServiceType": "finance",
   "Type": 2,
   "UpdateTime": "2026-02-03 15:02:54"
+ },
+ {
+  "AddTime": "2026-03-19 17:13:58",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 267087651,
+  "PolicyName": "QcloudClawProReadOnlyAccess",
+  "ServiceType": "cvm",
+  "Type": 2,
+  "UpdateTime": "2026-03-19 17:13:58"
+ },
+ {
+  "AddTime": "2026-03-19 17:14:02",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 267087674,
+  "PolicyName": "QcloudClawProFullAccess",
+  "ServiceType": "cvm",
+  "Type": 2,
+  "UpdateTime": "2026-03-19 17:14:02"
  }
 ]

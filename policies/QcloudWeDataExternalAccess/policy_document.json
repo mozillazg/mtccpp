@@ -63,7 +63,8 @@
     "organization:ListUsers",
     "cdwdoris:DescribeClusterConfigs",
     "cdwdoris:DescribeInstanceNodes",
-    "tccatalog:DescribeRegionWhitelist"
+    "tccatalog:DescribeRegionWhitelist",
+    "cdwdoris:DescribeUserPrivilegesSTD"
    ],
    "effect": "allow",
    "resource": [
