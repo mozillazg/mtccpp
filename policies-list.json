@@ -11820,6 +11820,30 @@
   "UpdateTime": "2026-02-03 15:02:54"
  },
  {
+  "AddTime": "2026-03-05 16:43:23",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 265589433,
+  "PolicyName": "QcloudQDBCFullAccess",
+  "ServiceType": "qdbc",
+  "Type": 2,
+  "UpdateTime": "2026-03-05 16:43:23"
+ },
+ {
+  "AddTime": "2026-03-05 16:43:25",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 265589435,
+  "PolicyName": "QcloudQDBCReadOnlyAccess",
+  "ServiceType": "qdbc",
+  "Type": 2,
+  "UpdateTime": "2026-03-05 16:43:25"
+ },
+ {
   "AddTime": "2026-03-09 09:43:39",
   "CreateMode": 2,
   "Deactived": 0,
