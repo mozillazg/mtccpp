@@ -52,7 +52,13 @@
     "mongodb:ResetDBInstancePassword",
     "mongodb:DeleteAccountUser",
     "mongodb:DescribeAsyncRequestInfo",
-    "mongodb:SetAccountUserPrivilege"
+    "mongodb:SetAccountUserPrivilege",
+    "sqlserver:CreateAccount",
+    "sqlserver:ModifyAccountPrivilege",
+    "sqlserver:ResetAccountPassword",
+    "sqlserver:DeleteAccount",
+    "sqlserver:DescribeAccounts",
+    "sqlserver:DescribeFlowStatus"
    ],
    "effect": "allow",
    "resource": "*"

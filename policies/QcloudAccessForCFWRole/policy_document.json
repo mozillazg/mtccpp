@@ -296,7 +296,8 @@
     "vpc:DisassociateHaVipInstance",
     "lighthouse:DescribeFirewallRules",
     "lighthouse:ModifyFirewallRules",
-    "tat:DescribeAutomationAgentStatus"
+    "tat:DescribeAutomationAgentStatus",
+    "vpc:DescribeCcnRouteTableInputPolicys"
    ],
    "effect": "allow",
    "resource": "*"
