@@ -64,7 +64,10 @@
     "tcsas:DescribeMNPReportDataLineChart",
     "tcsas:DescribeMNPPageAnalysisDetail",
     "tcsas:DescribeMNPMAUMetricCard",
-    "tcsas:DescribeMNPActiveUserRealTimeStatistics"
+    "tcsas:DescribeMNPActiveUserRealTimeStatistics",
+    "tcsas:CreateMNGVersion",
+    "tcsas:DescribeMNGVersion",
+    "tcsas:CreateMNPSecretKey"
    ],
    "effect": "allow",
    "resource": "*"

@@ -1941,7 +1941,7 @@
   "PolicyName": "QcloudAccessForTKERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2025-12-04 21:11:31"
+  "UpdateTime": "2026-04-02 21:01:59"
  },
  {
   "AddTime": "2018-12-17 21:19:39",
@@ -10593,7 +10593,7 @@
   "PolicyName": "QcloudTCSASMiniProgramAdministratorAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-12-25 21:07:59"
+  "UpdateTime": "2026-04-02 21:02:04"
  },
  {
   "AddTime": "2025-01-16 23:05:36",
@@ -10605,7 +10605,7 @@
   "PolicyName": "QcloudTCSASMiniProgramSeniorDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-12-25 21:08:01"
+  "UpdateTime": "2026-04-02 21:02:05"
  },
  {
   "AddTime": "2025-01-16 23:06:22",
@@ -10617,7 +10617,7 @@
   "PolicyName": "QcloudTCSASMiniProgramDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-12-25 21:08:02"
+  "UpdateTime": "2026-04-02 21:02:06"
  },
  {
   "AddTime": "2025-01-16 23:07:32",
@@ -11890,5 +11890,77 @@
   "ServiceType": "cvm",
   "Type": 2,
   "UpdateTime": "2026-03-19 17:14:02"
+ },
+ {
+  "AddTime": "2026-03-23 17:31:09",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 267457727,
+  "PolicyName": "QcloudTokenhubFullAccess",
+  "ServiceType": "tokenhub",
+  "Type": 2,
+  "UpdateTime": "2026-03-23 17:31:09"
+ },
+ {
+  "AddTime": "2026-03-23 17:31:11",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 267457731,
+  "PolicyName": "QcloudTokenhubReadOnlyAccess",
+  "ServiceType": "tokenhub",
+  "Type": 2,
+  "UpdateTime": "2026-03-23 17:31:11"
+ },
+ {
+  "AddTime": "2026-04-02 09:46:14",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 268650802,
+  "PolicyName": "QcloudIOASoftwareReadOnlyAccessNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-02 09:46:14"
+ },
+ {
+  "AddTime": "2026-04-02 09:46:36",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 268650848,
+  "PolicyName": "QcloudIOADeviceManagementNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-02 09:46:36"
+ },
+ {
+  "AddTime": "2026-04-02 09:50:37",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 268651292,
+  "PolicyName": "QcloudIOASoftwareManagementNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-02 09:50:37"
+ },
+ {
+  "AddTime": "2026-04-02 09:51:00",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 268651317,
+  "PolicyName": "QcloudIOAEndPointDlpReadOnlyAccessNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-02 09:51:00"
  }
 ]
