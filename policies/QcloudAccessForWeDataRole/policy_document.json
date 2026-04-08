@@ -355,7 +355,17 @@
     "cls:DescribeDlcDelivers",
     "cls:CreateDlcDeliver",
     "cls:DeleteDlcDeliver",
-    "cls:ModifyDlcDeliver"
+    "cls:ModifyDlcDeliver",
+    "cdwdoris:AuthorizeUserPrivilegesSTD",
+    "cdwdoris:CheckUserPrivilegesSTD",
+    "cdwdoris:CreateUsersSTD",
+    "cdwdoris:DescribeMetaPrivilegesSTD",
+    "cdwdoris:DescribeUserTokenSTD",
+    "cdwdoris:DescribeUsersSTD",
+    "cdwdoris:ModifyUserSTD",
+    "cdwdoris:RevokeUserPrivilegesSTD",
+    "cdwdoris:DescribeUserPrivilegesSTD",
+    "cdwdoris:DescribeRegionZone"
    ],
    "effect": "allow",
    "resource": [

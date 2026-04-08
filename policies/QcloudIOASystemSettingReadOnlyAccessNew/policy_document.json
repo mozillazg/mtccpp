@@ -1,0 +1,70 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ioa:CreateAdminDomain",
+    "ioa:DeleteAdminDomain",
+    "ioa:DescribeAccountGroupDomainTree",
+    "ioa:DescribeAdminDomainDetail",
+    "ioa:DescribeAdminDomainList",
+    "ioa:DescribeAlertRuleItems",
+    "ioa:DescribeAlertRuleItemsForSecurityVirus",
+    "ioa:DescribeAppleCSRDownloadURL",
+    "ioa:DescribeAppleID",
+    "ioa:DescribeBandwidthUsageByRegionTopTerm",
+    "ioa:DescribeCertManageStatus",
+    "ioa:DescribeConnectorConfig",
+    "ioa:DescribeConsoleState",
+    "ioa:DescribeDefaultConfig",
+    "ioa:DescribeDeliveryServers",
+    "ioa:DescribeDeliveryStrategies",
+    "ioa:DescribeDeviceGroupDomainTree",
+    "ioa:DescribeEnterpriseIntranetIP",
+    "ioa:DescribeLdapUserSourceSwitch",
+    "ioa:DescribeLicenseTenantWhiteList",
+    "ioa:DescribeLogDetail",
+    "ioa:DescribeLogHistograms",
+    "ioa:DescribeLogTags",
+    "ioa:DescribeLogo",
+    "ioa:DescribeMDMStatus",
+    "ioa:DescribeOmsConfig",
+    "ioa:DescribeReportVulVersionInfo",
+    "ioa:DescribeRootDomainId",
+    "ioa:DescribeSourceTypes",
+    "ioa:DescribeSupportKafkaVersion",
+    "ioa:DescribeSystemSettings",
+    "ioa:ModifyAdminDomain",
+    "ioa:ModifyAlertRuleItems",
+    "ioa:ModifyAlertRuleItemsForSecurityVirus",
+    "ioa:ModifyConnectorConfigs",
+    "ioa:ModifySystemSettings",
+    "ioa:SaveLogo",
+    "ioa:SaveSystemConfigs",
+    "ioa:UploadLogo",
+    "ioa:UploadMDMPushCert",
+    "ioa:CreateConnectorConfig",
+    "ioa:DescribeLogDetailTerminalOperations",
+    "ioa:DescribeLogDownloadURL",
+    "ioa:CreateEnterpriseIntranetIP",
+    "ioa:DeleteEnterpriseIntranetIP",
+    "ioa:ModifyEnterpriseIntranetIP",
+    "ioa:DescribeLogTagsLicenseAuthorization",
+    "ioa:DescribeLogHistogramsLicenseAuthorization",
+    "ioa:DescribeLogDetailLicenseAuthorization",
+    "ioa:ModifyDeliveryServer",
+    "ioa:DeleteDeliveryServer",
+    "ioa:DeleteDeliveryStrategy",
+    "ioa:ModifyDeliveryStrategy",
+    "ioa:DescribeLogDownloadURLLicenseAuthorization"
+   ],
+   "condition": {
+    "numeric_equal": {
+     "qcs:read_only_action": 1
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

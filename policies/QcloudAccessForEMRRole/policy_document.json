@@ -190,7 +190,8 @@
     "cvm:AllocateAddresses",
     "cvm:DisassociateAddress",
     "cvm:ReleaseAddresses",
-    "clb:SetLoadBalancerSecurityGroups"
+    "clb:SetLoadBalancerSecurityGroups",
+    "cvm:AssociateAddress"
    ],
    "effect": "allow",
    "resource": "*"
@@ -201,7 +202,8 @@
    "resource": [
     "qcs::cdb:::*",
     "qcs::cvm:::*",
-    "qcs::cynosdb:::*"
+    "qcs::cynosdb:::*",
+    "qcs::tke:::*"
    ]
   },
   {

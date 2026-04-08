@@ -1629,7 +1629,7 @@
   "PolicyName": "QcloudAccessForEMRRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2026-03-10 21:03:26"
+  "UpdateTime": "2026-04-07 21:11:38"
  },
  {
   "AddTime": "2018-09-03 11:29:08",
@@ -4257,7 +4257,7 @@
   "PolicyName": "QcloudAccessForWeDataRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2026-03-19 21:06:39"
+  "UpdateTime": "2026-04-07 21:11:40"
  },
  {
   "AddTime": "2020-06-01 10:38:07",
@@ -11962,5 +11962,125 @@
   "ServiceType": "ioa",
   "Type": 2,
   "UpdateTime": "2026-04-02 09:51:00"
+ },
+ {
+  "AddTime": "2026-04-07 10:02:11",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269153324,
+  "PolicyName": "QcloudIOASystemSettingReadOnlyAccessNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-07 10:02:11"
+ },
+ {
+  "AddTime": "2026-04-07 10:03:27",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269153606,
+  "PolicyName": "QcloudIOAAccountManagementAccessNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-07 10:03:27"
+ },
+ {
+  "AddTime": "2026-04-07 10:03:43",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269153661,
+  "PolicyName": "QcloudIOAAccountManagementReadOnlyAccessNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-07 10:03:43"
+ },
+ {
+  "AddTime": "2026-04-07 10:04:18",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269153735,
+  "PolicyName": "QcloudIOASystemSettingAccessNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-07 10:04:18"
+ },
+ {
+  "AddTime": "2026-04-07 10:04:42",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269153795,
+  "PolicyName": "QcloudIOAEndPointDlpAccessNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-07 10:04:42"
+ },
+ {
+  "AddTime": "2026-04-07 10:05:11",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269153828,
+  "PolicyName": "QcloudIOAReadOnlyDeviceManagementNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-07 10:05:11"
+ },
+ {
+  "AddTime": "2026-04-07 10:05:32",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269153846,
+  "PolicyName": "QcloudIOADeviceProtectionReadOnlyAccessNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-07 10:05:32"
+ },
+ {
+  "AddTime": "2026-04-07 10:05:56",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269153873,
+  "PolicyName": "QcloudIOAEPPAccessNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-07 10:05:56"
+ },
+ {
+  "AddTime": "2026-04-07 10:06:11",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269153888,
+  "PolicyName": "QcloudIOADeviceProtectionAccessNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-07 10:06:11"
+ },
+ {
+  "AddTime": "2026-04-07 10:06:23",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269153899,
+  "PolicyName": "QcloudIOAEPPReadOnlyAccessNew",
+  "ServiceType": "ioa",
+  "Type": 2,
+  "UpdateTime": "2026-04-07 10:06:23"
  }
 ]
