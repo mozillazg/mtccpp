@@ -12082,5 +12082,17 @@
   "ServiceType": "ioa",
   "Type": 2,
   "UpdateTime": "2026-04-07 10:06:23"
+ },
+ {
+  "AddTime": "2026-04-08 17:11:14",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269333742,
+  "PolicyName": "QcloudTCSASServiceProviderAccess",
+  "ServiceType": "tcsas",
+  "Type": 2,
+  "UpdateTime": "2026-04-08 17:11:14"
  }
 ]

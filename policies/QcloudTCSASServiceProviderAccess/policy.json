@@ -1,0 +1,9 @@
+{
+ "AddTime": "2026-04-08 17:11:14",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tcsas:DescribeMNP\",\"tcsas:DescribeMNPVersion\",\"tcsas:DescribeMNPAllStageVersions\",\"tcsas:DescribeMNPApprovalList\",\"tcsas:DescribeMNPReleasedVersionHistory\",\"tcsas:CreateMNPDomainACL\",\"tcsas:CreateMNPVersion\",\"tcsas:CreateMNPApproval\",\"tcsas:ReleaseMNPVersion\",\"tcsas:ConfigureMNPPreview\",\"tcsas:RollbackMNPVersion\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudTCSASServiceProviderAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2026-04-08 17:11:14"
+}
