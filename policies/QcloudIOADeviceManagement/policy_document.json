@@ -108,7 +108,10 @@
     "ioa:DescribeOrganizationalStructureDevices",
     "ioa:DescribeOrganizationalStructureTree",
     "ioa:MarkInsideGroupManually",
-    "ioa:DescribeInsideGroupStatistics"
+    "ioa:DescribeInsideGroupStatistics",
+    "ioa:DescribeDeviceUploadPreviewResult",
+    "ioa:DescribeOrganizationalStructureGroups",
+    "ioa:DescribePeripheralCategoryList"
    ],
    "effect": "allow",
    "resource": "*"

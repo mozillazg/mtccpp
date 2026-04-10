@@ -43,7 +43,11 @@
     "ioa:CreateLogCondition",
     "ioa:DeleteLogCondition",
     "ioa:ModifyLogCondition",
-    "ioa:DescribeLogCondition"
+    "ioa:DescribeLogCondition",
+    "ioa:DescribeBandwidthUsageByRegionTopTerm",
+    "ioa:DescribeDeviceGroups",
+    "ioa:DescribeAccessTopTerms",
+    "ioa:DescribeLogTopTerms"
    ],
    "effect": "allow",
    "resource": "*"

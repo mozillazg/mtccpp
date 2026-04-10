@@ -86,7 +86,12 @@
     "ioa:DescribePolicyTotalApplyInfo",
     "ioa:DescribeDownloadDeviceCompliantInfo",
     "ioa:DescribeDeviceCompliantInfos",
-    "ioa:DescribeHelpPrimaryClasses"
+    "ioa:DescribeHelpPrimaryClasses",
+    "ioa:DescribeComplianceDashboard",
+    "ioa:DescribeApplyComplianceResult",
+    "ioa:DescribeApplyComplianceDashboard",
+    "ioa:DescribeAlertRuleItemsForCompliance",
+    "ioa:ModifyAlertRuleItemsForCompliance"
    ],
    "condition": {
     "numeric_equal": {

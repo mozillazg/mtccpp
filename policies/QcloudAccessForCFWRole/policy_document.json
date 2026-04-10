@@ -297,7 +297,8 @@
     "lighthouse:DescribeFirewallRules",
     "lighthouse:ModifyFirewallRules",
     "tat:DescribeAutomationAgentStatus",
-    "vpc:DescribeCcnRouteTableInputPolicys"
+    "vpc:DescribeCcnRouteTableInputPolicys",
+    "tke:ModifyClusterMachine"
    ],
    "effect": "allow",
    "resource": "*"

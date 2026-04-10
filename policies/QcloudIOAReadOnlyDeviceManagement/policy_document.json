@@ -113,7 +113,14 @@
     "ioa:DescribeOrganizationalStructureDevices",
     "ioa:DescribeOrganizationalStructureTree",
     "ioa:MarkInsideGroupManually",
-    "ioa:DescribeInsideGroupStatistics"
+    "ioa:DescribeInsideGroupStatistics",
+    "ioa:DescribeDeviceUploadPreviewResult",
+    "ioa:DescribeOrganizationalStructureGroups",
+    "ioa:DescribePeripheralCategoryList",
+    "ioa:CreateLogCondition",
+    "ioa:DeleteLogCondition",
+    "ioa:ModifyLogCondition",
+    "ioa:DescribeLogCondition"
    ],
    "condition": {
     "numeric_equal": {

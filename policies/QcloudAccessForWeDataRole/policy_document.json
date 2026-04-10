@@ -365,7 +365,8 @@
     "cdwdoris:ModifyUserSTD",
     "cdwdoris:RevokeUserPrivilegesSTD",
     "cdwdoris:DescribeUserPrivilegesSTD",
-    "cdwdoris:DescribeRegionZone"
+    "cdwdoris:DescribeRegionZone",
+    "tdmysql:Describe*"
    ],
    "effect": "allow",
    "resource": [

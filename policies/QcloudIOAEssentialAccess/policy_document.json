@@ -18,7 +18,9 @@
     "ioa:DescribePublicEncryptKey",
     "ioa:DescribePolicyType",
     "ioa:DescribeProfileField",
-    "ioa:DescribeModuleConfigUsage"
+    "ioa:DescribeModuleConfigUsage",
+    "ioa:DescribeConsoleState",
+    "ioa:DescribeOmsConfig"
    ],
    "effect": "allow",
    "resource": "*"

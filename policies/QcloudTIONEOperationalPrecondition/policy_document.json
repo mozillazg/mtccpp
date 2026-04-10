@@ -181,7 +181,9 @@
     "tione:ModifyCBSQuota",
     "tione:RefreshSubAccountLinuxUserInfos",
     "tione:DescribeSubAccountLinuxUserManagement",
-    "tione:EnableSubAccountLinuxUserManagement"
+    "tione:EnableSubAccountLinuxUserManagement",
+    "tione:DescribeStorageConfigs",
+    "tione:ModifyStorageConfigs"
    ],
    "effect": "allow",
    "resource": "*"
