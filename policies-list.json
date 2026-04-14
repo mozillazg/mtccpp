@@ -12082,5 +12082,53 @@
   "ServiceType": "tcsas",
   "Type": 2,
   "UpdateTime": "2026-04-08 17:11:14"
+ },
+ {
+  "AddTime": "2026-04-13 10:11:26",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269795202,
+  "PolicyName": "QcloudAdvisorAccessForCloudQ",
+  "ServiceType": "advisor",
+  "Type": 2,
+  "UpdateTime": "2026-04-13 10:11:26"
+ },
+ {
+  "AddTime": "2026-04-13 18:20:11",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269844192,
+  "PolicyName": "QcloudBHConfigOnlyAccess",
+  "ServiceType": "bh",
+  "Type": 2,
+  "UpdateTime": "2026-04-13 18:20:11"
+ },
+ {
+  "AddTime": "2026-04-13 18:20:24",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269844201,
+  "PolicyName": "QcloudBHAuditOnlyAccess",
+  "ServiceType": "bh",
+  "Type": 2,
+  "UpdateTime": "2026-04-13 18:20:24"
+ },
+ {
+  "AddTime": "2026-04-13 18:21:02",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 269844222,
+  "PolicyName": "QcloudDatabaseClawAdminFullAccess",
+  "ServiceType": "tdai",
+  "Type": 2,
+  "UpdateTime": "2026-04-13 18:21:02"
  }
 ]
