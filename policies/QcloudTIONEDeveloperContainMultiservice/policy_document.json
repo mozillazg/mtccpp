@@ -43,7 +43,8 @@
     "tcr:DescribeImages",
     "tcr:DescribeRepositoryPersonal",
     "cvm:DescribeDisks",
-    "tcr:DescribeReplicationInstances"
+    "tcr:DescribeReplicationInstances",
+    "goosefs:DescribeCustomerCluster"
    ],
    "effect": "allow",
    "resource": "*"

@@ -53,7 +53,8 @@
     "tcr:DescribeRepositoryPersonal",
     "cvm:DescribeDisks",
     "cvm:DescribeSecurityGroupLimits",
-    "tcr:DescribeReplicationInstances"
+    "tcr:DescribeReplicationInstances",
+    "goosefs:DescribeCustomerCluster"
    ],
    "effect": "allow",
    "resource": "*"

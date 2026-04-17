@@ -54,7 +54,10 @@
     "bh:ShowTop",
     "bh:UpdateTrialGuideStep",
     "bh:ViewReport",
-    "tag:GetTagKeys"
+    "tag:GetTagKeys",
+    "bh:DescribeEnableDeployZone",
+    "bh:DeployTrialResourceIOA",
+    "bh:DescribeResourcesZone"
    ],
    "effect": "allow",
    "resource": [
