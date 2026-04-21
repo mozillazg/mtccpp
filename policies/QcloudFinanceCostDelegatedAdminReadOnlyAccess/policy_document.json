@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "finance:DescribeCostDelegated*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
