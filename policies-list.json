@@ -12142,5 +12142,17 @@
   "ServiceType": "finance",
   "Type": 2,
   "UpdateTime": "2026-04-20 11:20:19"
+ },
+ {
+  "AddTime": "2026-04-21 14:20:08",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 270753442,
+  "PolicyName": "QcloudDatabaseClawUserFullAccess",
+  "ServiceType": "tdai",
+  "Type": 2,
+  "UpdateTime": "2026-04-21 14:20:08"
  }
 ]

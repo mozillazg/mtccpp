@@ -1,0 +1,41 @@
+{
+ "statement": [
+  {
+   "action": [
+    "tdai:ModifyClawInstSoul",
+    "tdai:DescribeClawInstSoul",
+    "tdai:DescribeClawSessions",
+    "tdai:DeleteClawSession",
+    "tdai:CreateClawSession",
+    "tdai:DescribeClawSessionDetail",
+    "tdai:ModifyClawCronStatus",
+    "tdai:DeleteClawCron",
+    "tdai:DescribeClawCrons",
+    "tdai:DescribeClawCronHistory",
+    "tdai:DescribeClawCronDetail",
+    "tdai:ModifyClawCron",
+    "tdai:CreateClawCron",
+    "tdai:CreateChatCompletion",
+    "tdai:CloseChunkDataUpload",
+    "tdai:DescribeAgentSaleConfig",
+    "tdai:CreateAgentInstance",
+    "tdai:DescribeAgentInstances",
+    "tdai:ModifyAgentInstanceName",
+    "tdai:RestartAgentInstance",
+    "tdai:IsolateAgentInstance",
+    "tdai:TerminateAgentInstance",
+    "tdai:TestClawDatasourceConnection",
+    "tdai:DescribeConnectTestResult",
+    "tdai:CreateClawDatasource",
+    "tdai:ModifyClawDatasource",
+    "tdai:DeleteClawDatasource",
+    "tdai:DescribeClawDatasources",
+    "tdai:ModifyClawSkillStatus",
+    "tdai:DescribeClawSkills"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
