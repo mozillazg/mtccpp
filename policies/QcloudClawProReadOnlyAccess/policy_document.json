@@ -2,8 +2,7 @@
  "statement": [
   {
    "action": [
-    "cvm:DescribeOpenClawAdmins",
-    "cvm:DescribeOpenClawPackages"
+    "cvm:DescribeClawPro*"
    ],
    "effect": "allow",
    "resource": "*"

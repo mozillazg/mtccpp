@@ -298,7 +298,13 @@
     "lighthouse:ModifyFirewallRules",
     "tat:DescribeAutomationAgentStatus",
     "vpc:DescribeCcnRouteTableInputPolicys",
-    "tke:ModifyClusterMachine"
+    "tke:ModifyClusterMachine",
+    "es:ModifyEsVipSecurityGroup",
+    "cdb:DescribeInstances",
+    "vdb:ModifyDBInstanceSecurityGroups",
+    "ckafka:DescribeSecurityGroupRoutes",
+    "ckafka:ModifyRouteSecurityGroups",
+    "vpc:UpdateTrafficMirrorDirection"
    ],
    "effect": "allow",
    "resource": "*"

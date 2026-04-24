@@ -191,7 +191,17 @@
     "cvm:DisassociateAddress",
     "cvm:ReleaseAddresses",
     "clb:SetLoadBalancerSecurityGroups",
-    "cvm:AssociateAddress"
+    "cvm:AssociateAddress",
+    "cynosdb:ResetAccountPassword",
+    "cdb:ModifyAccountPassword",
+    "tke:CreateClusterNodePool",
+    "tke:DescribeClusterNodePools",
+    "tke:DescribeClusterNodePoolDetail",
+    "as:CreateLaunchConfiguration",
+    "as:DescribeLaunchConfigurations",
+    "as:CreateAutoScalingGroup",
+    "as:DescribeAutoScalingInstances",
+    "as:DescribeAutoScalingGroups"
    ],
    "effect": "allow",
    "resource": "*"

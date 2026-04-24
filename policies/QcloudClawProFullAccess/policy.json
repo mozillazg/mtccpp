@@ -1,9 +1,9 @@
 {
  "AddTime": "2026-03-19 17:14:02",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"cvm:ResetCreateOpenClawAdmin\",\"cvm:ResetOpenClawAdminCredential\",\"cvm:CreateOpenClawAdmin\",\"cvm:DescribeOpenClawAdmins\",\"cvm:DescribeOpenClawPackages\",\"cvm:CheckOpenClawRole\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cvm:ResetCreateClawPro\",\"cvm:ResetClawProAdminPassword\",\"cvm:CreateClawPro\",\"cvm:DescribeClawPro*\",\"cvm:CheckClawProRole\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudClawProFullAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2026-03-19 17:14:02"
+ "UpdateTime": "2026-04-23 21:12:58"
 }

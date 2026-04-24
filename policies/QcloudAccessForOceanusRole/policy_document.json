@@ -128,7 +128,8 @@
     "tag:AttachResourcesTag",
     "tag:GetTagValues",
     "tag:DetachResourcesTag",
-    "tag:DescribeResourcesByTagsUnion"
+    "tag:DescribeResourcesByTagsUnion",
+    "cam:CheckUserPolicyAttachment"
    ],
    "effect": "allow",
    "resource": "*"

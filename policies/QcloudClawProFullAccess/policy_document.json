@@ -2,12 +2,11 @@
  "statement": [
   {
    "action": [
-    "cvm:ResetCreateOpenClawAdmin",
-    "cvm:ResetOpenClawAdminCredential",
-    "cvm:CreateOpenClawAdmin",
-    "cvm:DescribeOpenClawAdmins",
-    "cvm:DescribeOpenClawPackages",
-    "cvm:CheckOpenClawRole"
+    "cvm:ResetCreateClawPro",
+    "cvm:ResetClawProAdminPassword",
+    "cvm:CreateClawPro",
+    "cvm:DescribeClawPro*",
+    "cvm:CheckClawProRole"
    ],
    "effect": "allow",
    "resource": "*"
