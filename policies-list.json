@@ -12154,5 +12154,29 @@
   "ServiceType": "tdai",
   "Type": 2,
   "UpdateTime": "2026-04-21 14:20:08"
+ },
+ {
+  "AddTime": "2026-04-24 15:49:51",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 271138440,
+  "PolicyName": "QcloudEdgezoneFullAccess",
+  "ServiceType": "edgezone",
+  "Type": 2,
+  "UpdateTime": "2026-04-24 15:49:51"
+ },
+ {
+  "AddTime": "2026-04-24 15:49:52",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 271138446,
+  "PolicyName": "QcloudEdgezoneReadOnlyAccess",
+  "ServiceType": "edgezone",
+  "Type": 2,
+  "UpdateTime": "2026-04-24 15:49:52"
  }
 ]
