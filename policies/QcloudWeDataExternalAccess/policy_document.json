@@ -64,7 +64,21 @@
     "cdwdoris:DescribeClusterConfigs",
     "cdwdoris:DescribeInstanceNodes",
     "tccatalog:DescribeRegionWhitelist",
-    "cdwdoris:DescribeUserPrivilegesSTD"
+    "cdwdoris:DescribeUserPrivilegesSTD",
+    "dlc:CreateEngineJob",
+    "dlc:DeleteEngineJobs",
+    "dlc:DescribeEngineJobStates",
+    "dlc:DescribeEngineJobLog",
+    "dlc:DownloadEngineJobLog",
+    "dlc:DescribeEngineJobLogState",
+    "dlc:DownloadEngineJobResult",
+    "dlc:DescribeEngineClusterState",
+    "dlc:DescribeEngineJobAnalysis",
+    "dlc:CreateEngine",
+    "dlc:DescribeEngines",
+    "dlc:UpdateEngine",
+    "dlc:DeleteEngines",
+    "dlc:SuspendResumeEngine"
    ],
    "effect": "allow",
    "resource": [
