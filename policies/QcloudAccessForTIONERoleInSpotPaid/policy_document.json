@@ -1,0 +1,24 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:RunInstances",
+    "cvm:TerminateInstances"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  },
+  {
+   "action": [
+    "finance:trade"
+   ],
+   "effect": "allow",
+   "resource": [
+    "qcs::cvm:::*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}
