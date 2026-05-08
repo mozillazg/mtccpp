@@ -73,7 +73,9 @@
     "vpc:DescribeSecurityGroupLimits",
     "monitor:DescribeAlarmPolicies",
     "cam:ListGroupsForConsole",
-    "cvm:DescribeSecurityGroupLimits"
+    "cvm:DescribeSecurityGroupLimits",
+    "cos:GetBucketVersioning",
+    "monitor:DescribePrometheusInstances"
    ],
    "effect": "allow",
    "resource": "*"

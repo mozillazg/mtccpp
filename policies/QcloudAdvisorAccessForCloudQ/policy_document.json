@@ -2,7 +2,8 @@
  "statement": [
   {
    "action": [
-    "advisor:*"
+    "advisor:*",
+    "cfg:CreateDraftFromMultiTypeAction"
    ],
    "effect": "allow",
    "resource": "*"

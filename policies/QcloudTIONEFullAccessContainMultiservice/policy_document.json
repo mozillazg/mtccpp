@@ -54,7 +54,9 @@
     "cvm:DescribeDisks",
     "cvm:DescribeSecurityGroupLimits",
     "tcr:DescribeReplicationInstances",
-    "goosefs:DescribeCustomerCluster"
+    "goosefs:DescribeCustomerCluster",
+    "cos:GetBucketVersioning",
+    "monitor:DescribePrometheusInstances"
    ],
    "effect": "allow",
    "resource": "*"

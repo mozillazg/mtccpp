@@ -29,7 +29,8 @@
     "tke:DescribeSuperNodes",
     "tke:DescribeControlPlaneLogs",
     "tke:DisableControlPlaneLogs",
-    "tke:EnableControlPlaneLogs"
+    "tke:EnableControlPlaneLogs",
+    "tke:DescribePodChargeInfo"
    ],
    "effect": "allow",
    "resource": [

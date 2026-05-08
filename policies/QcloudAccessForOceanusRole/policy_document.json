@@ -129,7 +129,8 @@
     "tag:GetTagValues",
     "tag:DetachResourcesTag",
     "tag:DescribeResourcesByTagsUnion",
-    "cam:CheckUserPolicyAttachment"
+    "cam:CheckUserPolicyAttachment",
+    "ssm:GetSecretValue"
    ],
    "effect": "allow",
    "resource": "*"

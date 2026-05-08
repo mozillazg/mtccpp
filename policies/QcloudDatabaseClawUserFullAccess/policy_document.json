@@ -31,7 +31,10 @@
     "tdai:DeleteClawDatasource",
     "tdai:DescribeClawDatasources",
     "tdai:ModifyClawSkillStatus",
-    "tdai:DescribeClawSkills"
+    "tdai:DescribeClawSkills",
+    "tdai:DescribeClawTemplates",
+    "tdai:DescribeClawSouls",
+    "tdai:DescribeUserSkills"
    ],
    "effect": "allow",
    "resource": "*"
