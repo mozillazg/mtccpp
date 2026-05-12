@@ -1,0 +1,9 @@
+{
+ "AddTime": "2026-05-11 19:53:57",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cvm:DescribeInstanceVncUrl\"],\"condition\":{\"string_equal\":{\"qcs:tag:pcc:serviceNode:disableVnc\":[\"true\"]}},\"effect\":\"deny\",\"resource\":[\"*\"]}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudPCCPrivilegedAccessDeny",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2026-05-11 19:53:57"
+}

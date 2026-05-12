@@ -1,0 +1,21 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cvm:DescribeInstanceVncUrl"
+   ],
+   "condition": {
+    "string_equal": {
+     "qcs:tag:pcc:serviceNode:disableVnc": [
+      "true"
+     ]
+    }
+   },
+   "effect": "deny",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}

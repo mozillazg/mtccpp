@@ -12190,5 +12190,17 @@
   "ServiceType": "tione",
   "Type": 2,
   "UpdateTime": "2026-04-29 18:41:27"
+ },
+ {
+  "AddTime": "2026-05-11 19:53:57",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 272722979,
+  "PolicyName": "QcloudPCCPrivilegedAccessDeny",
+  "ServiceType": "pcc",
+  "Type": 2,
+  "UpdateTime": "2026-05-11 19:53:57"
  }
 ]
