@@ -6,7 +6,7 @@
    ],
    "condition": {
     "string_equal": {
-     "qcs:tag:pcc:serviceNode:disableVnc": [
+     "qcs:resource_tag/qcs:tag:pcc:serviceNode:disableVnc": [
       "true"
      ]
     }

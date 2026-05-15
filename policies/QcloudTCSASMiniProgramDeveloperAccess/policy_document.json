@@ -48,7 +48,18 @@
     "tcsas:DescribeMNPActiveUserRealTimeStatistics",
     "tcsas:CreateMNGVersion",
     "tcsas:DescribeMNGVersion",
-    "tcsas:CreateMNPSecretKey"
+    "tcsas:CreateMNPSecretKey",
+    "tcsas:DescribeMNGCategory",
+    "tcsas:DescribeMNGReleasedVersionHistory",
+    "tcsas:DescribeMNG",
+    "tcsas:DescribeMNGList",
+    "tcsas:DescribeMNGOfflinePackageURL",
+    "tcsas:ConfigureMNGPreview",
+    "tcsas:DescribeMNGPreview",
+    "tcsas:DescribeMNGAllStageVersions",
+    "tcsas:DescribeMNGDomainACL",
+    "tcsas:DescribeMNGSensitiveAPIPermissionList",
+    "tcsas:DescribeMNGSensitiveAPIPermissionApproval"
    ],
    "effect": "allow",
    "resource": "*"

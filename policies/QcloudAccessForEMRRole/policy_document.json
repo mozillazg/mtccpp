@@ -201,7 +201,8 @@
     "as:DescribeLaunchConfigurations",
     "as:CreateAutoScalingGroup",
     "as:DescribeAutoScalingInstances",
-    "as:DescribeAutoScalingGroups"
+    "as:DescribeAutoScalingGroups",
+    "cvm:DescribeQuotas"
    ],
    "effect": "allow",
    "resource": "*"

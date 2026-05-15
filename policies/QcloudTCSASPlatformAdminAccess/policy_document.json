@@ -69,7 +69,18 @@
     "tcsas:DescribeMNPActiveUserRealTimeStatistics",
     "tcsas:DescribeAPPDataOverview",
     "tcsas:DescribeAPPDataDetailLineChart",
-    "tcsas:DescribeApplicationConfigInfos"
+    "tcsas:DescribeApplicationConfigInfos",
+    "tcsas:DescribeMNGCategory",
+    "tcsas:DescribeMNGReleasedVersionHistory",
+    "tcsas:DescribeMNG",
+    "tcsas:DescribeMNGList",
+    "tcsas:DescribeMNGOfflinePackageURL",
+    "tcsas:DescribeMNGPreview",
+    "tcsas:DescribeMNGAllStageVersions",
+    "tcsas:DescribeMNGDomainACL",
+    "tcsas:DescribeMNGSensitiveAPIPermissionList",
+    "tcsas:DescribeMNGSensitiveAPIPermissionApproval",
+    "tcsas:DescribeGlobalDomainACL"
    ],
    "effect": "allow",
    "resource": "*"

@@ -39,7 +39,15 @@
     "tcsas:DescribeMNPReportDataLineChart",
     "tcsas:DescribeMNPPageAnalysisDetail",
     "tcsas:DescribeMNPMAUMetricCard",
-    "tcsas:DescribeMNPActiveUserRealTimeStatistics"
+    "tcsas:DescribeMNPActiveUserRealTimeStatistics",
+    "tcsas:DescribeMNGCategory",
+    "tcsas:DescribeMNGReleasedVersionHistory",
+    "tcsas:DescribeMNG",
+    "tcsas:DescribeMNGList",
+    "tcsas:DescribeMNGOfflinePackageURL",
+    "tcsas:ConfigureMNGPreview",
+    "tcsas:DescribeMNGPreview",
+    "tcsas:DescribeMNGAllStageVersions"
    ],
    "effect": "allow",
    "resource": "*"

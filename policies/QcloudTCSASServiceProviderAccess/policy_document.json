@@ -12,7 +12,17 @@
     "tcsas:CreateMNPApproval",
     "tcsas:ReleaseMNPVersion",
     "tcsas:ConfigureMNPPreview",
-    "tcsas:RollbackMNPVersion"
+    "tcsas:RollbackMNPVersion",
+    "tcsas:DescribeMNG",
+    "tcsas:DescribeMNGVersion",
+    "tcsas:DescribeMNGAllStageVersions",
+    "tcsas:DescribeMNGReleasedVersionHistory",
+    "tcsas:CreateMNGDomainACL",
+    "tcsas:CreateMNGVersion",
+    "tcsas:CreateMNGApproval",
+    "tcsas:ReleaseMNGVersion",
+    "tcsas:ConfigureMNGPreview",
+    "tcsas:RollbackMNGVersion"
    ],
    "effect": "allow",
    "resource": "*"

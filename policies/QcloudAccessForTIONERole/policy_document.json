@@ -143,7 +143,13 @@
     "vpc:DescribeAddresses",
     "goosefs:DescribeCustomerCluster",
     "goosefs:QueryClientNodeMountCommand",
-    "cvm:DescribeInstancesDeniedActions"
+    "cvm:DescribeInstancesDeniedActions",
+    "monitor:DescribePrometheusInstances",
+    "vpc:CreateVpcEndPointService",
+    "vpc:DescribeVpcEndPointService",
+    "vpc:CreateVpcEndPointServiceWhiteList",
+    "vpc:EnableVpcEndPointConnect",
+    "vpc:DeleteVpcEndPointService"
    ],
    "effect": "allow",
    "resource": "*"

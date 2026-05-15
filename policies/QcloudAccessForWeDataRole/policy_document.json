@@ -390,7 +390,22 @@
     "tione:DescribeBuildInImages",
     "tione:DescribeInferTemplates",
     "tione:StartNotebook",
-    "tione:StopNotebook"
+    "tione:StopNotebook",
+    "cdwdoris:DescribeGroupsSTD",
+    "cdwdoris:CreateGroupSTD",
+    "cdwdoris:ModifyUsersOfGroupSTD",
+    "cdwdoris:IssueMaskRulesSTD",
+    "cdwdoris:DescribeMaskRulesSTD",
+    "cdwdoris:CreateUsersSTD",
+    "cdwdoris:DescribeUsersSTD",
+    "emr:DescribeGroupsSTD",
+    "emr:CreateGroupsSTD",
+    "emr:ModifyUsersOfGroupSTD",
+    "emr:IssueMaskRulesSTD",
+    "emr:DescribeMaskRulesSTD",
+    "tchousex:DescribeRegionZone",
+    "tccatalog:DescribeRegionWhitelist",
+    "region:DescribeRegions"
    ],
    "effect": "allow",
    "resource": [

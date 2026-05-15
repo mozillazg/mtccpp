@@ -1,9 +1,9 @@
 {
  "AddTime": "2025-01-16 23:02:35",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":[\"tcsas:DescribeMNPCategory\",\"tcsas:DescribeMNPReleasedVersionHistory\",\"tcsas:DescribeMNP\",\"tcsas:DescribeMNPList\",\"tcsas:DescribeMNPOfflinePackageURL\",\"tcsas:ConfigureMNPPreview\",\"tcsas:DescribeMNPPreview\",\"tcsas:DescribeMNPAllStageVersions\",\"tcsas:CreateMNPApproval\",\"tcsas:ReleaseMNPVersion\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tcsas:DescribeMNPCategory\",\"tcsas:DescribeMNPReleasedVersionHistory\",\"tcsas:DescribeMNP\",\"tcsas:DescribeMNPList\",\"tcsas:DescribeMNPOfflinePackageURL\",\"tcsas:ConfigureMNPPreview\",\"tcsas:DescribeMNPPreview\",\"tcsas:DescribeMNPAllStageVersions\",\"tcsas:CreateMNPApproval\",\"tcsas:ReleaseMNPVersion\",\"tcsas:DescribeMNGCategory\",\"tcsas:DescribeMNGReleasedVersionHistory\",\"tcsas:DescribeMNG\",\"tcsas:DescribeMNGList\",\"tcsas:DescribeMNGOfflinePackageURL\",\"tcsas:ConfigureMNGPreview\",\"tcsas:DescribeMNGPreview\",\"tcsas:DescribeMNGAllStageVersions\",\"tcsas:CreateMNGApproval\",\"tcsas:ReleaseMNGVersion\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudTCSASMiniProgramSubmissionStaffAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2025-01-16 23:02:35"
+ "UpdateTime": "2026-05-14 21:40:39"
 }
