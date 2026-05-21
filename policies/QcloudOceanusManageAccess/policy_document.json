@@ -1,0 +1,19 @@
+{
+ "statement": [
+  {
+   "action": [
+    "oceanus:*",
+    "cam:ListWeChatWorkSubAccounts",
+    "cam:ListUsers",
+    "cam:DescribeRoleList",
+    "cam:ListCollaborators",
+    "tag:GetTagValues",
+    "tag:DescribeTagKeys",
+    "monitor:GetMonitorData"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
