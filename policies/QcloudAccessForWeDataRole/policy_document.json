@@ -405,7 +405,9 @@
     "emr:DescribeMaskRulesSTD",
     "tchousex:DescribeRegionZone",
     "tccatalog:DescribeRegionWhitelist",
-    "region:DescribeRegions"
+    "region:DescribeRegions",
+    "cdwdoris:DescribeClusterConfigs",
+    "cdwdoris:DescribeInstanceNodes"
    ],
    "effect": "allow",
    "resource": [

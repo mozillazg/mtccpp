@@ -10,7 +10,8 @@
     "tchousex:ConnectInstance",
     "vpc:DescribeVpcEx",
     "cls:DescribeTopics",
-    "cls:DescribeLogsets"
+    "cls:DescribeLogsets",
+    "tchousex:ActionSRDmsDescribe"
    ],
    "effect": "allow",
    "resource": "*"

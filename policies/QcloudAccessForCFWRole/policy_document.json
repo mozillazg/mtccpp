@@ -305,7 +305,11 @@
     "ckafka:DescribeSecurityGroupRoutes",
     "ckafka:ModifyRouteSecurityGroups",
     "vpc:UpdateTrafficMirrorDirection",
-    "vdb:DescribeInstances"
+    "vdb:DescribeInstances",
+    "vpc:CreateTrafficMirrorFilterRules",
+    "vpc:DeleteTrafficMirrorFilterRules",
+    "vpc:DescribeTrafficMirrorFilterRules",
+    "vpc:ModifyTrafficMirrorFilterRules"
    ],
    "effect": "allow",
    "resource": "*"
