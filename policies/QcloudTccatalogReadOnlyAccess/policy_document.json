@@ -2,8 +2,10 @@
  "statement": [
   {
    "action": [
-    "lke:*",
-    "adp:*"
+    "tccatalog:Describe*",
+    "tccatalog:Check*",
+    "tccatalog:Search*",
+    "tccatalog:Get*"
    ],
    "condition": {
     "numeric_equal": {

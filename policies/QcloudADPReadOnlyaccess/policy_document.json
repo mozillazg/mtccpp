@@ -6,7 +6,8 @@
     "cam:ListWeChatWorkSubAccounts",
     "cam:DescribeRoleList",
     "cam:ListUsers",
-    "lke:*"
+    "lke:*",
+    "adp:*"
    ],
    "condition": {
     "numeric_equal": {

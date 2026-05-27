@@ -2,7 +2,8 @@
  "statement": [
   {
    "action": [
-    "lke:*"
+    "lke:*",
+    "adp:*"
    ],
    "effect": "allow",
    "resource": "*"

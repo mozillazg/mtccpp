@@ -9609,7 +9609,7 @@
   "PolicyName": "QcloudLKEFullAccess",
   "ServiceType": "lke",
   "Type": 2,
-  "UpdateTime": "2025-05-26 20:20:00"
+  "UpdateTime": "2026-05-26 21:00:07"
  },
  {
   "AddTime": "2024-04-15 15:26:50",
@@ -9621,7 +9621,7 @@
   "PolicyName": "QcloudLKEReadOnlyaccess",
   "ServiceType": "lke",
   "Type": 2,
-  "UpdateTime": "2025-05-26 20:19:39"
+  "UpdateTime": "2026-05-26 21:00:09"
  },
  {
   "AddTime": "2024-05-07 10:06:16",
@@ -11613,7 +11613,7 @@
   "PolicyName": "QcloudADPReadOnlyaccess",
   "ServiceType": "lke",
   "Type": 2,
-  "UpdateTime": "2025-11-05 14:42:50"
+  "UpdateTime": "2026-05-26 21:00:10"
  },
  {
   "AddTime": "2025-11-05 14:44:12",
@@ -11625,7 +11625,7 @@
   "PolicyName": "QcloudADPFullAccess",
   "ServiceType": "lke",
   "Type": 2,
-  "UpdateTime": "2025-11-05 14:44:12"
+  "UpdateTime": "2026-05-26 21:00:11"
  },
  {
   "AddTime": "2025-11-07 09:52:40",
@@ -12226,5 +12226,17 @@
   "ServiceType": "tccatalog",
   "Type": 2,
   "UpdateTime": "2026-05-25 09:35:29"
+ },
+ {
+  "AddTime": "2026-05-26 11:41:54",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 274212658,
+  "PolicyName": "QcloudTccatalogReadOnlyAccess",
+  "ServiceType": "tccatalog",
+  "Type": 2,
+  "UpdateTime": "2026-05-26 11:41:54"
  }
 ]
