@@ -183,7 +183,9 @@
     "tione:DescribeSubAccountLinuxUserManagement",
     "tione:EnableSubAccountLinuxUserManagement",
     "tione:DescribeStorageConfigs",
-    "tione:ModifyStorageConfigs"
+    "tione:ModifyStorageConfigs",
+    "tione:ModifyResourceGroupsDetachWorkspace",
+    "tione:ModifyResourceGroupsAttachWorkspace"
    ],
    "effect": "allow",
    "resource": "*"

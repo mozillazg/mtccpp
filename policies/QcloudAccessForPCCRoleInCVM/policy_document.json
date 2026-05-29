@@ -19,7 +19,8 @@
     "ssm:UpdateSecret",
     "ssm:DescribeResourceIds",
     "ssm:DescribeSecret",
-    "pcc:*"
+    "pcc:*",
+    "ssm:DisableSecret"
    ],
    "effect": "allow",
    "resource": [

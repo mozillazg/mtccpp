@@ -1,0 +1,25 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cos:GetObject",
+    "cos:HeadObject",
+    "cos:HeadBucket",
+    "cos:GetBucket",
+    "cos:PutObject",
+    "cos:DeleteObject",
+    "cos:UploadPart",
+    "cos:ListParts",
+    "cos:InitiateMultipartUpload",
+    "cos:ListMultipartUploads",
+    "cos:CompleteMultipartUpload",
+    "cos:AbortMultipartUpload"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  }
+ ],
+ "version": "2.0"
+}
