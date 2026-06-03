@@ -142,7 +142,8 @@
     "cvm:DescribeRegions",
     "tke:DescribeClusterNodePools",
     "tke:DeleteClusterInstances",
-    "cvm:DescribeInstanceDiskSpecifications"
+    "cvm:DescribeInstanceDiskSpecifications",
+    "cam:PassRole"
    ],
    "effect": "allow",
    "resource": "*"
