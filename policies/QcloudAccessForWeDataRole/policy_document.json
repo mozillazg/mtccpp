@@ -408,7 +408,10 @@
     "region:DescribeRegions",
     "cdwdoris:DescribeClusterConfigs",
     "cdwdoris:DescribeInstanceNodes",
-    "wedata:CreateEngineJob"
+    "wedata:CreateEngineJob",
+    "eb:PutEvents",
+    "eb:ListEventBuses",
+    "eb:GetEventBus"
    ],
    "effect": "allow",
    "resource": [

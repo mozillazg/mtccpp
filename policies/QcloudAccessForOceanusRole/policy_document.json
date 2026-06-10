@@ -130,7 +130,9 @@
     "tag:DetachResourcesTag",
     "tag:DescribeResourcesByTagsUnion",
     "cam:CheckUserPolicyAttachment",
-    "ssm:GetSecretValue"
+    "ssm:GetSecretValue",
+    "vpc:ModifyNetworkInterface",
+    "cvm:DescribeSecurityGroups"
    ],
    "effect": "allow",
    "resource": "*"
