@@ -411,7 +411,17 @@
     "wedata:CreateEngineJob",
     "eb:PutEvents",
     "eb:ListEventBuses",
-    "eb:GetEventBus"
+    "eb:GetEventBus",
+    "emr:DescribeKeyTabFile",
+    "emr:DescribeAIExtParameters",
+    "dlc:DescribeDataEngines",
+    "dlc:DescribeDataEngineSessionParameters",
+    "dlc:DescribeSessionImageVersion",
+    "dlc:DescribeEGJobLog",
+    "dlc:DescribeKernelArgs",
+    "dlc:DescribeNativeSparkSessions",
+    "dlc:DescribeDataEnginePythonSparkImages",
+    "dlc:DescribeUserRoles"
    ],
    "effect": "allow",
    "resource": [

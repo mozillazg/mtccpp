@@ -132,7 +132,8 @@
     "cam:CheckUserPolicyAttachment",
     "ssm:GetSecretValue",
     "vpc:ModifyNetworkInterface",
-    "cvm:DescribeSecurityGroups"
+    "cvm:DescribeSecurityGroups",
+    "cvm:DisassociateNetworkInterfaceSecurityGroups"
    ],
    "effect": "allow",
    "resource": "*"

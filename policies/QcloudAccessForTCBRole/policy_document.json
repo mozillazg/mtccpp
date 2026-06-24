@@ -38,7 +38,16 @@
     "ags:StartSandboxInstance",
     "ags:StopSandboxInstance",
     "ags:UpdateSandboxInstance",
-    "ags:AcquireSandboxInstanceToken"
+    "ags:AcquireSandboxInstanceToken",
+    "cdn:TcbCreateResource",
+    "cdn:TcbModifyAttribute",
+    "cdn:TcbIsolateResource",
+    "cdn:TcbReinstateResource",
+    "cdn:TcbDestroyResource",
+    "cdn:TcbCheckModify",
+    "cdn:TcbModifyResource",
+    "cdn:TcbConvertPayMode",
+    "cdn:TcbResetResource"
    ],
    "effect": "allow",
    "resource": [

@@ -158,7 +158,20 @@
     "bh:UnlockUser",
     "bh:UpdateTrialGuideStep",
     "bh:DescribeResourcesZone",
-    "bh:DescribeEnableDeployZone"
+    "bh:DescribeEnableDeployZone",
+    "bh:CreateAccountTemplate",
+    "bh:ModifyAccountTemplate",
+    "bh:DeleteAccountTemplates",
+    "bh:DescribeAccountTemplateDetail",
+    "bh:DescribeAccountTemplates",
+    "bh:CreateDeviceAccountsFromTemplates",
+    "bh:CreateAppAssetAccountBatch",
+    "bh:CreateAppAssetAccount",
+    "bh:DeleteAppAssetAccounts",
+    "bh:DescribeAppAssetAccounts",
+    "bh:BindAppAssetAccountPassword",
+    "bh:ResetAppAssetAccountPassword",
+    "bh:DescribeAccountsWithAppAssetCount"
    ],
    "effect": "allow",
    "resource": [

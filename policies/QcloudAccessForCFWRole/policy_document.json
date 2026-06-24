@@ -309,7 +309,13 @@
     "vpc:CreateTrafficMirrorFilterRules",
     "vpc:DeleteTrafficMirrorFilterRules",
     "vpc:DescribeTrafficMirrorFilterRules",
-    "vpc:ModifyTrafficMirrorFilterRules"
+    "vpc:ModifyTrafficMirrorFilterRules",
+    "cdwch:DescribeInstancesNew",
+    "cdwch:DescribeInstance",
+    "cdwch:ModifySecurityGroups",
+    "tag:DescribeResourcesByTags",
+    "region:DescribeRegions",
+    "tat:DescribeInvocations"
    ],
    "effect": "allow",
    "resource": "*"

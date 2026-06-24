@@ -11,7 +11,11 @@
     "vpc:DescribeVpcEx",
     "cls:DescribeTopics",
     "cls:DescribeLogsets",
-    "tchousex:ActionSRDmsDescribe"
+    "tchousex:ActionSRDmsDescribe",
+    "bdai:GetChatToSql",
+    "bdai:GetCompleteSql",
+    "bdai:GetReportFeedback",
+    "bdai:GetChatAIDeepSeek"
    ],
    "effect": "allow",
    "resource": "*"

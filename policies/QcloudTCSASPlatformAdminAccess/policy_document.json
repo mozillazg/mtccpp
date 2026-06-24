@@ -80,7 +80,17 @@
     "tcsas:DescribeMNGDomainACL",
     "tcsas:DescribeMNGSensitiveAPIPermissionList",
     "tcsas:DescribeMNGSensitiveAPIPermissionApproval",
-    "tcsas:DescribeGlobalDomainACL"
+    "tcsas:DescribeGlobalDomainACL",
+    "tcsas:DescribeMNPAppSecret",
+    "tcsas:DescribeMNPSubscribeMessageTemplateLibraryList",
+    "tcsas:DescribeMNPSubscribeMessageTemplateLibrary",
+    "tcsas:DescribeMNPSubscribeMessageTemplateList",
+    "tcsas:DescribeMNPSubscribeMessageTemplate",
+    "tcsas:DescribeMNGAppSecret",
+    "tcsas:DescribeMNGSubscribeMessageTemplateLibraryList",
+    "tcsas:DescribeMNGSubscribeMessageTemplateLibrary",
+    "tcsas:DescribeMNGSubscribeMessageTemplateList",
+    "tcsas:DescribeMNGSubscribeMessageTemplate"
    ],
    "effect": "allow",
    "resource": "*"

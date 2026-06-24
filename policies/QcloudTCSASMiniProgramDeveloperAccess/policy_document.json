@@ -59,7 +59,15 @@
     "tcsas:DescribeMNGAllStageVersions",
     "tcsas:DescribeMNGDomainACL",
     "tcsas:DescribeMNGSensitiveAPIPermissionList",
-    "tcsas:DescribeMNGSensitiveAPIPermissionApproval"
+    "tcsas:DescribeMNGSensitiveAPIPermissionApproval",
+    "tcsas:DescribeMNPSubscribeMessageTemplateLibraryList",
+    "tcsas:DescribeMNPSubscribeMessageTemplateLibrary",
+    "tcsas:DescribeMNPSubscribeMessageTemplateList",
+    "tcsas:DescribeMNPSubscribeMessageTemplate",
+    "tcsas:DescribeMNGSubscribeMessageTemplateLibraryList",
+    "tcsas:DescribeMNGSubscribeMessageTemplateLibrary",
+    "tcsas:DescribeMNGSubscribeMessageTemplateList",
+    "tcsas:DescribeMNGSubscribeMessageTemplate"
    ],
    "effect": "allow",
    "resource": "*"

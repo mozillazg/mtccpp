@@ -2,8 +2,7 @@
  "statement": [
   {
    "action": [
-    "dlc:*",
-    "bdai:*"
+    "cngw:*"
    ],
    "effect": "allow",
    "resource": "*"

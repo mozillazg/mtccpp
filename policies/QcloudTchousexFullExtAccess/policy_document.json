@@ -23,7 +23,8 @@
     "cam:ListCollaborators",
     "cam:ListUsers",
     "cls:DescribeTopics",
-    "cls:DescribeLogsets"
+    "cls:DescribeLogsets",
+    "bdai:*"
    ],
    "effect": "allow",
    "resource": "*"

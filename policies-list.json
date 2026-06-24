@@ -1917,7 +1917,7 @@
   "PolicyName": "QcloudAccessForTCBRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2026-04-23 21:12:29"
+  "UpdateTime": "2026-06-23 19:24:12"
  },
  {
   "AddTime": "2018-12-10 16:21:53",
@@ -2433,7 +2433,7 @@
   "PolicyName": "QcloudAccessForOceanusRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2026-06-09 19:57:10"
+  "UpdateTime": "2026-06-23 19:24:14"
  },
  {
   "AddTime": "2019-06-18 16:29:58",
@@ -3081,7 +3081,7 @@
   "PolicyName": "QcloudAccessForCFWRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2026-05-21 21:12:22"
+  "UpdateTime": "2026-06-23 19:24:15"
  },
  {
   "AddTime": "2019-10-28 16:16:55",
@@ -4149,7 +4149,7 @@
   "PolicyName": "QcloudAccessForWeDataRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2026-06-09 19:57:12"
+  "UpdateTime": "2026-06-23 19:24:18"
  },
  {
   "AddTime": "2020-06-01 10:38:07",
@@ -5145,7 +5145,7 @@
   "PolicyName": "QcloudDLCFullAccess",
   "ServiceType": "dlc",
   "Type": 2,
-  "UpdateTime": "2021-09-22 16:37:49"
+  "UpdateTime": "2026-06-23 19:24:23"
  },
  {
   "AddTime": "2020-12-17 18:15:20",
@@ -6117,7 +6117,7 @@
   "PolicyName": "QcloudDLCReadOnlyAccess",
   "ServiceType": "dlc",
   "Type": 2,
-  "UpdateTime": "2022-06-16 21:15:31"
+  "UpdateTime": "2026-06-23 19:24:24"
  },
  {
   "AddTime": "2021-06-17 19:03:19",
@@ -9981,7 +9981,7 @@
   "PolicyName": "QcloudTchousexFullExtAccess",
   "ServiceType": "tchousex",
   "Type": 2,
-  "UpdateTime": "2025-05-20 21:28:53"
+  "UpdateTime": "2026-06-23 19:24:27"
  },
  {
   "AddTime": "2024-10-10 21:45:24",
@@ -9993,7 +9993,7 @@
   "PolicyName": "QcloudTchousexReadOnlyExtAccess",
   "ServiceType": "tchousex",
   "Type": 2,
-  "UpdateTime": "2026-05-21 21:12:32"
+  "UpdateTime": "2026-06-23 19:24:29"
  },
  {
   "AddTime": "2024-10-17 21:57:15",
@@ -10341,7 +10341,7 @@
   "PolicyName": "QcloudTCSASPlatformAdminAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-05-14 21:40:36"
+  "UpdateTime": "2026-06-23 19:24:30"
  },
  {
   "AddTime": "2025-01-16 22:38:18",
@@ -10437,7 +10437,7 @@
   "PolicyName": "QcloudTCSASMiniProgramAdministratorAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-05-14 21:40:40"
+  "UpdateTime": "2026-06-23 19:24:32"
  },
  {
   "AddTime": "2025-01-16 23:05:36",
@@ -10449,7 +10449,7 @@
   "PolicyName": "QcloudTCSASMiniProgramSeniorDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-05-14 21:40:41"
+  "UpdateTime": "2026-06-23 19:24:33"
  },
  {
   "AddTime": "2025-01-16 23:06:22",
@@ -10461,7 +10461,7 @@
   "PolicyName": "QcloudTCSASMiniProgramDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-05-14 21:40:43"
+  "UpdateTime": "2026-06-23 19:24:34"
  },
  {
   "AddTime": "2025-01-16 23:07:32",
@@ -11961,7 +11961,7 @@
   "PolicyName": "QcloudBHConfigOnlyAccess",
   "ServiceType": "bh",
   "Type": 2,
-  "UpdateTime": "2026-05-14 21:40:56"
+  "UpdateTime": "2026-06-23 19:24:44"
  },
  {
   "AddTime": "2026-04-13 18:20:24",
@@ -12142,5 +12142,29 @@
   "ServiceType": "mdp",
   "Type": 2,
   "UpdateTime": "2026-06-04 16:10:56"
+ },
+ {
+  "AddTime": "2026-06-12 17:19:11",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 276091960,
+  "PolicyName": "QcloudCNGWFullAccess",
+  "ServiceType": "cngw",
+  "Type": 2,
+  "UpdateTime": "2026-06-12 17:19:11"
+ },
+ {
+  "AddTime": "2026-06-12 17:19:13",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 276091966,
+  "PolicyName": "QcloudCNGWReadOnlyAccess",
+  "ServiceType": "cngw",
+  "Type": 2,
+  "UpdateTime": "2026-06-12 17:19:13"
  }
 ]
