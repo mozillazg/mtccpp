@@ -202,7 +202,16 @@
     "as:CreateAutoScalingGroup",
     "as:DescribeAutoScalingInstances",
     "as:DescribeAutoScalingGroups",
-    "cvm:DescribeQuotas"
+    "cvm:DescribeQuotas",
+    "monitor:DescribePrometheusInstanceInitStatus",
+    "monitor:DescribePrometheusInstances",
+    "monitor:DescribeExporterIntegrations",
+    "monitor:CreateExporterIntegration",
+    "monitor:DeleteExporterIntegration",
+    "wedata:DescribeCipherJwt",
+    "goosefs:DescribeClusters",
+    "goosefs:DescribeNamespaces",
+    "goosefs:DescribeClientUinMappingByUin"
    ],
    "effect": "allow",
    "resource": "*"
