@@ -25,7 +25,8 @@
     "cam:GetCustomMfaCallback",
     "cam:GetMFADeviceColl",
     "cam:DescribeSafeAuthFlagColl",
-    "cam:DescribeSubAccountDefaultMFASetting"
+    "cam:DescribeSubAccountDefaultMFASetting",
+    "cam:QuerySubUserPasskeyList"
    ],
    "effect": "allow",
    "resource": "*"

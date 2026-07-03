@@ -143,7 +143,8 @@
     "tke:DescribeClusterNodePools",
     "tke:DeleteClusterInstances",
     "cvm:DescribeInstanceDiskSpecifications",
-    "cam:PassRole"
+    "cam:PassRole",
+    "cvm:ModifyInstancesChargeType"
    ],
    "effect": "allow",
    "resource": "*"

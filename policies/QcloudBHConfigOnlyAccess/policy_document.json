@@ -171,7 +171,8 @@
     "bh:DescribeAppAssetAccounts",
     "bh:BindAppAssetAccountPassword",
     "bh:ResetAppAssetAccountPassword",
-    "bh:DescribeAccountsWithAppAssetCount"
+    "bh:DescribeAccountsWithAppAssetCount",
+    "bh:CreateAppAssetAccountsFromTemplates"
    ],
    "effect": "allow",
    "resource": [

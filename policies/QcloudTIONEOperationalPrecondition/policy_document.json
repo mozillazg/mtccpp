@@ -185,7 +185,12 @@
     "tione:DescribeStorageConfigs",
     "tione:ModifyStorageConfigs",
     "tione:ModifyResourceGroupsDetachWorkspace",
-    "tione:ModifyResourceGroupsAttachWorkspace"
+    "tione:ModifyResourceGroupsAttachWorkspace",
+    "tione:RegisterCustomImage",
+    "tione:DescribeRecentUsedImageList",
+    "tione:ReportImageUsage",
+    "tione:DescribePresetImageFilterOptions",
+    "tione:DescribePresetImageList"
    ],
    "effect": "allow",
    "resource": "*"

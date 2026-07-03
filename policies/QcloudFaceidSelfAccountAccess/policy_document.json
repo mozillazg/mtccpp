@@ -20,7 +20,18 @@
     "faceid:ConsoleServiceSetting",
     "faceid:CreateKeyForConsole",
     "faceid:SetUserKmsKeyForConsole",
-    "faceid:ConsoleGetEidVerifyRecord"
+    "faceid:ConsoleGetEidVerifyRecord",
+    "faceid:GetBillingTrend",
+    "faceid:GetBillingOverview",
+    "faceid:GetInterfaceAnalysisItems",
+    "faceid:InterfaceAnalysisV2",
+    "faceid:GetEKYCAPIRecordDetails",
+    "faceid:GetEKYCAPIRecordsForConsole",
+    "faceid:GetEKYCH5RecordDetails",
+    "faceid:GetEKYCH5RecordsForConsole",
+    "faceid:GetEKYCSDKRecordDetails",
+    "faceid:GetEKYCSDKRecordsForConsole",
+    "faceid:ConsoleGetUserInfoIntl"
    ],
    "condition": {
     "string_equal": {

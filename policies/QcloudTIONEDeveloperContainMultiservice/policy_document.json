@@ -46,7 +46,19 @@
     "tcr:DescribeReplicationInstances",
     "goosefs:DescribeCustomerCluster",
     "cos:GetBucketVersioning",
-    "monitor:DescribePrometheusInstances"
+    "monitor:DescribePrometheusInstances",
+    "cls:DescribeLogsets",
+    "cls:CreateExport",
+    "cls:DescribeExports",
+    "cls:DescribeLogHistogram",
+    "tse:DescribeGovernanceNamespaces",
+    "tse:DescribeGovernanceInstances",
+    "tse:DescribeGovernanceServices",
+    "tse:CreateGovernanceServices",
+    "tse:CreateGovernanceAlias",
+    "tse:CreateGovernanceInstances",
+    "tse:ModifyGovernanceInstances",
+    "tse:DeleteGovernanceInstances"
    ],
    "effect": "allow",
    "resource": "*"
@@ -81,7 +93,8 @@
     "qcs::tione:::evalspec/*",
     "qcs::tione:::evalset/*",
     "qcs::tione:::evaltpl/*",
-    "qcs::tione:::evalstd/*"
+    "qcs::tione:::evalstd/*",
+    "qcs::tione:::customimage/*"
    ]
   },
   {

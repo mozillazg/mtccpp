@@ -13,7 +13,9 @@
     "ckafka:DescribeInstancesDetail",
     "ckafka:DescribeTopic",
     "ckafka:DescribeTopicAttributes",
-    "vpc:DescribeCcnAttachedInstances"
+    "vpc:DescribeCcnAttachedInstances",
+    "ckafka:CreateToken",
+    "ckafka:AuthorizeToken"
    ],
    "effect": "allow",
    "resource": "*"

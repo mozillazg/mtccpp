@@ -149,7 +149,19 @@
     "vpc:DescribeVpcEndPointService",
     "vpc:CreateVpcEndPointServiceWhiteList",
     "vpc:EnableVpcEndPointConnect",
-    "vpc:DeleteVpcEndPointService"
+    "vpc:DeleteVpcEndPointService",
+    "cls:DescribeLogsets",
+    "cls:CreateExport",
+    "cls:DescribeExports",
+    "cls:DescribeLogHistogram",
+    "tse:DescribeGovernanceInstances",
+    "tse:DescribeGovernanceNamespaces",
+    "tse:DescribeGovernanceServices",
+    "tse:CreateGovernanceServices",
+    "tse:CreateGovernanceAlias",
+    "tse:CreateGovernanceInstances",
+    "tse:ModifyGovernanceInstances",
+    "tse:DeleteGovernanceInstances"
    ],
    "effect": "allow",
    "resource": "*"
