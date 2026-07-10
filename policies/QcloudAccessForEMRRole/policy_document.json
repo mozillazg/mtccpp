@@ -211,7 +211,18 @@
     "wedata:DescribeCipherJwt",
     "goosefs:DescribeClusters",
     "goosefs:DescribeNamespaces",
-    "goosefs:DescribeClientUinMappingByUin"
+    "goosefs:DescribeClientUinMappingByUin",
+    "cvm:CreateRemoteDisks",
+    "cvm:DescribeRemoteDisks",
+    "cvm:AttachRemoteDisks",
+    "cvm:DetachRemoteDisks",
+    "cvm:TerminateRemoteDisks",
+    "cvm:ModifyRemoteDiskAttributes",
+    "cvm:DescribeRemoteDiskConfigQuota",
+    "cvm:DescribeRemoteDisksDeniedActions",
+    "cvm:InquirePriceCreateRemoteDisks",
+    "cvm:RenewRemoteDisk",
+    "cdb:DescribeAsyncRequestInfo"
    ],
    "effect": "allow",
    "resource": "*"

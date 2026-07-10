@@ -47,7 +47,9 @@
     "cdn:TcbCheckModify",
     "cdn:TcbModifyResource",
     "cdn:TcbConvertPayMode",
-    "cdn:TcbResetResource"
+    "cdn:TcbResetResource",
+    "ci:*",
+    "cam:PassRole"
    ],
    "effect": "allow",
    "resource": [

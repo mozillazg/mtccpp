@@ -1,0 +1,14 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cos:PutBucketLoggingAnalysis",
+    "cls:DescribeTopics",
+    "cls:OpenKafkaConsumer"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

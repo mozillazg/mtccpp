@@ -133,7 +133,8 @@
     "ssm:GetSecretValue",
     "vpc:ModifyNetworkInterface",
     "cvm:DescribeSecurityGroups",
-    "cvm:DisassociateNetworkInterfaceSecurityGroups"
+    "cvm:DisassociateNetworkInterfaceSecurityGroups",
+    "oceanus:CloudApiDispatcher"
    ],
    "effect": "allow",
    "resource": "*"
