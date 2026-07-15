@@ -12178,5 +12178,29 @@
   "ServiceType": "cfs",
   "Type": 2,
   "UpdateTime": "2026-07-09 14:28:01"
+ },
+ {
+  "AddTime": "2026-07-13 14:43:55",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 279093958,
+  "PolicyName": "QcloudTDATAFullAccess",
+  "ServiceType": "tdata",
+  "Type": 2,
+  "UpdateTime": "2026-07-13 14:43:55"
+ },
+ {
+  "AddTime": "2026-07-13 14:43:56",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 279093959,
+  "PolicyName": "QcloudTDATAReadOnlyAccess",
+  "ServiceType": "tdata",
+  "Type": 2,
+  "UpdateTime": "2026-07-13 14:43:56"
  }
 ]
