@@ -1617,7 +1617,7 @@
   "PolicyName": "QcloudAccessForEMRRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2026-07-09 19:28:31"
+  "UpdateTime": "2026-07-16 19:25:13"
  },
  {
   "AddTime": "2018-09-03 11:29:08",
@@ -9585,7 +9585,7 @@
   "PolicyName": "QcloudCloudappInstallationAccess",
   "ServiceType": "cloudapp",
   "Type": 2,
-  "UpdateTime": "2026-02-05 20:59:36"
+  "UpdateTime": "2026-07-16 19:25:18"
  },
  {
   "AddTime": "2024-07-18 23:19:42",
@@ -10665,7 +10665,7 @@
   "PolicyName": "QcloudTIONEOperationalPrecondition",
   "ServiceType": "tione",
   "Type": 2,
-  "UpdateTime": "2026-07-02 19:06:41"
+  "UpdateTime": "2026-07-16 19:25:20"
  },
  {
   "AddTime": "2025-03-28 17:12:12",
@@ -12202,5 +12202,29 @@
   "ServiceType": "tdata",
   "Type": 2,
   "UpdateTime": "2026-07-13 14:43:56"
+ },
+ {
+  "AddTime": "2026-07-14 15:16:04",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 279213354,
+  "PolicyName": "QcloudCBSECFullAccess",
+  "ServiceType": "cbsec",
+  "Type": 2,
+  "UpdateTime": "2026-07-14 15:16:04"
+ },
+ {
+  "AddTime": "2026-07-14 15:16:06",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 279213360,
+  "PolicyName": "QcloudCBSECReadOnlyAccess",
+  "ServiceType": "cbsec",
+  "Type": 2,
+  "UpdateTime": "2026-07-14 15:16:06"
  }
 ]

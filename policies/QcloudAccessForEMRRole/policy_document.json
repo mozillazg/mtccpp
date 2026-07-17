@@ -222,7 +222,11 @@
     "cvm:DescribeRemoteDisksDeniedActions",
     "cvm:InquirePriceCreateRemoteDisks",
     "cvm:RenewRemoteDisk",
-    "cdb:DescribeAsyncRequestInfo"
+    "cdb:DescribeAsyncRequestInfo",
+    "cvm:CreateHpcCluster",
+    "cvm:DescribeHpcClusters",
+    "tke:DescribeAddonValues",
+    "goosefs:DescribeClusterConfig"
    ],
    "effect": "allow",
    "resource": "*"

@@ -190,7 +190,10 @@
     "tione:DescribeRecentUsedImageList",
     "tione:ReportImageUsage",
     "tione:DescribePresetImageFilterOptions",
-    "tione:DescribePresetImageList"
+    "tione:DescribePresetImageList",
+    "tione:DescribeUserCredentials",
+    "tione:CreateUserCredential",
+    "tione:DeleteUserCredential"
    ],
    "effect": "allow",
    "resource": "*"

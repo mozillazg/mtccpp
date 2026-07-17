@@ -14,12 +14,8 @@
    "action": [
     "cam:CreatePolicy",
     "cam:CreateRole",
-    "cam:DeletePolicy",
-    "cam:DeleteRole",
-    "cam:AttachRolePolicy",
     "cam:GetRole",
     "cam:ListAttachedRolePolicies",
-    "cam:UpdatePolicy",
     "cam:CreateServiceLinkedRole",
     "cam:DescribeServiceLinkedRole",
     "cvm:ModifyImageSharePermission",
@@ -29,7 +25,8 @@
     "lkeap:DescribeOpenStatus",
     "lkeap:CreateAPIKey",
     "lkeap:ActivateService",
-    "lkeap:ModifyPostpaidSwitch"
+    "lkeap:ModifyPostpaidSwitch",
+    "cloudapp:*"
    ],
    "effect": "allow",
    "resource": [
@@ -38,8 +35,19 @@
   },
   {
    "action": [
-    "cloudapp:*"
+    "cam:DeletePolicy",
+    "cam:DeleteRole",
+    "cam:AttachRolePolicy",
+    "cam:UpdatePolicy"
    ],
+   "condition": {
+    "for_any_value:string_equal": {
+     "qcs:cam_service_name": [
+      "deployresource.cloudapp.cloud.tencent.com",
+      "cvm.qcloud.com"
+     ]
+    }
+   },
    "effect": "allow",
    "resource": "*"
   }
