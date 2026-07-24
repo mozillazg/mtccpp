@@ -67,7 +67,8 @@
     "tcsas:DescribeMNGSubscribeMessageTemplateLibraryList",
     "tcsas:DescribeMNGSubscribeMessageTemplateLibrary",
     "tcsas:DescribeMNGSubscribeMessageTemplateList",
-    "tcsas:DescribeMNGSubscribeMessageTemplate"
+    "tcsas:DescribeMNGSubscribeMessageTemplate",
+    "tcsas:QueryMNPMerchantInfo"
    ],
    "effect": "allow",
    "resource": "*"

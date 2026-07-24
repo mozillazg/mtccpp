@@ -34,7 +34,8 @@
     "tdai:DescribeClawSkills",
     "tdai:DescribeClawTemplates",
     "tdai:DescribeClawSouls",
-    "tdai:DescribeUserSkills"
+    "tdai:DescribeUserSkills",
+    "tdai:DescribeDatabaseDiagnosis"
    ],
    "effect": "allow",
    "resource": "*"

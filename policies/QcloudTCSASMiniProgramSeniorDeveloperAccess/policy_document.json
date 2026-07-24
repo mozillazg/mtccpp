@@ -91,7 +91,9 @@
     "tcsas:CreateMNGSubscribeMessageTemplate",
     "tcsas:DescribeMNGSubscribeMessageTemplateList",
     "tcsas:DescribeMNGSubscribeMessageTemplate",
-    "tcsas:DeleteMNGSubscribeMessageTemplate"
+    "tcsas:DeleteMNGSubscribeMessageTemplate",
+    "tcsas:QueryMNPMerchantInfo",
+    "tcsas:DescribeMNPPaymentApprovalInfo"
    ],
    "effect": "allow",
    "resource": "*"

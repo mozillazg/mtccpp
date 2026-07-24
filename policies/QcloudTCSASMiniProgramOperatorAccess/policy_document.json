@@ -47,7 +47,9 @@
     "tcsas:DescribeMNGOfflinePackageURL",
     "tcsas:ConfigureMNGPreview",
     "tcsas:DescribeMNGPreview",
-    "tcsas:DescribeMNGAllStageVersions"
+    "tcsas:DescribeMNGAllStageVersions",
+    "tcsas:QueryMNPMerchantInfo",
+    "tcsas:DescribeMNPPaymentApprovalInfo"
    ],
    "effect": "allow",
    "resource": "*"

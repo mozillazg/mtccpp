@@ -59,7 +59,13 @@
     "tcsas:ModifyApplicationConfig",
     "tcsas:CreateApplicationConfig",
     "tcsas:DescribeApplicationConfigInfos",
-    "tcsas:DescribeApplicationMNPList"
+    "tcsas:DescribeApplicationMNPList",
+    "tcsas:ApprovePaymentMerchantBinding",
+    "tcsas:ApproveMNPPaymentEnable",
+    "tcsas:DisableMNPPayment",
+    "tcsas:QueryMNPMerchantInfo",
+    "tcsas:UnbindPaymentMerchant",
+    "tcsas:DescribeMNPPaymentApprovalInfo"
    ],
    "effect": "allow",
    "resource": "*"

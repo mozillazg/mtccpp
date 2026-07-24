@@ -36,7 +36,9 @@
     "tcsas:DescribeMNPPageAnalysisDetail",
     "tcsas:DescribeMNPMAUMetricCard",
     "tcsas:DescribeMNPActiveUserRealTimeStatistics",
-    "tcsas:DescribeApplicationConfigInfos"
+    "tcsas:DescribeApplicationConfigInfos",
+    "tcsas:QueryMNPMerchantInfo",
+    "tcsas:DescribeMNPPaymentApprovalInfo"
    ],
    "effect": "allow",
    "resource": "*"

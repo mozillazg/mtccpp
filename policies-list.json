@@ -10317,7 +10317,7 @@
   "PolicyName": "QcloudTCSASPlatformAdminAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-06-23 19:24:30"
+  "UpdateTime": "2026-07-23 19:03:35"
  },
  {
   "AddTime": "2025-01-16 22:38:18",
@@ -10341,7 +10341,7 @@
   "PolicyName": "QcloudTCSASApplicationSeniorDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-01-22 21:03:29"
+  "UpdateTime": "2026-07-23 19:03:36"
  },
  {
   "AddTime": "2025-01-16 22:50:53",
@@ -10353,7 +10353,7 @@
   "PolicyName": "QcloudTCSASApplicationDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-12-25 21:07:56"
+  "UpdateTime": "2026-07-23 19:03:37"
  },
  {
   "AddTime": "2025-01-16 22:57:06",
@@ -10389,7 +10389,7 @@
   "PolicyName": "QcloudTCSASMiniProgramOperatorAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-05-14 21:40:37"
+  "UpdateTime": "2026-07-23 19:03:39"
  },
  {
   "AddTime": "2025-01-16 23:02:35",
@@ -10413,7 +10413,7 @@
   "PolicyName": "QcloudTCSASMiniProgramAdministratorAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-06-23 19:24:32"
+  "UpdateTime": "2026-07-23 19:03:40"
  },
  {
   "AddTime": "2025-01-16 23:05:36",
@@ -10425,7 +10425,7 @@
   "PolicyName": "QcloudTCSASMiniProgramSeniorDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-06-23 19:24:33"
+  "UpdateTime": "2026-07-23 19:03:41"
  },
  {
   "AddTime": "2025-01-16 23:06:22",
@@ -10437,7 +10437,7 @@
   "PolicyName": "QcloudTCSASMiniProgramDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-06-23 19:24:34"
+  "UpdateTime": "2026-07-23 19:03:42"
  },
  {
   "AddTime": "2025-01-16 23:07:32",
@@ -10449,7 +10449,7 @@
   "PolicyName": "QcloudTCSASApplicationTeamAdministratorAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-01-22 21:03:31"
+  "UpdateTime": "2026-07-23 19:03:44"
  },
  {
   "AddTime": "2025-01-16 23:08:14",
@@ -10461,7 +10461,7 @@
   "PolicyName": "QcloudTCSASApplicationOperatorAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2025-12-25 21:08:05"
+  "UpdateTime": "2026-07-23 19:03:45"
  },
  {
   "AddTime": "2025-02-19 17:54:21",
@@ -11985,7 +11985,7 @@
   "PolicyName": "QcloudDatabaseClawUserFullAccess",
   "ServiceType": "tdai",
   "Type": 2,
-  "UpdateTime": "2026-05-07 21:15:43"
+  "UpdateTime": "2026-07-23 19:03:49"
  },
  {
   "AddTime": "2026-04-24 15:49:51",

@@ -37,7 +37,9 @@
     "tcsas:DescribeMNPActiveUserRealTimeStatistics",
     "tcsas:DescribeAPPDataOverview",
     "tcsas:DescribeAPPDataDetailLineChart",
-    "tcsas:DescribeApplicationConfigInfos"
+    "tcsas:DescribeApplicationConfigInfos",
+    "tcsas:QueryMNPMerchantInfo",
+    "tcsas:DescribeMNPPaymentApprovalInfo"
    ],
    "effect": "allow",
    "resource": "*"
