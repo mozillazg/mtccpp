@@ -11112,6 +11112,30 @@
   "UpdateTime": "2025-07-22 14:13:14"
  },
  {
+  "AddTime": "2025-07-22 17:25:54",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 246600217,
+  "PolicyName": "QcloudMPAFullAccess",
+  "ServiceType": "mpa",
+  "Type": 2,
+  "UpdateTime": "2025-07-22 17:25:54"
+ },
+ {
+  "AddTime": "2025-07-22 17:25:55",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 246600218,
+  "PolicyName": "QcloudMPAReadOnlyAccess",
+  "ServiceType": "mpa",
+  "Type": 2,
+  "UpdateTime": "2025-07-22 17:25:55"
+ },
+ {
   "AddTime": "2025-07-31 09:32:31",
   "CreateMode": 2,
   "Deactived": 0,

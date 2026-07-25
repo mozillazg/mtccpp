@@ -1,0 +1,12 @@
+{
+ "statement": [
+  {
+   "action": [
+    "mpa:*"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}
