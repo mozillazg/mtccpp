@@ -1,0 +1,9 @@
+{
+ "AddTime": "2026-07-28 17:29:11",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"redis:DescribeInstanceLogDelivery\",\"redis:DescribeInstances\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudAccessForCLSRoleInRedisResourceGraph",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2026-07-28 17:29:11"
+}

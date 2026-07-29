@@ -1,0 +1,30 @@
+{
+ "statement": [
+  {
+   "action": [
+    "cls:DescribeResourceGraphEntities",
+    "cls:ModifyResourceGraphProductIngestTask",
+    "cls:ModifyResourceGraph",
+    "cls:DeleteResourceGraphProductIngestTask",
+    "cls:DescribeResourceGraphEntityDetail",
+    "cls:DescribeResourceGraphIngestTaskFailureDetail",
+    "cls:DescribeResourceGraphProductIngestTaskList",
+    "cls:RetryResourceGraphProductIngestTask",
+    "cls:RetryResourceGraph",
+    "cls:CreateResourceGraphProductIngestTask",
+    "cls:DescribeResourceGraphTkeClusterStatus",
+    "cls:DeleteResourceGraph",
+    "cls:CreateResourceGraph",
+    "cls:DescribeResourceGraphProductIngestTaskDetail",
+    "cls:DescribeResourceGraphDetail",
+    "cls:DescribeResourceGraphs",
+    "cls:DescribeResourceGraphEntityDependency",
+    "cls:DescribeResourceGraphFailureDetail",
+    "cls:ModifyResourceGraphEntityTopicsRelation"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

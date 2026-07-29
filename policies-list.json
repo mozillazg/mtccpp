@@ -12250,5 +12250,89 @@
   "ServiceType": "cbsec",
   "Type": 2,
   "UpdateTime": "2026-07-14 15:16:06"
+ },
+ {
+  "AddTime": "2026-07-28 15:52:45",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 280725177,
+  "PolicyName": "QcloudAccessForCLSRoleInCDBResourceGraph",
+  "ServiceType": "cls",
+  "Type": 2,
+  "UpdateTime": "2026-07-28 15:52:45"
+ },
+ {
+  "AddTime": "2026-07-28 17:27:28",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 280736897,
+  "PolicyName": "QcloudAccessForCLSRoleInMongoDBResourceGraph",
+  "ServiceType": "cls",
+  "Type": 2,
+  "UpdateTime": "2026-07-28 17:27:28"
+ },
+ {
+  "AddTime": "2026-07-28 17:29:11",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 280737076,
+  "PolicyName": "QcloudAccessForCLSRoleInRedisResourceGraph",
+  "ServiceType": "cls",
+  "Type": 2,
+  "UpdateTime": "2026-07-28 17:29:11"
+ },
+ {
+  "AddTime": "2026-07-28 17:31:08",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 280737316,
+  "PolicyName": "QcloudAccessForCLSRoleInCLSResourceGraph",
+  "ServiceType": "cls",
+  "Type": 2,
+  "UpdateTime": "2026-07-28 17:31:08"
+ },
+ {
+  "AddTime": "2026-07-28 18:02:05",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 280740673,
+  "PolicyName": "QcloudAccessForCLSRoleInTKEResourceGraph",
+  "ServiceType": "cls",
+  "Type": 2,
+  "UpdateTime": "2026-07-28 18:02:05"
+ },
+ {
+  "AddTime": "2026-07-29 09:18:41",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 280797414,
+  "PolicyName": "QcloudCLSGraphFullAccess",
+  "ServiceType": "cls",
+  "Type": 2,
+  "UpdateTime": "2026-07-29 09:18:41"
+ },
+ {
+  "AddTime": "2026-07-29 09:19:07",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 280797478,
+  "PolicyName": "QcloudCLSGraphReadOnlyAccess",
+  "ServiceType": "cls",
+  "Type": 2,
+  "UpdateTime": "2026-07-29 09:19:07"
  }
 ]

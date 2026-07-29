@@ -1,0 +1,9 @@
+{
+ "AddTime": "2026-07-28 18:02:05",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"tke:AcquireClusterKubeConfigForProduct\"],\"effect\":\"allow\",\"resource\":[\"qcs::tke::*:cluster/*\",\"qcs::tke::*:apps/deployments/*/create\",\"qcs::tke::*:apps/deployments/*/get\",\"qcs::tke::*:apps/deployments/*/list\",\"qcs::tke::*:apps/deployments/*/watch\",\"qcs::tke::*:apps/deployments/*/update\",\"qcs::tke::*:apps/deployments/*/delete\",\"qcs::tke::*:pods/*/get\",\"qcs::tke::*:pods/*/list\",\"qcs::tke::*:pods/*/watch\",\"qcs::tke::*:pods/log/*/get\",\"qcs::tke::*:pods/log/*/list\",\"qcs::tke::*:pods/log/*/watch\",\"qcs::tke::*:cls.cloud.tencent.com/onecollectorconfigs/*/create\",\"qcs::tke::*:cls.cloud.tencent.com/onecollectorconfigs/*/get\",\"qcs::tke::*:cls.cloud.tencent.com/onecollectorconfigs/*/list\",\"qcs::tke::*:cls.cloud.tencent.com/onecollectorconfigs/*/watch\",\"qcs::tke::*:cls.cloud.tencent.com/onecollectorconfigs/*/update\",\"qcs::tke::*:cls.cloud.tencent.com/onecollectorconfigs/*/delete\",\"qcs::tke::*:apiextensions.k8s.io/customresourcedefinitions/*/create\",\"qcs::tke::*:apiextensions.k8s.io/customresourcedefinitions/*/get\",\"qcs::tke::*:apiextensions.k8s.io/customresourcedefinitions/*/list\",\"qcs::tke::*:apiextensions.k8s.io/customresourcedefinitions/*/watch\"]},{\"action\":[\"tke:DescribeClusters\",\"tke:DescribeLogSwitches\",\"tke:DescribeAddon\",\"tke:InstallAddon\",\"tke:DescribeAddon\",\"tke:UpdateAddon\",\"tke:DeleteAddon\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudAccessForCLSRoleInTKEResourceGraph",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2026-07-28 18:02:05"
+}
