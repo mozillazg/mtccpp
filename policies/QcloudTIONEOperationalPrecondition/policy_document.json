@@ -193,7 +193,13 @@
     "tione:DescribePresetImageList",
     "tione:DescribeUserCredentials",
     "tione:CreateUserCredential",
-    "tione:DeleteUserCredential"
+    "tione:DeleteUserCredential",
+    "tione:CreatePresetStorageInstance",
+    "tione:ExpandPresetStorageInstance",
+    "tione:DescribePresetStorageInstances",
+    "tione:DeletePresetStorageInstance",
+    "tione:DeletePrivateLink",
+    "tione:DescribePrivateLinkList"
    ],
    "effect": "allow",
    "resource": "*"

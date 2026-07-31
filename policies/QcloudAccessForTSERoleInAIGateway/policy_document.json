@@ -4,7 +4,11 @@
    "action": [
     "ssm:ListSecrets",
     "ssm:GetSecretValue",
-    "ssm:ListSecretVersionIds"
+    "ssm:ListSecretVersionIds",
+    "waf:DescribeLLMSdkAccess",
+    "waf:DescribeInstances",
+    "waf:DescribeLLMContentSecCheck",
+    "tms:TextModeration"
    ],
    "effect": "allow",
    "resource": "*"

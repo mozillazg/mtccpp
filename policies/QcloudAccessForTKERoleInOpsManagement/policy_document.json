@@ -56,7 +56,12 @@
     "cls:CreateMachineGroup",
     "cls:DeleteMachineGroup",
     "cls:DescribeMachineGroups",
-    "cls:ModifyMachineGroup"
+    "cls:ModifyMachineGroup",
+    "cls:CreatePipelineConfig",
+    "cls:ModifyPipelineConfig",
+    "cls:DeletePipelineConfig",
+    "cls:DescribePipelineConfig",
+    "cls:DescribePipelineConfigs"
    ],
    "effect": "allow",
    "resource": "*"

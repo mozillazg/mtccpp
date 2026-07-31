@@ -1,9 +1,9 @@
 {
  "AddTime": "2024-07-11 22:14:39",
  "IsServiceLinkedRolePolicy": 0,
- "PolicyDocument": "{\"statement\":[{\"action\":\"*\",\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cam:CreatePolicy\",\"cam:CreateRole\",\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"cam:CreateServiceLinkedRole\",\"cam:DescribeServiceLinkedRole\",\"cvm:ModifyImageSharePermission\",\"lkeap:ListAPIKey\",\"lkeap:GetAPIKey\",\"lkeap:ListPostpaidProduct\",\"lkeap:DescribeOpenStatus\",\"lkeap:CreateAPIKey\",\"lkeap:ActivateService\",\"lkeap:ModifyPostpaidSwitch\",\"cloudapp:*\"],\"effect\":\"allow\",\"resource\":[\"*\"]},{\"action\":[\"cam:DeletePolicy\",\"cam:DeleteRole\",\"cam:AttachRolePolicy\",\"cam:UpdatePolicy\"],\"condition\":{\"for_any_value:string_equal\":{\"qcs:cam_service_name\":[\"deployresource.cloudapp.cloud.tencent.com\",\"cvm.qcloud.com\"]}},\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyDocument": "{\"statement\":[{\"action\":\"*\",\"condition\":{\"numeric_equal\":{\"qcs:read_only_action\":1}},\"effect\":\"allow\",\"resource\":\"*\"},{\"action\":[\"cam:CreatePolicy\",\"cam:CreateRole\",\"cam:GetRole\",\"cam:ListAttachedRolePolicies\",\"cam:CreateServiceLinkedRole\",\"cam:DescribeServiceLinkedRole\",\"cvm:ModifyImageSharePermission\",\"lkeap:ListAPIKey\",\"lkeap:GetAPIKey\",\"lkeap:ListPostpaidProduct\",\"lkeap:DescribeOpenStatus\",\"lkeap:CreateAPIKey\",\"lkeap:ActivateService\",\"lkeap:ModifyPostpaidSwitch\",\"cloudapp:*\",\"cam:DeletePolicy\",\"cam:DeleteRole\",\"cam:UpdatePolicy\"],\"effect\":\"allow\",\"resource\":[\"*\"]},{\"action\":[\"cam:AttachRolePolicy\"],\"condition\":{\"for_any_value:string_equal\":{\"qcs:cam_service_name\":[\"deployresource.cloudapp.cloud.tencent.com\",\"cvm.qcloud.com\"]}},\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
  "PolicyName": "QcloudCloudappInstallationAccess",
  "PresetAlias": "",
  "Type": 2,
- "UpdateTime": "2026-07-16 19:25:18"
+ "UpdateTime": "2026-07-30 19:08:32"
 }

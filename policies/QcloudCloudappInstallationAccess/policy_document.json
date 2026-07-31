@@ -26,7 +26,10 @@
     "lkeap:CreateAPIKey",
     "lkeap:ActivateService",
     "lkeap:ModifyPostpaidSwitch",
-    "cloudapp:*"
+    "cloudapp:*",
+    "cam:DeletePolicy",
+    "cam:DeleteRole",
+    "cam:UpdatePolicy"
    ],
    "effect": "allow",
    "resource": [
@@ -35,10 +38,7 @@
   },
   {
    "action": [
-    "cam:DeletePolicy",
-    "cam:DeleteRole",
-    "cam:AttachRolePolicy",
-    "cam:UpdatePolicy"
+    "cam:AttachRolePolicy"
    ],
    "condition": {
     "for_any_value:string_equal": {

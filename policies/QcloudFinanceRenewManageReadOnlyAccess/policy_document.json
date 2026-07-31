@@ -16,7 +16,11 @@
     "finance:QueryResourceBySkuId",
     "finance:QueryPreResource",
     "finance:DescribePreResourceRegionIds",
-    "finance:DescribePreResourceSubProducts"
+    "finance:DescribePreResourceSubProducts",
+    "finance:QueryPkgResourceDetails",
+    "finance:QueryPkgResourceCntByProducts",
+    "finance:DescribePkgResourceSubProducts",
+    "finance:DescribePkgResourceRegionIds"
    ],
    "effect": "allow",
    "resource": "*"

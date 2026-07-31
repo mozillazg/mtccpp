@@ -15,7 +15,11 @@
     "finance:QueryResourceBySkuId",
     "finance:QueryPreResource",
     "finance:SetRenewFlagManager",
-    "finance:ModifyRenewNoticeSetting"
+    "finance:ModifyRenewNoticeSetting",
+    "finance:QueryPkgResourceDetails",
+    "finance:QueryPkgResourceCntByProducts",
+    "finance:DescribePkgResourceSubProducts",
+    "finance:DescribePkgResourceRegionIds"
    ],
    "effect": "allow",
    "resource": "*"
