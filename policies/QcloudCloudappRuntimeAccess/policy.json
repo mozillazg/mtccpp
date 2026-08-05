@@ -1,0 +1,9 @@
+{
+ "AddTime": "2026-08-04 11:42:55",
+ "IsServiceLinkedRolePolicy": 0,
+ "PolicyDocument": "{\"statement\":[{\"action\":[\"cloudapp:VerifyLicense\"],\"effect\":\"allow\",\"resource\":\"*\"}],\"version\":\"2.0\"}",
+ "PolicyName": "QcloudCloudappRuntimeAccess",
+ "PresetAlias": "",
+ "Type": 2,
+ "UpdateTime": "2026-08-04 11:42:55"
+}
