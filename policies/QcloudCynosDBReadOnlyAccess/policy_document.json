@@ -2,7 +2,12 @@
  "statement": [
   {
    "action": [
-    "cynosdb:Describe*"
+    "cynosdb:Describe*",
+    "csip:DescribeDspmAssetSecurityAnalyseStatus",
+    "csip:DescribeAssumeRole",
+    "csip:DescribeDspmPayInfo",
+    "csip:DescribeDspmSupportedAssetType",
+    "csip:DescribeDspmAssets"
    ],
    "effect": "allow",
    "resource": "*"

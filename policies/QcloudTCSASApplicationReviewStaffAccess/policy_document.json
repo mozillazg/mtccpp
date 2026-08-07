@@ -10,7 +10,9 @@
     "tcsas:DescribeMNPApprovalList",
     "tcsas:DescribeApplicationSensitiveAPIList",
     "tcsas:DescribeMNPSensitiveAPIPermissionApprovalList",
-    "tcsas:DescribeApplicationConfigInfos"
+    "tcsas:DescribeApplicationConfigInfos",
+    "tcsas:DescribeMNPApprovalDetail",
+    "tcsas:DescribeMNPPaymentApprovalInfo"
    ],
    "effect": "allow",
    "resource": "*"

@@ -65,7 +65,8 @@
     "tcsas:DisableMNPPayment",
     "tcsas:QueryMNPMerchantInfo",
     "tcsas:UnbindPaymentMerchant",
-    "tcsas:DescribeMNPPaymentApprovalInfo"
+    "tcsas:DescribeMNPPaymentApprovalInfo",
+    "tcsas:DescribeMNPApprovalDetail"
    ],
    "effect": "allow",
    "resource": "*"
