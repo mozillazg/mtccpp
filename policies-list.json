@@ -12334,5 +12334,17 @@
   "ServiceType": "cloudapp",
   "Type": 2,
   "UpdateTime": "2026-08-04 11:42:55"
+ },
+ {
+  "AddTime": "2026-08-12 14:22:59",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 282373282,
+  "PolicyName": "QcloudCTSDBNewAccessForIOTRole",
+  "ServiceType": "iotexplorer",
+  "Type": 2,
+  "UpdateTime": "2026-08-12 14:22:59"
  }
 ]
