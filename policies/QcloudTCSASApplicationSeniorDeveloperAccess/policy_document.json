@@ -51,7 +51,8 @@
     "tcsas:DescribeApplicationMNPList",
     "tcsas:ApprovePaymentMerchantBinding",
     "tcsas:UnbindPaymentMerchant",
-    "tcsas:QueryMNPMerchantInfo"
+    "tcsas:QueryMNPMerchantInfo",
+    "tcsas:DescribeMNPPaymentApprovalInfo"
    ],
    "effect": "allow",
    "resource": "*"

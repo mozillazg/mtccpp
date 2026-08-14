@@ -226,7 +226,15 @@
     "cvm:CreateHpcCluster",
     "cvm:DescribeHpcClusters",
     "tke:DescribeAddonValues",
-    "goosefs:DescribeClusterConfig"
+    "goosefs:DescribeClusterConfig",
+    "clb:DescribeTaskStatus",
+    "clb:DeleteListener",
+    "vpc:DescribeVpcEndPointService",
+    "vpc:CreateVpcEndPointService",
+    "vpc:CreateVpcEndPointServiceWhiteList",
+    "vpc:DeleteVpcEndPointService",
+    "vpc:DeleteVpcEndPoint",
+    "vpc:DescribeVpcEndPoint"
    ],
    "effect": "allow",
    "resource": "*"

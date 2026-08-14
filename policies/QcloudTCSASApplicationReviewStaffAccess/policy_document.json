@@ -12,7 +12,10 @@
     "tcsas:DescribeMNPSensitiveAPIPermissionApprovalList",
     "tcsas:DescribeApplicationConfigInfos",
     "tcsas:DescribeMNPApprovalDetail",
-    "tcsas:DescribeMNPPaymentApprovalInfo"
+    "tcsas:DescribeMNPPaymentApprovalInfo",
+    "tcsas:QueryMNPMerchantInfo",
+    "tcsas:ApproveMNPPaymentEnable",
+    "tcsas:ApprovePaymentMerchantBinding"
    ],
    "effect": "allow",
    "resource": "*"
