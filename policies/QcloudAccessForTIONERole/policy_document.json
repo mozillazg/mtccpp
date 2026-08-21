@@ -161,7 +161,11 @@
     "tse:CreateGovernanceAlias",
     "tse:CreateGovernanceInstances",
     "tse:ModifyGovernanceInstances",
-    "tse:DeleteGovernanceInstances"
+    "tse:DeleteGovernanceInstances",
+    "tcr:DescribeRepositories",
+    "tcr:DescribeImages",
+    "tcr:DescribeRepositoryPersonal",
+    "tcr:DescribeImagePersonal"
    ],
    "effect": "allow",
    "resource": "*"

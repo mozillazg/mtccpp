@@ -6,7 +6,8 @@
     "cwp:Export*",
     "cwp:Check*",
     "cwp:Search*",
-    "cwp:Get*"
+    "cwp:Get*",
+    "cwp:RaspEventOverview"
    ],
    "effect": "allow",
    "resource": "*"

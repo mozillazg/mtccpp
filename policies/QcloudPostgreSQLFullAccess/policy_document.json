@@ -8,7 +8,12 @@
   {
    "action": [
     "monitor:Describe*",
-    "monitor:Get*"
+    "monitor:Get*",
+    "csip:DescribeDspmAssetSecurityAnalyseStatus",
+    "csip:DescribeAssumeRole",
+    "csip:DescribeDspmPayInfo",
+    "csip:DescribeDspmSupportedAssetType",
+    "csip:DescribeDspmAssets"
    ],
    "effect": "allow",
    "resource": "*"

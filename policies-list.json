@@ -1893,7 +1893,7 @@
   "PolicyName": "QcloudSCFAccessForBPaaSRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2022-11-04 15:39:56"
+  "UpdateTime": "2026-08-20 19:14:23"
  },
  {
   "AddTime": "2018-11-28 20:34:17",
@@ -2061,7 +2061,7 @@
   "PolicyName": "QcloudAccessForTIONERole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2026-07-02 19:06:28"
+  "UpdateTime": "2026-08-20 19:14:24"
  },
  {
   "AddTime": "2019-02-18 10:24:09",
@@ -4149,7 +4149,7 @@
   "PolicyName": "QcloudPostgreSQLReadOnlyAccess",
   "ServiceType": "postgres",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2026-08-20 19:14:26"
  },
  {
   "AddTime": "2020-06-01 16:39:59",
@@ -4161,7 +4161,7 @@
   "PolicyName": "QcloudPostgreSQLFullAccess",
   "ServiceType": "postgres",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2026-08-20 19:14:27"
  },
  {
   "AddTime": "2020-06-02 12:01:20",
@@ -5469,7 +5469,7 @@
   "PolicyName": "QcloudCWPReadOnlyAccess",
   "ServiceType": "cwp",
   "Type": 2,
-  "UpdateTime": "2025-11-13 20:55:38"
+  "UpdateTime": "2026-08-20 19:14:30"
  },
  {
   "AddTime": "2021-02-01 22:01:11",
@@ -11373,7 +11373,7 @@
   "PolicyName": "QcloudTIONEDeveloperContainMultiservice",
   "ServiceType": "tione",
   "Type": 2,
-  "UpdateTime": "2026-07-02 19:06:42"
+  "UpdateTime": "2026-08-20 19:14:36"
  },
  {
   "AddTime": "2025-10-20 16:25:55",

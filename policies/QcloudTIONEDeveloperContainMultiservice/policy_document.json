@@ -94,7 +94,8 @@
     "qcs::tione:::evalset/*",
     "qcs::tione:::evaltpl/*",
     "qcs::tione:::evalstd/*",
-    "qcs::tione:::customimage/*"
+    "qcs::tione:::customimage/*",
+    "qcs::tione:::evalmodel/*"
    ]
   },
   {

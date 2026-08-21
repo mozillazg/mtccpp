@@ -4,7 +4,8 @@
    "action": [
     "scf:ListFunctions",
     "scf:Invoke",
-    "scf:GetFunction"
+    "scf:GetFunction",
+    "scf:GetRequestStatus"
    ],
    "effect": "allow",
    "resource": "*"
