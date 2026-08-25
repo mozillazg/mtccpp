@@ -12310,5 +12310,17 @@
   "ServiceType": "iotexplorer",
   "Type": 2,
   "UpdateTime": "2026-08-12 14:22:59"
+ },
+ {
+  "AddTime": "2026-08-24 15:50:24",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 283746114,
+  "PolicyName": "QcloudCamSubaccountsAuthorizeWorkorderRoleFullAccess",
+  "ServiceType": "cam",
+  "Type": 2,
+  "UpdateTime": "2026-08-24 15:50:24"
  }
 ]
