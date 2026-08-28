@@ -49,7 +49,10 @@
     "cdn:TcbConvertPayMode",
     "cdn:TcbResetResource",
     "ci:*",
-    "cam:PassRole"
+    "cam:PassRole",
+    "postgres:DescribeDBInstanceAttribute",
+    "postgres:DescribeClasses",
+    "postgres:ModifyDBInstanceSpec"
    ],
    "effect": "allow",
    "resource": [

@@ -24,7 +24,8 @@
     "cam:ListUsers",
     "cls:DescribeTopics",
     "cls:DescribeLogsets",
-    "bdai:*"
+    "bdai:*",
+    "tccatalog:*"
    ],
    "effect": "allow",
    "resource": "*"
