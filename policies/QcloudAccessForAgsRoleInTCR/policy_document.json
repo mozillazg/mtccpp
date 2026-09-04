@@ -1,0 +1,28 @@
+{
+ "statement": [
+  {
+   "action": [
+    "ags:CreatePreCacheImageTask"
+   ],
+   "effect": "allow",
+   "resource": [
+    "*"
+   ]
+  },
+  {
+   "action": [
+    "cam:PassRole"
+   ],
+   "condition": {
+    "string_equal": {
+     "qcs:passed_to_service": [
+      "sandboxtool.ags.cloud.tencent.com"
+     ]
+    }
+   },
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

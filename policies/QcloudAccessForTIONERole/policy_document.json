@@ -165,7 +165,8 @@
     "tcr:DescribeRepositories",
     "tcr:DescribeImages",
     "tcr:DescribeRepositoryPersonal",
-    "tcr:DescribeImagePersonal"
+    "tcr:DescribeImagePersonal",
+    "tcr:DescribeInstanceCustomizedDomain"
    ],
    "effect": "allow",
    "resource": "*"
