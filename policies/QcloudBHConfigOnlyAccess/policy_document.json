@@ -172,7 +172,8 @@
     "bh:BindAppAssetAccountPassword",
     "bh:ResetAppAssetAccountPassword",
     "bh:DescribeAccountsWithAppAssetCount",
-    "bh:CreateAppAssetAccountsFromTemplates"
+    "bh:CreateAppAssetAccountsFromTemplates",
+    "bh:ModifyAclsValidityPeriod"
    ],
    "effect": "allow",
    "resource": [

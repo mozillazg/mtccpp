@@ -238,7 +238,8 @@
     "es:DescribeServerlessSpaces",
     "es:CreateServerlessSpaceV2",
     "es:CreateServerlessInstance",
-    "es:DescribeServerlessInstances"
+    "es:DescribeServerlessInstances",
+    "cynosdb:DescribeSlaveZones"
    ],
    "effect": "allow",
    "resource": "*"

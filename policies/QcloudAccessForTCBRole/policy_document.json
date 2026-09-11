@@ -52,7 +52,9 @@
     "cam:PassRole",
     "postgres:DescribeDBInstanceAttribute",
     "postgres:DescribeClasses",
-    "postgres:ModifyDBInstanceSpec"
+    "postgres:ModifyDBInstanceSpec",
+    "postgres:ResetTCBAccountPassword",
+    "postgres:MigrateTenantDBToIns"
    ],
    "effect": "allow",
    "resource": [
