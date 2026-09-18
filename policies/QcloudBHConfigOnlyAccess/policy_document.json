@@ -173,7 +173,17 @@
     "bh:ResetAppAssetAccountPassword",
     "bh:DescribeAccountsWithAppAssetCount",
     "bh:CreateAppAssetAccountsFromTemplates",
-    "bh:ModifyAclsValidityPeriod"
+    "bh:ModifyAclsValidityPeriod",
+    "bh:DescribeOrgAccountRole",
+    "bh:DescribeOrgAccounts",
+    "bh:DescribeOrgMembers",
+    "bh:SyncOrgMemberAssets",
+    "bh:DescribeAccountAssetSyncStatus",
+    "bh:EnableOrgShare",
+    "bh:DisableOrgShare",
+    "bh:SyncOrgMembers",
+    "bh:DescribeOrgMemberSyncStatus",
+    "bh:DescribeOwnerAccounts"
    ],
    "effect": "allow",
    "resource": [

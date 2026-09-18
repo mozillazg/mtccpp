@@ -114,7 +114,11 @@
     "tcsas:QueryMNPMerchantInfo",
     "tcsas:DescribeMNPPaymentApprovalInfo",
     "tcsas:ChangePaymentBoundMerchant",
-    "tcsas:UnbindMNPPaymentMerchant"
+    "tcsas:UnbindMNPPaymentMerchant",
+    "tcsas:DescribeMNPVersionAuditList",
+    "tcsas:DescribeMNPVersionAuditDetail",
+    "tcsas:DescribeMNGVersionAuditList",
+    "tcsas:DescribeMNGVersionAuditDetail"
    ],
    "effect": "allow",
    "resource": "*"

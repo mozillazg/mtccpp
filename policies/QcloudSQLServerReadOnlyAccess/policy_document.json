@@ -3,7 +3,12 @@
   {
    "action": [
     "sqlserver:Describe*",
-    "sqlserver:InquiryPrice*"
+    "sqlserver:InquiryPrice*",
+    "csip:DescribeDspmAssetSecurityAnalyseStatus",
+    "csip:DescribeAssumeRole",
+    "csip:DescribeDspmPayInfo",
+    "csip:DescribeDspmSupportedAssetType",
+    "csip:DescribeDspmAssets"
    ],
    "effect": "allow",
    "resource": "*"

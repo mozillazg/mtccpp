@@ -444,7 +444,11 @@
     "cdwdoris:DescribeEngines",
     "cdwdoris:DeleteEngine",
     "redis:CreateInstances",
-    "redis:DescribeInstances"
+    "redis:DescribeInstances",
+    "monitor:CreatePrometheusMultiTenantInstancePostPayMode",
+    "monitor:DescribePrometheusInstances",
+    "monitor:TerminatePrometheusInstances",
+    "monitor:DestroyPrometheusInstance"
    ],
    "effect": "allow",
    "resource": [

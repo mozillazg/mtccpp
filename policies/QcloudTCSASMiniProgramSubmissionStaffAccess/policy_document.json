@@ -21,7 +21,11 @@
     "tcsas:DescribeMNGPreview",
     "tcsas:DescribeMNGAllStageVersions",
     "tcsas:CreateMNGApproval",
-    "tcsas:ReleaseMNGVersion"
+    "tcsas:ReleaseMNGVersion",
+    "tcsas:DescribeMNPVersionAuditList",
+    "tcsas:DescribeMNPVersionAuditDetail",
+    "tcsas:DescribeMNGVersionAuditList",
+    "tcsas:DescribeMNGVersionAuditDetail"
    ],
    "effect": "allow",
    "resource": "*"

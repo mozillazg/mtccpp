@@ -57,7 +57,11 @@
     "tag:GetTagKeys",
     "bh:DescribeEnableDeployZone",
     "bh:DeployTrialResourceIOA",
-    "bh:DescribeResourcesZone"
+    "bh:DescribeResourcesZone",
+    "bh:DescribeOrgAccountRole",
+    "bh:DescribeOrgAccounts",
+    "bh:DescribeOrgMembers",
+    "bh:DescribeCloudAccountSyncDetails"
    ],
    "effect": "allow",
    "resource": [

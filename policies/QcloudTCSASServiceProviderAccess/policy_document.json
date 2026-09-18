@@ -22,7 +22,11 @@
     "tcsas:CreateMNGApproval",
     "tcsas:ReleaseMNGVersion",
     "tcsas:ConfigureMNGPreview",
-    "tcsas:RollbackMNGVersion"
+    "tcsas:RollbackMNGVersion",
+    "tcsas:DescribeMNPVersionAuditList",
+    "tcsas:DescribeMNPVersionAuditDetail",
+    "tcsas:DescribeMNGVersionAuditList",
+    "tcsas:DescribeMNGVersionAuditDetail"
    ],
    "effect": "allow",
    "resource": "*"

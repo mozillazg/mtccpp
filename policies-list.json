@@ -2913,7 +2913,7 @@
   "PolicyName": "QcloudSQLServerFullAccess",
   "ServiceType": "sqlserver",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2026-09-17 19:07:32"
  },
  {
   "AddTime": "2019-09-19 15:15:07",
@@ -2925,7 +2925,7 @@
   "PolicyName": "QcloudSQLServerReadOnlyAccess",
   "ServiceType": "sqlserver",
   "Type": 2,
-  "UpdateTime": "2020-09-29 11:37:49"
+  "UpdateTime": "2026-09-17 19:07:33"
  },
  {
   "AddTime": "2019-09-23 10:09:06",
@@ -4089,7 +4089,7 @@
   "PolicyName": "QcloudAccessForWeDataRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2026-09-10 19:03:29"
+  "UpdateTime": "2026-09-17 19:07:35"
  },
  {
   "AddTime": "2020-06-01 10:38:07",
@@ -10197,7 +10197,7 @@
   "PolicyName": "QcloudTCSASPlatformAdminAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-07-23 19:03:35"
+  "UpdateTime": "2026-09-17 19:07:38"
  },
  {
   "AddTime": "2025-01-16 22:38:18",
@@ -10269,7 +10269,7 @@
   "PolicyName": "QcloudTCSASMiniProgramOperatorAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-07-23 19:03:39"
+  "UpdateTime": "2026-09-17 19:07:39"
  },
  {
   "AddTime": "2025-01-16 23:02:35",
@@ -10281,7 +10281,7 @@
   "PolicyName": "QcloudTCSASMiniProgramSubmissionStaffAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-05-14 21:40:39"
+  "UpdateTime": "2026-09-17 19:07:41"
  },
  {
   "AddTime": "2025-01-16 23:04:47",
@@ -10293,7 +10293,7 @@
   "PolicyName": "QcloudTCSASMiniProgramAdministratorAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-07-23 19:03:40"
+  "UpdateTime": "2026-09-17 19:07:42"
  },
  {
   "AddTime": "2025-01-16 23:05:36",
@@ -10305,7 +10305,7 @@
   "PolicyName": "QcloudTCSASMiniProgramSeniorDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-07-23 19:03:41"
+  "UpdateTime": "2026-09-17 19:07:43"
  },
  {
   "AddTime": "2025-01-16 23:06:22",
@@ -10317,7 +10317,7 @@
   "PolicyName": "QcloudTCSASMiniProgramDeveloperAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-08-13 19:05:01"
+  "UpdateTime": "2026-09-17 19:07:45"
  },
  {
   "AddTime": "2025-01-16 23:07:32",
@@ -11817,7 +11817,7 @@
   "PolicyName": "QcloudTCSASServiceProviderAccess",
   "ServiceType": "tcsas",
   "Type": 2,
-  "UpdateTime": "2026-05-14 21:40:55"
+  "UpdateTime": "2026-09-17 19:07:49"
  },
  {
   "AddTime": "2026-04-13 10:11:26",
@@ -11841,7 +11841,7 @@
   "PolicyName": "QcloudBHConfigOnlyAccess",
   "ServiceType": "bh",
   "Type": 2,
-  "UpdateTime": "2026-09-10 19:03:44"
+  "UpdateTime": "2026-09-17 19:07:51"
  },
  {
   "AddTime": "2026-04-13 18:20:24",
@@ -11853,7 +11853,7 @@
   "PolicyName": "QcloudBHAuditOnlyAccess",
   "ServiceType": "bh",
   "Type": 2,
-  "UpdateTime": "2026-05-14 21:40:57"
+  "UpdateTime": "2026-09-17 19:07:53"
  },
  {
   "AddTime": "2026-04-13 18:21:02",
