@@ -166,7 +166,12 @@
     "tcr:DescribeImages",
     "tcr:DescribeRepositoryPersonal",
     "tcr:DescribeImagePersonal",
-    "tcr:DescribeInstanceCustomizedDomain"
+    "tcr:DescribeInstanceCustomizedDomain",
+    "tione:CreateNotebookWorker",
+    "tione:DescribeNotebookWorkers",
+    "tione:DescribeNotebookWorker",
+    "tione:StopNotebookWorker",
+    "tione:DeleteNotebookWorker"
    ],
    "effect": "allow",
    "resource": "*"

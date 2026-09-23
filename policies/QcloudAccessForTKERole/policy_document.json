@@ -144,7 +144,10 @@
     "tke:DeleteClusterInstances",
     "cvm:DescribeInstanceDiskSpecifications",
     "cam:PassRole",
-    "cvm:ModifyInstancesChargeType"
+    "cvm:ModifyInstancesChargeType",
+    "tat:RunCommand",
+    "tat:DescribeInvocationTasks",
+    "tat:DescribeAutomationAgentStatus"
    ],
    "effect": "allow",
    "resource": "*"

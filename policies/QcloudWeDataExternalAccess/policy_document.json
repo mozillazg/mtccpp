@@ -78,7 +78,11 @@
     "dlc:DescribeEngines",
     "dlc:UpdateEngine",
     "dlc:DeleteEngines",
-    "dlc:SuspendResumeEngine"
+    "dlc:SuspendResumeEngine",
+    "tcr:DescribeInstances",
+    "tcr:DescribeNamespaces",
+    "tcr:DescribeRepositories",
+    "tcr:DescribeImages"
    ],
    "effect": "allow",
    "resource": [

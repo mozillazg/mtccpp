@@ -239,7 +239,8 @@
     "es:CreateServerlessSpaceV2",
     "es:CreateServerlessInstance",
     "es:DescribeServerlessInstances",
-    "cynosdb:DescribeSlaveZones"
+    "cynosdb:DescribeSlaveZones",
+    "cvm:RepairTaskControl"
    ],
    "effect": "allow",
    "resource": "*"
