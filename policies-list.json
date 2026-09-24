@@ -6405,7 +6405,7 @@
   "PolicyName": "QcloudCFGFullAccess",
   "ServiceType": "cfg",
   "Type": 2,
-  "UpdateTime": "2025-04-24 09:31:21"
+  "UpdateTime": "2026-09-23 17:39:38"
  },
  {
   "AddTime": "2021-09-23 17:42:15",
@@ -6705,7 +6705,7 @@
   "PolicyName": "QcloudCFGReadOnlyAccess",
   "ServiceType": "cfg",
   "Type": 2,
-  "UpdateTime": "2025-04-24 09:31:03"
+  "UpdateTime": "2026-09-23 17:38:47"
  },
  {
   "AddTime": "2021-11-23 15:27:26",
@@ -10725,7 +10725,7 @@
   "PolicyName": "QcloudWSAFullAccess",
   "ServiceType": "wsa",
   "Type": 2,
-  "UpdateTime": "2025-05-14 11:07:27"
+  "UpdateTime": "2026-09-23 17:37:59"
  },
  {
   "AddTime": "2025-05-14 11:07:28",
@@ -10737,7 +10737,7 @@
   "PolicyName": "QcloudWSAReadOnlyAccess",
   "ServiceType": "wsa",
   "Type": 2,
-  "UpdateTime": "2025-05-14 11:07:28"
+  "UpdateTime": "2026-09-23 17:37:35"
  },
  {
   "AddTime": "2025-05-16 15:31:47",
@@ -12130,6 +12130,30 @@
   "ServiceType": "cbsec",
   "Type": 2,
   "UpdateTime": "2026-07-14 15:16:06"
+ },
+ {
+  "AddTime": "2026-07-24 21:42:36",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 280363137,
+  "PolicyName": "QcloudWorkbuddyenterpriseFullAccess",
+  "ServiceType": "workbuddyenterprise",
+  "Type": 2,
+  "UpdateTime": "2026-07-24 21:42:36"
+ },
+ {
+  "AddTime": "2026-07-24 21:42:37",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 280363138,
+  "PolicyName": "QcloudWorkbuddyenterpriseReadOnlyAccess",
+  "ServiceType": "workbuddyenterprise",
+  "Type": 2,
+  "UpdateTime": "2026-07-24 21:42:37"
  },
  {
   "AddTime": "2026-07-28 15:52:45",
