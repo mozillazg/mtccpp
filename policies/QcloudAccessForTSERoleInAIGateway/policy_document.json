@@ -8,7 +8,12 @@
     "waf:DescribeLLMSdkAccess",
     "waf:DescribeInstances",
     "waf:DescribeLLMContentSecCheck",
-    "tms:TextModeration"
+    "tms:TextModeration",
+    "tse:DescribeNacosServices",
+    "tse:DescribeNacosNamespaces",
+    "tse:DescribeNacosMCPServices",
+    "tse:DescribeNacosService",
+    "tse:DescribeNacosMCPService"
    ],
    "effect": "allow",
    "resource": "*"

@@ -1,0 +1,25 @@
+{
+ "statement": [
+  {
+   "action": [
+    "postgres:CreateInstances",
+    "postgres:DescribeDBInstanceAttribute",
+    "postgres:DisIsolateDBInstances",
+    "postgres:IsolateDBInstances",
+    "postgres:DestroyDBInstance",
+    "postgres:DescribeZones",
+    "postgres:DescribeClasses",
+    "postgres:ModifyDBInstanceSpec",
+    "postgres:ResetTCBAccountPassword",
+    "postgres:MigrateTenantDBToIns",
+    "postgres:RestoreDBInstanceObjects",
+    "postgres:DescribeTasks",
+    "postgres:DescribeDBInstanceParameters",
+    "postgres:ModifyBackupPlan"
+   ],
+   "effect": "allow",
+   "resource": "*"
+  }
+ ],
+ "version": "2.0"
+}

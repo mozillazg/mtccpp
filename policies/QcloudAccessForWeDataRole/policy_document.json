@@ -448,7 +448,8 @@
     "monitor:CreatePrometheusMultiTenantInstancePostPayMode",
     "monitor:DescribePrometheusInstances",
     "monitor:TerminatePrometheusInstances",
-    "monitor:DestroyPrometheusInstance"
+    "monitor:DestroyPrometheusInstance",
+    "oceanus:*"
    ],
    "effect": "allow",
    "resource": [
@@ -461,7 +462,8 @@
    ],
    "effect": "allow",
    "resource": [
-    "qcs::wedata:::*"
+    "qcs::wedata:::*",
+    "qcs::dlc:::*"
    ]
   }
  ],

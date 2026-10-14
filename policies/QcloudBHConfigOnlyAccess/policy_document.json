@@ -183,7 +183,15 @@
     "bh:DisableOrgShare",
     "bh:SyncOrgMembers",
     "bh:DescribeOrgMemberSyncStatus",
-    "bh:DescribeOwnerAccounts"
+    "bh:DescribeOwnerAccounts",
+    "bh:DescribeDevicesForAccountTemplates",
+    "bh:DescribeAppAssetsForAccountTemplates",
+    "bh:CreateAssetAccountsFromTemplates",
+    "bh:ModifyAssetAccount",
+    "bh:DescribeAccountList",
+    "bh:ImportAssetAccount",
+    "bh:DeleteAssetAccounts",
+    "bh:CreateAssetAccounts"
    ],
    "effect": "allow",
    "resource": [

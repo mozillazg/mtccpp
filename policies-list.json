@@ -2421,7 +2421,7 @@
   "PolicyName": "QcloudAccessForOceanusRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2026-07-09 19:28:34"
+  "UpdateTime": "2026-10-13 19:08:45"
  },
  {
   "AddTime": "2019-06-18 16:29:58",
@@ -4089,7 +4089,7 @@
   "PolicyName": "QcloudAccessForWeDataRole",
   "ServiceType": "cooperator",
   "Type": 2,
-  "UpdateTime": "2026-09-17 19:07:35"
+  "UpdateTime": "2026-10-13 19:08:47"
  },
  {
   "AddTime": "2020-06-01 10:38:07",
@@ -11505,7 +11505,7 @@
   "PolicyName": "QcloudAccessForTSERoleInAIGateway",
   "ServiceType": "tse",
   "Type": 2,
-  "UpdateTime": "2026-07-30 19:08:37"
+  "UpdateTime": "2026-10-13 19:08:54"
  },
  {
   "AddTime": "2026-01-14 11:45:24",
@@ -11841,7 +11841,7 @@
   "PolicyName": "QcloudBHConfigOnlyAccess",
   "ServiceType": "bh",
   "Type": 2,
-  "UpdateTime": "2026-09-17 19:07:51"
+  "UpdateTime": "2026-10-13 19:08:57"
  },
  {
   "AddTime": "2026-04-13 18:20:24",
@@ -12286,5 +12286,29 @@
   "ServiceType": "tcr",
   "Type": 2,
   "UpdateTime": "2026-09-03 16:49:03"
+ },
+ {
+  "AddTime": "2026-10-13 14:07:12",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 289649747,
+  "PolicyName": "QcloudTDCPGFullAccess",
+  "ServiceType": "tdcpg",
+  "Type": 2,
+  "UpdateTime": "2026-10-13 14:07:12"
+ },
+ {
+  "AddTime": "2026-10-13 14:54:13",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 289656101,
+  "PolicyName": "QcloudAccessForTCBRoleInPostgresSQL",
+  "ServiceType": "tcb",
+  "Type": 2,
+  "UpdateTime": "2026-10-13 14:54:13"
  }
 ]

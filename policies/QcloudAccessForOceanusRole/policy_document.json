@@ -134,7 +134,14 @@
     "vpc:ModifyNetworkInterface",
     "cvm:DescribeSecurityGroups",
     "cvm:DisassociateNetworkInterfaceSecurityGroups",
-    "oceanus:CloudApiDispatcher"
+    "oceanus:CloudApiDispatcher",
+    "chdfs:CreateAccessGroup",
+    "chdfs:DescribeAccessGroups",
+    "chdfs:CreateAccessRules",
+    "chdfs:DescribeAccessRules",
+    "chdfs:DeleteAccessRules",
+    "chdfs:DeleteAccessGroup",
+    "oceanus:ScaleSetatsNodes"
    ],
    "effect": "allow",
    "resource": "*"
