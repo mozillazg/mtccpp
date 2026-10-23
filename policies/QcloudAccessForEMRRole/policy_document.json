@@ -240,7 +240,8 @@
     "es:CreateServerlessInstance",
     "es:DescribeServerlessInstances",
     "cynosdb:DescribeSlaveZones",
-    "cvm:RepairTaskControl"
+    "cvm:RepairTaskControl",
+    "cvm:SwitchParameterRenewRemoteDisks"
    ],
    "effect": "allow",
    "resource": "*"

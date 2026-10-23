@@ -8,7 +8,8 @@
     "tke:Check*",
     "tke:InquirePrice*",
     "tke:SwitchParameter*",
-    "tke:ValidateClusterAddVirtualNodeConditions"
+    "tke:ValidateClusterAddVirtualNodeConditions",
+    "tke:FilterCgroupV2Images"
    ],
    "effect": "allow",
    "resource": "*"
