@@ -4,7 +4,8 @@
    "action": [
     "tpns:Describe*",
     "tpns:Download*",
-    "tpns:CreatePush"
+    "tpns:CreatePush",
+    "tpns:Check*"
    ],
    "effect": "allow",
    "resource": "*"

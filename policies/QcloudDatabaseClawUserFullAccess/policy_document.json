@@ -35,7 +35,8 @@
     "tdai:DescribeClawTemplates",
     "tdai:DescribeClawSouls",
     "tdai:DescribeUserSkills",
-    "tdai:DescribeDatabaseDiagnosis"
+    "tdai:DescribeDatabaseDiagnosis",
+    "tdai:AddClawMail"
    ],
    "effect": "allow",
    "resource": "*"

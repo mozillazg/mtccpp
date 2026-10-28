@@ -3237,7 +3237,7 @@
   "PolicyName": "QcloudTPNSReadOnlyAccess",
   "ServiceType": "tpns",
   "Type": 2,
-  "UpdateTime": "2022-09-20 17:07:19"
+  "UpdateTime": "2026-10-27 19:10:59"
  },
  {
   "AddTime": "2019-11-20 16:01:35",
@@ -10545,7 +10545,7 @@
   "PolicyName": "QcloudTIONEOperationalPrecondition",
   "ServiceType": "tione",
   "Type": 2,
-  "UpdateTime": "2026-07-30 19:08:33"
+  "UpdateTime": "2026-10-27 19:11:02"
  },
  {
   "AddTime": "2025-03-28 17:12:12",
@@ -11889,7 +11889,7 @@
   "PolicyName": "QcloudDatabaseClawUserFullAccess",
   "ServiceType": "tdai",
   "Type": 2,
-  "UpdateTime": "2026-10-22 19:16:38"
+  "UpdateTime": "2026-10-27 19:11:05"
  },
  {
   "AddTime": "2026-04-24 15:49:51",

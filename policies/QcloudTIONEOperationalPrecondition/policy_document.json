@@ -199,7 +199,9 @@
     "tione:DescribePresetStorageInstances",
     "tione:DeletePresetStorageInstance",
     "tione:DeletePrivateLink",
-    "tione:DescribePrivateLinkList"
+    "tione:DescribePrivateLinkList",
+    "tione:DescribeBillingHealthCheckItems",
+    "tione:DescribeSmartRouterTemplate"
    ],
    "effect": "allow",
    "resource": "*"
