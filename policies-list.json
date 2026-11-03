@@ -12168,6 +12168,30 @@
   "UpdateTime": "2026-07-28 15:52:45"
  },
  {
+  "AddTime": "2026-07-28 17:17:59",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 280735930,
+  "PolicyName": "QcloudNEXAFullAccess",
+  "ServiceType": "nexa",
+  "Type": 2,
+  "UpdateTime": "2026-07-28 17:17:59"
+ },
+ {
+  "AddTime": "2026-07-28 17:18:00",
+  "CreateMode": 2,
+  "Deactived": 0,
+  "DeactivedDetail": [],
+  "IsServiceLinkedPolicy": 0,
+  "PolicyId": 280735933,
+  "PolicyName": "QcloudNEXAReadOnlyAccess",
+  "ServiceType": "nexa",
+  "Type": 2,
+  "UpdateTime": "2026-07-28 17:18:00"
+ },
+ {
   "AddTime": "2026-07-28 17:27:28",
   "CreateMode": 2,
   "Deactived": 0,
