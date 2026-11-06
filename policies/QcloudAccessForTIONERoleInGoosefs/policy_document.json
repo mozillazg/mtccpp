@@ -15,7 +15,8 @@
     "goosefs:BuildClientNodeMountCommand",
     "goosefs:RegisterGooseFSClient",
     "goosefs:DeregisterGooseFSClient",
-    "goosefs:DescribeGooseFSServiceInNode"
+    "goosefs:DescribeGooseFSServiceInNode",
+    "goosefs:DescribeClusterMonitorReportUrl"
    ],
    "effect": "allow",
    "resource": "*"

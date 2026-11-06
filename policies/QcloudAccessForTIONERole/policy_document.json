@@ -171,7 +171,8 @@
     "tione:DescribeNotebookWorkers",
     "tione:DescribeNotebookWorker",
     "tione:StopNotebookWorker",
-    "tione:DeleteNotebookWorker"
+    "tione:DeleteNotebookWorker",
+    "tcr:DescribeInstances"
    ],
    "effect": "allow",
    "resource": "*"
