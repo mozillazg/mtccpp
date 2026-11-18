@@ -82,11 +82,29 @@
     "tcr:DescribeInstances",
     "tcr:DescribeNamespaces",
     "tcr:DescribeRepositories",
-    "tcr:DescribeImages"
+    "tcr:DescribeImages",
+    "cls:DescribeCloudProductLogTasks",
+    "cls:CreateCloudProductLogTask",
+    "cls:DeleteCloudProductLogTask",
+    "tag:GetTags",
+    "tag:GetTagKeys",
+    "tag:GetTagValues",
+    "tag:GetPolicyLimitSwitch",
+    "tag:DescribeEffectivePolicy"
    ],
    "effect": "allow",
    "resource": [
     "*"
+   ]
+  },
+  {
+   "action": [
+    "tag:TagResources",
+    "tag:UnTagResources"
+   ],
+   "effect": "allow",
+   "resource": [
+    "qcs::wedata:::*"
    ]
   }
  ],

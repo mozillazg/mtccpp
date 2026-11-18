@@ -13,7 +13,15 @@
     "tse:DescribeNacosNamespaces",
     "tse:DescribeNacosMCPServices",
     "tse:DescribeNacosService",
-    "tse:DescribeNacosMCPService"
+    "tse:DescribeNacosMCPService",
+    "tse:DescribeSREInstances",
+    "cdb:DescribeDBInstances",
+    "ims:ImageModeration",
+    "cam:DescribeSubAccounts",
+    "cls:DescribeCloudProductLogTasks",
+    "cls:CreateCloudProductLogTask",
+    "cls:ModifyCloudProductLogTask",
+    "cls:DeleteCloudProductLogTask"
    ],
    "effect": "allow",
    "resource": "*"

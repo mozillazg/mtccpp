@@ -74,7 +74,8 @@
     "tdmysql:DescribeDatabases",
     "dcdb:DescribeDatabases",
     "dcdb:DescribeDatabaseObjects",
-    "dcdb:DescribeDatabaseTable"
+    "dcdb:DescribeDatabaseTable",
+    "cdb:UpdateAccountSecret"
    ],
    "effect": "allow",
    "resource": "*"

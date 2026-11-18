@@ -456,7 +456,30 @@
     "chdfs:DescribeAccessRules",
     "chdfs:DeleteAccessRules",
     "chdfs:DeleteAccessGroup",
-    "cls:pushLog"
+    "cls:pushLog",
+    "cdwdoris:DeleteEngines",
+    "mongodb:DescribeDBInstances",
+    "postgres:DescribeDBInstances",
+    "es:DescribeInstances",
+    "cdwpg:DescribeInstances",
+    "cdwpg:DescribeSimpleInstances",
+    "organization:DescribeIdentityCenter",
+    "organization:ListGroups",
+    "organization:ListGroupMembers",
+    "organization:ListUsers",
+    "vpc:DescribeVpcEx",
+    "vpc:DescribeNetworkAcls",
+    "vpc:DescribeSecurityGroupPolicies",
+    "tcr:DescribeRepositoryOwnerPersonal",
+    "tcr:DescribeRepositoryFilterPersonal",
+    "tcr:DescribeInternalEndpoints",
+    "cos:OptionsObject",
+    "cfs:DescribeCfsFileSystems",
+    "cfs:DescribeMountTargets",
+    "clb:DescribeListeners",
+    "clb:DescribeLoadBalancers",
+    "cdwdoris:RefreshTCCCatalog",
+    "cdwdoris:SyncTCCCatalogs"
    ],
    "effect": "allow",
    "resource": [
@@ -471,6 +494,17 @@
    "resource": [
     "qcs::wedata:::*",
     "qcs::dlc:::*"
+   ]
+  },
+  {
+   "action": [
+    "tag:AddResourceTag",
+    "tag:DetachResourcesTag",
+    "tag:AttachResourcesTag"
+   ],
+   "effect": "allow",
+   "resource": [
+    "qcs::tione:::*"
    ]
   }
  ],

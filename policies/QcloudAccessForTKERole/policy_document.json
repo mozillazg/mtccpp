@@ -182,7 +182,11 @@
     "alb:DescribeQuota",
     "alb:DescribeSystemSecurityPolicies",
     "alb:DescribeSecurityPolicies",
-    "alb:DescribeHealthCheckTemplates"
+    "alb:DescribeHealthCheckTemplates",
+    "cvm:CreateSecurityGroup",
+    "cvm:CreateSecurityGroupWithPolicies",
+    "cvm:DeleteSecurityGroup",
+    "vpc:ModifyNetworkInterfaceQos"
    ],
    "effect": "allow",
    "resource": "*"

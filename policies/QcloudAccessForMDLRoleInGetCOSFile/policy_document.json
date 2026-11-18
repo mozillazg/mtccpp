@@ -4,7 +4,16 @@
    "action": [
     "cos:GetService",
     "cos:HeadObject",
-    "cos:GetObject"
+    "cos:GetObject",
+    "cos:PostObject",
+    "cos:PutObject",
+    "cos:HeadBucket",
+    "cos:PutObjectCopy",
+    "cos:InitiateMultipartUpload",
+    "cos:UploadPart",
+    "cos:UploadPartCopy",
+    "cos:CompleteMultipartUpload",
+    "cos:AbortMultipartUpload"
    ],
    "effect": "allow",
    "resource": [
